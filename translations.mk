@@ -22,6 +22,5 @@ PRODUCT_PACKAGES += \
     ParanoidHubTranslation \
     ParanoidLauncherTranslation \
     ParanoidPapersTranslation \
-    ParanoidSenseTranslation \
     ParanoidSystemUITranslation \
     ParanoidThemePickerTranslation
