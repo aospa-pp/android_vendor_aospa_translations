@@ -1,19 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Copyright 2016-2023 Paranoid Android
-
-     Licensed under the Apache License, Version 2.0 (the "License");
-     you may not use this file except in compliance with the License.
-     You may obtain a copy of the License at
-
-          http://www.apache.org/licenses/LICENSE-2.0
-
-     Unless required by applicable law or agreed to in writing, software
-     distributed under the License is distributed on an "AS IS" BASIS,
-     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-     See the License for the specific language governing permissions and
-     limitations under the License.
--->
-<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
     <string name="aospa_version">Versione Paranoid Android</string>
     <string name="dc_dimming_title">Attenuazione DC</string>
     <string name="dc_dimming_info">Riduce l\'affaticamento degli occhi in condizioni di scarsa illuminazione minimizzando lo sfarfallio dello schermo. Può comportare una riduzione della qualità dell\'immagine e una scarsa riproduzione dei colori, o un maggiore consumo energetico.</string>
@@ -105,4 +91,133 @@
     <string name="notification_vibration_pattern_title">Pattern vibrazione notifiche</string>
     <string name="ring_vibration_pattern_title">Pattern vibrazione suoneria</string>
     <string name="pattern_default">Predefinito del dispositivo</string>
+<string name="paranoid_settings_title">Hub esteso</string>
+    <string name="paranoid_settings_summary">Personalizzazioni extra</string>
+
+    
+    <string name="tethering_allow_vpn_upstreams_title">Consenti ai client di utilizzare le VPN</string>
+    <string name="tethering_allow_vpn_upstreams_summary">Consentire ai client hotspot di utilizzare questo dispositivo \ u2019s VPN Connections per la connettività a monte</string>
+
+    
+    <string name="smart_charging_title">Carica intelligente</string>
+    <string name="smart_charging_summary">Imposta il livello di ricarica massimo</string>
+    <string name="smart_charging_switch_title">Usa la ricarica intelligente</string>
+    <string name="smart_charging_level_title">STOP LIVELLO DI TRIGGER</string>
+    <string name="smart_charging_resume_level_title">Avvia il livello di trigger</string>
+    <string name="smart_charging_footer">La ricarica intelligente consente di impostare il livello di ricarica massimo per estendere la durata della batteria</string>
+
+    
+    <string name="charging_control_title">Controllo di ricarica</string>
+    <string name="charging_control_summary">Personalizza il programma di ricarica e limiti per la batteria</string>
+    <string name="charging_control_enable_title">Abilita il controllo di ricarica</string>
+    <string name="charging_control_mode_title">Modalità di ricarica</string>
+    <string name="charging_control_mode_auto_title">Programma automatico</string>
+    <string name="charging_control_mode_auto_summary">Determinare automaticamente quando avviare la ricarica in base agli allarmi impostati</string>
+    <string name="charging_control_mode_custom_title">Programma personalizzato</string>
+    <string name="charging_control_mode_custom_summary">Impostare un tempo target per la carica completa</string>
+    <string name="charging_control_mode_limit_title">Limitare la ricarica</string>
+    <string name="charging_control_mode_limit_summary">Limitare la ricarica a una certa percentuale</string>
+    <string name="charging_control_start_time_title">Ora di inizio</string>
+    <string name="charging_control_start_time_summary">Il controllo di ricarica si attiva quando si inizia ad addebitare dopo %s</string>
+    <string name="charging_control_target_time_title">Tempo target per la carica completa</string>
+    <string name="charging_control_target_time_summary">La batteria sarà completamente carica di %s</string>
+    <string name="charging_control_limit_title">Limite</string>
+
+    <string name="reset">Reset</string>
+
+    
+    <string name="quick_settings_quick_pull_down_title">Traildown QS rapido</string>
+    <string name="quick_settings_quick_pull_down_summary">Calcolare la barra di stato dal lato destro per espandere le impostazioni rapide</string>
+
+    
+    <string name="doze_on_charge_title">Sempre durante la ricarica</string>
+    <string name="doze_on_charge_summary">Mostra sempre tempo e informazioni solo quando il dispositivo è collegato</string>
+
+    
+    <string name="proximity_wake_title">Impedire un risveglio accidentale</string>
+    <string name="proximity_wake_summary">Controllare il sensore di prossimità prima di svegliarsi lo schermo</string>
+
+    
+    <string name="smart_5g_title">Smart 5G</string>
+    <string name="smart_5g_summary">Passa automaticamente tra 5G e 4G per ridurre il consumo della batteria</string>
+
+    
+    <string name="notification_sound_vib_screen_on_title">Notifiche fastidiose</string>
+    <string name="notification_sound_vib_screen_on_summary">Riproduci suoni e vibrazioni per le notifiche quando lo schermo è acceso</string>
+
+    
+    <string name="keywords_pulse_ambient_light_display">Notifica, notifiche, bordo, luce, colore, colore</string>
+    <string name="pulse_ambient_light_text">L\'illuminazione Edge fa brillare lo schermo quando ricevi una notifica.Questo rende più facile da capire quando si ottiene un impulso mentre il telefono è la modalità DOZE.</string>
+    <string name="pulse_ambient_light_switch">Usa l\'illuminazione dei bordi</string>
+    <string name="pulse_ambient_light_title">Illuminazione del bordo</string>
+    <string name="pulse_ambient_light_summary">Accendi i bordi laterali dello schermo sull\'impulso di notifica</string>
+    <string name="ambient_notification_light_accent_title">Colore accento del sistema</string>
+    <string name="ambient_notification_light_color_automatic_title">Colore di notifica</string>
+    <string name="pulse_ambient_light_color">Quando pulsa, usa</string>
+
+    
+    <string name="refresh_rate_title">Trova di aggiornamento</string>
+    <string name="refresh_rate_summary_vrr_off">%d hz</string>
+    <string name="refresh_rate_summary_vrr_on">%d hz (adattivo)</string>
+    <string name="refresh_rate_vrr_title">Tasso di aggiornamento adattivo</string>
+    <string name="refresh_rate_vrr_summary">Abbassare automaticamente la frequenza di aggiornamento quando il display è inattivo, per risparmiare energia.Può causare sfarfallio o spostamento del colore su determinati display</string>
+    <string name="refresh_rate_footer">Una frequenza di aggiornamento più elevata rende il display più fluido, ma aumenta il consumo di energia</string>
+    <string name="keywords_refresh_rate">Aggiorna, velocità, liscio, picco, 60Hz, 90Hz, 120Hz, 144Hz, 165Hz</string>
+
+    
+    <string name="battery_technology">Tecnologia</string>
+    <string name="battery_health">Salute</string>
+    <string name="battery_health_good">Bene</string>
+    <string name="battery_health_overheat">Surriscaldare</string>
+    <string name="battery_health_over_voltage">Over tensione</string>
+    <string name="battery_health_unspecified_failure">Fallimento non specificato</string>
+    <string name="battery_temperature">Temperatura</string>
+    <string name="battery_voltage">Voltaggio</string>
+    <string name="battery_charge_counter_summary">%1$d mah</string>
+
+    
+    <string name="battery_design_capacity">Capacità di progettazione</string>
+    <string name="battery_design_capacity_summary">%1$d mah</string>
+    <string name="battery_maximum_capacity">Capacità massima</string>
+    <string name="battery_maximum_capacity_summary">%1$d mah (%2$d %%)</string>
+    <string name="heads_up_title">Dritta</string>
+    <string name="heads_up_summary">Mostra le notifiche Seleziona come banner sulla parte superiore dello schermo</string>
+    <string name="heads_up_off">Heads Up è disabilitato a livello globale</string>
+
+    
+    <string name="battery_light_title">Luce della batteria</string>
+
+    
+    <string name="copied_to_clipboard">Copiato negli appunti</string>
+    <string name="longpress_to_clipboard">Premere a lungo da copiare</string>
+
+    
+    <string name="background_processes_settings_title">Processi di base</string>
+
+    
+    <string name="app_lock_title">Blocco app</string>
+    <string name="app_lock_authentication_dialog_title">Sbloccare</string>
+    <string name="enable_debugging">Abilita il debug</string>
+    <string name="disable_debugging">Disabilita il debug</string>
+    <string name="app_lock_packages_title">App protette</string>
+    <string name="app_lock_packages_summary">Seleziona le app per proteggere con biometria o credenziali del dispositivo</string>
+    <string name="app_lock_timeout_title">Timeout di blocco automatico</string>
+    <string name="app_lock_timeout_summary">Durata del tempo dopo il quale un\'app sbloccata in background deve essere bloccata</string>
+    <string name="app_lock_notifications_title">Redatto le notifiche</string>
+    <string name="app_lock_notifications_summary">Il contenuto di notifica verrà nascosto e crollato per app selezionate quando sono bloccati.
+Le notifiche di testa verranno automaticamente disabilitate.</string>
+    <string name="app_lock_notifications_disabled_summary">Proteggi prima un\'applicazione</string>
+    <string name="app_lock_biometrics_allowed_title">Abilita la biometria per lo sblocco</string>
+    <string name="app_lock_footer_text">Le bolle verranno respinte automaticamente dopo il timeout</string>
+    <string name="enable_protection">Abilitare la protezione</string>
+    <string name="hide_from_launcher_title">Nascondersi dal lanciatore</string>
+    <string name="hide_from_launcher_summary">Impedire che questa applicazione venga visualizzata in lanciatore.Richiede un riavvio del lanciatore per le modifiche per avere effetto.</string>
+    <string name="app_lock_timeout_5sec">5 secondi</string>
+    <string name="app_lock_timeout_10sec">10 secondi</string>
+    <string name="app_lock_timeout_30sec">30 secondi</string>
+    <string name="app_lock_timeout_1min">1 minuto</string>
+    <string name="app_lock_timeout_5min">5 minuti</string>
+    <string name="app_lock_timeout_10min">10 minuti</string>
+    <string name="app_lock_timeout_30min">30 minuti</string>
+
 </resources>

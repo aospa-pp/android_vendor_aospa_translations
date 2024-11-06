@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+<string name="recent_task_option_kill_app">બળવાન</string>
+    <string name="recents_app_killed">એપ્લિકેશન બંધ</string>
+</resources>

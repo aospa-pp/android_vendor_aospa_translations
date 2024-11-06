@@ -1,21 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!--
-/*
-* Copyright (C) 2022 Paranoid Android
-*
-* Licensed under the Apache License, Version 2.0 (the "License");
-* you may not use this file except in compliance with the License.
-* You may obtain a copy of the License at
-*
-*      http://www.apache.org/licenses/LICENSE-2.0
-*
-* Unless required by applicable law or agreed to in writing, software
-* distributed under the License is distributed on an "AS IS" BASIS,
-* WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-* See the License for the specific language governing permissions and
-* limitations under the License.
-*/
--->
+<?xml version='1.0' encoding='utf-8'?>
 <resources>
     <string name="title_show_google_feed">Проведіть для доступу до стрічки Google</string>
     <string name="pref_dt_gesture_title">Подвійне натискання для вимкнення екрану</string>
@@ -37,4 +20,40 @@
     <string name="recents_lens_title">Об\'єктив</string>
     <string name="smartspace_pref_title">Віджет At a Glance</string>
     <string name="smartspace_pref_summary">Показувати смарт-простір у верхній частині головного екрану</string>
+<string name="msg_minus_one_on_left">З головного екрану проведіть пальцем ліворуч, щоб відкрити Google Feed</string>
+    <string name="msg_minus_one_on_right">З головного екрану проведіть пальцем праворуч, щоб відкрити Google Feed</string>
+
+    
+    <string name="category_recents">Недавній</string>
+
+    
+    <string name="dock_search_summary">Панель пошуку в нижній док -станції</string>
+
+    
+    <string name="recents_screenshot_title">Скріншот</string>
+    <string name="recents_clear_all_title">Очистити все</string>
+    <string name="recents_chips_title">Використовуйте компактний дизайн дій</string>
+    <string name="recents_chips_summary">Може знадобитися для великої кількості дій для відображення</string>
+
+    
+    <string name="hide_top_shadow_title">Сховати верхню тінь</string>
+    <string name="hide_top_shadow_summary">Видаліть тінь під смужкою стану</string>
+
+    
+    <string name="icon_size_title">Розмір значка</string>
+
+    
+    <string name="font_size_title">Розмір шрифту</string>
+
+    
+    <string name="meminfo_text">%1$s Доступно |  %2$s</string>
+    <string name="recents_meminfo_title">Інформація про пам\'ять</string>
+<string name="trust_apps_manager_name">Приховані та захищені програми</string>
+    <string name="trust_apps_auth_manager">Розблокувати, щоб керувати прихованими та захищеними програмами</string>
+    <string name="trust_apps_auth_open_app">Автентифікація відкрити %1$s</string>
+    <string name="trust_apps_loading">Завантаження \ U2026</string>
+    <string name="trust_apps_no_lock_error">Налаштуйте захищений екран блокування, щоб обмежити доступ до додатків</string>
+    <string name="trust_apps_help">Допомога</string>
+    <string name="trust_apps_info_hidden">Приховані програми та їх віджети приховані від ящика</string>
+    <string name="trust_apps_info_protected">Захищені додатки вимагають відкриття аутентифікації з пускової установки</string>
 </resources>

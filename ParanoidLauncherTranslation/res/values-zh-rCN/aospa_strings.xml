@@ -1,21 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!--
-/*
-* Copyright (C) 2022 Paranoid Android
-*
-* Licensed under the Apache License, Version 2.0 (the "License");
-* you may not use this file except in compliance with the License.
-* You may obtain a copy of the License at
-*
-*      http://www.apache.org/licenses/LICENSE-2.0
-*
-* Unless required by applicable law or agreed to in writing, software
-* distributed under the License is distributed on an "AS IS" BASIS,
-* WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-* See the License for the specific language governing permissions and
-* limitations under the License.
-*/
--->
+<?xml version='1.0' encoding='utf-8'?>
 <resources>
     <string name="title_show_google_feed">滑动即可访问 Google 新闻</string>
     <string name="msg_minus_one_on_left">从主屏幕向左滑动即可打开 Google 新闻</string>
@@ -43,4 +26,28 @@
     <string name="recents_lens_title">智能镜头</string>
     <string name="smartspace_pref_title">速览</string>
     <string name="smartspace_pref_summary">在主屏幕顶部显示速览</string>
+<string name="recents_chips_title">使用紧凑的动作设计</string>
+    <string name="recents_chips_summary">可能需要大量的动作来显示</string>
+
+    
+    <string name="hide_top_shadow_title">隐藏顶部阴影</string>
+    <string name="hide_top_shadow_summary">删除状态栏下面的阴影</string>
+
+    
+    <string name="icon_size_title">图标大小</string>
+
+    
+    <string name="font_size_title">字体大小</string>
+
+    
+    <string name="meminfo_text">%1$s可用|  %2$s</string>
+    <string name="recents_meminfo_title">内存信息</string>
+<string name="trust_apps_manager_name">隐藏和受保护的应用</string>
+    <string name="trust_apps_auth_manager">解锁以管理隐藏和受保护的应用程序</string>
+    <string name="trust_apps_auth_open_app">身份验证以打开%1$s</string>
+    <string name="trust_apps_loading">加载\ U2026</string>
+    <string name="trust_apps_no_lock_error">请设置一个安全的锁定屏幕以限制应用程序访问</string>
+    <string name="trust_apps_help">帮助</string>
+    <string name="trust_apps_info_hidden">隐藏的应用程序及其小部件隐藏在抽屉中</string>
+    <string name="trust_apps_info_protected">受保护的应用需要从发射器打开身份验证</string>
 </resources>

@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+<string name="title_show_google_feed">Vuốt để truy cập vào Nguồn cấp dữ liệu Google</string>
+
+    
+    <string name="msg_minus_one_on_left">Từ màn hình chính, vuốt sang trái để mở Google Feed</string>
+    <string name="msg_minus_one_on_right">Từ màn hình chính, vuốt sang phải để mở Google Feed</string>
+
+    
+    <string name="pref_dt_gesture_title">Chạm đôi để ngủ</string>
+    <string name="pref_dt_gesture_summary">Chạm đôi vào khoảng trống để tắt màn hình</string>
+
+    
+    <string name="suggestion_pref_screen_title">Đề xuất</string>
+    <string name="suggestion_pref_screen_desc">Đối với tất cả các ứng dụng và đề xuất màn hình chính</string>
+
+    
+    <string name="settings_lock_layout_title">Bố cục khóa</string>
+    <string name="settings_lock_layout_summary_on">Các biểu tượng và vật dụng không thể được thêm, loại bỏ và di chuyển trên màn hình chính</string>
+    <string name="settings_lock_layout_summary_off">Các biểu tượng và vật dụng có thể được thêm, loại bỏ và di chuyển trên màn hình chính</string>
+    <string name="settings_edit_widgets_error">Nó không thể thêm các widget vào màn hình chính</string>
+
+    
+    <string name="desktop_show_labels">Hiển thị nhãn biểu tượng trên màn hình chính</string>
+    <string name="drawer_show_labels">Hiển thị nhãn biểu tượng trong ngăn kéo</string>
+
+    
+    <string name="category_google">Google</string>
+    <string name="category_icon">Biểu tượng</string>
+    <string name="category_recents">Gần đây</string>
+
+    
+    <string name="label_search">Tìm kiếm</string>
+    <string name="label_lens">Ống kính Google</string>
+    <string name="label_voice_search">Tìm kiếm bằng giọng nói</string>
+    <string name="dock_search_title">Google tìm kiếm thanh</string>
+    <string name="dock_search_summary">Thanh tìm kiếm ở bến dưới cùng</string>
+
+    
+    <string name="recents_screenshot_title">Ảnh chụp màn hình</string>
+    <string name="recents_clear_all_title">Rõ ràng tất cả</string>
+    <string name="recents_lens_title">Ống kính</string>
+    <string name="recents_chips_title">Sử dụng thiết kế hành động nhỏ gọn</string>
+    <string name="recents_chips_summary">Có thể được yêu cầu cho số lượng lớn các hành động để hiển thị</string>
+
+    
+    <string name="smartspace_pref_title">Trong nháy mắt</string>
+    <string name="smartspace_pref_summary">Hiển thị không gian thông minh ở đầu màn hình chính</string>
+
+    
+    <string name="hide_top_shadow_title">Ẩn bóng trên cùng</string>
+    <string name="hide_top_shadow_summary">Xóa bóng bên dưới thanh trạng thái</string>
+
+    
+    <string name="icon_size_title">Kích thước biểu tượng</string>
+
+    
+    <string name="font_size_title">Kích thước phông chữ</string>
+
+    
+    <string name="meminfo_text">%1$s khả dụng | %2$s</string>
+    <string name="recents_meminfo_title">Thông tin bộ nhớ</string>
+<string name="trust_apps_manager_name">Ứng dụng ẩn và được bảo vệ</string>
+    <string name="trust_apps_auth_manager">Mở khóa để quản lý các ứng dụng ẩn và được bảo vệ</string>
+    <string name="trust_apps_auth_open_app">Xác thực để mở %1$s</string>
+    <string name="trust_apps_loading">Tải \ u2026</string>
+    <string name="trust_apps_no_lock_error">Vui lòng thiết lập màn hình khóa an toàn để hạn chế truy cập ứng dụng</string>
+    <string name="trust_apps_help">Giúp đỡ</string>
+    <string name="trust_apps_info_hidden">Các ứng dụng ẩn và các vật dụng của chúng được ẩn khỏi ngăn kéo</string>
+    <string name="trust_apps_info_protected">Các ứng dụng được bảo vệ yêu cầu xác thực phải được mở từ trình khởi chạy</string>
+</resources>

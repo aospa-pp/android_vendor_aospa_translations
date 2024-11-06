@@ -1,19 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Copyright 2016-2023 Paranoid Android
-
-     Licensed under the Apache License, Version 2.0 (the "License");
-     you may not use this file except in compliance with the License.
-     You may obtain a copy of the License at
-
-          http://www.apache.org/licenses/LICENSE-2.0
-
-     Unless required by applicable law or agreed to in writing, software
-     distributed under the License is distributed on an "AS IS" BASIS,
-     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-     See the License for the specific language governing permissions and
-     limitations under the License.
--->
-<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
     <string name="aospa_version">Wersja Paranoid Android</string>
     <string name="dc_dimming_title">Redukcja migotania</string>
     <string name="dc_dimming_info">Zmniejsza zmęczenie oczu w warunkach słabego oświetlenia, minimalizując migotanie ekranu. Może skutkować obniżeniem jakości obrazu i słabą reprodukcją kolorów lub zwiększonym zużyciem energii.</string>
@@ -164,4 +150,56 @@
     <string name="notification_vibration_pattern_title">Wzór wibracji powiadomień</string>
     <string name="ring_vibration_pattern_title">Wzór wibracji dzwonka</string>
     <string name="pattern_default">Domyślnie dla urządzenia</string>
+<string name="paranoid_settings_title">Rozszerzone piasty</string>
+    <string name="paranoid_settings_summary">Dodatkowe dostosowania</string>
+
+    
+    <string name="tethering_allow_vpn_upstreams_title">Pozwól klientom korzystać z VPN</string>
+    <string name="tethering_allow_vpn_upstreams_summary">Pozwól klientom hotspot korzystać z tego urządzenia \ u2019s Połączenia VPN dla łączności w górę</string>
+
+    
+    <string name="smart_charging_title">Inteligentne ładowanie</string>
+    <string name="smart_charging_summary">Ustaw maksymalny poziom ładowania</string>
+    <string name="smart_charging_switch_title">Użyj inteligentnego ładowania</string>
+    <string name="smart_charging_level_title">Zatrzymaj poziom spustu</string>
+    <string name="smart_charging_resume_level_title">Rozpocznij poziom spustu</string>
+    <string name="smart_charging_footer">Inteligentne ładowanie pozwala ustawić maksymalny poziom ładowania, aby przedłużyć żywotność baterii</string>
+
+    
+    <string name="pulse_ambient_light_switch">Użyj oświetlenia krawędzi</string>
+    <string name="battery_light_title">Światło baterii</string>
+
+    
+    <string name="copied_to_clipboard">Skopiowane do schowka</string>
+    <string name="longpress_to_clipboard">Długo naciśnięcie do kopiowania</string>
+
+    
+    <string name="background_processes_settings_title">Procesy w tle</string>
+
+    
+    <string name="app_lock_title">Zamknięcie aplikacji</string>
+    <string name="app_lock_authentication_dialog_title">Odblokować</string>
+    <string name="enable_debugging">Włącz debugowanie</string>
+    <string name="disable_debugging">Wyłącz debugowanie</string>
+    <string name="app_lock_packages_title">Aplikacje chronione</string>
+    <string name="app_lock_packages_summary">Wybierz aplikacje do ochrony za pomocą biometrii lub poświadczeń urządzeń</string>
+    <string name="app_lock_timeout_title">Auto Limit czasu blokady</string>
+    <string name="app_lock_timeout_summary">Czas trwania, po czym należy zablokować odblokowaną aplikację w tle</string>
+    <string name="app_lock_notifications_title">Odprawić powiadomienia</string>
+    <string name="app_lock_notifications_summary">Treść powiadomienia będzie ukryta i zwinięta dla wybranych aplikacji, gdy zostaną zamknięte.
+Powiadomienia o głowach będą automatycznie wyłączone.</string>
+    <string name="app_lock_notifications_disabled_summary">Najpierw chroń aplikację</string>
+    <string name="app_lock_biometrics_allowed_title">Włącz biometrię do odblokowywania</string>
+    <string name="app_lock_footer_text">Bubbles zostaną automatycznie odrzucone po limicie limitu czasu</string>
+    <string name="enable_protection">Włącz ochronę</string>
+    <string name="hide_from_launcher_title">Ukryj przed wyrzutnią</string>
+    <string name="hide_from_launcher_summary">Zapobiegaj pojawieniu się tej aplikacji w uruchamianiu.Wymaga ponownego uruchomienia uruchamiania, aby wpłynęły na zmiany.</string>
+    <string name="app_lock_timeout_5sec">5 sekund</string>
+    <string name="app_lock_timeout_10sec">10 sekund</string>
+    <string name="app_lock_timeout_30sec">30 sekund</string>
+    <string name="app_lock_timeout_1min">1 minuta</string>
+    <string name="app_lock_timeout_5min">5 minut</string>
+    <string name="app_lock_timeout_10min">10 minut</string>
+    <string name="app_lock_timeout_30min">30 minut</string>
+
 </resources>

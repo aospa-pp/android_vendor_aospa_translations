@@ -1,21 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!--
-/*
-* Copyright (C) 2022 Paranoid Android
-*
-* Licensed under the Apache License, Version 2.0 (the "License");
-* you may not use this file except in compliance with the License.
-* You may obtain a copy of the License at
-*
-*      http://www.apache.org/licenses/LICENSE-2.0
-*
-* Unless required by applicable law or agreed to in writing, software
-* distributed under the License is distributed on an "AS IS" BASIS,
-* WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-* See the License for the specific language governing permissions and
-* limitations under the License.
-*/
--->
+<?xml version='1.0' encoding='utf-8'?>
 <resources>
     <string name="title_show_google_feed">ગૂગલ ફીડ વાપરવા સ્વાઈપ કરો </string>
     <string name="pref_dt_gesture_title">સ્લીપ માટે ડબલ-ટૅપ કરો</string>
@@ -37,4 +20,39 @@
     <string name="recents_lens_title">લેન્સ</string>
     <string name="smartspace_pref_title">એટ અ ગ્લાન્સ </string>
     <string name="smartspace_pref_summary">હોમ સ્ક્રીનની ટોચ પર સ્માર્ટસ્પેસ બતાવો</string>
+<string name="msg_minus_one_on_left">હોમ સ્ક્રીનથી, ગૂગલ ફીડ ખોલવા માટે ડાબી બાજુ સ્વાઇપ</string>
+    <string name="msg_minus_one_on_right">હોમ સ્ક્રીનથી, ગૂગલ ફીડ ખોલવા માટે જમણે સ્વાઇપ કરો</string>
+
+    
+    <string name="category_recents">તાજેતરનું</string>
+
+    
+    <string name="dock_search_summary">તળિયે ગોદીમાં શોધ બાર</string>
+
+    
+    <string name="recents_screenshot_title">સ્ક્રીનશોટ</string>
+    <string name="recents_clear_all_title">બધુ સાફ કરવું</string>
+    <string name="recents_chips_title">કોમ્પેક્ટ એક્શન ડિઝાઇનનો ઉપયોગ કરો</string>
+    <string name="recents_chips_summary">મોટી સંખ્યામાં ક્રિયાઓ પ્રદર્શિત કરવા માટે જરૂરી હોઈ શકે છે</string>
+
+    
+    <string name="hide_top_shadow_title">ટોચની છાયા છુપાવો</string>
+    <string name="hide_top_shadow_summary">સ્થિતિ પટ્ટીની નીચે શેડો દૂર કરો</string>
+
+    
+    <string name="icon_size_title">મૂર્તિ કદ</string>
+
+    
+    <string name="font_size_title">ફ ont ન્ટ કદ</string>
+
+    
+    <string name="recents_meminfo_title">મેમરી માહિતી</string>
+    <string name="trust_apps_manager_name">છુપાયેલ અને સુરક્ષિત એપ્લિકેશનો</string>
+    <string name="trust_apps_auth_manager">છુપાયેલા અને સુરક્ષિત એપ્લિકેશનોનું સંચાલન કરવા માટે અનલ lock ક કરો</string>
+    <string name="trust_apps_auth_open_app">%1$s ખોલવા માટે પ્રમાણિત કરો</string>
+    <string name="trust_apps_loading">લોડ કરી રહ્યું છે \ u2026</string>
+    <string name="trust_apps_no_lock_error">કૃપા કરીને એપ્લિકેશન access ક્સેસને પ્રતિબંધિત કરવા માટે સુરક્ષિત લ screen ક સ્ક્રીન સેટ કરો</string>
+    <string name="trust_apps_help">મદદ</string>
+    <string name="trust_apps_info_hidden">છુપાયેલા એપ્લિકેશનો અને તેમના વિજેટો ડ્રોઅરથી છુપાયેલા છે</string>
+    <string name="trust_apps_info_protected">સુરક્ષિત એપ્લિકેશન્સને પ્રક્ષેપણમાંથી ખોલવા માટે પ્રમાણીકરણની જરૂર છે</string>
 </resources>

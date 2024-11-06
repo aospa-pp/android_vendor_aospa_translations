@@ -1,19 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Copyright 2016-2023 Paranoid Android
-
-     Licensed under the Apache License, Version 2.0 (the "License");
-     you may not use this file except in compliance with the License.
-     You may obtain a copy of the License at
-
-          http://www.apache.org/licenses/LICENSE-2.0
-
-     Unless required by applicable law or agreed to in writing, software
-     distributed under the License is distributed on an "AS IS" BASIS,
-     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-     See the License for the specific language governing permissions and
-     limitations under the License.
--->
-<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
     <string name="aospa_version">Versi Paranoid Android</string>
     <string name="dc_dimming_title">DC Dimming</string>
     <string name="dc_dimming_info">Mengurangi ketegangan mata (eye strain) dalam kondisi cahaya rendah dengan meminimalkan kedipan layar (screen flicker). Dapat mengakibatkan penurunan kualitas gambar dan produksi warna yang buruk, atau konsumsi daya yang lebih tinggi.</string>
@@ -101,4 +87,146 @@
     <string name="notification_vibration_pattern_title">Pola getaran notifikasi</string>
     <string name="ring_vibration_pattern_title">Pola getaran nada dering</string>
     <string name="pattern_default">Bawaan perangkat</string>
+<string name="paranoid_settings_title">Hub yang diperluas</string>
+    <string name="paranoid_settings_summary">Kustomisasi ekstra</string>
+
+    
+    <string name="tethering_allow_vpn_upstreams_title">Izinkan klien untuk menggunakan VPN</string>
+    <string name="tethering_allow_vpn_upstreams_summary">Izin Klien Hotspot Untuk Menggunakan Perangkat Ini \ U2019s Koneksi VPN untuk Konektivitas Hulu</string>
+
+    
+    <string name="smart_charging_title">Pengisian Cerdas</string>
+    <string name="smart_charging_summary">Atur level pengisian maksimum</string>
+    <string name="smart_charging_switch_title">Gunakan pengisian daya pintar</string>
+    <string name="smart_charging_level_title">Hentikan level pemicu</string>
+    <string name="smart_charging_resume_level_title">Mulai level pemicu</string>
+    <string name="smart_charging_footer">Pengisian Cerdas Memungkinkan Anda Untuk Mengatur Level Pengisian Maksimum Untuk Memperluas Umur Baterai Anda</string>
+
+    
+    <string name="navbar_category">Bilah navigasi</string>
+    <string name="hide_navbar_gesture_bar_title">Sembunyikan Gesture Bar</string>
+    <string name="hide_navbar_gesture_bar_summary">Sembunyikan bilah gerakan di bagian bawah layar</string>
+
+    
+    <string name="charging_control_title">Kontrol pengisian daya</string>
+    <string name="charging_control_summary">Kustomisasi jadwal pengisian dan batasan untuk baterai</string>
+    <string name="charging_control_enable_title">Aktifkan kontrol pengisian daya</string>
+    <string name="charging_control_mode_title">Mode pengisian daya</string>
+    <string name="charging_control_mode_auto_title">Jadwal otomatis</string>
+    <string name="charging_control_mode_auto_summary">Secara otomatis menentukan kapan harus mulai mengisi daya berdasarkan set alarm</string>
+    <string name="charging_control_mode_custom_title">Jadwal khusus</string>
+    <string name="charging_control_mode_custom_summary">Tetapkan waktu target ke biaya penuh</string>
+    <string name="charging_control_mode_limit_title">Batasi pengisian</string>
+    <string name="charging_control_mode_limit_summary">Batasi pengisian ke persentase tertentu</string>
+    <string name="charging_control_start_time_title">Waktu mulai</string>
+    <string name="charging_control_start_time_summary">Kontrol pengisian daya aktif saat Anda mulai mengisi daya setelah %s</string>
+    <string name="charging_control_target_time_title">Waktu target untuk biaya penuh</string>
+    <string name="charging_control_target_time_summary">Baterai akan terisi penuh oleh %s</string>
+    <string name="charging_control_limit_title">Membatasi</string>
+
+    <string name="reset">Mengatur ulang</string>
+
+    
+    <string name="lock_screen_auto_pin_confirm_summary_custom">Buka kunci secara otomatis jika Anda memasukkan pin yang benar.Ini sedikit kurang aman daripada mengetuk enter untuk mengonfirmasi.</string>
+
+    
+    <string name="quick_settings_quick_pull_down_title">Pulldown QS cepat</string>
+    <string name="quick_settings_quick_pull_down_summary">Tarik ke bawah statusbar dari sisi kanan untuk memperluas pengaturan cepat</string>
+
+    
+    <string name="doze_on_charge_title">Selalu menyala saat menagih</string>
+    <string name="doze_on_charge_summary">Selalu tunjukkan waktu dan info hanya saat perangkat dicolokkan</string>
+
+    
+    <string name="proximity_wake_title">Mencegah bangun kebangkitan</string>
+    <string name="proximity_wake_summary">Periksa sensor kedekatan sebelum bangun layar</string>
+
+    
+    <string name="smart_5g_title">Smart 5G</string>
+    <string name="smart_5g_summary">Secara otomatis beralih antara 5G dan 4G untuk mengurangi konsumsi baterai</string>
+
+    
+    <string name="notification_sound_vib_screen_on_title">Pemberitahuan yang menjengkelkan</string>
+    <string name="notification_sound_vib_screen_on_summary">Mainkan suara dan getaran untuk pemberitahuan saat layar menyala</string>
+
+    
+    <string name="keywords_pulse_ambient_light_display">pemberitahuan, pemberitahuan, tepi, cahaya, warna, warna</string>
+    <string name="pulse_ambient_light_text">Pencahayaan tepi membuat layar Anda bersinar saat Anda menerima pemberitahuan.Ini membuatnya lebih mudah untuk mengetahui ketika Anda mendapatkan denyut nadi saat ponsel adalah mode doze.</string>
+    <string name="pulse_ambient_light_switch">Gunakan pencahayaan tepi</string>
+    <string name="pulse_ambient_light_title">Pencahayaan tepi</string>
+    <string name="pulse_ambient_light_summary">Nyalakan tepi samping layar pada pulsa pemberitahuan</string>
+    <string name="ambient_notification_light_accent_title">Warna aksen sistem</string>
+    <string name="ambient_notification_light_color_automatic_title">Warna pemberitahuan</string>
+    <string name="pulse_ambient_light_color">Saat berdenyut, gunakan</string>
+
+    
+    <string name="refresh_rate_title">Tingkat Refresh</string>
+    <string name="refresh_rate_summary_vrr_off">%d Hz</string>
+    <string name="refresh_rate_summary_vrr_on">%d Hz (adaptif)</string>
+    <string name="refresh_rate_vrr_title">Tingkat refresh adaptif</string>
+    <string name="refresh_rate_vrr_summary">Secara otomatis menurunkan tingkat refresh saat tampilan menganggur, untuk menghemat daya.Dapat menyebabkan pergeseran berkedip atau warna pada tampilan tertentu</string>
+    <string name="refresh_rate_footer">Tingkat refresh yang lebih tinggi membuat tampilan lebih halus, tetapi meningkatkan konsumsi daya</string>
+    <string name="keywords_refresh_rate">menyegarkan, menilai, halus, puncak, 60Hz, 90Hz, 120Hz, 144Hz, 165Hz</string>
+
+    
+    <string name="battery_technology">Teknologi</string>
+    <string name="battery_health">Kesehatan</string>
+    <string name="battery_health_good">Bagus</string>
+    <string name="battery_health_overheat">Menjadi terlalu panas</string>
+    <string name="battery_health_dead">Mati</string>
+    <string name="battery_health_over_voltage">Tegangan berlebihan</string>
+    <string name="battery_health_unspecified_failure">Kegagalan yang tidak ditentukan</string>
+    <string name="battery_health_cold">Dingin</string>
+    <string name="battery_health_unknown">Tidak dikenal</string>
+
+    
+    <string name="battery_temperature">Suhu</string>
+    <string name="battery_voltage">Voltase</string>
+    <string name="battery_charge_counter_summary">%1$d mah</string>
+
+    
+    <string name="battery_design_capacity">Kapasitas desain</string>
+    <string name="battery_design_capacity_summary">%1$d mah</string>
+    <string name="battery_maximum_capacity">Kapasitas maksimum</string>
+    <string name="battery_maximum_capacity_summary">%1$d mah (%2$d %%)</string>
+    <string name="heads_up_title">Kepala</string>
+    <string name="heads_up_summary">Tampilkan pemberitahuan pilih sebagai spanduk di bagian atas layar</string>
+    <string name="heads_up_off">Kepala dinonaktifkan secara global</string>
+
+    
+    <string name="battery_light_title">Lampu baterai</string>
+
+    
+    <string name="copied_to_clipboard">Disalin ke clipboard</string>
+    <string name="longpress_to_clipboard">Press panjang untuk disalin</string>
+
+    
+    <string name="background_processes_settings_title">Proses latar belakang</string>
+
+    
+    <string name="app_lock_title">Kunci Aplikasi</string>
+    <string name="app_lock_authentication_dialog_title">Membuka kunci</string>
+    <string name="enable_debugging">Aktifkan debugging</string>
+    <string name="disable_debugging">Nonaktifkan debugging</string>
+    <string name="app_lock_packages_title">Aplikasi yang dilindungi</string>
+    <string name="app_lock_packages_summary">Pilih aplikasi untuk melindungi dengan biometrik atau kredensial perangkat</string>
+    <string name="app_lock_timeout_title">Timeout Kunci Otomatis</string>
+    <string name="app_lock_timeout_summary">Durasi waktu setelah itu aplikasi yang tidak terkunci di latar belakang harus dikunci</string>
+    <string name="app_lock_notifications_title">Redact notifikasi</string>
+    <string name="app_lock_notifications_summary">Konten pemberitahuan akan disembunyikan dan runtuh untuk aplikasi yang dipilih saat terkunci.
+Pemberitahuan kepala akan dinonaktifkan secara otomatis.</string>
+    <string name="app_lock_notifications_disabled_summary">Lindungi aplikasi terlebih dahulu</string>
+    <string name="app_lock_biometrics_allowed_title">Aktifkan biometrik untuk membuka kunci</string>
+    <string name="app_lock_footer_text">Gelembung akan secara otomatis diberhentikan setelah timeout</string>
+    <string name="enable_protection">Aktifkan perlindungan</string>
+    <string name="hide_from_launcher_title">Sembunyikan dari Peluncur</string>
+    <string name="hide_from_launcher_summary">Cegah aplikasi ini muncul di peluncur.Membutuhkan restart peluncur agar perubahan berlaku.</string>
+    <string name="app_lock_timeout_5sec">5 detik</string>
+    <string name="app_lock_timeout_10sec">10 detik</string>
+    <string name="app_lock_timeout_30sec">30 detik</string>
+    <string name="app_lock_timeout_1min">1 menit</string>
+    <string name="app_lock_timeout_5min">5 menit</string>
+    <string name="app_lock_timeout_10min">10 menit</string>
+    <string name="app_lock_timeout_30min">30 menit</string>
+
 </resources>

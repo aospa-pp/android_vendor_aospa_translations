@@ -1,19 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Copyright 2016-2023 Paranoid Android
-
-     Licensed under the Apache License, Version 2.0 (the "License");
-     you may not use this file except in compliance with the License.
-     You may obtain a copy of the License at
-
-          http://www.apache.org/licenses/LICENSE-2.0
-
-     Unless required by applicable law or agreed to in writing, software
-     distributed under the License is distributed on an "AS IS" BASIS,
-     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-     See the License for the specific language governing permissions and
-     limitations under the License.
--->
-<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
     <string name="aospa_version">પેરાનોઇડ એન્ડ્રોઇડ સંસ્કરણ</string>
     <string name="dc_dimming_title">ડીસી દિમિંગ</string>
     <string name="dc_dimming_info">સ્ક્રીન ફ્લિકરને ઓછું કરીને ઓછા પ્રકાશની સ્થિતિમાં આંખનો તાણ ઘટાડે છે.  ઇમેજ ગુણવત્તામાં ઘટાડો અને નબળા રંગ ઉત્પાદન અથવા વધુ પાવર વપરાશમાં પરિણમી શકે છે.</string>
@@ -99,4 +85,151 @@
     <string name="notification_vibration_pattern_title">સૂચના ની વાઇબ્રેશન પેટર્ન</string>
     <string name="ring_vibration_pattern_title">રીંગ ની વાઇબ્રેશન પેટર્ન</string>
     <string name="pattern_default">ડિવાઇસ ડિફૉલ્ટ</string>
+<string name="paranoid_settings_title">વધારાનું કેન્દ્ર</string>
+    <string name="paranoid_settings_summary">વધારાની કસ્ટમાઇઝેશન</string>
+
+    
+    <string name="tethering_allow_vpn_upstreams_title">ગ્રાહકોને વીપીએનનો ઉપયોગ કરવાની મંજૂરી આપો</string>
+    <string name="tethering_allow_vpn_upstreams_summary">આ ઉપકરણ \ u2019s VPN કનેક્શન્સનો ઉપયોગ અપસ્ટ્રીમ કનેક્ટિવિટી માટે હોટસ્પોટ ક્લાયંટ્સને પરવાનગી આપે છે</string>
+
+    
+    <string name="smart_charging_title">સ્માર્ટ ચાર્જિંગ</string>
+    <string name="smart_charging_summary">મહત્તમ ચાર્જિંગ સ્તર સેટ કરો</string>
+    <string name="smart_charging_switch_title">સ્માર્ટ ચાર્જિંગનો ઉપયોગ કરો</string>
+    <string name="smart_charging_level_title">ટ્રિગર સ્તર બંધ કરો</string>
+    <string name="smart_charging_resume_level_title">ટ્રિગર સ્તર પ્રારંભ કરો</string>
+    <string name="smart_charging_footer">સ્માર્ટ ચાર્જિંગ તમને તમારી બેટરીના જીવનકાળને વધારવા માટે મહત્તમ ચાર્જિંગ સ્તર સેટ કરવાની મંજૂરી આપે છે</string>
+
+    
+    <string name="navbar_category">નૌકાદળ પટ્ટી</string>
+    <string name="hide_navbar_gesture_bar_title">હાવભાવ પટ્ટી છુપાવો</string>
+    <string name="hide_navbar_gesture_bar_summary">સ્ક્રીનના તળિયે હાવભાવ પટ્ટીને છુપાવો</string>
+
+    
+    <string name="charging_control_title">ચાર્જ નિયંત્રણ</string>
+    <string name="charging_control_summary">ચાર્જિંગ શેડ્યૂલ અને બેટરી માટેની મર્યાદાઓને કસ્ટમાઇઝ કરો</string>
+    <string name="charging_control_enable_title">ચાર્જિંગ નિયંત્રણ સક્ષમ કરો</string>
+    <string name="charging_control_mode_title">ચાર્જિંગ મોડ</string>
+    <string name="charging_control_mode_auto_title">સ્વચાલિત અનુસૂચિ</string>
+    <string name="charging_control_mode_auto_summary">અલાર્મ્સ સેટના આધારે ચાર્જિંગ ક્યારે શરૂ કરવું તે આપમેળે નક્કી કરો</string>
+    <string name="charging_control_mode_custom_title">રિવાજ અનુસૂચિ</string>
+    <string name="charging_control_mode_custom_summary">સંપૂર્ણ ચાર્જ પર લક્ષ્ય સમય સેટ કરો</string>
+    <string name="charging_control_mode_limit_title">મર્યાદા ચાર્જ</string>
+    <string name="charging_control_mode_limit_summary">ચોક્કસ ટકાવારી સુધી ચાર્જિંગ મર્યાદિત કરો</string>
+    <string name="charging_control_start_time_title">પ્રારંભ સમય</string>
+    <string name="charging_control_start_time_summary">જ્યારે તમે %s પછી ચાર્જ કરવાનું પ્રારંભ કરો છો ત્યારે ચાર્જિંગ નિયંત્રણ સક્રિય થાય છે</string>
+    <string name="charging_control_target_time_title">સંપૂર્ણ ચાર્જ માટે લક્ષ્યાંક સમય</string>
+    <string name="charging_control_target_time_summary">બેટરી સંપૂર્ણ રીતે %s દ્વારા ચાર્જ કરવામાં આવશે</string>
+    <string name="charging_control_limit_title">મર્યાદા</string>
+
+    <string name="reset">ફરીથી સેટ કરવું</string>
+
+    
+    <string name="touch_polling_title">ઉચ્ચ સ્પર્શ મતદાન દર</string>
+    
+    <string name="touch_polling_summary">વિલંબતા ઘટાડવા માટે ટચસ્ક્રીન મતદાન દરમાં વધારો</string>
+
+    
+    <string name="lock_screen_auto_pin_confirm_summary_custom">જો તમે યોગ્ય પિન ઇનપુટ કરો તો આપમેળે અનલ lock ક કરો.પુષ્ટિ કરવા માટે ટેપીંગ એન્ટર કરતા આ થોડું ઓછું સુરક્ષિત છે.</string>
+
+    
+    <string name="quick_settings_quick_pull_down_title">ઝડપી ક્યૂએસ પુલડાઉન</string>
+    <string name="quick_settings_quick_pull_down_summary">ઝડપી સેટિંગ્સને વિસ્તૃત કરવા માટે જમણી બાજુથી સ્થિતિબારને નીચે ખેંચો</string>
+
+    
+    <string name="doze_on_charge_title">ચાર્જ કરતી વખતે હંમેશા ચાલુ</string>
+    <string name="doze_on_charge_summary">ઉપકરણ પ્લગ ઇન હોય ત્યારે જ હંમેશાં સમય અને માહિતી બતાવો</string>
+
+    
+    <string name="proximity_wake_title">આકસ્મિક જાગૃત અટકાવો</string>
+    <string name="proximity_wake_summary">સ્ક્રીન જાગવા પહેલાં નિકટતા સેન્સર તપાસો</string>
+
+    
+    <string name="smart_5g_title">સ્માર્ટ 5 જી</string>
+    <string name="smart_5g_summary">બેટરીનો વપરાશ ઘટાડવા માટે આપમેળે 5 જી અને 4 જી વચ્ચે સ્વિચ કરો</string>
+
+    
+    <string name="notification_sound_vib_screen_on_title">હેરાન કરતી સૂચનાઓ</string>
+    <string name="notification_sound_vib_screen_on_summary">જ્યારે સ્ક્રીન ચાલુ હોય ત્યારે સૂચનાઓ માટે ધ્વનિ અને કંપન ચલાવો</string>
+
+    
+    <string name="keywords_pulse_ambient_light_display">સૂચના, સૂચનાઓ, ધાર, પ્રકાશ, રંગ, રંગ, રંગ</string>
+    <string name="pulse_ambient_light_text">જ્યારે તમને કોઈ સૂચના મળે ત્યારે એજ લાઇટિંગ તમારી સ્ક્રીનને ગ્લો બનાવે છે.જ્યારે ફોન ડોઝ મોડ હોય ત્યારે તમને પલ્સ મળે ત્યારે આ આકૃતિ કરવાનું સરળ બનાવે છે.</string>
+    <string name="pulse_ambient_light_switch">એજ લાઇટિંગનો ઉપયોગ કરો</string>
+    <string name="pulse_ambient_light_title">ધારની લીટીંગ</string>
+    <string name="pulse_ambient_light_summary">સૂચના પલ્સ પર સ્ક્રીનની બાજુની ધારને પ્રકાશિત કરો</string>
+    <string name="ambient_notification_light_accent_title">પ્રણાલીનો ઉચ્ચાર રંગ</string>
+    <string name="ambient_notification_light_color_automatic_title">સૂચનાનો રંગ</string>
+    <string name="pulse_ambient_light_color">જ્યારે પલ્સિંગ કરો, ઉપયોગ કરો</string>
+
+    
+    <string name="refresh_rate_title">તાજું દર</string>
+    <string name="refresh_rate_summary_vrr_off">%ડી હર્ટ્ઝ</string>
+    <string name="refresh_rate_summary_vrr_on">%ડી હર્ટ્ઝ (અનુકૂલનશીલ)</string>
+    <string name="refresh_rate_vrr_title">અનુકૂલનશીલ દર</string>
+    <string name="refresh_rate_vrr_summary">શક્તિને બચાવવા માટે, ડિસ્પ્લે નિષ્ક્રિય હોય ત્યારે આપમેળે તાજું દર ઓછો કરો.ચોક્કસ ડિસ્પ્લે પર ફ્લિકરિંગ અથવા રંગ પાળીનું કારણ બની શકે છે</string>
+    <string name="refresh_rate_footer">Higher ંચા તાજું દર ડિસ્પ્લેને સરળ બનાવે છે, પરંતુ વીજ વપરાશમાં વધારો કરે છે</string>
+    <string name="keywords_refresh_rate">તાજું, દર, સરળ, ટોચ, 60 હર્ટ્ઝ, 90 હર્ટ્ઝ, 120 હર્ટ્ઝ, 144 હર્ટ્ઝ, 165 હર્ટ્ઝ</string>
+
+    
+    <string name="battery_technology">પ્રાતળતા</string>
+    <string name="battery_health">આરોગ્ય</string>
+    <string name="battery_health_good">સારું</string>
+    <string name="battery_health_overheat">વધુ પડતું ગરમ ​​કરવું</string>
+    <string name="battery_health_dead">મરેલું</string>
+    <string name="battery_health_over_voltage">વધારે વોલ્ટેજ</string>
+    <string name="battery_health_unspecified_failure">અનિવાર્ય નિષ્ફળતા</string>
+    <string name="battery_health_cold">ઠંડું</string>
+    <string name="battery_health_unknown">અજાણ્યું</string>
+
+    
+    <string name="battery_temperature">તાપમાન</string>
+    <string name="battery_voltage">વોલ્ટેજ</string>
+    <string name="battery_charge_counter_summary">%1$d $ ડી માહ</string>
+
+    
+    <string name="battery_design_capacity">આચાર</string>
+    <string name="battery_design_capacity_summary">%1$d $ ડી માહ</string>
+    <string name="battery_maximum_capacity">મહત્તમ ક્ષમતા</string>
+    <string name="battery_maximum_capacity_summary">%1$d $ ડી માહ (%2$d %%)</string>
+    <string name="heads_up_title">વડા</string>
+    <string name="heads_up_summary">સ્ક્રીનની ટોચ પર બેનર તરીકે પસંદ કરેલી સૂચનાઓ બતાવો</string>
+    <string name="heads_up_off">હેડ અપ વૈશ્વિક સ્તરે અક્ષમ છે</string>
+
+    
+    <string name="battery_light_title">બ batteryટરી પ્રકાશ</string>
+
+    
+    <string name="copied_to_clipboard">ક્લિપબોર્ડ પર ક ied પિ કરેલ</string>
+    <string name="longpress_to_clipboard">નકલ કરવા માટે લાંબા-પ્રેસ</string>
+
+    
+    <string name="background_processes_settings_title">પૃષ્ઠભૂમિ પ્રક્રિયાઓ</string>
+
+    
+    <string name="app_lock_title">કબાટ</string>
+    <string name="app_lock_authentication_dialog_title">ખોદવું</string>
+    <string name="enable_debugging">ડિબગીંગ સક્ષમ કરો</string>
+    <string name="disable_debugging">ડીબગીંગને અક્ષમ કરવું</string>
+    <string name="app_lock_packages_title">રક્ષિત એપ્લિકેશનો</string>
+    <string name="app_lock_packages_summary">બાયોમેટ્રિક્સ અથવા ડિવાઇસ ઓળખપત્રોથી બચાવવા માટે એપ્લિકેશનો પસંદ કરો</string>
+    <string name="app_lock_timeout_title">ઓટો લ lock ક સમયસમાપ્તિ</string>
+    <string name="app_lock_timeout_summary">સમયનો સમયગાળો કે જેના પછી પૃષ્ઠભૂમિમાં અનલ ocked ક એપ્લિકેશન લ locked ક હોવી જોઈએ</string>
+    <string name="app_lock_notifications_title">સૂચનાઓ</string>
+    <string name="app_lock_notifications_summary">જ્યારે પસંદ કરેલી એપ્લિકેશનો લ locked ક થાય છે ત્યારે સૂચના સામગ્રી છુપાઇ જશે અને તૂટી જશે.
+હેડ્સ અપ સૂચનાઓ આપમેળે અક્ષમ થઈ જશે.</string>
+    <string name="app_lock_notifications_disabled_summary">પ્રથમ એપ્લિકેશનને સુરક્ષિત કરો</string>
+    <string name="app_lock_biometrics_allowed_title">અનલ ocking ક કરવા માટે બાયોમેટ્રિક્સને સક્ષમ કરો</string>
+    <string name="app_lock_footer_text">બબલ્સ સમયસમાપ્તિ પછી આપમેળે બરતરફ થઈ જશે</string>
+    <string name="enable_protection">રક્ષણ સક્ષમ કરો</string>
+    <string name="hide_from_launcher_title">પ્રક્ષેપણથી છુપાવો</string>
+    <string name="hide_from_launcher_summary">આ એપ્લિકેશનને પ્રક્ષેપણમાં બતાવવાથી રોકો.ફેરફારોને અમલમાં મૂકવા માટે લ laun ંચર ફરીથી પ્રારંભ કરવાની જરૂર છે.</string>
+    <string name="app_lock_timeout_5sec">5 સેકંડ</string>
+    <string name="app_lock_timeout_10sec">10 સેકંડ</string>
+    <string name="app_lock_timeout_30sec">30 સેકંડ</string>
+    <string name="app_lock_timeout_1min">1 મિનિટ</string>
+    <string name="app_lock_timeout_5min">5 મિનિટ</string>
+    <string name="app_lock_timeout_10min">10 મિનિટ</string>
+    <string name="app_lock_timeout_30min">30 મિનિટ</string>
+
 </resources>

@@ -1,24 +1,66 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!--
-/*
-* Copyright (C) 2022 Paranoid Android
-*
-* Licensed under the Apache License, Version 2.0 (the "License");
-* you may not use this file except in compliance with the License.
-* You may obtain a copy of the License at
-*
-*      http://www.apache.org/licenses/LICENSE-2.0
-*
-* Unless required by applicable law or agreed to in writing, software
-* distributed under the License is distributed on an "AS IS" BASIS,
-* WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-* See the License for the specific language governing permissions and
-* limitations under the License.
-*/
--->
+<?xml version='1.0' encoding='utf-8'?>
 <resources>
     <string name="pref_dt_gesture_title">Искључи екран при двоструком додиру</string>
     <string name="pref_dt_gesture_summary">Двапут додирните празан простор за искључивање екрана</string>
     <string name="suggestion_pref_screen_title">Предлози</string>
     <string name="suggestion_pref_screen_desc">За све апликације &amp; Предлози за почетни екран</string>
+<string name="title_show_google_feed">Превуците прстом да приступите Гоогле Феед-у</string>
+
+    
+    <string name="msg_minus_one_on_left">Са почетног екрана превуците прстом улево да бисте отворили Гоогле Феед</string>
+    <string name="msg_minus_one_on_right">Са почетног екрана прелазите право на отворите Гоогле Феед</string>
+
+    
+    <string name="settings_lock_layout_title">Изглед закључавања</string>
+    <string name="settings_lock_layout_summary_on">Иконе и виџети не могу се додати, уклонити и преместити на хомосцреен</string>
+    <string name="settings_lock_layout_summary_off">Могу се додати иконе и виџети, уклоњени и премештени на почетном екрану</string>
+    <string name="settings_edit_widgets_error">Није могуће додати виџете на почетни екран</string>
+
+    
+    <string name="desktop_show_labels">Прикажи иконе налепнице на радној површини</string>
+    <string name="drawer_show_labels">Прикажи иконе налепнице у фиоци</string>
+
+    
+    <string name="category_google">Гоогле</string>
+    <string name="category_icon">Иконе</string>
+    <string name="category_recents">Недавни</string>
+
+    
+    <string name="label_search">Тражити</string>
+    <string name="label_lens">Гоогле сочиво</string>
+    <string name="label_voice_search">Гласовна претрага</string>
+    <string name="dock_search_title">Гоогле Тражилица за претрагу</string>
+    <string name="dock_search_summary">Трака за претрагу у доњој пристаништу</string>
+
+    
+    <string name="recents_screenshot_title">Заслона</string>
+    <string name="recents_clear_all_title">Очистити све</string>
+    <string name="recents_lens_title">Сочива</string>
+    <string name="recents_chips_title">Користите компактни дизајн акције</string>
+    <string name="recents_chips_summary">Може бити потребно за велики број акција за приказ</string>
+
+    
+    <string name="smartspace_pref_title">На први поглед</string>
+    <string name="smartspace_pref_summary">Прикажи СмартСпаце на врху почетног екрана</string>
+
+    
+    <string name="hide_top_shadow_title">Сакриј горњу сенку</string>
+    <string name="hide_top_shadow_summary">Уклоните сенку испод статусне траке</string>
+
+    
+    <string name="icon_size_title">Величина иконе</string>
+
+    
+    <string name="font_size_title">Величина фонта</string>
+
+    
+    <string name="recents_meminfo_title">Информације о меморији</string>
+    <string name="trust_apps_manager_name">Скривене и заштићене апликације</string>
+    <string name="trust_apps_auth_manager">Откључавање за управљање скривеним и заштићеним апликацијама</string>
+    <string name="trust_apps_auth_open_app">Аутентификација да отвори% 1 $ С</string>
+    <string name="trust_apps_loading">Учитавање \ у2026</string>
+    <string name="trust_apps_no_lock_error">Молимо поставите сигурносни екран за закључавање да бисте ограничили приступ апликацији</string>
+    <string name="trust_apps_help">Помоћи</string>
+    <string name="trust_apps_info_hidden">Скривене апликације и њихови видгети су скривени од ладице</string>
+    <string name="trust_apps_info_protected">Заштићене апликације захтевају да се аутентификација буде отворена из бацача</string>
 </resources>

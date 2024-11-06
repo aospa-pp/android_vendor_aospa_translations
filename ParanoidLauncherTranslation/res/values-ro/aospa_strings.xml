@@ -1,21 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!--
-/*
-* Copyright (C) 2022 Paranoid Android
-*
-* Licensed under the Apache License, Version 2.0 (the "License");
-* you may not use this file except in compliance with the License.
-* You may obtain a copy of the License at
-*
-*      http://www.apache.org/licenses/LICENSE-2.0
-*
-* Unless required by applicable law or agreed to in writing, software
-* distributed under the License is distributed on an "AS IS" BASIS,
-* WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-* See the License for the specific language governing permissions and
-* limitations under the License.
-*/
--->
+<?xml version='1.0' encoding='utf-8'?>
 <resources>
     <string name="title_show_google_feed">Glisați pentru a accesa Google Now</string>
     <string name="pref_dt_gesture_title">Atingeți de două ori pentru a opri ecranul</string>
@@ -23,4 +6,60 @@
     <string name="suggestion_pref_screen_title">Sugestii</string>
     <string name="suggestion_pref_screen_desc">Pentru toate aplicațiile &amp; sugestiile pentru ecranul principal</string>
     <string name="settings_lock_layout_title">Blocare aspect</string>
+<string name="msg_minus_one_on_left">De pe ecranul de pornire, glisați la stânga pentru a deschide Google Feed</string>
+    <string name="msg_minus_one_on_right">Din ecranul de pornire, glisați spre dreapta pentru a deschide Google Feed</string>
+
+    
+    <string name="settings_lock_layout_summary_on">Pictogramele și widget -urile nu pot fi adăugate, eliminate și mutate pe ecranul de acasă</string>
+    <string name="settings_lock_layout_summary_off">Pictogramele și widget -urile pot fi adăugate, îndepărtate și mutate pe ecranul de pornire</string>
+    <string name="settings_edit_widgets_error">Nu este posibil să adăugați widget -uri pe ecranul de pornire</string>
+
+    
+    <string name="desktop_show_labels">Afișați etichetele pictogramei pe desktop</string>
+    <string name="drawer_show_labels">Afișați etichetele pictogramei în sertar</string>
+
+    
+    <string name="category_google">Google</string>
+    <string name="category_icon">Icoane</string>
+    <string name="category_recents">Recent</string>
+
+    
+    <string name="label_search">Căutare</string>
+    <string name="label_lens">Lens Google</string>
+    <string name="label_voice_search">Căutare vocală</string>
+    <string name="dock_search_title">Bara de căutare Google</string>
+    <string name="dock_search_summary">Bara de căutare în docul de jos</string>
+
+    
+    <string name="recents_screenshot_title">Captură de ecran</string>
+    <string name="recents_clear_all_title">Ștergeți toate</string>
+    <string name="recents_lens_title">Obiectiv</string>
+    <string name="recents_chips_title">Utilizați proiectarea de acțiune compactă</string>
+    <string name="recents_chips_summary">Poate fi necesar pentru un număr mare de acțiuni de afișat</string>
+
+    
+    <string name="smartspace_pref_title">Dintr -o privire</string>
+    <string name="smartspace_pref_summary">Afișați Smartspace în partea de sus a ecranului de pornire</string>
+
+    
+    <string name="hide_top_shadow_title">Ascunde umbra de sus</string>
+    <string name="hide_top_shadow_summary">Îndepărtați umbra de sub bara de stare</string>
+
+    
+    <string name="icon_size_title">Dimensiunea pictogramei</string>
+
+    
+    <string name="font_size_title">Dimensiunea fontului</string>
+
+    
+    <string name="meminfo_text">%1$s Disponibil |  %2$s</string>
+    <string name="recents_meminfo_title">Informații despre memorie</string>
+<string name="trust_apps_manager_name">Aplicații ascunse și protejate</string>
+    <string name="trust_apps_auth_manager">Deblocați pentru a gestiona aplicațiile ascunse și protejate</string>
+    <string name="trust_apps_auth_open_app">Autentificați pentru a deschide %1$s</string>
+    <string name="trust_apps_loading">Încărcare \ u2026</string>
+    <string name="trust_apps_no_lock_error">Vă rugăm să configurați un ecran de blocare securizat pentru a restricționa accesul la aplicație</string>
+    <string name="trust_apps_help">Ajutor</string>
+    <string name="trust_apps_info_hidden">Aplicațiile ascunse și widget -urile lor sunt ascunse de sertar</string>
+    <string name="trust_apps_info_protected">Aplicațiile protejate necesită deschiderea autentificării de la lansator</string>
 </resources>

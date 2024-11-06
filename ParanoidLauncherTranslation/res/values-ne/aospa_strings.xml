@@ -1,21 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!--
-/*
-* Copyright (C) 2022 Paranoid Android
-*
-* Licensed under the Apache License, Version 2.0 (the "License");
-* you may not use this file except in compliance with the License.
-* You may obtain a copy of the License at
-*
-*      http://www.apache.org/licenses/LICENSE-2.0
-*
-* Unless required by applicable law or agreed to in writing, software
-* distributed under the License is distributed on an "AS IS" BASIS,
-* WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-* See the License for the specific language governing permissions and
-* limitations under the License.
-*/
--->
+<?xml version='1.0' encoding='utf-8'?>
 <resources>
     <string name="title_show_google_feed">गुगल फिड पहुँच गर्न स्वाइप गर्नुहोस्</string>
     <string name="pref_dt_gesture_title">सुत्नको लागि डबल ट्याप गर्नुहोस्</string>
@@ -37,4 +20,40 @@
     <string name="recents_lens_title">लेन्स</string>
     <string name="smartspace_pref_title">एकै नजरमा</string>
     <string name="smartspace_pref_summary">गृह स्क्रिनको शीर्षमा स्मार्टस्पेस देखाउनुहोस्</string>
+<string name="msg_minus_one_on_left">घर स्क्रिनबाट, गुगल फिड खोल्न छोडियो</string>
+    <string name="msg_minus_one_on_right">घर स्क्रिनबाट, गुगल फिड खोल्नको लागि स्वाइप स्वाइप गर्नुहोस्</string>
+
+    
+    <string name="category_recents">भर्खरको</string>
+
+    
+    <string name="dock_search_summary">तल डकमा खोजी गर्नुहोस्</string>
+
+    
+    <string name="recents_screenshot_title">स्क्रीनशट</string>
+    <string name="recents_clear_all_title">सबै खाली गर्नुहोस्</string>
+    <string name="recents_chips_title">कम्प्याक्ट कार्य डिजाइन गर्नुहोस्</string>
+    <string name="recents_chips_summary">प्रदर्शन गर्नको लागि ठूलो संख्याको कार्यहरूको लागि आवश्यक हुन सक्छ</string>
+
+    
+    <string name="hide_top_shadow_title">शीर्ष छाया लुकाउनुहोस्</string>
+    <string name="hide_top_shadow_summary">स्थिति पट्टी मुनि छाया हटाउनुहोस्</string>
+
+    
+    <string name="icon_size_title">परिचय को आकार</string>
+
+    
+    <string name="font_size_title">फन्ट साइज</string>
+
+    
+    <string name="meminfo_text">%1$s उपलब्ध |  %2$s</string>
+    <string name="recents_meminfo_title">मेमोरी जानकारी</string>
+<string name="trust_apps_manager_name">लुकेका र संरक्षित अनुप्रयोगहरू</string>
+    <string name="trust_apps_auth_manager">लुकेका र संरक्षित अनुप्रयोगहरू प्रबन्ध गर्न अनलक गर्नुहोस्</string>
+    <string name="trust_apps_auth_open_app">%1$s खोल्न प्रमाणीकरण गर्नुहोस्</string>
+    <string name="trust_apps_loading">लोड गर्दै \ U2026</string>
+    <string name="trust_apps_no_lock_error">कृपया अनुप्रयोग पहुँच प्रतिबन्ध गर्न एक सुरक्षित लक स्क्रिन सेट अप गर्नुहोस्</string>
+    <string name="trust_apps_help">सहायता</string>
+    <string name="trust_apps_info_hidden">लुकेका अनुप्रयोगहरू र तिनीहरूको विजेटहरू ड्रयरबाट लुकेका छन्</string>
+    <string name="trust_apps_info_protected">संरक्षित अनुप्रयोगहरूको आवश्यक पर्दछ। सुरुवातकर्ताबाट खोल्नको लागि प्रमाणीकरण आवश्यक छ</string>
 </resources>

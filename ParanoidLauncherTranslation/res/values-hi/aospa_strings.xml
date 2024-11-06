@@ -1,21 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!--
-/*
-* Copyright (C) 2022 Paranoid Android
-*
-* Licensed under the Apache License, Version 2.0 (the "License");
-* you may not use this file except in compliance with the License.
-* You may obtain a copy of the License at
-*
-*      http://www.apache.org/licenses/LICENSE-2.0
-*
-* Unless required by applicable law or agreed to in writing, software
-* distributed under the License is distributed on an "AS IS" BASIS,
-* WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-* See the License for the specific language governing permissions and
-* limitations under the License.
-*/
--->
+<?xml version='1.0' encoding='utf-8'?>
 <resources>
     <string name="title_show_google_feed">Google फ़ीड देखने के लिए स्वाइप करे </string>
     <string name="msg_minus_one_on_left">होम स्क्रीन से Google फ़ीड देखेने के लिए बाइए से स्वाइप करे </string>
@@ -30,4 +13,47 @@
     <string name="settings_edit_widgets_error">होमस्क्रीन पर विजेट्स जोड़ना संभव नहीं है</string>
     <string name="desktop_show_labels">होम स्क्रीन पर आइकन के लेबल दिखाएं</string>
     <string name="drawer_show_labels">ड्रॉअर में आइकन के लेबल दिखाएं</string>
+<string name="category_google">गूगल</string>
+    <string name="category_icon">माउस</string>
+    <string name="category_recents">हाल ही का</string>
+
+    
+    <string name="label_search">खोज</string>
+    <string name="label_lens">Google Lens</string>
+    <string name="label_voice_search">आवाज खोज</string>
+    <string name="dock_search_title">Google खोज बार</string>
+    <string name="dock_search_summary">नीचे गोदी में खोज बार</string>
+
+    
+    <string name="recents_screenshot_title">स्क्रीनशॉट</string>
+    <string name="recents_clear_all_title">सभी साफ करें</string>
+    <string name="recents_lens_title">लेंस</string>
+    <string name="recents_chips_title">कॉम्पैक्ट एक्शन डिज़ाइन का उपयोग करें</string>
+    <string name="recents_chips_summary">प्रदर्शित करने के लिए बड़ी संख्या में कार्यों के लिए आवश्यक हो सकता है</string>
+
+    
+    <string name="smartspace_pref_title">एक नज़र में</string>
+    <string name="smartspace_pref_summary">होम स्क्रीन के शीर्ष पर स्मार्टस्पेस दिखाएं</string>
+
+    
+    <string name="hide_top_shadow_title">शीर्ष छाया छिपाएं</string>
+    <string name="hide_top_shadow_summary">स्थिति पट्टी के नीचे छाया निकालें</string>
+
+    
+    <string name="icon_size_title">प्रतीक आकार</string>
+
+    
+    <string name="font_size_title">फ़ॉन्ट आकार</string>
+
+    
+    <string name="meminfo_text">%1$s उपलब्ध |  %2$s</string>
+    <string name="recents_meminfo_title">स्मृति की जानकारी</string>
+<string name="trust_apps_manager_name">छिपे हुए और संरक्षित ऐप्स</string>
+    <string name="trust_apps_auth_manager">छिपे हुए और संरक्षित ऐप्स को प्रबंधित करने के लिए अनलॉक करें</string>
+    <string name="trust_apps_auth_open_app">%1$s खोलने के लिए प्रमाणित करें</string>
+    <string name="trust_apps_loading">लोड हो रहा है \ u2026</string>
+    <string name="trust_apps_no_lock_error">कृपया ऐप एक्सेस को प्रतिबंधित करने के लिए एक सुरक्षित लॉक स्क्रीन सेट करें</string>
+    <string name="trust_apps_help">मदद</string>
+    <string name="trust_apps_info_hidden">छिपे हुए ऐप्स और उनके विजेट दराज से छिपे हुए हैं</string>
+    <string name="trust_apps_info_protected">संरक्षित ऐप्स को लॉन्चर से खोले जाने वाले प्रमाणीकरण की आवश्यकता होती है</string>
 </resources>

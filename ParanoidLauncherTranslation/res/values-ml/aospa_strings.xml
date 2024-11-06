@@ -1,21 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!--
-/*
-* Copyright (C) 2022 Paranoid Android
-*
-* Licensed under the Apache License, Version 2.0 (the "License");
-* you may not use this file except in compliance with the License.
-* You may obtain a copy of the License at
-*
-*      http://www.apache.org/licenses/LICENSE-2.0
-*
-* Unless required by applicable law or agreed to in writing, software
-* distributed under the License is distributed on an "AS IS" BASIS,
-* WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-* See the License for the specific language governing permissions and
-* limitations under the License.
-*/
--->
+<?xml version='1.0' encoding='utf-8'?>
 <resources>
     <string name="title_show_google_feed">ഗൂഗിൾ ഫീഡ് എടുക്കാൻ സ്വൈപ് ചെയ്യുക.</string>
     <string name="pref_dt_gesture_title">നിഷ്ക്രിയമാക്കുന്നതിന് രണ്ടു വെട്ടം അമർത്തുക</string>
@@ -37,4 +20,40 @@
     <string name="recents_lens_title">ലെൻസ്</string>
     <string name="smartspace_pref_title">ഒറ്റനോട്ടത്തിൽ</string>
     <string name="smartspace_pref_summary">ഹോം സ്ക്രീനിൻ്റെ മുകളിൽ സ്മാർട്ട്സ്പേസ് കാണിക്കുക</string>
+<string name="msg_minus_one_on_left">ഗാർഹിക സ്ക്രീനിൽ നിന്ന്, സ്വൈപ്പ് Google ഫീഡ് തുറക്കാൻ അവശേഷിക്കുന്നു</string>
+    <string name="msg_minus_one_on_right">ഹോം സ്ക്രീനിൽ നിന്ന്, Google ഫീഡ് തുറക്കുന്നതിന് വലത്തേക്ക് സ്വൈപ്പുചെയ്യുക</string>
+
+    
+    <string name="category_recents">പുതുതായ</string>
+
+    
+    <string name="dock_search_summary">ചുവടെയുള്ള ഡോക്കിൽ തിരയൽ ബാർ</string>
+
+    
+    <string name="recents_screenshot_title">സ്ക്രീൻഷോട്ട്</string>
+    <string name="recents_clear_all_title">എല്ലാം മായ്ക്കുക</string>
+    <string name="recents_chips_title">കോംപാക്റ്റ് ആക്ഷൻ ഡിസൈൻ ഉപയോഗിക്കുക</string>
+    <string name="recents_chips_summary">പ്രദർശിപ്പിക്കുന്നതിന് ധാരാളം പ്രവർത്തനങ്ങൾക്കായി ആവശ്യമായി വന്നേക്കാം</string>
+
+    
+    <string name="hide_top_shadow_title">മുകളിലെ ഷാഡോ മറയ്ക്കുക</string>
+    <string name="hide_top_shadow_summary">സ്റ്റാറ്റസ് ബാറിന് താഴെ നിഴൽ നീക്കംചെയ്യുക</string>
+
+    
+    <string name="icon_size_title">ഐക്കൺ വലുപ്പം</string>
+
+    
+    <string name="font_size_title">ഫോണ്ട് വലുപ്പം</string>
+
+    
+    <string name="meminfo_text">%1$s ലഭ്യമാണ് | %2$</string>
+    <string name="recents_meminfo_title">മെമ്മറി വിവരം</string>
+<string name="trust_apps_manager_name">മറഞ്ഞിരിക്കുന്നതും പരിരക്ഷിതവുമായ അപ്ലിക്കേഷനുകൾ</string>
+    <string name="trust_apps_auth_manager">മറഞ്ഞിരിക്കുന്നതും പരിരക്ഷിതവുമായ അപ്ലിക്കേഷനുകൾ നിയന്ത്രിക്കാൻ അൺലോക്ക് ചെയ്യുക</string>
+    <string name="trust_apps_auth_open_app">%1$s തുറക്കാൻ പ്രാമാണീകരിക്കുക</string>
+    <string name="trust_apps_loading">\ U2026 ലോഡുചെയ്യുന്നു</string>
+    <string name="trust_apps_no_lock_error">അപ്ലിക്കേഷൻ ആക്സസ് നിയന്ത്രിക്കുന്നതിന് ദയവായി ഒരു സുരക്ഷിത ലോക്ക് സ്ക്രീൻ സജ്ജമാക്കുക</string>
+    <string name="trust_apps_help">സഹായം</string>
+    <string name="trust_apps_info_hidden">മറഞ്ഞിരിക്കുന്ന അപ്ലിക്കേഷനുകളും അവയുടെ വിജറ്റുകളും ഡ്രോയറിൽ നിന്ന് മറഞ്ഞിരിക്കുന്നു</string>
+    <string name="trust_apps_info_protected">പരിരക്ഷിത അപ്ലിക്കേഷനുകൾക്ക് ലോഞ്ചറിൽ നിന്ന് പ്രാമാണീകരണം തുറക്കേണ്ടതുണ്ട്</string>
 </resources>

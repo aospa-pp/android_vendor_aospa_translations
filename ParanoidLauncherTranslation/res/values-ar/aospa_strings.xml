@@ -1,21 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!--
-/*
-* Copyright (C) 2022 Paranoid Android
-*
-* Licensed under the Apache License, Version 2.0 (the "License");
-* you may not use this file except in compliance with the License.
-* You may obtain a copy of the License at
-*
-*      http://www.apache.org/licenses/LICENSE-2.0
-*
-* Unless required by applicable law or agreed to in writing, software
-* distributed under the License is distributed on an "AS IS" BASIS,
-* WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-* See the License for the specific language governing permissions and
-* limitations under the License.
-*/
--->
+<?xml version='1.0' encoding='utf-8'?>
 <resources>
     <string name="title_show_google_feed">اسحب للوصول إلى تغذية جوجل</string>
     <string name="pref_dt_gesture_title">انقر نقراً مزدوجاً للنوم</string>
@@ -37,4 +20,40 @@
     <string name="recents_lens_title">العدسة</string>
     <string name="smartspace_pref_title">في لمحة</string>
     <string name="smartspace_pref_summary">إظهار المساحة الذكية في الجزء العلوي من الشاشة الرئيسية</string>
+<string name="msg_minus_one_on_left">من الشاشة الرئيسية ، اسحب اليسار لفتح خلاصة Google</string>
+    <string name="msg_minus_one_on_right">من الشاشة الرئيسية ، انتقد يمينًا لفتح خلاصة Google</string>
+
+    
+    <string name="category_recents">مؤخرًا</string>
+
+    
+    <string name="dock_search_summary">شريط البحث في قفص الاتهام السفلي</string>
+
+    
+    <string name="recents_screenshot_title">لقطة شاشة</string>
+    <string name="recents_clear_all_title">مسح كل شيء</string>
+    <string name="recents_chips_title">استخدم تصميم الإجراءات المدمجة</string>
+    <string name="recents_chips_summary">قد تكون مطلوبة لعرض أعداد كبيرة من الإجراءات</string>
+
+    
+    <string name="hide_top_shadow_title">إخفاء أعلى الظل</string>
+    <string name="hide_top_shadow_summary">إزالة الظل أسفل شريط الحالة</string>
+
+    
+    <string name="icon_size_title">حجم الأيقونة</string>
+
+    
+    <string name="font_size_title">حجم الخط</string>
+
+    
+    <string name="recents_meminfo_title">معلومات الذاكرة</string>
+<string name="meminfo_text">%1$s المتاحة |%2$s</string>
+    <string name="trust_apps_manager_name">التطبيقات الخفية والمحمية</string>
+    <string name="trust_apps_auth_manager">فتح لإدارة التطبيقات المخفية والمحمية</string>
+    <string name="trust_apps_auth_open_app">المصادقة لفتح %1$s</string>
+    <string name="trust_apps_loading">تحميل \ u2026</string>
+    <string name="trust_apps_no_lock_error">يرجى إعداد شاشة قفل آمنة لتقييد الوصول إلى التطبيق</string>
+    <string name="trust_apps_help">يساعد</string>
+    <string name="trust_apps_info_hidden">يتم إخفاء التطبيقات المخفية وعناد الأدوات الخاصة بهم من الدرج</string>
+    <string name="trust_apps_info_protected">تتطلب التطبيقات المحمية فتح مصادقة من المشغل</string>
 </resources>

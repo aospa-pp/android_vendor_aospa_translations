@@ -1,21 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!--
-/*
-* Copyright (C) 2022 Paranoid Android
-*
-* Licensed under the Apache License, Version 2.0 (the "License");
-* you may not use this file except in compliance with the License.
-* You may obtain a copy of the License at
-*
-*      http://www.apache.org/licenses/LICENSE-2.0
-*
-* Unless required by applicable law or agreed to in writing, software
-* distributed under the License is distributed on an "AS IS" BASIS,
-* WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-* See the License for the specific language governing permissions and
-* limitations under the License.
-*/
--->
+<?xml version='1.0' encoding='utf-8'?>
 <resources>
     <string name="title_show_google_feed">Wischen, um auf Google Feed zuzugreifen</string>
     <string name="msg_minus_one_on_left">Vom Startbildschirm nach links wischen, um Google Feed zu öffnen</string>
@@ -43,4 +26,28 @@
     <string name="recents_lens_title">Lens</string>
     <string name="smartspace_pref_title">Auf einen Blick</string>
     <string name="smartspace_pref_summary">Smartspace oben auf Startbildschirm anzeigen</string>
+<string name="recents_chips_title">Verwenden Sie kompaktes Action -Design</string>
+    <string name="recents_chips_summary">Kann für eine große Anzahl von Aktionen zur Anzeige erforderlich sein</string>
+
+    
+    <string name="hide_top_shadow_title">Top Shadow verstecken</string>
+    <string name="hide_top_shadow_summary">Entfernen Sie den Schatten unter der Statusstange</string>
+
+    
+    <string name="icon_size_title">Symbolgröße</string>
+
+    
+    <string name="font_size_title">Schriftgröße</string>
+
+    
+    <string name="meminfo_text">%1$s verfügbar |  %2$s</string>
+    <string name="recents_meminfo_title">Speicherinformationen</string>
+<string name="trust_apps_manager_name">Versteckte und geschützte Apps</string>
+    <string name="trust_apps_auth_manager">Entsperren Sie zum Verwalten der versteckten und geschützten Apps</string>
+    <string name="trust_apps_auth_open_app">Authentifizieren, um %1$s zu öffnen</string>
+    <string name="trust_apps_loading">Laden \ u2026</string>
+    <string name="trust_apps_no_lock_error">Bitte richten Sie einen sicheren Sperrbildschirm ein, um den App -Zugriff einzuschränken</string>
+    <string name="trust_apps_help">Helfen</string>
+    <string name="trust_apps_info_hidden">Versteckte Apps und ihre Widgets sind der Schublade versteckt</string>
+    <string name="trust_apps_info_protected">Geschützte Apps erfordern eine Authentifizierung, die aus dem Launcher geöffnet werden kann</string>
 </resources>

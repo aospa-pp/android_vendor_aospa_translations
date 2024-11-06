@@ -1,21 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!--
-/*
-* Copyright (C) 2022 Paranoid Android
-*
-* Licensed under the Apache License, Version 2.0 (the "License");
-* you may not use this file except in compliance with the License.
-* You may obtain a copy of the License at
-*
-*      http://www.apache.org/licenses/LICENSE-2.0
-*
-* Unless required by applicable law or agreed to in writing, software
-* distributed under the License is distributed on an "AS IS" BASIS,
-* WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-* See the License for the specific language governing permissions and
-* limitations under the License.
-*/
--->
+<?xml version='1.0' encoding='utf-8'?>
 <resources>
     <string name="title_show_google_feed">Veeg voor toegang tot de Google feed</string>
     <string name="msg_minus_one_on_left">Veeg vanuit het startscherm naar links om de Google feed te openen</string>
@@ -43,4 +26,28 @@
     <string name="recents_lens_title">Lens</string>
     <string name="smartspace_pref_title">In een Oogopslag</string>
     <string name="smartspace_pref_summary">Toon smartspace bovenaan het startscherm</string>
+<string name="recents_chips_title">Gebruik compact actieontwerp</string>
+    <string name="recents_chips_summary">Kan nodig zijn om een ​​groot aantal acties weer te geven</string>
+
+    
+    <string name="hide_top_shadow_title">Verberg de topschaduw</string>
+    <string name="hide_top_shadow_summary">Verwijder de schaduw onder de statusbalk</string>
+
+    
+    <string name="icon_size_title">Pictogramformaat</string>
+
+    
+    <string name="font_size_title">Lettergrootte</string>
+
+    
+    <string name="meminfo_text">%1$s beschikbaar |  %2$s</string>
+    <string name="recents_meminfo_title">Geheugeninformatie</string>
+<string name="trust_apps_manager_name">Verborgen en beschermde apps</string>
+    <string name="trust_apps_auth_manager">Ontgrendel om de verborgen en beschermde apps te beheren</string>
+    <string name="trust_apps_auth_open_app">Authenticeer om %1$s te openen</string>
+    <string name="trust_apps_loading">Laden \ u2026</string>
+    <string name="trust_apps_no_lock_error">Stel een beveiligd vergrendelingsscherm in om de app -toegang te beperken</string>
+    <string name="trust_apps_help">Hulp</string>
+    <string name="trust_apps_info_hidden">Verborgen apps en hun widgets zijn verborgen voor de lade</string>
+    <string name="trust_apps_info_protected">Beschermde apps vereisen dat authenticatie vanuit de launcher wordt geopend</string>
 </resources>

@@ -1,19 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Copyright 2016-2023 Paranoid Android
-
-     Licensed under the Apache License, Version 2.0 (the "License");
-     you may not use this file except in compliance with the License.
-     You may obtain a copy of the License at
-
-          http://www.apache.org/licenses/LICENSE-2.0
-
-     Unless required by applicable law or agreed to in writing, software
-     distributed under the License is distributed on an "AS IS" BASIS,
-     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-     See the License for the specific language governing permissions and
-     limitations under the License.
--->
-<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
     <string name="aospa_version">Paranoid Android verzió</string>
     <string name="dc_dimming_title">DC villogáscsökkenés</string>
     <string name="dc_dimming_info">Csökkenti a szem megerőltetését gyenge fényviszonyok mellett a képernyővillogás csökkentésével. Rossz képminőséget és gyenge színeket vagy magasabb akkufogyasztást okozhat.</string>
@@ -164,4 +150,56 @@
     <string name="notification_vibration_pattern_title">Vibrációs minta az értesítéshez</string>
     <string name="ring_vibration_pattern_title">Rezgő csengési minták</string>
     <string name="pattern_default">Eszköz alapértelmezett</string>
+<string name="paranoid_settings_title">Kibővített csomópont</string>
+    <string name="paranoid_settings_summary">Extra testreszabások</string>
+
+    
+    <string name="tethering_allow_vpn_upstreams_title">Engedje meg az ügyfelek számára, hogy a VPNS -t használják</string>
+    <string name="tethering_allow_vpn_upstreams_summary">Engedélyezze a Hotspot -ügyfelek számára, hogy ezt az eszközt használják \ U2019S VPN kapcsolatok az upstream kapcsolathoz</string>
+
+    
+    <string name="smart_charging_title">Okos töltés</string>
+    <string name="smart_charging_summary">Állítsa be a maximális töltési szintet</string>
+    <string name="smart_charging_switch_title">Használjon okos töltést</string>
+    <string name="smart_charging_level_title">Stop Trigger szint</string>
+    <string name="smart_charging_resume_level_title">Start Trigger szint</string>
+    <string name="smart_charging_footer">Az intelligens töltés lehetővé teszi a maximális töltési szint beállítását az akkumulátor élettartamának meghosszabbításához</string>
+
+    
+    <string name="pulse_ambient_light_switch">Használjon élvilágítást</string>
+    <string name="battery_light_title">Akkumulátorvilágítás</string>
+
+    
+    <string name="copied_to_clipboard">A vágólapra másolt</string>
+    <string name="longpress_to_clipboard">Hosszú nyomtatás a másoláshoz</string>
+
+    
+    <string name="background_processes_settings_title">Háttérfolyamatok</string>
+
+    
+    <string name="app_lock_title">Alkalmazászár</string>
+    <string name="app_lock_authentication_dialog_title">Kinyit</string>
+    <string name="enable_debugging">Engedélyezze a hibakeresést</string>
+    <string name="disable_debugging">Tiltsa le a hibakeresést</string>
+    <string name="app_lock_packages_title">Védett alkalmazások</string>
+    <string name="app_lock_packages_summary">Válassza ki az alkalmazásokat, hogy megvédje a biometrikus vagy az eszköz hitelesítő adatait</string>
+    <string name="app_lock_timeout_title">Auto zárolás időkorlátja</string>
+    <string name="app_lock_timeout_summary">Az időtartam időtartama, amely után a háttérben lévő nyitott alkalmazást le kell zárni</string>
+    <string name="app_lock_notifications_title">REDACT értesítések</string>
+    <string name="app_lock_notifications_summary">Az értesítési tartalom elrejti és összeomlik a kiválasztott alkalmazásoknál, amikor bezárják.
+A Heads Up értesítések automatikusan le van tiltva.</string>
+    <string name="app_lock_notifications_disabled_summary">Először védje meg az alkalmazást</string>
+    <string name="app_lock_biometrics_allowed_title">Engedélyezze a biometrikus anyagokat a feloldáshoz</string>
+    <string name="app_lock_footer_text">A buborékokat automatikusan elutasítják az időkorlát után</string>
+    <string name="enable_protection">Engedélyezhető védelem</string>
+    <string name="hide_from_launcher_title">Elrejtés az indítóból</string>
+    <string name="hide_from_launcher_summary">Megakadályozza, hogy ez az alkalmazás megjelenjen a Launcherben.A változások hatálybalépéséhez indító indítást igényelnek.</string>
+    <string name="app_lock_timeout_5sec">5 másodperc</string>
+    <string name="app_lock_timeout_10sec">10 másodperc</string>
+    <string name="app_lock_timeout_30sec">30 másodperc</string>
+    <string name="app_lock_timeout_1min">1 percig</string>
+    <string name="app_lock_timeout_5min">5 perc</string>
+    <string name="app_lock_timeout_10min">10 perc</string>
+    <string name="app_lock_timeout_30min">30 perc</string>
+
 </resources>

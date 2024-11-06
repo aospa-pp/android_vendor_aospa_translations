@@ -1,19 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Copyright 2016-2023 Paranoid Android
-
-     Licensed under the Apache License, Version 2.0 (the "License");
-     you may not use this file except in compliance with the License.
-     You may obtain a copy of the License at
-
-          http://www.apache.org/licenses/LICENSE-2.0
-
-     Unless required by applicable law or agreed to in writing, software
-     distributed under the License is distributed on an "AS IS" BASIS,
-     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-     See the License for the specific language governing permissions and
-     limitations under the License.
--->
-<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
     <string name="aospa_version">Paranoid Android-version</string>
     <string name="dc_dimming_title">Dimring</string>
     <string name="dc_dimming_info">Minskar ögonpåfrestningar i låga ljusförhållanden genom att minimera skärmflimmer. Kan resultera i minskad bildkvalitet och dålig färgproduktion, eller högre strömförbrukning.</string>
@@ -101,4 +87,146 @@
     <string name="notification_vibration_pattern_title">Vibrationsmönster för aviseringar</string>
     <string name="ring_vibration_pattern_title">Vibrationsmönster för ringsignal</string>
     <string name="pattern_default">Standard för enheten</string>
+<string name="paranoid_settings_title">Utökat nav</string>
+    <string name="paranoid_settings_summary">Extra anpassningar</string>
+
+    
+    <string name="tethering_allow_vpn_upstreams_title">Låt kunderna använda VPN: er</string>
+    <string name="tethering_allow_vpn_upstreams_summary">Tillåta hotspot -klienter att använda den här enheten \ U2019S VPN -anslutningar för uppströms anslutning</string>
+
+    
+    <string name="smart_charging_title">Smart laddning</string>
+    <string name="smart_charging_summary">Ställ in maximal laddningsnivå</string>
+    <string name="smart_charging_switch_title">Använd smart laddning</string>
+    <string name="smart_charging_level_title">Stopp triggernivå</string>
+    <string name="smart_charging_resume_level_title">Starta triggernivå</string>
+    <string name="smart_charging_footer">Smart laddning gör att du kan ställa in maximal laddningsnivå för att förlänga livslängden för ditt batteri</string>
+
+    
+    <string name="navbar_category">Navigationsfält</string>
+    <string name="hide_navbar_gesture_bar_title">Dölj gestbar</string>
+    <string name="hide_navbar_gesture_bar_summary">Dölj geststången längst ner på skärmen</string>
+
+    
+    <string name="charging_control_title">Laddningskontroll</string>
+    <string name="charging_control_summary">Anpassa laddningsschema och gränser för batteri</string>
+    <string name="charging_control_enable_title">Aktivera laddningskontroll</string>
+    <string name="charging_control_mode_title">Laddningsläge</string>
+    <string name="charging_control_mode_auto_title">Automatisk schema</string>
+    <string name="charging_control_mode_auto_summary">Bestäm automatiskt när du ska börja laddas baserat på inställda larm</string>
+    <string name="charging_control_mode_custom_title">Anpassad schema</string>
+    <string name="charging_control_mode_custom_summary">Ställ in en måltid för full laddning</string>
+    <string name="charging_control_mode_limit_title">Begränsningsladdning</string>
+    <string name="charging_control_mode_limit_summary">Begränsa laddningen till en viss procentandel</string>
+    <string name="charging_control_start_time_title">Starttid</string>
+    <string name="charging_control_start_time_summary">Laddningskontroll aktiveras när du börjar ladda efter %s</string>
+    <string name="charging_control_target_time_title">Måltid för full laddning</string>
+    <string name="charging_control_target_time_summary">Batteriet kommer att laddas fullt ut av %s</string>
+    <string name="charging_control_limit_title">Begränsa</string>
+
+    <string name="reset">Återställa</string>
+
+    
+    <string name="lock_screen_auto_pin_confirm_summary_custom">Lås upp automatiskt om du matar in en korrekt stift.Detta är något mindre säkert än att knacka på för att bekräfta.</string>
+
+    
+    <string name="quick_settings_quick_pull_down_title">Snabb QS -pulldown</string>
+    <string name="quick_settings_quick_pull_down_summary">Dra ner statusbar från höger sida för att utöka snabba inställningar</string>
+
+    
+    <string name="doze_on_charge_title">Alltid på när du laddar</string>
+    <string name="doze_on_charge_summary">Visa alltid tid och information endast när enheten är ansluten</string>
+
+    
+    <string name="proximity_wake_title">Förhindra oavsiktlig väckning</string>
+    <string name="proximity_wake_summary">Kontrollera närhetssensorn innan du vaknar upp skärmen</string>
+
+    
+    <string name="smart_5g_title">Smart 5g</string>
+    <string name="smart_5g_summary">Växla automatiskt mellan 5G och 4G för att minska batteriförbrukningen</string>
+
+    
+    <string name="notification_sound_vib_screen_on_title">Irriterande aviseringar</string>
+    <string name="notification_sound_vib_screen_on_summary">Spela ljud och vibrationer för aviseringar när skärmen är på</string>
+
+    
+    <string name="keywords_pulse_ambient_light_display">Meddelande, aviseringar, kant, ljus, färg, färg</string>
+    <string name="pulse_ambient_light_text">Edge Lighting får din skärm att glöda när du får ett meddelande.Detta gör det lättare att räkna ut när du får en puls medan telefonen är doze -läge.</string>
+    <string name="pulse_ambient_light_switch">Använd kantbelysning</string>
+    <string name="pulse_ambient_light_title">Kantbelysning</string>
+    <string name="pulse_ambient_light_summary">Tänd upp sidokanten på skärmen på anmälningspuls</string>
+    <string name="ambient_notification_light_accent_title">System accentfärg</string>
+    <string name="ambient_notification_light_color_automatic_title">Aviseringsfärg</string>
+    <string name="pulse_ambient_light_color">När du pulserar, använd</string>
+
+    
+    <string name="refresh_rate_title">Uppdateringsfrekvens</string>
+    <string name="refresh_rate_summary_vrr_off">%d HZ</string>
+    <string name="refresh_rate_summary_vrr_on">%d Hz (adaptiv)</string>
+    <string name="refresh_rate_vrr_title">Adaptiv uppdateringsfrekvens</string>
+    <string name="refresh_rate_vrr_summary">Sänk automatiskt uppdateringshastigheten när skärmen är inaktiv för att spara ström.Kan orsaka flimrande eller färgskift på vissa skärmar</string>
+    <string name="refresh_rate_footer">En högre uppdateringsfrekvens gör skärmen mjukare, men ökar strömförbrukningen</string>
+    <string name="keywords_refresh_rate">uppdatering, hastighet, slät, topp, 60Hz, 90Hz, 120Hz, 144Hz, 165Hz</string>
+
+    
+    <string name="battery_technology">Teknologi</string>
+    <string name="battery_health">Hälsa</string>
+    <string name="battery_health_good">Bra</string>
+    <string name="battery_health_overheat">Överhettas</string>
+    <string name="battery_health_dead">Död</string>
+    <string name="battery_health_over_voltage">Överspänning</string>
+    <string name="battery_health_unspecified_failure">Ospecificerad misslyckande</string>
+    <string name="battery_health_cold">Kall</string>
+    <string name="battery_health_unknown">Okänd</string>
+
+    
+    <string name="battery_temperature">Temperatur</string>
+    <string name="battery_voltage">Spänning</string>
+    <string name="battery_charge_counter_summary">%1$d Mah</string>
+
+    
+    <string name="battery_design_capacity">Konstruktionsförmåga</string>
+    <string name="battery_design_capacity_summary">%1$d Mah</string>
+    <string name="battery_maximum_capacity">Maximal kapacitet</string>
+    <string name="battery_maximum_capacity_summary">%1$d Mah (%2$d %%)</string>
+    <string name="heads_up_title">Heads</string>
+    <string name="heads_up_summary">Visa välj aviseringar som en banner över toppen av skärmen</string>
+    <string name="heads_up_off">Heads up är inaktiverad globalt</string>
+
+    
+    <string name="battery_light_title">Batteri</string>
+
+    
+    <string name="copied_to_clipboard">Kopierad till urklipp</string>
+    <string name="longpress_to_clipboard">Långtryck att kopiera</string>
+
+    
+    <string name="background_processes_settings_title">Bakgrundsprocesser</string>
+
+    
+    <string name="app_lock_title">Applås</string>
+    <string name="app_lock_authentication_dialog_title">Låsa upp</string>
+    <string name="enable_debugging">Aktivera felsökning</string>
+    <string name="disable_debugging">Inaktivera felsökning</string>
+    <string name="app_lock_packages_title">Skyddade appar</string>
+    <string name="app_lock_packages_summary">Välj appar för att skydda med biometri eller enhetsuppgifter</string>
+    <string name="app_lock_timeout_title">Auto Lock Timeout</string>
+    <string name="app_lock_timeout_summary">Tidens varaktighet efter vilken en olåst app i bakgrunden ska låsas</string>
+    <string name="app_lock_notifications_title">Redact -aviseringar</string>
+    <string name="app_lock_notifications_summary">Meddelandeinnehåll kommer att döljas och kollapsas för utvalda appar när de är låsta.
+Huvudmeddelanden kommer att inaktiveras automatiskt.</string>
+    <string name="app_lock_notifications_disabled_summary">Skydda en applikation först</string>
+    <string name="app_lock_biometrics_allowed_title">Aktivera biometri för att låsa upp</string>
+    <string name="app_lock_footer_text">Bubblor kommer att avskedas automatiskt efter timeout</string>
+    <string name="enable_protection">Möjliggöra skydd</string>
+    <string name="hide_from_launcher_title">Gömma sig från launcher</string>
+    <string name="hide_from_launcher_summary">Förhindra att denna ansökan dyker upp i launcher.Kräver en startstart för att ändringar ska träda i kraft.</string>
+    <string name="app_lock_timeout_5sec">5 sekunder</string>
+    <string name="app_lock_timeout_10sec">10 sekunder</string>
+    <string name="app_lock_timeout_30sec">30 sekunder</string>
+    <string name="app_lock_timeout_1min">1 minut</string>
+    <string name="app_lock_timeout_5min">5 minuter</string>
+    <string name="app_lock_timeout_10min">10 minuter</string>
+    <string name="app_lock_timeout_30min">30 minuter</string>
+
 </resources>

@@ -1,21 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!--
-/*
-* Copyright (C) 2022 Paranoid Android
-*
-* Licensed under the Apache License, Version 2.0 (the "License");
-* you may not use this file except in compliance with the License.
-* You may obtain a copy of the License at
-*
-*      http://www.apache.org/licenses/LICENSE-2.0
-*
-* Unless required by applicable law or agreed to in writing, software
-* distributed under the License is distributed on an "AS IS" BASIS,
-* WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-* See the License for the specific language governing permissions and
-* limitations under the License.
-*/
--->
+<?xml version='1.0' encoding='utf-8'?>
 <resources>
     <string name="title_show_google_feed">スワイプで Google フィードにアクセス</string>
     <string name="msg_minus_one_on_left">ホーム画面から左にスワイプして Google フィードを開きます</string>
@@ -43,4 +26,28 @@
     <string name="recents_lens_title">レンズ</string>
     <string name="smartspace_pref_title">At A Glance</string>
     <string name="smartspace_pref_summary">ホーム画面上部にスマートスペースを表示します</string>
+<string name="recents_chips_title">コンパクトアクションデザインを使用します</string>
+    <string name="recents_chips_summary">多数のアクションが表示されるために必要になる場合があります</string>
+
+    
+    <string name="hide_top_shadow_title">トップシャドウを隠します</string>
+    <string name="hide_top_shadow_summary">ステータスバーの下に影を削除します</string>
+
+    
+    <string name="icon_size_title">アイコンサイズ</string>
+
+    
+    <string name="font_size_title">フォントサイズ</string>
+
+    
+    <string name="meminfo_text">%1$s利用可能|  %2$s</string>
+    <string name="recents_meminfo_title">メモリ情報</string>
+<string name="trust_apps_manager_name">隠された保護されたアプリ</string>
+    <string name="trust_apps_auth_manager">非表示および保護されたアプリを管理するためにロックを解除します</string>
+    <string name="trust_apps_auth_open_app">%1$sに認証</string>
+    <string name="trust_apps_loading">ロード\ u2026</string>
+    <string name="trust_apps_no_lock_error">アプリアクセスを制限するために安全なロック画面を設定してください</string>
+    <string name="trust_apps_help">ヘルプ</string>
+    <string name="trust_apps_info_hidden">隠されたアプリとそのウィジェットは引き出しから隠されています</string>
+    <string name="trust_apps_info_protected">保護されたアプリは、発射装置から認証を開く必要があります</string>
 </resources>

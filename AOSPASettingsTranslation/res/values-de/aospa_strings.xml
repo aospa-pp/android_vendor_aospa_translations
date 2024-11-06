@@ -1,19 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Copyright 2016-2023 Paranoid Android
-
-     Licensed under the Apache License, Version 2.0 (the "License");
-     you may not use this file except in compliance with the License.
-     You may obtain a copy of the License at
-
-          http://www.apache.org/licenses/LICENSE-2.0
-
-     Unless required by applicable law or agreed to in writing, software
-     distributed under the License is distributed on an "AS IS" BASIS,
-     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-     See the License for the specific language governing permissions and
-     limitations under the License.
--->
-<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
     <string name="aospa_version">Paranoid Android Version</string>
     <string name="dc_dimming_title">DC Dimming</string>
     <string name="dc_dimming_info">Reduziert die Belastung bei geringen Lichtverhältnissen durch die Minimierung des Bildschirmflimmerns. Kann zu einer geringeren Bildqualität und einer schlechten Farbproduktion oder einem höheren Stromverbrauch führen.</string>
@@ -164,4 +150,56 @@
     <string name="notification_vibration_pattern_title">Benachrichtigungs-Vibrationsmuster</string>
     <string name="ring_vibration_pattern_title">Rufton-Vibrationsmuster</string>
     <string name="pattern_default">Gerätestandard</string>
+<string name="paranoid_settings_title">Erweiterter Hub</string>
+    <string name="paranoid_settings_summary">Zusätzliche Anpassungen</string>
+
+    
+    <string name="tethering_allow_vpn_upstreams_title">Erlauben Sie Clients, VPNs zu verwenden</string>
+    <string name="tethering_allow_vpn_upstreams_summary">Ermöglichen</string>
+
+    
+    <string name="smart_charging_title">Intelligent</string>
+    <string name="smart_charging_summary">Legen Sie das maximale Ladewert ein</string>
+    <string name="smart_charging_switch_title">Verwenden Sie intelligent</string>
+    <string name="smart_charging_level_title">Stop -Trigger -Level stoppen</string>
+    <string name="smart_charging_resume_level_title">Auslösungsstufe starten</string>
+    <string name="smart_charging_footer">Mit intelligentem Laden können Sie das maximale Ladeebene einstellen, um die Lebensdauer Ihrer Batterie zu verlängern</string>
+
+    
+    <string name="pulse_ambient_light_switch">Verwenden Sie die Kantenbeleuchtung</string>
+    <string name="battery_light_title">Batterielicht</string>
+
+    
+    <string name="copied_to_clipboard">In die Zwischenablage kopiert</string>
+    <string name="longpress_to_clipboard">Langzeitpresse zum Kopieren</string>
+
+    
+    <string name="background_processes_settings_title">Hintergrundprozesse</string>
+
+    
+    <string name="app_lock_title">App Lock</string>
+    <string name="app_lock_authentication_dialog_title">Entsperren</string>
+    <string name="enable_debugging">Debugging aktivieren</string>
+    <string name="disable_debugging">Deaktivieren Sie das Debuggen</string>
+    <string name="app_lock_packages_title">Geschützte Apps</string>
+    <string name="app_lock_packages_summary">Wählen Sie die Apps zum Schutz mit Biometrie oder Geräteanmeldeinformationen aus</string>
+    <string name="app_lock_timeout_title">Auto -Lock -Auszeitung</string>
+    <string name="app_lock_timeout_summary">Zeitdauer danach sollte eine entsperrte App im Hintergrund gesperrt werden</string>
+    <string name="app_lock_notifications_title">Benachrichtigungen reduzieren</string>
+    <string name="app_lock_notifications_summary">Benachrichtigungsinhalt wird versteckt und für ausgewählte Apps zusammengebrochen, wenn sie gesperrt sind.
+Heads -Up -Benachrichtigungen werden automatisch deaktiviert.</string>
+    <string name="app_lock_notifications_disabled_summary">Schützen Sie zuerst eine Anwendung</string>
+    <string name="app_lock_biometrics_allowed_title">Aktivieren Sie die Biometrie zum Entsperren</string>
+    <string name="app_lock_footer_text">Blasen werden nach dem Zeitpunkt automatisch entlassen</string>
+    <string name="enable_protection">Schutz ermöglichen</string>
+    <string name="hide_from_launcher_title">Verstecken Sie sich vor Launcher</string>
+    <string name="hide_from_launcher_summary">Verhindern Sie, dass diese Anwendung im Launcher angezeigt wird.Erfordert einen Neustart für den Launcher, damit Änderungen wirksam werden müssen.</string>
+    <string name="app_lock_timeout_5sec">5 Sekunden</string>
+    <string name="app_lock_timeout_10sec">10 Sekunden</string>
+    <string name="app_lock_timeout_30sec">30 Sekunden</string>
+    <string name="app_lock_timeout_1min">1 Minute</string>
+    <string name="app_lock_timeout_5min">5 Minuten</string>
+    <string name="app_lock_timeout_10min">10 Minuten</string>
+    <string name="app_lock_timeout_30min">30 Minuten</string>
+
 </resources>

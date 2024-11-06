@@ -1,21 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!--
-/*
-* Copyright (C) 2022 Paranoid Android
-*
-* Licensed under the Apache License, Version 2.0 (the "License");
-* you may not use this file except in compliance with the License.
-* You may obtain a copy of the License at
-*
-*      http://www.apache.org/licenses/LICENSE-2.0
-*
-* Unless required by applicable law or agreed to in writing, software
-* distributed under the License is distributed on an "AS IS" BASIS,
-* WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-* See the License for the specific language governing permissions and
-* limitations under the License.
-*/
--->
+<?xml version='1.0' encoding='utf-8'?>
 <resources>
     <string name="title_show_google_feed">Desliza para acceder al feed de Google</string>
     <string name="pref_dt_gesture_title">Tocar dos veces para apagar la pantalla</string>
@@ -37,4 +20,40 @@
     <string name="recents_lens_title">Lens</string>
     <string name="smartspace_pref_title">De un vistazo</string>
     <string name="smartspace_pref_summary">Mostrar espaciado inteligente en la parte superior de la pantalla de inicio</string>
+<string name="msg_minus_one_on_left">Desde la pantalla de inicio, deslice la izquierda para abrir Google Feed</string>
+    <string name="msg_minus_one_on_right">Desde la pantalla de inicio, deslice a la derecha para abrir Google Feed</string>
+
+    
+    <string name="category_recents">Reciente</string>
+
+    
+    <string name="dock_search_summary">Barra de búsqueda en el muelle inferior</string>
+
+    
+    <string name="recents_screenshot_title">Captura de pantalla</string>
+    <string name="recents_clear_all_title">Despejar todo</string>
+    <string name="recents_chips_title">Utilice el diseño de acción compacta</string>
+    <string name="recents_chips_summary">Puede ser necesario para que se muestren grandes números de acciones</string>
+
+    
+    <string name="hide_top_shadow_title">Esconder la sombra</string>
+    <string name="hide_top_shadow_summary">Eliminar la sombra debajo de la barra de estado</string>
+
+    
+    <string name="icon_size_title">Tamaño del icono</string>
+
+    
+    <string name="font_size_title">Tamaño de fuente</string>
+
+    
+    <string name="meminfo_text">%1$s disponible |  %2$s</string>
+    <string name="recents_meminfo_title">Información de memoria</string>
+<string name="trust_apps_manager_name">Aplicaciones ocultas y protegidas</string>
+    <string name="trust_apps_auth_manager">Desbloquee para administrar las aplicaciones ocultas y protegidas</string>
+    <string name="trust_apps_auth_open_app">Autenticar para abrir %1$s</string>
+    <string name="trust_apps_loading">Cargando \ u2026</string>
+    <string name="trust_apps_no_lock_error">Configure una pantalla de bloqueo seguro para restringir el acceso a la aplicación</string>
+    <string name="trust_apps_help">Ayuda</string>
+    <string name="trust_apps_info_hidden">Las aplicaciones ocultas y sus widgets están ocultos para el cajón</string>
+    <string name="trust_apps_info_protected">Las aplicaciones protegidas requieren que se abra la autenticación desde el lanzador</string>
 </resources>

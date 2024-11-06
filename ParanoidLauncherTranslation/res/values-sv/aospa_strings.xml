@@ -1,21 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!--
-/*
-* Copyright (C) 2022 Paranoid Android
-*
-* Licensed under the Apache License, Version 2.0 (the "License");
-* you may not use this file except in compliance with the License.
-* You may obtain a copy of the License at
-*
-*      http://www.apache.org/licenses/LICENSE-2.0
-*
-* Unless required by applicable law or agreed to in writing, software
-* distributed under the License is distributed on an "AS IS" BASIS,
-* WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-* See the License for the specific language governing permissions and
-* limitations under the License.
-*/
--->
+<?xml version='1.0' encoding='utf-8'?>
 <resources>
     <string name="title_show_google_feed">Svep för att komma åt Google-flöde</string>
     <string name="pref_dt_gesture_title">Dubbeltryck för att släcka</string>
@@ -37,4 +20,40 @@
     <string name="recents_lens_title">Lens</string>
     <string name="smartspace_pref_title">Överblick</string>
     <string name="smartspace_pref_summary">Visa smartspace högst upp på startskärmen</string>
+<string name="msg_minus_one_on_left">Svep från hemskärmen kvar för att öppna Google Feed</string>
+    <string name="msg_minus_one_on_right">Från hemskärmen, svep höger för att öppna Google Feed</string>
+
+    
+    <string name="category_recents">Ny</string>
+
+    
+    <string name="dock_search_summary">Sökfält i bottenbryggan</string>
+
+    
+    <string name="recents_screenshot_title">Skärmdump</string>
+    <string name="recents_clear_all_title">Rensar alla</string>
+    <string name="recents_chips_title">Använd Compact Action Design</string>
+    <string name="recents_chips_summary">Kan krävas för att ett stort antal åtgärder ska visas</string>
+
+    
+    <string name="hide_top_shadow_title">Dölj Top Shadow</string>
+    <string name="hide_top_shadow_summary">Ta bort skuggan under statusfältet</string>
+
+    
+    <string name="icon_size_title">Ikonstorlek</string>
+
+    
+    <string name="font_size_title">Fontstorlek</string>
+
+    
+    <string name="meminfo_text">%1$s tillgängligt |  %2$s</string>
+    <string name="recents_meminfo_title">Minnesinfo</string>
+<string name="trust_apps_manager_name">Dolda och skyddade appar</string>
+    <string name="trust_apps_auth_manager">Lås upp för att hantera de dolda och skyddade apparna</string>
+    <string name="trust_apps_auth_open_app">Autentisera för att öppna %1$s</string>
+    <string name="trust_apps_loading">Laddar \ u2026</string>
+    <string name="trust_apps_no_lock_error">Ställ in en säker låsskärm för att begränsa appåtkomst</string>
+    <string name="trust_apps_help">Hjälp</string>
+    <string name="trust_apps_info_hidden">Dolda appar och deras widgetar är dolda för lådan</string>
+    <string name="trust_apps_info_protected">Skyddade appar kräver autentisering för att öppnas från starten</string>
 </resources>

@@ -1,19 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Copyright 2016-2023 Paranoid Android
-
-     Licensed under the Apache License, Version 2.0 (the "License");
-     you may not use this file except in compliance with the License.
-     You may obtain a copy of the License at
-
-          http://www.apache.org/licenses/LICENSE-2.0
-
-     Unless required by applicable law or agreed to in writing, software
-     distributed under the License is distributed on an "AS IS" BASIS,
-     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-     See the License for the specific language governing permissions and
-     limitations under the License.
--->
-<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
     <string name="navbar_category">నావిగేషన్ బార్</string>
     <string name="hide_navbar_gesture_bar_title">జెస్చర్ బారుని మాయంచేయి</string>
     <string name="hide_navbar_gesture_bar_summary">స్క్రీన్ కింద ఉన్న జెస్చర్ బార్ ని మాయంచేయి</string>
@@ -37,4 +23,242 @@
 ఈ ఆప్షన్ ఎంటర్ బటన్ నొక్కడం కన్న భద్రమైనదికాదు</string>
     <string name="quick_settings_quick_pull_down_title">క్విక్ QS పుల్ డౌన్</string>
     <string name="quick_settings_quick_pull_down_summary">స్టేటస్ బార్ ని కుడివైపు నుంచి లాగండి క్విక్ సెట్టింగ్స్ కొరకు</string>
+<string name="aospa_version">పారానోయిడ్ ఆండ్రాయిడ్ వెర్షన్</string>
+
+    <string name="paranoid_settings_title">విస్తరించిన హబ్</string>
+    <string name="paranoid_settings_summary">అదనపు అనుకూలీకరణలు</string>
+
+    
+    <string name="tethering_allow_vpn_upstreams_title">ఖాతాదారులను VPN లను ఉపయోగించడానికి అనుమతించండి</string>
+    <string name="tethering_allow_vpn_upstreams_summary">అప్‌స్ట్రీమ్ కనెక్టివిటీ కోసం ఈ పరికరాన్ని \ U2019S VPN కనెక్షన్‌లను ఉపయోగించడానికి హాట్‌స్పాట్ క్లయింట్‌లను అనుమతించండి</string>
+
+    
+    <string name="smart_charging_title">స్మార్ట్ ఛార్జింగ్</string>
+    <string name="smart_charging_summary">గరిష్ట ఛార్జింగ్ స్థాయిని సెట్ చేయండి</string>
+    <string name="smart_charging_switch_title">స్మార్ట్ ఛార్జింగ్ ఉపయోగించండి</string>
+    <string name="smart_charging_level_title">ట్రిగ్గర్ స్థాయిని ఆపండి</string>
+    <string name="smart_charging_resume_level_title">ట్రిగ్గర్ స్థాయిని ప్రారంభించండి</string>
+    <string name="smart_charging_footer">స్మార్ట్ ఛార్జింగ్ మీ బ్యాటరీ యొక్క ఆయుష్షును విస్తరించడానికి గరిష్ట ఛార్జింగ్ స్థాయిని సెట్ చేయడానికి మిమ్మల్ని అనుమతిస్తుంది</string>
+
+    
+    <string name="dc_dimming_title">DC మసకబారడం</string>
+    <string name="dc_dimming_info">స్క్రీన్ ఫ్లికర్‌ను తగ్గించడం ద్వారా తక్కువ కాంతి పరిస్థితులలో కంటి ఒత్తిడిని తగ్గిస్తుంది.చిత్ర నాణ్యత మరియు పేలవమైన రంగు ఉత్పత్తి లేదా అధిక విద్యుత్ వినియోగం తగ్గవచ్చు.</string>
+    <string name="dc_dimming_main_switch_title">DC మసకబారడం ఉపయోగించండి</string>
+    <string name="keywords_display_dc_dimming">డిసి డిమ్మింగ్, యాంటీ, ఫ్లికర్, ఐ, స్ట్రెయిన్</string>
+
+    
+    <string name="adaptive_playback_screen_title">స్మార్ట్ పాజ్</string>
+    <string name="adaptive_playback_enabled">స్మార్ట్ పాజ్ ఉపయోగించండి</string>
+    <string name="adaptive_playback_disabled_summary">ఆఫ్</string>
+    <string name="adaptive_playback_intro_text">వాల్యూమ్ మ్యూట్ చేయబడినప్పుడు స్వయంచాలకంగా మీడియాను పాజ్ చేస్తుంది మరియు సెట్ సమయంలో వాల్యూమ్ పునరుద్ధరించబడినప్పుడు స్వయంచాలకంగా తిరిగి ప్రారంభమవుతుంది.</string>
+    <string name="adaptive_playback_timeout_title">యొక్క సమయం ముగిసింది</string>
+    <string name="adaptive_playback_timeout_none">సమయం ముగిసింది</string>
+    <string name="adaptive_playback_timeout_none_summary">ఆన్ (సమయం ముగిసింది)</string>
+    <string name="adaptive_playback_timeout_30_secs">30 సెకన్లు</string>
+    <string name="adaptive_playback_timeout_30_secs_summary">(30 సెకన్లు)</string>
+    <string name="adaptive_playback_timeout_1_min">1 నిమిషం</string>
+    <string name="adaptive_playback_timeout_1_min_summary">(1 నిమిషం)</string>
+    <string name="adaptive_playback_timeout_2_min">2 నిమిషాలు</string>
+    <string name="adaptive_playback_timeout_2_min_summary">(2 నిమిషాలు)</string>
+    <string name="adaptive_playback_timeout_5_min">5 నిమిషాలు</string>
+    <string name="adaptive_playback_timeout_5_min_summary">(5 నిమిషాలు)</string>
+    <string name="adaptive_playback_timeout_10_min">10 నిమిషాలు</string>
+    <string name="adaptive_playback_timeout_10_min_summary">(10 నిమిషాలు)</string>
+
+    
+    <string name="three_finger_gesture">స్క్రీన్ షాట్ కు స్వైప్ చేయండి</string>
+    <string name="three_finger_gesture_summary">స్క్రీన్ షాట్ తీసుకోవడానికి మూడు వేళ్ళతో స్వైప్ చేయండి</string>
+
+    
+    <string name="prevent_ringing_option_cycle">మోడ్ల ద్వారా చక్రం</string>
+    <string name="prevent_ringing_option_cycle_summary">ఆన్ (మోడ్ల ద్వారా సైకిల్)</string>
+
+    
+    <string name="ambient_display_screen_off_udfps_title">ఎల్లప్పుడూ వేలిముద్ర మీద</string>
+    
+    <string name="ambient_display_screen_off_udfps_summary">స్క్రీన్‌తో అన్‌లాకింగ్‌ను అనుమతిస్తుంది. \ Nenabling ప్రమాదవశాత్తు మేల్కొలుపులను కలిగిస్తుంది.</string>
+
+    
+    <string name="category_name_refresh_rate_controls">రిఫ్రెష్ రేటు</string>
+
+    
+    <string name="volume_button_music_control_title">ప్లేబ్యాక్ నియంత్రణ</string>
+    <string name="volume_button_music_control_summary">స్క్రీన్ ఆపివేయబడినప్పుడు, దీర్ఘకాలంగా ప్రెస్ చేసే వాల్యూమ్ కీలు మ్యూజిక్ ట్రాక్‌లను దాటవేస్తాయి</string>
+
+    
+    <string name="offscreen_gesture_title">స్క్రీన్ ఆఫ్ హావభావాలు</string>
+    <string name="offscreen_gesture_summary">చర్యలు చేయడానికి నమూనాలను గీయండి లేదా తెరపై నొక్కండి</string>
+    <string name="keywords_gestures">స్క్రీన్ టచ్‌స్క్రీన్ డ్రా స్వైప్ ఫింగర్ ట్యాప్</string>
+
+    <string name="gestures_master">స్క్రీన్ ఆఫ్ హావభావాలను ఉపయోగించండి</string>
+    <string name="gestures_disabled">నిలిపివేయబడింది</string>
+    <string name="gestures_wake_device">వేక్ పరికరం</string>
+    <string name="gestures_pulse_ambient_display">పల్స్ టు యాంబియంట్ డిస్ప్లే</string>
+    <string name="gestures_toggle_flashlight">ఫ్లాష్‌లైట్‌ను టోగుల్ చేయండి</string>
+    <string name="gestures_toggle_airplane_mode">విమానం మోడ్‌ను టోగుల్ చేయండి</string>
+    <string name="gestures_play_pause_music">సంగీతాన్ని ప్లే/పాజ్ చేయండి</string>
+    <string name="gestures_next_music">తదుపరి సంగీతం</string>
+    <string name="gestures_previous_music">మునుపటి సంగీతం</string>
+    <string name="gestures_open_camera">ఓపెన్ కెమెరా</string>
+    <string name="gestures_open_dialer">ఓపెన్ డయలర్</string>
+
+    <string name="gestures_double_tap">డబుల్ ట్యాప్</string>
+    <string name="gestures_single_tap">సింగిల్-ట్యాప్</string>
+    <string name="gestures_draw_v">డ్రా వి</string>
+    <string name="gestures_draw_inverse_v">విలోమ వి</string>
+    <string name="gestures_draw_o">డ్రా ఓ</string>
+    <string name="gestures_draw_m">గీయండి m</string>
+    <string name="gestures_draw_w">డ్రా w</string>
+    <string name="gestures_draw_s">డ్రా s</string>
+    <string name="gestures_draw_arrow_left">డ్రా &lt;</string>
+    <string name="gestures_draw_arrow_right">డ్రా&gt;</string>
+    <string name="gestures_one_finger_swipe_up">ఒక వేలు స్వైప్ చేయండి</string>
+    <string name="gestures_one_finger_swipe_right">ఒక వేలు స్వైప్ కుడి</string>
+    <string name="gestures_one_finger_swipe_down">ఒక వేలు స్వైప్ డౌన్</string>
+    <string name="gestures_one_finger_swipe_left">వన్-ఫింగర్ స్వైప్ ఎడమ</string>
+    <string name="gestures_two_finger_swipe">రెండు వేలు స్వైప్</string>
+
+    
+    <string name="screenshot_shutter_sound_title">స్క్రీన్ షాట్ ధ్వని</string>
+
+    
+    <string name="power_button_torch_title">త్వరిత టార్చ్</string>
+    <string name="power_button_torch_summary">స్క్రీన్ ఆఫ్‌లో ఉన్నప్పుడు, దీర్ఘ-ప్రెస్సింగ్ పవర్ బటన్ టార్చ్‌ను ప్రారంభిస్తుంది</string>
+
+    
+    <string name="icon_manager_title">ఐకాన్ మేనేజర్</string>
+    <string name="icon_manager_summary">స్థితి బార్ చిహ్నాల దృశ్యమానతను నియంత్రించండి</string>
+
+    
+    <string name="navbar_invert_layout_title">నావిగేషన్ బార్ లేఅవుట్ను విలోమం చేయండి</string>
+    <string name="navbar_invert_info">నావిగేషన్ బార్‌పై \"బ్యాక్"మరియు \"రీసెంట్స్ \"బటన్లను మార్చుకోండి</string>
+    <string name="system_black_theme_title">బ్లాక్ థీమ్ ఉపయోగించండి</string>
+    <string name="system_black_theme_summary">బ్లాక్ నేపథ్య రంగులను బలవంతం చేయండి</string>
+
+    
+    <string name="doze_gesture_ambient_title">పరిసరాన్ని చూపించు</string>
+    <string name="doze_gesture_ambient_summary">స్క్రీన్‌ను పూర్తిగా మేల్కొనే బదులు పరిసర ప్రదర్శనను చూపించు</string>
+    <string name="gesture_wake_ambient">పరిసరాన్ని చూపించు</string>
+    <string name="gesture_wake">పూర్తిగా మేల్కొలపండి</string>
+
+    
+    <string name="color_mode_balance_category">రంగు సమతుల్యత</string>
+    
+    <string name="color_mode_balance_red">ఎరుపు బలం</string>
+    
+    <string name="color_mode_balance_green">ఆకుపచ్చ బలం</string>
+    
+    <string name="color_mode_balance_blue">నీలం బలం</string>
+    <string name="keywords_color_balance">రంగు, రంగు సమతుల్యత, రంగు దిద్దుబాటు, ఎరుపు, ఆకుపచ్చ, నీలం, లైవీడిస్ప్లే</string>
+
+    
+    <string name="touch_polling_title">అధిక టచ్ పోలింగ్ రేటు</string>
+    
+    <string name="touch_polling_summary">జాప్యాన్ని తగ్గించడానికి టచ్‌స్క్రీన్ పోలింగ్ రేటును పెంచండి</string>
+
+    
+    <string name="doze_on_charge_title">ఛార్జింగ్ చేసేటప్పుడు ఎల్లప్పుడూ ఆన్‌లో ఉంది</string>
+    <string name="doze_on_charge_summary">పరికరం ప్లగ్ చేయబడినప్పుడు మాత్రమే సమయం మరియు సమాచారాన్ని ఎల్లప్పుడూ చూపించండి</string>
+
+    
+    <string name="proximity_wake_title">ప్రమాదవశాత్తు మేల్కొలుపును నిరోధించండి</string>
+    <string name="proximity_wake_summary">స్క్రీన్‌ను మేల్కొలపడానికి ముందు సామీప్య సెన్సార్‌ను తనిఖీ చేయండి</string>
+
+    
+    <string name="smart_5g_title">స్మార్ట్ 5 జి</string>
+    <string name="smart_5g_summary">బ్యాటరీ వినియోగాన్ని తగ్గించడానికి 5G మరియు 4G మధ్య స్వయంచాలకంగా మారండి</string>
+
+    
+    <string name="notification_sound_vib_screen_on_title">బాధించే నోటిఫికేషన్లు</string>
+    <string name="notification_sound_vib_screen_on_summary">స్క్రీన్ ఆన్‌లో ఉన్నప్పుడు నోటిఫికేషన్‌ల కోసం ధ్వని మరియు వైబ్రేషన్ ప్లే చేయండి</string>
+
+    
+    <string name="display_cutout_force_fullscreen_title">పూర్తి స్క్రీన్ అనువర్తనాలు</string>
+    <string name="display_cutout_force_fullscreen_summary">నాచ్ స్థలాన్ని విస్మరించడానికి అనువర్తనాలను బలవంతం చేయండి</string>
+    <string name="display_cutout_force_fullscreen_search">శోధన</string>
+    <string name="display_cutout_force_fullscreen_search_apps">అనువర్తనాలను శోధించండి</string>
+
+    
+    <string name="keywords_pulse_ambient_light_display">నోటిఫికేషన్, నోటిఫికేషన్‌లు, అంచు, కాంతి, రంగు, రంగు</string>
+    <string name="pulse_ambient_light_text">ఎడ్జ్ లైటింగ్ మీకు నోటిఫికేషన్ వచ్చినప్పుడు మీ స్క్రీన్ మెరుస్తుంది.ఫోన్ డజ్ మోడ్ అయితే మీకు పల్స్ వచ్చినప్పుడు ఇది గుర్తించడం సులభం చేస్తుంది.</string>
+    <string name="pulse_ambient_light_switch">ఎడ్జ్ లైటింగ్ ఉపయోగించండి</string>
+    <string name="pulse_ambient_light_title">ఎడ్జ్ లైటింగ్</string>
+    <string name="pulse_ambient_light_summary">నోటిఫికేషన్ పల్స్ పై స్క్రీన్ యొక్క వైపు అంచులను వెలిగించండి</string>
+    <string name="ambient_notification_light_accent_title">సిస్టమ్ యాస రంగు</string>
+    <string name="ambient_notification_light_color_automatic_title">నోటిఫికేషన్ రంగు</string>
+    <string name="pulse_ambient_light_color">పల్సింగ్ చేసేటప్పుడు, వాడండి</string>
+
+    
+    <string name="refresh_rate_title">రిఫ్రెష్ రేటు</string>
+    <string name="refresh_rate_summary_vrr_off">%d Hz</string>
+    <string name="refresh_rate_summary_vrr_on">%d HZ (అడాప్టివ్)</string>
+    <string name="refresh_rate_vrr_title">అనుకూల రిఫ్రెష్ రేటు</string>
+    <string name="refresh_rate_vrr_summary">ప్రదర్శన నిష్క్రియంగా ఉన్నప్పుడు, శక్తిని ఆదా చేయడానికి రిఫ్రెష్ రేటును స్వయంచాలకంగా తగ్గించండి.కొన్ని డిస్ప్లేలపై మినుకుమినుకుమనే లేదా రంగు మార్పుకు కారణం కావచ్చు</string>
+    <string name="refresh_rate_footer">అధిక రిఫ్రెష్ రేటు ప్రదర్శనను సున్నితంగా చేస్తుంది, కానీ విద్యుత్ వినియోగాన్ని పెంచుతుంది</string>
+    <string name="keywords_refresh_rate">రిఫ్రెష్, రేట్, స్మూత్, పీక్, 60 హెర్ట్జ్, 90 హెర్ట్జ్, 120 హెర్ట్జ్, 144 హెర్ట్జ్, 165 హెర్ట్జ్</string>
+
+    
+    <string name="battery_technology">టెక్నాలజీ</string>
+    <string name="battery_health">ఆరోగ్యం</string>
+    <string name="battery_health_good">మంచిది</string>
+    <string name="battery_health_overheat">వేడెక్కడం</string>
+    <string name="battery_health_dead">చనిపోయిన</string>
+    <string name="battery_health_over_voltage">ఓవర్ వోల్టేజ్</string>
+    <string name="battery_health_unspecified_failure">పేర్కొనబడని వైఫల్యం</string>
+    <string name="battery_health_cold">చలి</string>
+    <string name="battery_health_unknown">తెలియదు</string>
+
+    
+    <string name="battery_temperature">ఉష్ణోగ్రత</string>
+    <string name="battery_voltage">వోల్టేజ్</string>
+    <string name="battery_charge_counter_summary">%1$d MAH</string>
+
+    
+    <string name="battery_design_capacity">డిజైన్ సామర్థ్యం</string>
+    <string name="battery_design_capacity_summary">%1$d MAH</string>
+    <string name="battery_maximum_capacity">గరిష్ట సామర్థ్యం</string>
+    <string name="battery_maximum_capacity_summary">%1$d MAH (%2$d %%)</string>
+    <string name="heads_up_title">హెడ్స్ అప్</string>
+    <string name="heads_up_summary">స్క్రీన్ పైభాగంలో బ్యానర్‌గా ఎంచుకున్న నోటిఫికేషన్‌లను చూపించు</string>
+    <string name="heads_up_off">హెడ్స్ అప్ ప్రపంచవ్యాప్తంగా నిలిపివేయబడింది</string>
+
+    
+    <string name="notification_vibration_pattern_title">నోటిఫికేషన్ వైబ్రేషన్ నమూనా</string>
+    <string name="ring_vibration_pattern_title">రింగ్ వైబ్రేషన్ నమూనా</string>
+    <string name="pattern_default">పరికర డిఫాల్ట్</string>
+    <string name="battery_light_title">బ్యాటరీ లైట్</string>
+
+    
+    <string name="copied_to_clipboard">క్లిప్‌బోర్డ్‌కు కాపీ చేయబడింది</string>
+    <string name="longpress_to_clipboard">కాపీ చేయడానికి దీర్ఘ ప్రెస్</string>
+
+    
+    <string name="background_processes_settings_title">నేపథ్య ప్రక్రియలు</string>
+
+    
+    <string name="app_lock_title">అనువర్తన లాక్</string>
+    <string name="app_lock_authentication_dialog_title">అన్‌లాక్</string>
+    <string name="enable_debugging">డీబగ్గింగ్‌ను ప్రారంభించండి</string>
+    <string name="disable_debugging">డీబగ్గింగ్‌ను నిలిపివేయండి</string>
+    <string name="app_lock_packages_title">రక్షిత అనువర్తనాలు</string>
+    <string name="app_lock_packages_summary">బయోమెట్రిక్స్ లేదా పరికర ఆధారాలతో రక్షించడానికి అనువర్తనాలను ఎంచుకోండి</string>
+    <string name="app_lock_timeout_title">ఆటో లాక్ సమయం ముగిసింది</string>
+    <string name="app_lock_timeout_summary">నేపథ్యంలో అన్‌లాక్ చేయబడిన అనువర్తనం లాక్ చేయబడాలి</string>
+    <string name="app_lock_notifications_title">నోటిఫికేషన్‌లను రీడాక్ట్ చేయండి</string>
+    <string name="app_lock_notifications_summary">నోటిఫికేషన్ కంటెంట్ దాచబడుతుంది మరియు ఎంచుకున్న అనువర్తనాలు లాక్ చేయబడినప్పుడు అవి కూలిపోతాయి.
+హెడ్స్ అప్ నోటిఫికేషన్‌లు స్వయంచాలకంగా నిలిపివేయబడతాయి.</string>
+    <string name="app_lock_notifications_disabled_summary">మొదట అనువర్తనాన్ని రక్షించండి</string>
+    <string name="app_lock_biometrics_allowed_title">అన్‌లాకింగ్ కోసం బయోమెట్రిక్‌లను ప్రారంభించండి</string>
+    <string name="app_lock_footer_text">సమయం ముగిసిన తర్వాత బుడగలు స్వయంచాలకంగా కొట్టివేయబడతాయి</string>
+    <string name="enable_protection">రక్షణను ప్రారంభించండి</string>
+    <string name="hide_from_launcher_title">లాంచర్ నుండి దాచండి</string>
+    <string name="hide_from_launcher_summary">లాంచర్‌లో ఈ అప్లికేషన్ చూపించకుండా నిరోధించండి.మార్పులు అమలులోకి రావడానికి లాంచర్ పున art ప్రారంభం అవసరం.</string>
+    <string name="app_lock_timeout_5sec">5 సెకన్లు</string>
+    <string name="app_lock_timeout_10sec">10 సెకన్లు</string>
+    <string name="app_lock_timeout_30sec">30 సెకన్లు</string>
+    <string name="app_lock_timeout_1min">1 నిమిషం</string>
+    <string name="app_lock_timeout_5min">5 నిమిషాలు</string>
+    <string name="app_lock_timeout_10min">10 నిమిషాలు</string>
+    <string name="app_lock_timeout_30min">30 నిమిషాలు</string>
+
 </resources>

@@ -1,21 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!--
-/*
-* Copyright (C) 2022 Paranoid Android
-*
-* Licensed under the Apache License, Version 2.0 (the "License");
-* you may not use this file except in compliance with the License.
-* You may obtain a copy of the License at
-*
-*      http://www.apache.org/licenses/LICENSE-2.0
-*
-* Unless required by applicable law or agreed to in writing, software
-* distributed under the License is distributed on an "AS IS" BASIS,
-* WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-* See the License for the specific language governing permissions and
-* limitations under the License.
-*/
--->
+<?xml version='1.0' encoding='utf-8'?>
 <resources>
     <string name="title_show_google_feed">గూగుల్ ఫీడ్ పొందడానికి స్వైప్ చెయ్యండి</string>
     <string name="msg_minus_one_on_left">హోమ్ స్క్రీన్ నుంచి ,ఎడమ చేతి వైపుకు వెళ్లండి గూగుల్ఫీడ్ కోసం</string>
@@ -43,4 +26,28 @@
     <string name="recents_lens_title">లెన్స్</string>
     <string name="smartspace_pref_title">గ్లాన్స్ లో</string>
     <string name="smartspace_pref_summary">హోం స్క్రీన్ పైన స్మార్ట్ స్పేస్ చూపించు</string>
+<string name="recents_chips_title">కాంపాక్ట్ యాక్షన్ డిజైన్‌ను ఉపయోగించండి</string>
+    <string name="recents_chips_summary">పెద్ద సంఖ్యలో చర్యలు ప్రదర్శించడానికి అవసరం కావచ్చు</string>
+
+    
+    <string name="hide_top_shadow_title">టాప్ షాడో దాచు</string>
+    <string name="hide_top_shadow_summary">స్థితి బార్ క్రింద నీడను తొలగించండి</string>
+
+    
+    <string name="icon_size_title">ఐకాన్ పరిమాణం</string>
+
+    
+    <string name="font_size_title">ఫాంట్ పరిమాణం</string>
+
+    
+    <string name="meminfo_text">%1$s అందుబాటులో ఉంది | %2$s</string>
+    <string name="recents_meminfo_title">మెమరీ సమాచారం</string>
+<string name="trust_apps_manager_name">దాచిన మరియు రక్షిత అనువర్తనాలు</string>
+    <string name="trust_apps_auth_manager">దాచిన మరియు రక్షిత అనువర్తనాలను నిర్వహించడానికి అన్‌లాక్ చేయండి</string>
+    <string name="trust_apps_auth_open_app">%1$s తెరవడానికి ప్రామాణీకరించండి</string>
+    <string name="trust_apps_loading">\ U2026 లోడ్ అవుతోంది</string>
+    <string name="trust_apps_no_lock_error">అనువర్తన ప్రాప్యతను పరిమితం చేయడానికి దయచేసి సురక్షిత లాక్ స్క్రీన్‌ను సెటప్ చేయండి</string>
+    <string name="trust_apps_help">సహాయం</string>
+    <string name="trust_apps_info_hidden">దాచిన అనువర్తనాలు మరియు వాటి విడ్జెట్‌లు డ్రాయర్ నుండి దాచబడ్డాయి</string>
+    <string name="trust_apps_info_protected">రక్షిత అనువర్తనాలకు లాంచర్ నుండి ప్రామాణీకరణ తెరవడానికి అవసరం</string>
 </resources>

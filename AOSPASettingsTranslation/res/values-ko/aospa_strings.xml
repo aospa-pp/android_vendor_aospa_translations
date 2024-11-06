@@ -1,19 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Copyright 2016-2023 Paranoid Android
-
-     Licensed under the Apache License, Version 2.0 (the "License");
-     you may not use this file except in compliance with the License.
-     You may obtain a copy of the License at
-
-          http://www.apache.org/licenses/LICENSE-2.0
-
-     Unless required by applicable law or agreed to in writing, software
-     distributed under the License is distributed on an "AS IS" BASIS,
-     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-     See the License for the specific language governing permissions and
-     limitations under the License.
--->
-<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
     <string name="aospa_version">Paranoid Android 버전</string>
     <string name="ambient_display_screen_off_udfps_summary">화면이 꺼진 상태에서 잠금 해제를 허용합니다.\n활성화하면 의도치 않게 화면이 켜질 수 있습니다.</string>
     <string name="offscreen_gesture_title">화면 끄기 제스처</string>
@@ -86,4 +72,175 @@
     <string name="battery_maximum_capacity">최대 용량</string>
     <string name="battery_maximum_capacity_summary">%1$d mAh (%2$d%%)</string>
     <string name="heads_up_title">헤드업 알림</string>
+<string name="paranoid_settings_title">확장 허브</string>
+    <string name="paranoid_settings_summary">추가 사용자 정의</string>
+
+    
+    <string name="tethering_allow_vpn_upstreams_title">클라이언트가 VPN을 사용하도록 허용합니다</string>
+    <string name="tethering_allow_vpn_upstreams_summary">핫스팟 클라이언트 가이 장치를 사용하도록 허용 \ U2019S 업스트림 연결을위한 VPN 연결</string>
+
+    
+    <string name="smart_charging_title">스마트 충전</string>
+    <string name="smart_charging_summary">최대 충전 레벨을 설정합니다</string>
+    <string name="smart_charging_switch_title">스마트 충전을 사용하십시오</string>
+    <string name="smart_charging_level_title">트리거 레벨을 중지하십시오</string>
+    <string name="smart_charging_resume_level_title">트리거 레벨을 시작하십시오</string>
+    <string name="smart_charging_footer">스마트 충전으로 배터리의 수명을 연장하기 위해 최대 충전 레벨을 설정할 수 있습니다.</string>
+
+    
+    <string name="dc_dimming_title">DC 디밍</string>
+    <string name="dc_dimming_info">화면 깜박임을 최소화하여 낮은 조명 조건에서 눈 변형을 줄입니다.이미지 품질이 감소하고 색상 생산이 좋지 않거나 전력 소비가 높아질 수 있습니다.</string>
+    <string name="dc_dimming_main_switch_title">DC 디밍을 사용하십시오</string>
+    <string name="keywords_display_dc_dimming">DC 디밍, 안티, 깜박임, 눈, 변형</string>
+
+    
+    <string name="adaptive_playback_screen_title">똑똑한 일시 중지</string>
+    <string name="adaptive_playback_enabled">Smart Pause를 사용하십시오</string>
+    <string name="adaptive_playback_disabled_summary">끄다</string>
+    <string name="adaptive_playback_intro_text">볼륨이 음소거되면 자동으로 미디어를 일시 중지하고 설정 시간 내에 볼륨이 복원되면 자동으로 재개됩니다.</string>
+    <string name="adaptive_playback_timeout_title">시간 초과를 사용하십시오</string>
+    <string name="adaptive_playback_timeout_none">시간 초과가 없습니다</string>
+    <string name="adaptive_playback_timeout_none_summary">on (시간 초과 없음)</string>
+    <string name="adaptive_playback_timeout_30_secs">30 초</string>
+    <string name="adaptive_playback_timeout_30_secs_summary">(30 초)</string>
+    <string name="adaptive_playback_timeout_1_min">1 분</string>
+    <string name="adaptive_playback_timeout_1_min_summary">on (1 분)</string>
+    <string name="adaptive_playback_timeout_2_min">2 분</string>
+    <string name="adaptive_playback_timeout_2_min_summary">on (2 분)</string>
+    <string name="adaptive_playback_timeout_5_min">5 분</string>
+    <string name="adaptive_playback_timeout_5_min_summary">on (5 분)</string>
+    <string name="adaptive_playback_timeout_10_min">10 분</string>
+    <string name="adaptive_playback_timeout_10_min_summary">on (10 분)</string>
+
+    
+    <string name="three_finger_gesture">스크린 샷으로 스 와이프하십시오</string>
+    <string name="three_finger_gesture_summary">스크린 샷을 찍기 위해 세 손가락으로 스 와이프하십시오</string>
+
+    
+    <string name="prevent_ringing_option_cycle">모드를 순환하십시오</string>
+    <string name="prevent_ringing_option_cycle_summary">on (모드를 통과)</string>
+
+    
+    <string name="ambient_display_screen_off_udfps_title">항상 지문에</string>
+    
+    <string name="category_name_refresh_rate_controls">새로 고침 속도</string>
+
+    
+    <string name="volume_button_music_control_title">재생 제어</string>
+    <string name="volume_button_music_control_summary">화면이 꺼져 있으면 긴 볼륨 키가 음악 트랙을 건너 뛸 수 있습니다.</string>
+
+    
+    <string name="gestures_one_finger_swipe_up">한 손가락 스 와이프</string>
+    <string name="gestures_one_finger_swipe_right">하나의 손가락 스 와이프 오른쪽</string>
+    <string name="gestures_one_finger_swipe_down">하나의 손가락 스 와이프</string>
+    <string name="gestures_one_finger_swipe_left">1 손가락 스 와이프 왼쪽</string>
+    <string name="gestures_two_finger_swipe">두 손가락 스 와이프</string>
+
+    
+    <string name="power_button_torch_title">빠른 토치</string>
+    <string name="power_button_torch_summary">화면이 꺼져 있으면 긴 압력 버튼 버튼이 횃불을 활성화합니다.</string>
+
+    
+    <string name="icon_manager_title">아이콘 관리자</string>
+    <string name="icon_manager_summary">상태 표시 줄 아이콘의 제어 가시성</string>
+
+    
+    <string name="navbar_invert_layout_title">내비게이션 막대 레이아웃을 반전시킵니다</string>
+    <string name="navbar_invert_info">탐색 표시 줄에서 \"back \"및 \"recents \"버튼을 교체</string>
+    <string name="system_black_theme_title">검은 테마를 사용하십시오</string>
+    <string name="system_black_theme_summary">검은 배경색을 강제로합니다</string>
+
+    
+    <string name="doze_gesture_ambient_title">주변을 보여주십시오</string>
+    <string name="doze_gesture_ambient_summary">화면을 완전히 깨우는 대신 주변 디스플레이 표시</string>
+    <string name="gesture_wake_ambient">주변을 보여주십시오</string>
+    <string name="gesture_wake">완전히 깨워</string>
+
+    
+    <string name="color_mode_balance_category">색 균형</string>
+    
+    <string name="color_mode_balance_red">적색 강도</string>
+    
+    <string name="color_mode_balance_green">녹색 강도</string>
+    
+    <string name="color_mode_balance_blue">파란색 강도</string>
+    <string name="keywords_color_balance">색상, 색상 균형, 색 보정, 빨강, 녹색, 파란색, LiedisPlay</string>
+
+    
+    <string name="touch_polling_title">높은 터치 투표율</string>
+    
+    <string name="touch_polling_summary">대기 시간을 줄이기 위해 터치 스크린 폴링 속도를 높이십시오</string>
+
+    
+    <string name="doze_on_charge_title">충전 할 때 항상 켜져 있습니다</string>
+    <string name="doze_on_charge_summary">장치가 연결될 때만 항상 시간과 정보를 표시합니다.</string>
+
+    
+    <string name="notification_sound_vib_screen_on_title">성가신 알림</string>
+    <string name="notification_sound_vib_screen_on_summary">화면이 켜져있을 때 알림을 위해 소리와 진동을 재생합니다.</string>
+
+    
+    <string name="display_cutout_force_fullscreen_title">전체 화면 앱</string>
+    <string name="display_cutout_force_fullscreen_summary">앱이 노치 공간을 무시하도록 강요합니다</string>
+    <string name="display_cutout_force_fullscreen_search">찾다</string>
+    <string name="display_cutout_force_fullscreen_search_apps">검색 앱</string>
+
+    
+    <string name="keywords_pulse_ambient_light_display">알림, 알림, 가장자리, 빛, 색상, 색상</string>
+    <string name="pulse_ambient_light_text">에지 조명은 알림을받을 때 화면을 빛납니다.이렇게하면 전화가 졸음 모드 인 동안 맥박을 얻을 때 쉽게 파악할 수 있습니다.</string>
+    <string name="pulse_ambient_light_switch">에지 조명을 사용하십시오</string>
+    <string name="pulse_ambient_light_title">가장자리 조명</string>
+    <string name="pulse_ambient_light_summary">알림 펄스에서 화면의 측면 가장자리를 밝힙니다.</string>
+    <string name="pulse_ambient_light_color">맥동 할 때 사용하십시오</string>
+
+    
+    <string name="refresh_rate_footer">새로 고침 속도가 높을수록 디스플레이를 더 부드럽게 만들지 만 전력 소비가 증가합니다.</string>
+    <string name="battery_technology">기술</string>
+    <string name="battery_health">건강</string>
+    <string name="battery_health_good">좋은</string>
+    <string name="battery_health_overheat">과열</string>
+    <string name="battery_health_dead">죽은</string>
+    <string name="battery_health_cold">추운</string>
+    <string name="heads_up_summary">화면 상단의 배너로 알림 선택 표시</string>
+    <string name="heads_up_off">헤드 업은 전 세계적으로 비활성화됩니다</string>
+
+    
+    <string name="notification_vibration_pattern_title">알림 진동 패턴</string>
+    <string name="ring_vibration_pattern_title">고리 진동 패턴</string>
+    <string name="pattern_default">장치 기본값</string>
+    <string name="battery_light_title">배터리 조명</string>
+
+    
+    <string name="copied_to_clipboard">클립 보드에 복사</string>
+    <string name="longpress_to_clipboard">복사하기 위해 긴 압박</string>
+
+    
+    <string name="background_processes_settings_title">배경 프로세스</string>
+
+    
+    <string name="app_lock_title">앱 잠금</string>
+    <string name="app_lock_authentication_dialog_title">터놓다</string>
+    <string name="enable_debugging">디버깅 활성화</string>
+    <string name="disable_debugging">디버깅을 비활성화합니다</string>
+    <string name="app_lock_packages_title">보호 된 앱</string>
+    <string name="app_lock_packages_summary">생체 인식 또는 장치 자격 증명으로 보호 할 앱을 선택하십시오.</string>
+    <string name="app_lock_timeout_title">자동 잠금 시간 초과</string>
+    <string name="app_lock_timeout_summary">백그라운드에서 잠금 해제 된 앱을 잠그는 시간</string>
+    <string name="app_lock_notifications_title">알림을 수정합니다</string>
+    <string name="app_lock_notifications_summary">선택한 앱이 잠겨있을 때 알림 컨텐츠가 숨겨져서 붕괴됩니다.
+헤드 업 알림은 자동으로 비활성화됩니다.</string>
+    <string name="app_lock_notifications_disabled_summary">먼저 응용 프로그램을 보호하십시오</string>
+    <string name="app_lock_biometrics_allowed_title">잠금 해제를위한 생체 인식을 활성화합니다</string>
+    <string name="app_lock_footer_text">기포는 시간 초과 후 자동으로 해산됩니다</string>
+    <string name="enable_protection">보호를 활성화합니다</string>
+    <string name="hide_from_launcher_title">런처에서 숨겨져 있습니다</string>
+    <string name="hide_from_launcher_summary">이 응용 프로그램이 런처에 표시되는 것을 방지하십시오.변경 사항이 적용되도록 런처를 다시 시작해야합니다.</string>
+    <string name="app_lock_timeout_5sec">5 초</string>
+    <string name="app_lock_timeout_10sec">10 초</string>
+    <string name="app_lock_timeout_30sec">30 초</string>
+    <string name="app_lock_timeout_1min">1 분</string>
+    <string name="app_lock_timeout_5min">5 분</string>
+    <string name="app_lock_timeout_10min">10 분</string>
+    <string name="app_lock_timeout_30min">30 분</string>
+
 </resources>

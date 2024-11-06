@@ -1,19 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Copyright 2016-2023 Paranoid Android
-
-     Licensed under the Apache License, Version 2.0 (the "License");
-     you may not use this file except in compliance with the License.
-     You may obtain a copy of the License at
-
-          http://www.apache.org/licenses/LICENSE-2.0
-
-     Unless required by applicable law or agreed to in writing, software
-     distributed under the License is distributed on an "AS IS" BASIS,
-     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-     See the License for the specific language governing permissions and
-     limitations under the License.
--->
-<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
     <string name="aospa_version">Paranoid Android 版本</string>
     <string name="dc_dimming_title">DC 調光</string>
     <string name="dc_dimming_info">在低光源環境中透過減少螢幕的閃爍次數來降低對眼睛的負擔。此功能可能導致螢幕顯示品質降低、色彩失準或耗電量增加等問題。</string>
@@ -145,4 +131,81 @@
     <string name="notification_vibration_pattern_title">通知震動樣式</string>
     <string name="ring_vibration_pattern_title">響鈴震動樣式</string>
     <string name="pattern_default">裝置預設設定</string>
+<string name="paranoid_settings_title">擴展集線器</string>
+    <string name="paranoid_settings_summary">額外的自定義</string>
+
+    
+    <string name="tethering_allow_vpn_upstreams_title">允許客戶使用VPN</string>
+    <string name="tethering_allow_vpn_upstreams_summary">允許熱點客戶使用此設備\ U2019S VPN連接以進行上游連接</string>
+
+    
+    <string name="smart_charging_title">明智的充電</string>
+    <string name="smart_charging_summary">設置最大充電水平</string>
+    <string name="smart_charging_switch_title">使用智能充電</string>
+    <string name="smart_charging_level_title">停止觸發級別</string>
+    <string name="smart_charging_resume_level_title">啟動觸發級別</string>
+    <string name="smart_charging_footer">明智的充電使您可以設置最大充電水平以延長電池的壽命</string>
+
+    
+    <string name="pulse_ambient_light_switch">使用邊緣照明</string>
+    <string name="battery_technology">技術</string>
+    <string name="battery_health">健康</string>
+    <string name="battery_health_good">好的</string>
+    <string name="battery_health_overheat">過熱</string>
+    <string name="battery_health_dead">死的</string>
+    <string name="battery_health_over_voltage">電壓超過</string>
+    <string name="battery_health_unspecified_failure">未指定的失敗</string>
+    <string name="battery_health_cold">寒冷的</string>
+    <string name="battery_health_unknown">未知</string>
+
+    
+    <string name="battery_temperature">溫度</string>
+    <string name="battery_voltage">電壓</string>
+    <string name="battery_charge_counter_summary">%1$d MAH</string>
+
+    
+    <string name="battery_design_capacity">設計能力</string>
+    <string name="battery_design_capacity_summary">%1$d MAH</string>
+    <string name="battery_maximum_capacity">最大容量</string>
+    <string name="battery_maximum_capacity_summary">%1$d MAH（%2$d %%）</string>
+    <string name="heads_up_title">小心</string>
+    <string name="heads_up_summary">將選擇通知顯示為屏幕頂部的橫幅</string>
+    <string name="heads_up_off">頭部在全球範圍內被禁用</string>
+
+    
+    <string name="battery_light_title">電池燈</string>
+
+    
+    <string name="copied_to_clipboard">複製到剪貼板</string>
+    <string name="longpress_to_clipboard">長壓要復制</string>
+
+    
+    <string name="background_processes_settings_title">背景過程</string>
+
+    
+    <string name="app_lock_title">應用鎖</string>
+    <string name="app_lock_authentication_dialog_title">開鎖</string>
+    <string name="enable_debugging">啟用調試</string>
+    <string name="disable_debugging">禁用調試</string>
+    <string name="app_lock_packages_title">受保護的應用</string>
+    <string name="app_lock_packages_summary">選擇使用生物識別技術或設備憑據保護的應用程序</string>
+    <string name="app_lock_timeout_title">自動鎖定超時</string>
+    <string name="app_lock_timeout_summary">持續時間，然後應將解鎖的應用在背景中鎖定</string>
+    <string name="app_lock_notifications_title">編輯通知</string>
+    <string name="app_lock_notifications_summary">通知內容將在選定的應用程序被鎖定時被隱藏並折疊。
+頭部通知將自動禁用。</string>
+    <string name="app_lock_notifications_disabled_summary">首先保護申請</string>
+    <string name="app_lock_biometrics_allowed_title">啟用生物特徵以解鎖</string>
+    <string name="app_lock_footer_text">暫停後將自動解散氣泡</string>
+    <string name="enable_protection">啟用保護</string>
+    <string name="hide_from_launcher_title">隱藏發射器</string>
+    <string name="hide_from_launcher_summary">防止此應用程序顯示在啟動器中。需要重新啟動以進行更改才能生效。</string>
+    <string name="app_lock_timeout_5sec">5秒</string>
+    <string name="app_lock_timeout_10sec">10秒</string>
+    <string name="app_lock_timeout_30sec">30秒</string>
+    <string name="app_lock_timeout_1min">1分鐘</string>
+    <string name="app_lock_timeout_5min">5分鐘</string>
+    <string name="app_lock_timeout_10min">10分鐘</string>
+    <string name="app_lock_timeout_30min">30分鐘</string>
+
 </resources>

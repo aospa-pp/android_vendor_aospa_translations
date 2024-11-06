@@ -1,21 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!--
-/*
-* Copyright (C) 2022 Paranoid Android
-*
-* Licensed under the Apache License, Version 2.0 (the "License");
-* you may not use this file except in compliance with the License.
-* You may obtain a copy of the License at
-*
-*      http://www.apache.org/licenses/LICENSE-2.0
-*
-* Unless required by applicable law or agreed to in writing, software
-* distributed under the License is distributed on an "AS IS" BASIS,
-* WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-* See the License for the specific language governing permissions and
-* limitations under the License.
-*/
--->
+<?xml version='1.0' encoding='utf-8'?>
 <resources>
     <string name="title_show_google_feed">Scorri per accedere a Google Feed</string>
     <string name="msg_minus_one_on_left">Dalla schermata Home, scorri a sinistra per aprire Google Feed</string>
@@ -43,4 +26,28 @@
     <string name="recents_lens_title">Lens</string>
     <string name="smartspace_pref_title">At a Glance</string>
     <string name="smartspace_pref_summary">Mostra smartspace nella parte superiore della schermata Home</string>
+<string name="recents_chips_title">Usa il design di azione compatta</string>
+    <string name="recents_chips_summary">Può essere richiesto per un gran numero di azioni da visualizzare</string>
+
+    
+    <string name="hide_top_shadow_title">Nascondere l\'ombra superiore</string>
+    <string name="hide_top_shadow_summary">Rimuovi l\'ombra sotto la barra di stato</string>
+
+    
+    <string name="icon_size_title">Dimensione dell\'icona</string>
+
+    
+    <string name="font_size_title">Dimensione del carattere</string>
+
+    
+    <string name="meminfo_text">%1$s disponibile |  %2$s</string>
+    <string name="recents_meminfo_title">Informazioni sulla memoria</string>
+<string name="trust_apps_manager_name">App nascoste e protette</string>
+    <string name="trust_apps_auth_manager">Sblocca per gestire le app nascoste e protette</string>
+    <string name="trust_apps_auth_open_app">Autenticarsi per aprire %1$s</string>
+    <string name="trust_apps_loading">Caricamento \ U2026</string>
+    <string name="trust_apps_no_lock_error">Si prega di impostare una schermata di blocco sicura per limitare l\'accesso all\'app</string>
+    <string name="trust_apps_help">Aiuto</string>
+    <string name="trust_apps_info_hidden">Le app nascoste e i loro widget sono nascosti dal cassetto</string>
+    <string name="trust_apps_info_protected">Le app protette richiedono l\'apertura dell\'autenticazione dal lanciatore</string>
 </resources>

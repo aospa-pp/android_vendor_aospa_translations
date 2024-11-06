@@ -1,19 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Copyright 2016-2023 Paranoid Android
-
-     Licensed under the Apache License, Version 2.0 (the "License");
-     you may not use this file except in compliance with the License.
-     You may obtain a copy of the License at
-
-          http://www.apache.org/licenses/LICENSE-2.0
-
-     Unless required by applicable law or agreed to in writing, software
-     distributed under the License is distributed on an "AS IS" BASIS,
-     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-     See the License for the specific language governing permissions and
-     limitations under the License.
--->
-<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
     <string name="navbar_category">Γραμμή πλοήγησης</string>
     <string name="hide_navbar_gesture_bar_title">Απόκρυψη γραμμής χειρονομιών</string>
     <string name="hide_navbar_gesture_bar_summary">Απόκρυψη της γραμμής χειρονομιών στο κάτω μέρος της οθόνης</string>
@@ -50,4 +36,224 @@
     <string name="battery_temperature">Θερμοκρασία</string>
     <string name="battery_voltage">Τάση</string>
     <string name="heads_up_off">Οι αναδυόμενες ειδοποιήσεις είναι απενεργοποιημένες γενικά</string>
+<string name="aospa_version">Παρανοϊκή έκδοση Android</string>
+
+    <string name="paranoid_settings_title">Εκτεταμένος κόμβος</string>
+    <string name="paranoid_settings_summary">Επιπλέον προσαρμογές</string>
+
+    
+    <string name="tethering_allow_vpn_upstreams_title">Επιτρέψτε στους πελάτες να χρησιμοποιούν VPNs</string>
+    <string name="tethering_allow_vpn_upstreams_summary">Επιτρέψτε στους πελάτες hotspot να χρησιμοποιούν αυτή τη συσκευή \ u2019s συνδέσεις VPN για ανάντη συνδεσιμότητα</string>
+
+    
+    <string name="smart_charging_title">Έξυπνη φόρτιση</string>
+    <string name="smart_charging_summary">Ορίστε το μέγιστο επίπεδο φόρτισης</string>
+    <string name="smart_charging_switch_title">Χρησιμοποιήστε έξυπνη φόρτιση</string>
+    <string name="smart_charging_level_title">Σταματήστε το επίπεδο σκανδάλης</string>
+    <string name="smart_charging_resume_level_title">Ξεκινήστε το επίπεδο ενεργοποίησης</string>
+    <string name="smart_charging_footer">Η έξυπνη φόρτιση σάς επιτρέπει να ρυθμίσετε το μέγιστο επίπεδο φόρτισης για να επεκτείνετε τη διάρκεια ζωής της μπαταρίας σας</string>
+
+    
+    <string name="dc_dimming_title">DC Dimming</string>
+    <string name="dc_dimming_info">Μειώνει την καταπόνηση των ματιών σε συνθήκες χαμηλού φωτισμού με την ελαχιστοποίηση του τρεμούλείου της οθόνης.Μπορεί να οδηγήσει σε μειωμένη ποιότητα εικόνας και κακή παραγωγή χρωμάτων ή υψηλότερη κατανάλωση ενέργειας.</string>
+    <string name="dc_dimming_main_switch_title">Χρησιμοποιήστε DC Dimming</string>
+    <string name="keywords_display_dc_dimming">DC Dimming, Anti, Flicker, Eye, Strain</string>
+
+    
+    <string name="adaptive_playback_screen_title">Έξυπνη παύση</string>
+    <string name="adaptive_playback_enabled">Χρησιμοποιήστε έξυπνη παύση</string>
+    <string name="adaptive_playback_disabled_summary">Μακριά από</string>
+    <string name="adaptive_playback_intro_text">Αυτόματη παύση των μέσων όταν ο όγκος είναι σιωπηλός και θα επαναληφθεί αυτόματα όταν αποκατασταθεί ο όγκος εντός της καθορισμένης ώρας.</string>
+    <string name="adaptive_playback_timeout_title">Χρησιμοποιήστε ένα χρονικό όριο του</string>
+    <string name="adaptive_playback_timeout_none">Χωρίς χρονικό όριο</string>
+    <string name="adaptive_playback_timeout_none_summary">(Χωρίς χρονικό όριο)</string>
+    <string name="adaptive_playback_timeout_30_secs">30 δευτερόλεπτα</string>
+    <string name="adaptive_playback_timeout_30_secs_summary">(30 δευτερόλεπτα)</string>
+    <string name="adaptive_playback_timeout_1_min">1 λεπτό</string>
+    <string name="adaptive_playback_timeout_1_min_summary">Στο (1 λεπτό)</string>
+    <string name="adaptive_playback_timeout_2_min">2 λεπτά</string>
+    <string name="adaptive_playback_timeout_2_min_summary">(2 λεπτά)</string>
+    <string name="adaptive_playback_timeout_5_min">5 λεπτά</string>
+    <string name="adaptive_playback_timeout_5_min_summary">(5 λεπτά)</string>
+    <string name="adaptive_playback_timeout_10_min">10 λεπτά</string>
+    <string name="adaptive_playback_timeout_10_min_summary">(10 λεπτά)</string>
+
+    
+    <string name="three_finger_gesture">Σύρετε στο στιγμιότυπο οθόνης</string>
+    <string name="three_finger_gesture_summary">Συντάξτε με τρία δάχτυλα για να πάρετε ένα στιγμιότυπο οθόνης</string>
+
+    
+    <string name="prevent_ringing_option_cycle">Κύκλος μέσω τρόπων</string>
+    <string name="prevent_ringing_option_cycle_summary">(Κύκλος μέσω τρόπων)</string>
+
+    
+    <string name="ambient_display_screen_off_udfps_title">Πάντα στο δακτυλικό αποτύπωμα</string>
+    
+    <string name="ambient_display_screen_off_udfps_summary">Επιτρέπει την απελευθέρωση με την οθόνη.</string>
+
+    
+    <string name="category_name_refresh_rate_controls">Ρυθμός ανανέωσης</string>
+
+    
+    <string name="volume_button_music_control_title">Έλεγχος αναπαραγωγής</string>
+    <string name="volume_button_music_control_summary">Όταν η οθόνη είναι απενεργοποιημένη, τα πλήκτρα έντασης μακράς πίεσης θα παραλείψουν κομμάτια μουσικής</string>
+
+    
+    <string name="offscreen_gesture_title">Απενεργοποιημένες χειρονομίες</string>
+    <string name="offscreen_gesture_summary">Σχεδιάστε μοτίβα ή πατήστε στην οθόνη για να εκτελέσετε ενέργειες</string>
+    <string name="keywords_gestures">Οθόνη αφής οθόνης οθόνης οθόνης οθόνης</string>
+
+    <string name="gestures_master">Χρησιμοποιήστε χειρονομίες οθόνης</string>
+    <string name="gestures_disabled">Ανάπηρος</string>
+    <string name="gestures_wake_device">Συσκευή αφύπνισης</string>
+    <string name="gestures_pulse_ambient_display">Παλμός σε οθόνη περιβάλλοντος</string>
+    <string name="gestures_toggle_flashlight">Εναλλαγή φακού</string>
+    <string name="gestures_toggle_airplane_mode">Εναλλαγή λειτουργίας αεροπλάνου</string>
+    <string name="gestures_play_pause_music">Παίξτε/πατήστε μουσική</string>
+    <string name="gestures_next_music">Επόμενη μουσική</string>
+    <string name="gestures_previous_music">Προηγούμενη μουσική</string>
+    <string name="gestures_open_camera">Ανοιχτή κάμερα</string>
+    <string name="gestures_open_dialer">Ανοιχτό τηλεφωνητή</string>
+
+    <string name="gestures_double_tap">Διπλάσιος</string>
+    <string name="gestures_single_tap">Μονόπλευρτος</string>
+    <string name="gestures_draw_v">Κλήρωση v</string>
+    <string name="gestures_draw_inverse_v">Σχεδιάστε αντίστροφα V</string>
+    <string name="gestures_draw_o">Σχεδιάζω o</string>
+    <string name="gestures_draw_m">Τραβήξτε m</string>
+    <string name="gestures_draw_w">Σχεδιάζω w</string>
+    <string name="gestures_draw_s">Τραβήξτε s</string>
+    <string name="gestures_draw_arrow_left">Κλήρωση &lt;</string>
+    <string name="gestures_draw_arrow_right">Κλήρωση&gt;</string>
+    <string name="gestures_one_finger_swipe_up">Ένα δάχτυλο σέρνεται επάνω</string>
+    <string name="gestures_one_finger_swipe_right">Ένα δάχτυλο σέρβις δεξιά</string>
+    <string name="gestures_one_finger_swipe_down">Ένα δάχτυλο σέρνεται κάτω</string>
+    <string name="gestures_one_finger_swipe_left">Αριστερά με ένα δάχτυλο</string>
+    <string name="gestures_two_finger_swipe">Τσίμπημα με δάχτυλο</string>
+
+    
+    <string name="screenshot_shutter_sound_title">Ήχος οθόνης</string>
+
+    
+    <string name="power_button_torch_title">Γρήγορος φακός</string>
+    <string name="power_button_torch_summary">Όταν η οθόνη είναι απενεργοποιημένη, το κουμπί λειτουργίας μακράς πίεσης θα ενεργοποιήσει το Torch</string>
+
+    
+    <string name="icon_manager_title">Διαχειριστής εικονιδίων</string>
+    <string name="icon_manager_summary">Ελέγξτε την ορατότητα των εικονιδίων της γραμμής κατάστασης</string>
+
+    
+    <string name="navbar_invert_layout_title">Διάταξη γραμμής πλοήγησης αναστροφής</string>
+    <string name="navbar_invert_info">Ανταλλάξτε τα κουμπιά \"back \"και \"recents \"στη γραμμή πλοήγησης</string>
+    <string name="system_black_theme_title">Χρησιμοποιήστε το μαύρο θέμα</string>
+    <string name="system_black_theme_summary">Αναγκάστε τα μαύρα χρώματα φόντου</string>
+
+    
+    <string name="charging_control_start_time_summary">Ο έλεγχος φόρτισης ενεργοποιείται όταν ξεκινάτε τη φόρτιση μετά το %s</string>
+    <string name="charging_control_target_time_summary">Η μπαταρία θα φορτιστεί πλήρως κατά %s</string>
+    <string name="doze_gesture_ambient_title">Εμφάνιση περιβάλλοντος</string>
+    <string name="doze_gesture_ambient_summary">Εμφάνιση οθόνης περιβάλλοντος αντί να ξυπνάτε πλήρως την οθόνη</string>
+    <string name="gesture_wake_ambient">Εμφάνιση περιβάλλοντος</string>
+    <string name="gesture_wake">Πλήρως ξυπνήσω</string>
+
+    
+    <string name="color_mode_balance_category">Ισορροπία χρωμάτων</string>
+    
+    <string name="color_mode_balance_red">Κόκκινη δύναμη</string>
+    
+    <string name="color_mode_balance_green">Πράσινη δύναμη</string>
+    
+    <string name="color_mode_balance_blue">Μπλε δύναμη</string>
+    <string name="keywords_color_balance">Χρώμα, ισορροπία χρωμάτων, διόρθωση χρώματος, κόκκινο, πράσινο, μπλε, liveDISPlay</string>
+
+    
+    <string name="touch_polling_title">Υψηλό ποσοστό ψηφοφορίας</string>
+    
+    <string name="touch_polling_summary">Αύξηση του ποσοστού δημοσκοπήσεων οθόνης αφής για να μειώσετε την καθυστέρηση</string>
+
+    
+    <string name="doze_on_charge_title">Πάντα μετά τη φόρτιση</string>
+    <string name="doze_on_charge_summary">Εμφανίστε πάντα χρόνο και πληροφορίες μόνο όταν η συσκευή είναι συνδεδεμένη</string>
+
+    
+    <string name="proximity_wake_title">Αποτρέψτε την τυχαία αφύπνιση</string>
+    <string name="proximity_wake_summary">Ελέγξτε τον αισθητήρα εγγύτητας πριν από την αφύπνιση της οθόνης</string>
+
+    
+    <string name="smart_5g_title">Έξυπνο 5G</string>
+    <string name="smart_5g_summary">Αυτόματη μεταβολή μεταξύ 5G και 4G για μείωση της κατανάλωσης μπαταρίας</string>
+
+    
+    <string name="notification_sound_vib_screen_on_title">Ενοχλητικές ειδοποιήσεις</string>
+    <string name="notification_sound_vib_screen_on_summary">Παίξτε ήχο και δόνηση για ειδοποιήσεις όταν η οθόνη είναι ενεργοποιημένη</string>
+
+    
+    <string name="display_cutout_force_fullscreen_title">Εφαρμογές πλήρους οθόνης</string>
+    <string name="display_cutout_force_fullscreen_summary">Ανεξάρτητα από τις εφαρμογές να αγνοήσουν το Notch Space</string>
+    <string name="display_cutout_force_fullscreen_search">Ερευνα</string>
+    <string name="display_cutout_force_fullscreen_search_apps">Εφαρμογές αναζήτησης</string>
+
+    
+    <string name="keywords_pulse_ambient_light_display">ειδοποίηση, ειδοποιήσεις, άκρη, φως, χρώμα, χρώμα</string>
+    <string name="pulse_ambient_light_text">Ο φωτισμός άκρων κάνει την οθόνη σας λάμψη όταν λαμβάνετε μια ειδοποίηση.Αυτό καθιστά ευκολότερο να υπολογίσετε όταν παίρνετε παλμό ενώ το τηλέφωνο είναι λειτουργία Doze.</string>
+    <string name="pulse_ambient_light_switch">Χρησιμοποιήστε φωτισμό ακμής</string>
+    <string name="pulse_ambient_light_title">Ακμή φωτισμός</string>
+    <string name="pulse_ambient_light_summary">Φωτίστε τις πλευρικές άκρες της οθόνης στον παλμό ειδοποίησης</string>
+    <string name="ambient_notification_light_accent_title">Σύστημα έμφαση στο χρώμα</string>
+    <string name="ambient_notification_light_color_automatic_title">Χρώμα ειδοποίησης</string>
+    <string name="pulse_ambient_light_color">Όταν παλλίζει, χρησιμοποιήστε</string>
+
+    
+    <string name="refresh_rate_summary_vrr_off">%d hz</string>
+    <string name="keywords_refresh_rate">Ανανέωση, τιμή, ομαλή, κορυφή, 60Hz, 90Hz, 120Hz, 144Hz, 165Hz</string>
+
+    
+    <string name="battery_technology">Τεχνολογία</string>
+    <string name="battery_charge_counter_summary">%1$d mah</string>
+
+    
+    <string name="battery_design_capacity">Χωρητικότητα σχεδιασμού</string>
+    <string name="battery_design_capacity_summary">%1$d mah</string>
+    <string name="battery_maximum_capacity">Μέγιστη χωρητικότητα</string>
+    <string name="battery_maximum_capacity_summary">%1$d mah (%2$d %%)</string>
+    <string name="heads_up_title">Επικεφαλής</string>
+    <string name="heads_up_summary">Εμφάνιση ειδοποιήσεων Select ως banner σε όλη την κορυφή της οθόνης</string>
+    <string name="notification_vibration_pattern_title">Πρότυπο κραδασμών ειδοποίησης</string>
+    <string name="ring_vibration_pattern_title">Μοτίβο δόνησης δακτυλίου</string>
+    <string name="pattern_default">Προεπιλογή της συσκευής</string>
+    <string name="battery_light_title">Φωτισμός μπαταρίας</string>
+
+    
+    <string name="copied_to_clipboard">Αντιγράφηκε στο πρόχειρο</string>
+    <string name="longpress_to_clipboard">Μακρύς πίεση για αντιγραφή</string>
+
+    
+    <string name="background_processes_settings_title">Διαδικασίες υποβάθρου</string>
+
+    
+    <string name="app_lock_title">Κλείδωμα εφαρμογής</string>
+    <string name="app_lock_authentication_dialog_title">Ξεκλειδώνω</string>
+    <string name="enable_debugging">Ενεργοποίηση εντοπισμού σφαλμάτων</string>
+    <string name="disable_debugging">Απενεργοποίηση εντοπισμού σφαλμάτων</string>
+    <string name="app_lock_packages_title">Προστατευμένες εφαρμογές</string>
+    <string name="app_lock_packages_summary">Επιλέξτε τις εφαρμογές για προστασία με βιομετρία ή διαπιστευτήρια συσκευής</string>
+    <string name="app_lock_timeout_title">Χρονικό όριο αυτόματης κλειδαριάς</string>
+    <string name="app_lock_timeout_summary">Η διάρκεια του χρόνου μετά από την οποία θα πρέπει να κλειδωθεί μια ξεκλειδωμένη εφαρμογή στο παρασκήνιο</string>
+    <string name="app_lock_notifications_title">Ειδοποιήσεις REDACT</string>
+    <string name="app_lock_notifications_summary">Το περιεχόμενο κοινοποίησης θα κρυφτεί και θα καταρρεύσει για επιλεγμένες εφαρμογές όταν είναι κλειδωμένες.
+Οι επικεφαλής ειδοποιήσεις θα απενεργοποιηθούν αυτόματα.</string>
+    <string name="app_lock_notifications_disabled_summary">Προστατέψτε πρώτα μια εφαρμογή</string>
+    <string name="app_lock_biometrics_allowed_title">Ενεργοποίηση βιομετρικών στοιχείων για ξεκλείδωμα</string>
+    <string name="app_lock_footer_text">Οι φυσαλίδες θα απορριφθούν αυτόματα μετά το χρονικό όριο</string>
+    <string name="enable_protection">Ενεργοποίηση προστασίας</string>
+    <string name="hide_from_launcher_title">Απόκρυψη από τον εκτοξευτή</string>
+    <string name="hide_from_launcher_summary">Αποτρέψτε την εφαρμογή αυτής της εφαρμογής στο Launcher.Απαιτεί μια επανεκκίνηση για να τεθεί σε ισχύ οι αλλαγές.</string>
+    <string name="app_lock_timeout_5sec">5 δευτερόλεπτα</string>
+    <string name="app_lock_timeout_10sec">10 δευτερόλεπτα</string>
+    <string name="app_lock_timeout_30sec">30 δευτερόλεπτα</string>
+    <string name="app_lock_timeout_1min">1 λεπτό</string>
+    <string name="app_lock_timeout_5min">5 λεπτά</string>
+    <string name="app_lock_timeout_10min">10 λεπτά</string>
+    <string name="app_lock_timeout_30min">30 λεπτά</string>
+
 </resources>
