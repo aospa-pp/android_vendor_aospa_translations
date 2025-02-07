@@ -1,0 +1,92 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+<string name="aospa_version">சித்தப்பிரமை Android பதிப்பு</string>
+
+    
+    <string name="adaptive_playback_screen_title">ஸ்மார்ட் இடைநிறுத்தம்</string>
+    <string name="adaptive_playback_enabled">ஸ்மார்ட் இடைநிறுத்தத்தைப் பயன்படுத்தவும்</string>
+    <string name="adaptive_playback_disabled_summary">ஆஃப்</string>
+    <string name="adaptive_playback_intro_text">தொகுதி முடக்கப்படும் போது தானாகவே ஊடகத்தை இடைநிறுத்துகிறது மற்றும் நிர்ணயிக்கப்பட்ட நேரத்திற்குள் தொகுதி மீட்டெடுக்கப்படும்போது தானாகவே மீண்டும் தொடங்கும்.</string>
+    <string name="adaptive_playback_timeout_title">ஒரு காலக்கெடு பயன்படுத்தவும்</string>
+    <string name="adaptive_playback_timeout_none">நேரம் முடிந்தது</string>
+    <string name="adaptive_playback_timeout_none_summary">ஆன் (நேரம் முடிந்தது)</string>
+    <string name="adaptive_playback_timeout_30_secs">30 வினாடிகள்</string>
+    <string name="adaptive_playback_timeout_30_secs_summary">ஆன் (30 விநாடிகள்)</string>
+    <string name="adaptive_playback_timeout_1_min">1 நிமிடம்</string>
+    <string name="adaptive_playback_timeout_1_min_summary">ஆன் (1 நிமிடம்)</string>
+    <string name="adaptive_playback_timeout_2_min">2 நிமிடங்கள்</string>
+    <string name="adaptive_playback_timeout_2_min_summary">ஆன் (2 நிமிடங்கள்)</string>
+    <string name="adaptive_playback_timeout_5_min">5 நிமிடங்கள்</string>
+    <string name="adaptive_playback_timeout_5_min_summary">ஆன் (5 நிமிடங்கள்)</string>
+    <string name="adaptive_playback_timeout_10_min">10 நிமிடங்கள்</string>
+    <string name="adaptive_playback_timeout_10_min_summary">ஆன் (10 நிமிடங்கள்)</string>
+
+    
+    <string name="doze_gesture_ambient_title">சுற்றுப்புறத்தைக் காட்டு</string>
+    <string name="doze_gesture_ambient_summary">திரையை முழுமையாக எழுப்புவதற்கு பதிலாக சுற்றுப்புற காட்சியைக் காட்டு</string>
+    <string name="gesture_wake_ambient">சுற்றுப்புறத்தைக் காட்டு</string>
+    <string name="gesture_wake">முழுமையாக எழுந்திரு</string>
+
+    
+    <string name="connected_device_codec_preference">குவால்காம் APTX ™ கோடெக் விருப்பத்தேர்வுகள்</string>
+
+    
+    <string name="battery_technology">தொழில்நுட்பம்</string>
+    <string name="battery_health">ஆரோக்கியம்</string>
+    <string name="battery_health_good">நல்லது</string>
+    <string name="battery_health_overheat">அதிக வெப்பம்</string>
+    <string name="battery_health_dead">இறந்துவிட்டார்</string>
+    <string name="battery_health_over_voltage">ஓவர் மின்னழுத்தம்</string>
+    <string name="battery_health_unspecified_failure">குறிப்பிடப்படாத தோல்வி</string>
+    <string name="battery_health_cold">குளிர்</string>
+    <string name="battery_health_unknown">தெரியவில்லை</string>
+    <string name="battery_temperature">வெப்பநிலை</string>
+    <string name="battery_voltage">மின்னழுத்தம்</string>
+    <string name="battery_design_capacity">வடிவமைப்பு திறன்</string>
+    <string name="battery_maximum_capacity">அதிகபட்ச திறன்</string>
+    <string name="dc_dimming_title">டி.சி மங்கலானது</string>
+    <string name="dc_dimming_info">ஸ்கிரீன் ஃப்ளிக்கரைக் குறைப்பதன் மூலம் குறைந்த ஒளி நிலைகளில் கண் அழுத்தத்தை குறைக்கிறது.படத்தின் தரம் மற்றும் மோசமான வண்ண உற்பத்தி அல்லது அதிக மின் நுகர்வு ஆகியவற்றை குறைக்கும்.</string>
+    <string name="dc_dimming_main_switch_title">டி.சி மங்கலானது பயன்படுத்தவும்</string>
+    <string name="keywords_display_dc_dimming">டி.சி மங்கலானது, ஆன்டி, ஃப்ளிக்கர், கண், திரிபு</string>
+
+    
+    <string name="doze_on_charge_title">கட்டணம் வசூலிக்கும்போது எப்போதும் இருக்கும்</string>
+    <string name="doze_on_charge_summary">சாதனம் செருகப்படும்போது மட்டுமே நேரத்தையும் தகவலையும் எப்போதும் காண்பி</string>
+
+    
+    <string name="data_category_title">தரவு</string>
+
+    
+    <string name="proximity_wake_title">தற்செயலான எழுச்சியைத் தடுக்கவும்</string>
+    <string name="proximity_wake_summary">திரையை எழுப்புவதற்கு முன் அருகாமையில் சென்சார் சரிபார்க்கவும்</string>
+
+    
+    <string name="power_button_torch_title">விரைவான டார்ச்</string>
+    <string name="power_button_torch_summary">திரை முடக்கப்படும் போது, ​​நீண்ட அழுத்தும் சக்தி பொத்தானை டார்ச்சை இயக்கும்</string>
+
+    
+    <string name="refresh_rate_title">வீதத்தை புதுப்பிக்கவும்</string>
+    <string name="refresh_rate_summary_vrr_off">%d hz</string>
+    <string name="refresh_rate_summary_vrr_on">%d hz (தகவமைப்பு)</string>
+    <string name="refresh_rate_vrr_title">தகவமைப்பு புதுப்பிப்பு வீதம்</string>
+    <string name="refresh_rate_vrr_summary">சக்தியைச் சேமிக்க, காட்சி சும்மா இருக்கும்போது புதுப்பிப்பு வீதத்தை தானாகவே குறைக்கும்.சில காட்சிகளில் ஒளிரும் அல்லது வண்ண மாற்றத்தை ஏற்படுத்தக்கூடும்</string>
+    <string name="refresh_rate_footer">அதிக புதுப்பிப்பு வீதம் காட்சியை மென்மையாக்குகிறது, ஆனால் மின் நுகர்வு அதிகரிக்கிறது</string>
+    <string name="keywords_refresh_rate">புதுப்பிப்பு, வீதம், மென்மையான, உச்ச, 60 ஹெர்ட்ஸ், 90 ஹெர்ட்ஸ், 120 ஹெர்ட்ஸ், 144 ஹெர்ட்ஸ், 165 ஹெர்ட்ஸ்</string>
+
+    
+    <string name="security_settings_screen_off_unlock_udfps_title">ஸ்கிரீன்-ஆஃப் கைரேகை திறத்தல்</string>
+    <string name="security_settings_screen_off_unlock_udfps_keywords">ஸ்கிரீன்-ஆஃப், திறத்தல்</string>
+    <string name="security_settings_screen_off_unlock_udfps_description">திரை முடக்கப்பட்டிருந்தாலும் கைரேகை திறத்தல் பயன்படுத்தவும்</string>
+
+    
+    <string name="screenshot_shutter_sound_title">ஸ்கிரீன்ஷாட் ஒலி</string>
+
+    
+    <string name="icon_manager_title">நிலை பட்டி சின்னங்கள்</string>
+    <string name="icon_manager_summary">நிலை பட்டி ஐகான்களின் தெரிவுநிலையைக் கட்டுப்படுத்துங்கள்</string>
+
+    
+    <string name="notification_vibration_pattern_title">அறிவிப்பு அதிர்வு முறை</string>
+    <string name="ring_vibration_pattern_title">வளைய அதிர்வு முறை</string>
+    <string name="pattern_default">சாதன இயல்புநிலை</string>
+    </resources>

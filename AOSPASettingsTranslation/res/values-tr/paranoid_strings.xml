@@ -1,0 +1,92 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+<string name="aospa_version">Paranoyak Android Versiyon</string>
+
+    
+    <string name="adaptive_playback_screen_title">Akıllı duraklama</string>
+    <string name="adaptive_playback_enabled">Akıllı Duraklat kullan</string>
+    <string name="adaptive_playback_disabled_summary">Kapalı</string>
+    <string name="adaptive_playback_intro_text">Hacim sessizleştiğinde otomatik olarak medyayı durdurur ve hacim belirlenen süre içinde geri yüklendiğinde otomatik olarak devam eder.</string>
+    <string name="adaptive_playback_timeout_title">Bir zaman aşımı kullanın</string>
+    <string name="adaptive_playback_timeout_none">Zaman aşımı yok</string>
+    <string name="adaptive_playback_timeout_none_summary">ON (zaman aşımı yok)</string>
+    <string name="adaptive_playback_timeout_30_secs">30 saniye</string>
+    <string name="adaptive_playback_timeout_30_secs_summary">(30 saniye)</string>
+    <string name="adaptive_playback_timeout_1_min">1 dakika</string>
+    <string name="adaptive_playback_timeout_1_min_summary">(1 dakika)</string>
+    <string name="adaptive_playback_timeout_2_min">2 dakika</string>
+    <string name="adaptive_playback_timeout_2_min_summary">(2 dakika)</string>
+    <string name="adaptive_playback_timeout_5_min">5 dakika</string>
+    <string name="adaptive_playback_timeout_5_min_summary">(5 dakika)</string>
+    <string name="adaptive_playback_timeout_10_min">10 dakika</string>
+    <string name="adaptive_playback_timeout_10_min_summary">(10 dakika)</string>
+
+    
+    <string name="doze_gesture_ambient_title">Ortam göster</string>
+    <string name="doze_gesture_ambient_summary">Ekranı tamamen uyandırmak yerine ortam ekranını gösterin</string>
+    <string name="gesture_wake_ambient">Ortam göster</string>
+    <string name="gesture_wake">Tamamen uyan</string>
+
+    
+    <string name="connected_device_codec_preference">Qualcomm® APTX ™ Codec Tercihleri</string>
+
+    
+    <string name="battery_technology">Teknoloji</string>
+    <string name="battery_health">Sağlık</string>
+    <string name="battery_health_good">İyi</string>
+    <string name="battery_health_overheat">Aşırı ıslatmak</string>
+    <string name="battery_health_dead">Ölü</string>
+    <string name="battery_health_over_voltage">Aşırı voltaj</string>
+    <string name="battery_health_unspecified_failure">Belirtilmemiş başarısızlık</string>
+    <string name="battery_health_cold">Soğuk</string>
+    <string name="battery_health_unknown">Bilinmeyen</string>
+    <string name="battery_temperature">Sıcaklık</string>
+    <string name="battery_voltage">Gerilim</string>
+    <string name="battery_design_capacity">Tasarım kapasitesi</string>
+    <string name="battery_maximum_capacity">Maksimum kapasite</string>
+    <string name="dc_dimming_title">DC karartma</string>
+    <string name="dc_dimming_info">Ekran titreşimini en aza indirerek düşük ışık koşullarında göz suşunu azaltır.Görüntü kalitesi ve zayıf renk üretimi veya daha yüksek güç tüketimi ile sonuçlanabilir.</string>
+    <string name="dc_dimming_main_switch_title">DC karartma kullanın</string>
+    <string name="keywords_display_dc_dimming">DC karartma, anti, titreme, göz, gerinim</string>
+
+    
+    <string name="doze_on_charge_title">Her zaman şarj olurken açık</string>
+    <string name="doze_on_charge_summary">Her zaman zaman ve bilgileri yalnızca cihaz takıldığında gösterin</string>
+
+    
+    <string name="data_category_title">Veri</string>
+
+    
+    <string name="proximity_wake_title">Kazara uyanmayı önleyin</string>
+    <string name="proximity_wake_summary">Ekranı uyandırmadan önce yakınlık sensörünü kontrol edin</string>
+
+    
+    <string name="power_button_torch_title">Hızlı meşale</string>
+    <string name="power_button_torch_summary">Ekran kapalı olduğunda, uzun basılı güç düğmesi meşale etkinleştirir</string>
+
+    
+    <string name="refresh_rate_title">Yenileme Hızı</string>
+    <string name="refresh_rate_summary_vrr_off">%d Hz</string>
+    <string name="refresh_rate_summary_vrr_on">%d Hz (uyarlanabilir)</string>
+    <string name="refresh_rate_vrr_title">Uyarlanabilir Yenileme Hızı</string>
+    <string name="refresh_rate_vrr_summary">Güç tasarrufu için ekran boşta olduğunda yenileme hızını otomatik olarak düşürün.Belirli ekranlarda titreme veya renk kaymasına neden olabilir</string>
+    <string name="refresh_rate_footer">Daha yüksek bir yenileme hızı, ekranı daha pürüzsüz hale getirir, ancak güç tüketimini artırır</string>
+    <string name="keywords_refresh_rate">Yenileme, oran, pürüzsüz, tepe, 60Hz, 90Hz, 120Hz, 144Hz, 165Hz</string>
+
+    
+    <string name="security_settings_screen_off_unlock_udfps_title">Ekran-kapalı parmak izi kilidini açma</string>
+    <string name="security_settings_screen_off_unlock_udfps_keywords">Ekran-kapama, kilidini aç</string>
+    <string name="security_settings_screen_off_unlock_udfps_description">Ekran kapalı olsa bile parmak izi kilidini kullanın</string>
+
+    
+    <string name="screenshot_shutter_sound_title">Ekran görüntüsü sesi</string>
+
+    
+    <string name="icon_manager_title">Durum çubuğu simgeleri</string>
+    <string name="icon_manager_summary">Durum çubuğu simgelerinin kontrol görünürlüğü</string>
+
+    
+    <string name="notification_vibration_pattern_title">Bildirim Titreşim Deseni</string>
+    <string name="ring_vibration_pattern_title">Halka titreşim deseni</string>
+    <string name="pattern_default">Cihaz varsayılan</string>
+    </resources>

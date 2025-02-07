@@ -1,0 +1,86 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+<string name="aospa_version">Version Android paranoïaque</string>
+
+    
+    <string name="adaptive_playback_screen_title">Pause intelligente</string>
+    <string name="adaptive_playback_enabled">Utilisez Smart Pause</string>
+    <string name="adaptive_playback_disabled_summary">Désactivé</string>
+    <string name="adaptive_playback_intro_text">Utilise automatiquement les supports lorsque le volume est muet et reprendra automatiquement lorsque le volume est restauré dans le délai défini.</string>
+    <string name="adaptive_playback_timeout_title">Utiliser un délai de</string>
+    <string name="adaptive_playback_timeout_none">Pas de temps mort</string>
+    <string name="adaptive_playback_timeout_none_summary">Sur (pas de temps mort)</string>
+    <string name="adaptive_playback_timeout_30_secs">30 secondes</string>
+    <string name="adaptive_playback_timeout_30_secs_summary">Sur (30 secondes)</string>
+    <string name="adaptive_playback_timeout_1_min">1 minute</string>
+    <string name="adaptive_playback_timeout_1_min_summary">Sur (1 minute)</string>
+    <string name="adaptive_playback_timeout_2_min">2 minutes</string>
+    <string name="adaptive_playback_timeout_2_min_summary">Sur (2 minutes)</string>
+    <string name="adaptive_playback_timeout_5_min">5 minutes</string>
+    <string name="adaptive_playback_timeout_5_min_summary">Sur (5 minutes)</string>
+    <string name="adaptive_playback_timeout_10_min">10 minutes</string>
+    <string name="adaptive_playback_timeout_10_min_summary">Sur (10 minutes)</string>
+
+    
+    <string name="doze_gesture_ambient_title">Montrer ambiant</string>
+    <string name="doze_gesture_ambient_summary">Afficher un affichage ambiant au lieu de réveiller complètement l\'écran</string>
+    <string name="gesture_wake_ambient">Montrer ambiant</string>
+    <string name="gesture_wake">Se réveiller complètement</string>
+
+    
+    <string name="connected_device_codec_preference">Préférences de codec Qualcomm® APTX ™</string>
+
+    
+    <string name="battery_technology">Technologie</string>
+    <string name="battery_health">Santé</string>
+    <string name="battery_health_good">Bien</string>
+    <string name="battery_health_overheat">Surchauffer</string>
+    <string name="battery_health_over_voltage">Sur tension</string>
+    <string name="battery_health_unspecified_failure">Échec non spécifié</string>
+    <string name="battery_temperature">Température</string>
+    <string name="battery_voltage">Tension</string>
+    <string name="battery_design_capacity">Capacité de conception</string>
+    <string name="battery_maximum_capacity">Capacité maximale</string>
+    <string name="dc_dimming_title">DC DCAT</string>
+    <string name="dc_dimming_info">Réduit la tension oculaire dans des conditions de faible luminosité en minimisant le scintillement d\'écran.Peut entraîner une réduction de la qualité d\'image et une mauvaise production de couleurs, ou une consommation d\'énergie plus élevée.</string>
+    <string name="dc_dimming_main_switch_title">Utilisez DC Sembally</string>
+    <string name="keywords_display_dc_dimming">DC Teamage, anti, scintiller, œil, tension</string>
+
+    
+    <string name="doze_on_charge_title">Toujours en charge lors de la charge</string>
+    <string name="doze_on_charge_summary">Affichez toujours le temps et les informations uniquement lorsque l\'appareil est branché</string>
+
+    
+    <string name="proximity_wake_title">Empêcher le réveil accidentel</string>
+    <string name="proximity_wake_summary">Vérifiez le capteur de proximité avant de réveiller l\'écran</string>
+
+    
+    <string name="power_button_torch_title">Torche rapide</string>
+    <string name="power_button_torch_summary">Lorsque l\'écran est éteint, le bouton d\'alimentation à longue pression permettra la torche</string>
+
+    
+    <string name="refresh_rate_title">Taux de rafraîchissement</string>
+    <string name="refresh_rate_summary_vrr_off">% d hz</string>
+    <string name="refresh_rate_summary_vrr_on">% d hz (adaptatif)</string>
+    <string name="refresh_rate_vrr_title">Taux de rafraîchissement adaptatif</string>
+    <string name="refresh_rate_vrr_summary">Baissez automatiquement le taux de rafraîchissement lorsque l\'écran est inactif, pour économiser l\'énergie.Peut provoquer un décalage ou un changement de couleur sur certains écrans</string>
+    <string name="refresh_rate_footer">Un taux de rafraîchissement plus élevé rend l\'écran plus fluide, mais augmente la consommation d\'énergie</string>
+    <string name="keywords_refresh_rate">actualiser, taux, lisse, pic, 60 Hz, 90 Hz, 120 Hz, 144 Hz, 165 Hz</string>
+
+    
+    <string name="security_settings_screen_off_unlock_udfps_title">Déblocage des empreintes digitales décolores</string>
+    <string name="security_settings_screen_off_unlock_udfps_keywords">Décolorer, déverrouiller</string>
+    <string name="security_settings_screen_off_unlock_udfps_description">Utilisez un déverrouillage d\'empreintes digitales même lorsque l\'écran est éteint</string>
+
+    
+    <string name="screenshot_shutter_sound_title">Capture d\'écran</string>
+
+    
+    <string name="icon_manager_title">Icônes de la barre d\'état</string>
+    <string name="icon_manager_summary">Contrôler la visibilité des icônes de la barre d\'état</string>
+
+    
+    <string name="notification_vibration_pattern_title">Modèle de vibration de notification</string>
+    <string name="ring_vibration_pattern_title">Motif de vibration de l\'anneau</string>
+    <string name="pattern_default">Défenture par défaut</string>
+    </resources>

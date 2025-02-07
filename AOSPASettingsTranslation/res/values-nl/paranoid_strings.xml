@@ -1,0 +1,92 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+<string name="aospa_version">Paranoïde Android -versie</string>
+
+    
+    <string name="adaptive_playback_screen_title">Slimme pauze</string>
+    <string name="adaptive_playback_enabled">Gebruik een slimme pauze</string>
+    <string name="adaptive_playback_disabled_summary">Uit</string>
+    <string name="adaptive_playback_intro_text">Automatisch pauzeert media wanneer het volume wordt gedempt en automatisch wordt hervat wanneer het volume wordt hersteld binnen de ingestelde tijd.</string>
+    <string name="adaptive_playback_timeout_title">Gebruik een time -out van</string>
+    <string name="adaptive_playback_timeout_none">Geen time -out</string>
+    <string name="adaptive_playback_timeout_none_summary">Op (geen time -out)</string>
+    <string name="adaptive_playback_timeout_30_secs">30 seconden</string>
+    <string name="adaptive_playback_timeout_30_secs_summary">Op (30 seconden)</string>
+    <string name="adaptive_playback_timeout_1_min">1 minuut</string>
+    <string name="adaptive_playback_timeout_1_min_summary">Op (1 minuut)</string>
+    <string name="adaptive_playback_timeout_2_min">2 minuten</string>
+    <string name="adaptive_playback_timeout_2_min_summary">Op (2 minuten)</string>
+    <string name="adaptive_playback_timeout_5_min">5 minuten</string>
+    <string name="adaptive_playback_timeout_5_min_summary">Op (5 minuten)</string>
+    <string name="adaptive_playback_timeout_10_min">10 minuten</string>
+    <string name="adaptive_playback_timeout_10_min_summary">Op (10 minuten)</string>
+
+    
+    <string name="doze_gesture_ambient_title">Toon ambient</string>
+    <string name="doze_gesture_ambient_summary">Toon omgevingsweergave in plaats van het scherm volledig wakker te maken</string>
+    <string name="gesture_wake_ambient">Toon ambient</string>
+    <string name="gesture_wake">Volledig wakker worden</string>
+
+    
+    <string name="connected_device_codec_preference">Qualcomm® APTX ™ -codec -voorkeuren</string>
+
+    
+    <string name="battery_technology">Technologie</string>
+    <string name="battery_health">Gezondheid</string>
+    <string name="battery_health_good">Goed</string>
+    <string name="battery_health_overheat">Oververhitting</string>
+    <string name="battery_health_dead">Dood</string>
+    <string name="battery_health_over_voltage">Over spanning</string>
+    <string name="battery_health_unspecified_failure">Niet -gespecificeerd falen</string>
+    <string name="battery_health_cold">Koud</string>
+    <string name="battery_health_unknown">Onbekend</string>
+    <string name="battery_temperature">Temperatuur</string>
+    <string name="battery_voltage">Spanning</string>
+    <string name="battery_design_capacity">Ontwerpcapaciteit</string>
+    <string name="battery_maximum_capacity">Maximale capaciteit</string>
+    <string name="dc_dimming_title">DC dimmen</string>
+    <string name="dc_dimming_info">Vermindert oogbelasting in omstandigheden met weinig licht door de schermflicking te minimaliseren.Kan resulteren in een verminderde beeldkwaliteit en een slechte kleurproductie of een hoger stroomverbruik.</string>
+    <string name="dc_dimming_main_switch_title">Gebruik DC Diming</string>
+    <string name="keywords_display_dc_dimming">DC Diming, Anti, Flicker, Eye, Strain</string>
+
+    
+    <string name="doze_on_charge_title">Altijd aan bij het opladen</string>
+    <string name="doze_on_charge_summary">Toon altijd tijd en info alleen wanneer het apparaat is aangesloten</string>
+
+    
+    <string name="data_category_title">Gegevens</string>
+
+    
+    <string name="proximity_wake_title">Voorkom per ongeluk wake-up</string>
+    <string name="proximity_wake_summary">Controleer de nabijheidssensor voordat u het scherm wakker maakt</string>
+
+    
+    <string name="power_button_torch_title">Snelle fakkel</string>
+    <string name="power_button_torch_summary">Wanneer het scherm is uitgeschakeld, maakt een langdurige aan / uit-knop een fakkel mogelijk</string>
+
+    
+    <string name="refresh_rate_title">Vernieuw tarief</string>
+    <string name="refresh_rate_summary_vrr_off">%d Hz</string>
+    <string name="refresh_rate_summary_vrr_on">%d hz (adaptief)</string>
+    <string name="refresh_rate_vrr_title">Adaptieve verversingssnelheid</string>
+    <string name="refresh_rate_vrr_summary">Verlaag de verversingssnelheid automatisch wanneer het display inactief is, om stroom te besparen.Kan fansende of kleurverschuiving veroorzaken op bepaalde displays</string>
+    <string name="refresh_rate_footer">Een hogere verversingssnelheid maakt het display soepeler, maar verhoogt het stroomverbruik</string>
+    <string name="keywords_refresh_rate">Vernieuwen, snelheid, glad, piek, 60Hz, 90Hz, 120Hz, 144Hz, 165Hz</string>
+
+    
+    <string name="security_settings_screen_off_unlock_udfps_title">Screen-Off vingerafdruk ontgrendel</string>
+    <string name="security_settings_screen_off_unlock_udfps_keywords">Scherm, ontgrendel</string>
+    <string name="security_settings_screen_off_unlock_udfps_description">Gebruik vingerafdruk ontgrendel zelfs als het scherm is uitgeschakeld</string>
+
+    
+    <string name="screenshot_shutter_sound_title">Screenshotgeluid</string>
+
+    
+    <string name="icon_manager_title">Statusbalkiconen</string>
+    <string name="icon_manager_summary">Beheersing van de zichtbaarheid van statusbalkiconen</string>
+
+    
+    <string name="notification_vibration_pattern_title">Meldingstrillingspatroon</string>
+    <string name="ring_vibration_pattern_title">Ringtrillingspatroon</string>
+    <string name="pattern_default">Apparaat standaard</string>
+    </resources>

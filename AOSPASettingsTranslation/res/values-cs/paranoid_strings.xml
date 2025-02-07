@@ -1,0 +1,92 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+<string name="aospa_version">Paranoidní verze Android</string>
+
+    
+    <string name="adaptive_playback_screen_title">Chytrá pauza</string>
+    <string name="adaptive_playback_enabled">Použijte inteligentní pauzu</string>
+    <string name="adaptive_playback_disabled_summary">Vypnuto</string>
+    <string name="adaptive_playback_intro_text">Automaticky pozastaví média, když je hlasitost tlumena, a bude se obnovit automaticky, když je objem obnoven v době nastavení.</string>
+    <string name="adaptive_playback_timeout_title">Použijte časový limit</string>
+    <string name="adaptive_playback_timeout_none">Žádný časový limit</string>
+    <string name="adaptive_playback_timeout_none_summary">ON (žádný časový limit)</string>
+    <string name="adaptive_playback_timeout_30_secs">30 sekund</string>
+    <string name="adaptive_playback_timeout_30_secs_summary">Na (30 sekund)</string>
+    <string name="adaptive_playback_timeout_1_min">1 minuta</string>
+    <string name="adaptive_playback_timeout_1_min_summary">On (1 minuta)</string>
+    <string name="adaptive_playback_timeout_2_min">2 minuty</string>
+    <string name="adaptive_playback_timeout_2_min_summary">ON (2 minuty)</string>
+    <string name="adaptive_playback_timeout_5_min">5 minut</string>
+    <string name="adaptive_playback_timeout_5_min_summary">ON (5 minut)</string>
+    <string name="adaptive_playback_timeout_10_min">10 minut</string>
+    <string name="adaptive_playback_timeout_10_min_summary">ON (10 minut)</string>
+
+    
+    <string name="doze_gesture_ambient_title">Zobrazit okolí</string>
+    <string name="doze_gesture_ambient_summary">Zobrazit okolní displej místo toho, abyste se plně probudili obrazovku</string>
+    <string name="gesture_wake_ambient">Zobrazit okolí</string>
+    <string name="gesture_wake">Plně probudit</string>
+
+    
+    <string name="connected_device_codec_preference">Předvolby kodeku Qualcomm® APTX ™</string>
+
+    
+    <string name="battery_technology">Technologie</string>
+    <string name="battery_health">Zdraví</string>
+    <string name="battery_health_good">Dobrý</string>
+    <string name="battery_health_overheat">Přehřát</string>
+    <string name="battery_health_dead">Mrtvý</string>
+    <string name="battery_health_over_voltage">Napětí</string>
+    <string name="battery_health_unspecified_failure">Nespecifikované selhání</string>
+    <string name="battery_health_cold">Studený</string>
+    <string name="battery_health_unknown">Neznámý</string>
+    <string name="battery_temperature">Teplota</string>
+    <string name="battery_voltage">Napětí</string>
+    <string name="battery_design_capacity">Konstrukční kapacita</string>
+    <string name="battery_maximum_capacity">Maximální kapacita</string>
+    <string name="dc_dimming_title">DC stmívání</string>
+    <string name="dc_dimming_info">Snižuje oční napětí za nízkých světelných podmínek minimalizací blikání obrazovky.Může mít za následek sníženou kvalitu obrazu a špatnou produkci barev nebo vyšší spotřebu energie.</string>
+    <string name="dc_dimming_main_switch_title">Použijte DC stmívání</string>
+    <string name="keywords_display_dc_dimming">DC stmívání, anti, blikání, oko, napětí</string>
+
+    
+    <string name="doze_on_charge_title">Vždy při nabíjení</string>
+    <string name="doze_on_charge_summary">Vždy zobrazujte čas a informace, pouze když je zařízení zapojeno</string>
+
+    
+    <string name="data_category_title">Data</string>
+
+    
+    <string name="proximity_wake_title">Zabránit náhodnému probuzení</string>
+    <string name="proximity_wake_summary">Před probuzením obrazovky zkontrolujte senzor blízké</string>
+
+    
+    <string name="power_button_torch_title">Rychlá pochodeň</string>
+    <string name="power_button_torch_summary">Když je obrazovka vypnuta, tlačítko napájení dlouho lisovaného povolí hořák</string>
+
+    
+    <string name="refresh_rate_title">Obnovovací frekvence</string>
+    <string name="refresh_rate_summary_vrr_off">%d Hz</string>
+    <string name="refresh_rate_summary_vrr_on">%d Hz (adaptivní)</string>
+    <string name="refresh_rate_vrr_title">Adaptivní obnovovací frekvence</string>
+    <string name="refresh_rate_vrr_summary">Automaticky snižujte obnovovací frekvenci, když je displej nečinný, pro uložení energie.Může způsobit blikání nebo posun barev na určitých displejích</string>
+    <string name="refresh_rate_footer">Vyšší obnovovací frekvence způsobuje, že displej je plynulejší, ale zvyšuje spotřebu energie</string>
+    <string name="keywords_refresh_rate">Obnovení, rychlost, hladká, vrchol, 60 Hz, 90 Hz, 120 Hz, 144Hz, 165Hz</string>
+
+    
+    <string name="security_settings_screen_off_unlock_udfps_title">Odemčení otisků prstů</string>
+    <string name="security_settings_screen_off_unlock_udfps_keywords">Screen-off, odemknutí</string>
+    <string name="security_settings_screen_off_unlock_udfps_description">Odemkněte otisky otisků prstů, i když je obrazovka vypnuto</string>
+
+    
+    <string name="screenshot_shutter_sound_title">Zvuk obrazovky</string>
+
+    
+    <string name="icon_manager_title">Ikony stavového řádu</string>
+    <string name="icon_manager_summary">Řízení viditelnosti ikon stavového řádku</string>
+
+    
+    <string name="notification_vibration_pattern_title">Vzor vibrací oznámení</string>
+    <string name="ring_vibration_pattern_title">Vzor vibrací kruhu</string>
+    <string name="pattern_default">Výchozí zařízení</string>
+    </resources>

@@ -1,0 +1,92 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+<string name="aospa_version">પેરાનોઇડ એન્ડ્રોઇડ સંસ્કરણ</string>
+
+    
+    <string name="adaptive_playback_screen_title">સ્માર્ટ વિરામ</string>
+    <string name="adaptive_playback_enabled">સ્માર્ટ વિરામનો ઉપયોગ કરો</string>
+    <string name="adaptive_playback_disabled_summary">Offંચું</string>
+    <string name="adaptive_playback_intro_text">જ્યારે વોલ્યુમ મ્યૂટ થાય છે ત્યારે મીડિયાને આપમેળે થોભો અને જ્યારે સેટ સમયની અંદર વોલ્યુમ પુન restored સ્થાપિત થાય છે ત્યારે આપમેળે ફરી શરૂ થશે.</string>
+    <string name="adaptive_playback_timeout_title">સમયસમાપ્તિનો ઉપયોગ કરવો</string>
+    <string name="adaptive_playback_timeout_none">સમયસર</string>
+    <string name="adaptive_playback_timeout_none_summary">ચાલુ (સમયસમાપ્તિ)</string>
+    <string name="adaptive_playback_timeout_30_secs">30 સેકંડ</string>
+    <string name="adaptive_playback_timeout_30_secs_summary">પર (30 સેકંડ)</string>
+    <string name="adaptive_playback_timeout_1_min">1 મિનિટ</string>
+    <string name="adaptive_playback_timeout_1_min_summary">ચાલુ (1 મિનિટ)</string>
+    <string name="adaptive_playback_timeout_2_min">2 મિનિટ</string>
+    <string name="adaptive_playback_timeout_2_min_summary">ચાલુ (2 મિનિટ)</string>
+    <string name="adaptive_playback_timeout_5_min">5 મિનિટ</string>
+    <string name="adaptive_playback_timeout_5_min_summary">ચાલુ (5 મિનિટ)</string>
+    <string name="adaptive_playback_timeout_10_min">10 મિનિટ</string>
+    <string name="adaptive_playback_timeout_10_min_summary">ચાલુ (10 મિનિટ)</string>
+
+    
+    <string name="doze_gesture_ambient_title">એમ્બિયન્ટ બતાવો</string>
+    <string name="doze_gesture_ambient_summary">સ્ક્રીનને સંપૂર્ણ જાગવાને બદલે એમ્બિયન્ટ ડિસ્પ્લે બતાવો</string>
+    <string name="gesture_wake_ambient">એમ્બિયન્ટ બતાવો</string>
+    <string name="gesture_wake">સંપૂર્ણપણે જાગે</string>
+
+    
+    <string name="connected_device_codec_preference">ક્યુઅલકોમ ® એપીટીએક્સ ™ કોડેક પસંદગીઓ</string>
+
+    
+    <string name="battery_technology">પ્રાતળતા</string>
+    <string name="battery_health">આરોગ્ય</string>
+    <string name="battery_health_good">સારું</string>
+    <string name="battery_health_overheat">વધુ પડતું ગરમ ​​કરવું</string>
+    <string name="battery_health_dead">મરેલું</string>
+    <string name="battery_health_over_voltage">વધારે વોલ્ટેજ</string>
+    <string name="battery_health_unspecified_failure">અનિવાર્ય નિષ્ફળતા</string>
+    <string name="battery_health_cold">ઠંડું</string>
+    <string name="battery_health_unknown">અજાણ્યું</string>
+    <string name="battery_temperature">તાપમાન</string>
+    <string name="battery_voltage">વોલ્ટેજ</string>
+    <string name="battery_design_capacity">આચાર</string>
+    <string name="battery_maximum_capacity">મહત્તમ ક્ષમતા</string>
+    <string name="dc_dimming_title">ડી.સી.</string>
+    <string name="dc_dimming_info">સ્ક્રીન ફ્લિકરને ઘટાડીને ઓછી પ્રકાશની સ્થિતિમાં આંખના તાણને ઘટાડે છે.છબીની ગુણવત્તા અને નબળા રંગનું ઉત્પાદન અથવા power ંચા વીજ વપરાશમાં ઘટાડો થઈ શકે છે.</string>
+    <string name="dc_dimming_main_switch_title">ડીસી ડિમિંગનો ઉપયોગ કરો</string>
+    <string name="keywords_display_dc_dimming">ડીસી ડિમિંગ, એન્ટિ, ફ્લિકર, આંખ, તાણ</string>
+
+    
+    <string name="doze_on_charge_title">ચાર્જ કરતી વખતે હંમેશા ચાલુ</string>
+    <string name="doze_on_charge_summary">ઉપકરણ પ્લગ ઇન હોય ત્યારે જ હંમેશાં સમય અને માહિતી બતાવો</string>
+
+    
+    <string name="data_category_title">માહિતી</string>
+
+    
+    <string name="proximity_wake_title">આકસ્મિક જાગૃત અટકાવો</string>
+    <string name="proximity_wake_summary">સ્ક્રીન જાગવા પહેલાં નિકટતા સેન્સર તપાસો</string>
+
+    
+    <string name="power_button_torch_title">ઝડપી મશાલ</string>
+    <string name="power_button_torch_summary">જ્યારે સ્ક્રીન બંધ હોય, ત્યારે લાંબા-દબાવતા પાવર બટન મશાલને સક્ષમ કરશે</string>
+
+    
+    <string name="refresh_rate_title">તાજું દર</string>
+    <string name="refresh_rate_summary_vrr_off">%ડી હર્ટ્ઝ</string>
+    <string name="refresh_rate_summary_vrr_on">%ડી હર્ટ્ઝ (અનુકૂલનશીલ)</string>
+    <string name="refresh_rate_vrr_title">અનુકૂલનશીલ દર</string>
+    <string name="refresh_rate_vrr_summary">શક્તિને બચાવવા માટે, ડિસ્પ્લે નિષ્ક્રિય હોય ત્યારે આપમેળે તાજું દર ઓછો કરો.ચોક્કસ ડિસ્પ્લે પર ફ્લિકરિંગ અથવા રંગ પાળીનું કારણ બની શકે છે</string>
+    <string name="refresh_rate_footer">Higher ંચા તાજું દર ડિસ્પ્લેને સરળ બનાવે છે, પરંતુ વીજ વપરાશમાં વધારો કરે છે</string>
+    <string name="keywords_refresh_rate">તાજું, દર, સરળ, ટોચ, 60 હર્ટ્ઝ, 90 હર્ટ્ઝ, 120 હર્ટ્ઝ, 144 હર્ટ્ઝ, 165 હર્ટ્ઝ</string>
+
+    
+    <string name="security_settings_screen_off_unlock_udfps_title">સ્ક્રીન- Find ફ ફિંગરપ્રિન્ટ અનલ lock ક</string>
+    <string name="security_settings_screen_off_unlock_udfps_keywords">સ્ક્રીન-, ફ, અનલ lock ક</string>
+    <string name="security_settings_screen_off_unlock_udfps_description">સ્ક્રીન બંધ હોય ત્યારે પણ ફિંગરપ્રિન્ટ અનલ lock કનો ઉપયોગ કરો</string>
+
+    
+    <string name="screenshot_shutter_sound_title">સ્ક્રીનશોટ અવાજ</string>
+
+    
+    <string name="icon_manager_title">સ્થિતિ પટ્ટી</string>
+    <string name="icon_manager_summary">સ્થિતિ બાર ચિહ્નોની દૃશ્યતા નિયંત્રણ</string>
+
+    
+    <string name="notification_vibration_pattern_title">સૂચના કંપન પદ્ધતિ</string>
+    <string name="ring_vibration_pattern_title">કંપન -દાખલો</string>
+    <string name="pattern_default">પરણવું</string>
+    </resources>

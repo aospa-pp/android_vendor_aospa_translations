@@ -1,0 +1,92 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+<string name="aospa_version">Paranoid android verzió</string>
+
+    
+    <string name="adaptive_playback_screen_title">Okos szünet</string>
+    <string name="adaptive_playback_enabled">Használjon okos szünetet</string>
+    <string name="adaptive_playback_disabled_summary">Le</string>
+    <string name="adaptive_playback_intro_text">Automatikusan szünetelteti a közeget, amikor a hangerőt elnémítják, és automatikusan folytatódik, ha a hangerőt a beállított idő alatt visszaállítják.</string>
+    <string name="adaptive_playback_timeout_title">Használjon időtúllépést</string>
+    <string name="adaptive_playback_timeout_none">Nincs időkorlát</string>
+    <string name="adaptive_playback_timeout_none_summary">On (nincs időkorlát)</string>
+    <string name="adaptive_playback_timeout_30_secs">30 másodperc</string>
+    <string name="adaptive_playback_timeout_30_secs_summary">(30 másodperc)</string>
+    <string name="adaptive_playback_timeout_1_min">1 percig</string>
+    <string name="adaptive_playback_timeout_1_min_summary">(1 perc)</string>
+    <string name="adaptive_playback_timeout_2_min">2 perc</string>
+    <string name="adaptive_playback_timeout_2_min_summary">(2 perc)</string>
+    <string name="adaptive_playback_timeout_5_min">5 perc</string>
+    <string name="adaptive_playback_timeout_5_min_summary">(5 perc)</string>
+    <string name="adaptive_playback_timeout_10_min">10 perc</string>
+    <string name="adaptive_playback_timeout_10_min_summary">(10 perc)</string>
+
+    
+    <string name="doze_gesture_ambient_title">Mutasd meg a környezetet</string>
+    <string name="doze_gesture_ambient_summary">Mutassa meg a környezeti kijelzőt, ahelyett, hogy teljesen felébresztené a képernyőt</string>
+    <string name="gesture_wake_ambient">Mutasd meg a környezetet</string>
+    <string name="gesture_wake">Teljesen ébreszt</string>
+
+    
+    <string name="connected_device_codec_preference">Qualcomm® APTX ™ codec preferenciák</string>
+
+    
+    <string name="battery_technology">Technológia</string>
+    <string name="battery_health">Egészség</string>
+    <string name="battery_health_good">Jó</string>
+    <string name="battery_health_overheat">Túlmeleged</string>
+    <string name="battery_health_dead">Halott</string>
+    <string name="battery_health_over_voltage">Túlfeszültségű</string>
+    <string name="battery_health_unspecified_failure">Meghatározatlan meghibásodás</string>
+    <string name="battery_health_cold">Hideg</string>
+    <string name="battery_health_unknown">Ismeretlen</string>
+    <string name="battery_temperature">Hőmérséklet</string>
+    <string name="battery_voltage">Feszültség</string>
+    <string name="battery_design_capacity">Tervezési kapacitás</string>
+    <string name="battery_maximum_capacity">Maximális kapacitás</string>
+    <string name="dc_dimming_title">DC tompítás</string>
+    <string name="dc_dimming_info">Csökkenti a szemfeszültséget gyenge fényviszonyok között a képernyő villogása minimalizálásával.Csökkent a képminőség és a rossz színtermelés, vagy a magasabb energiafogyasztás.</string>
+    <string name="dc_dimming_main_switch_title">Használja a DC tompítást</string>
+    <string name="keywords_display_dc_dimming">DC tompítás, anti, villogás, szem, feszültség</string>
+
+    
+    <string name="doze_on_charge_title">Mindig töltéskor</string>
+    <string name="doze_on_charge_summary">Mindig csak akkor jelenítse meg az időt és az információt, ha az eszköz be van dugva</string>
+
+    
+    <string name="data_category_title">Adat</string>
+
+    
+    <string name="proximity_wake_title">A véletlen ébredés megakadályozása</string>
+    <string name="proximity_wake_summary">A képernyő felébresztése előtt ellenőrizze a közelségi érzékelőt</string>
+
+    
+    <string name="power_button_torch_title">Gyors fáklya</string>
+    <string name="power_button_torch_summary">Amikor a képernyő ki van kapcsolva, a hosszú nyomású bekapcsoló gomb engedélyezi a fáklyát</string>
+
+    
+    <string name="refresh_rate_title">Frissítési ráta</string>
+    <string name="refresh_rate_summary_vrr_off">%d Hz</string>
+    <string name="refresh_rate_summary_vrr_on">%d Hz (adaptív)</string>
+    <string name="refresh_rate_vrr_title">Adaptív frissítési ráta</string>
+    <string name="refresh_rate_vrr_summary">A teljesítmény megmentése érdekében automatikusan csökkentse a frissítési sebességet, amikor a kijelző alapjáraton van.Bizonyos kijelzőken villogást vagy színváltozást okozhat</string>
+    <string name="refresh_rate_footer">A magasabb frissítési arány a kijelzőt simábbá teszi, de növeli az energiafogyasztást</string>
+    <string name="keywords_refresh_rate">Frissítés, sebesség, sima, csúcs, 60 Hz, 90Hz, 120Hz, 144Hz, 165Hz</string>
+
+    
+    <string name="security_settings_screen_off_unlock_udfps_title">A képernyőn megjelenő ujjlenyomat-feloldás</string>
+    <string name="security_settings_screen_off_unlock_udfps_keywords">Képernyő-off, feloldás</string>
+    <string name="security_settings_screen_off_unlock_udfps_description">Használja az ujjlenyomat -oldást még akkor is, ha a képernyő ki van kapcsolva</string>
+
+    
+    <string name="screenshot_shutter_sound_title">Képernyőképes hang</string>
+
+    
+    <string name="icon_manager_title">Állapotsor ikonok</string>
+    <string name="icon_manager_summary">Az állapotsor ikonjainak láthatósága ellenőrzése</string>
+
+    
+    <string name="notification_vibration_pattern_title">Értesítési rezgési mintázat</string>
+    <string name="ring_vibration_pattern_title">Gyűrűs rezgésmintázat</string>
+    <string name="pattern_default">Eszköz alapértelmezett</string>
+    </resources>

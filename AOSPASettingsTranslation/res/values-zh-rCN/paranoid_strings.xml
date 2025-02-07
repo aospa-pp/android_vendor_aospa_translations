@@ -1,0 +1,92 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+<string name="aospa_version">偏执的Android版本</string>
+
+    
+    <string name="adaptive_playback_screen_title">聪明的暂停</string>
+    <string name="adaptive_playback_enabled">使用智能暂停</string>
+    <string name="adaptive_playback_disabled_summary">离开</string>
+    <string name="adaptive_playback_intro_text">当音量静音时会自动暂停介质，并在设定的时间内恢复体积时自动恢复。</string>
+    <string name="adaptive_playback_timeout_title">使用</string>
+    <string name="adaptive_playback_timeout_none">没有超时</string>
+    <string name="adaptive_playback_timeout_none_summary">在（没有超时）</string>
+    <string name="adaptive_playback_timeout_30_secs">30秒</string>
+    <string name="adaptive_playback_timeout_30_secs_summary">在（30秒）</string>
+    <string name="adaptive_playback_timeout_1_min">1分钟</string>
+    <string name="adaptive_playback_timeout_1_min_summary">在（1分钟）</string>
+    <string name="adaptive_playback_timeout_2_min">2分钟</string>
+    <string name="adaptive_playback_timeout_2_min_summary">在（2分钟）</string>
+    <string name="adaptive_playback_timeout_5_min">5分钟</string>
+    <string name="adaptive_playback_timeout_5_min_summary">在（5分钟）</string>
+    <string name="adaptive_playback_timeout_10_min">10分钟</string>
+    <string name="adaptive_playback_timeout_10_min_summary">在（10分钟）</string>
+
+    
+    <string name="doze_gesture_ambient_title">显示环境</string>
+    <string name="doze_gesture_ambient_summary">显示环境显示，而不是完全唤醒屏幕</string>
+    <string name="gesture_wake_ambient">显示环境</string>
+    <string name="gesture_wake">完全唤醒</string>
+
+    
+    <string name="connected_device_codec_preference">QualComm®APTX™编解码器首选项</string>
+
+    
+    <string name="battery_technology">技术</string>
+    <string name="battery_health">健康</string>
+    <string name="battery_health_good">好的</string>
+    <string name="battery_health_overheat">过热</string>
+    <string name="battery_health_dead">死的</string>
+    <string name="battery_health_over_voltage">电压超过</string>
+    <string name="battery_health_unspecified_failure">未指定的失败</string>
+    <string name="battery_health_cold">寒冷的</string>
+    <string name="battery_health_unknown">未知</string>
+    <string name="battery_temperature">温度</string>
+    <string name="battery_voltage">电压</string>
+    <string name="battery_design_capacity">设计能力</string>
+    <string name="battery_maximum_capacity">最大容量</string>
+    <string name="dc_dimming_title">DC调光</string>
+    <string name="dc_dimming_info">通过最大程度地减少屏幕闪烁，可以在低光条件下减少眼睛应变。可能导致图像质量降低，颜色产生差或更高的功耗。</string>
+    <string name="dc_dimming_main_switch_title">使用DC调光</string>
+    <string name="keywords_display_dc_dimming">直流昏暗，反，闪烁，眼睛，应变</string>
+
+    
+    <string name="doze_on_charge_title">总是在充电时继续</string>
+    <string name="doze_on_charge_summary">仅当设备插入时，请始终显示时间和信息</string>
+
+    
+    <string name="data_category_title">数据</string>
+
+    
+    <string name="proximity_wake_title">防止意外唤醒</string>
+    <string name="proximity_wake_summary">醒来之前检查接近传感器</string>
+
+    
+    <string name="power_button_torch_title">快速火炬</string>
+    <string name="power_button_torch_summary">当屏幕关闭时，长压力的电源按钮将启用火炬</string>
+
+    
+    <string name="refresh_rate_title">刷新率</string>
+    <string name="refresh_rate_summary_vrr_off">%d Hz</string>
+    <string name="refresh_rate_summary_vrr_on">%d Hz（自适应）</string>
+    <string name="refresh_rate_vrr_title">自适应刷新率</string>
+    <string name="refresh_rate_vrr_summary">显示出空闲时会自动降低刷新率，以节省电源。可能会在某些显示器上引起闪烁或颜色转移</string>
+    <string name="refresh_rate_footer">更高的刷新率使显示屏更光滑，但增加了功耗</string>
+    <string name="keywords_refresh_rate">刷新，速率，光滑，峰值，60Hz，90Hz，120Hz，144Hz，165Hz</string>
+
+    
+    <string name="security_settings_screen_off_unlock_udfps_title">筛选指纹解锁</string>
+    <string name="security_settings_screen_off_unlock_udfps_keywords">筛选，解锁</string>
+    <string name="security_settings_screen_off_unlock_udfps_description">即使屏幕关闭，也使用指纹解锁</string>
+
+    
+    <string name="screenshot_shutter_sound_title">屏幕快照</string>
+
+    
+    <string name="icon_manager_title">状态栏图标</string>
+    <string name="icon_manager_summary">状态栏图标的控制可见性</string>
+
+    
+    <string name="notification_vibration_pattern_title">通知振动模式</string>
+    <string name="ring_vibration_pattern_title">环振动模式</string>
+    <string name="pattern_default">设备默认</string>
+    </resources>

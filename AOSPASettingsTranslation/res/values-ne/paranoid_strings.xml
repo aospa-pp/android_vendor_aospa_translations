@@ -1,0 +1,92 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+<string name="aospa_version">प्यारानिरो एन्ड्रोइड संस्करण</string>
+
+    
+    <string name="adaptive_playback_screen_title">स्मार्ट पज</string>
+    <string name="adaptive_playback_enabled">स्मार्ट पज प्रयोग गर्नुहोस्</string>
+    <string name="adaptive_playback_disabled_summary">बती निभाउनु</string>
+    <string name="adaptive_playback_intro_text">निर्धारित समय भित्र भोल्युमलाई पुनःसुरु गर्ने र स्वचालित रूपमा पुनःसुरु गर्ने बिमिज स्वचालित रूपमा रोक्दछ।</string>
+    <string name="adaptive_playback_timeout_title">एक टाइमआउट प्रयोग गर्नुहोस्</string>
+    <string name="adaptive_playback_timeout_none">कुनै टाइमआउट छैन</string>
+    <string name="adaptive_playback_timeout_none_summary">मा (कुनै टाईआउट छैन)</string>
+    <string name="adaptive_playback_timeout_30_secs">30 सेकेन्ड</string>
+    <string name="adaptive_playback_timeout_30_secs_summary">(30 सेकेन्ड) मा</string>
+    <string name="adaptive_playback_timeout_1_min">1 मिनेट</string>
+    <string name="adaptive_playback_timeout_1_min_summary">(1 मिनेट) मा</string>
+    <string name="adaptive_playback_timeout_2_min">2 मिनेट</string>
+    <string name="adaptive_playback_timeout_2_min_summary">(2 मिनेट) मा</string>
+    <string name="adaptive_playback_timeout_5_min">5 मिनेट</string>
+    <string name="adaptive_playback_timeout_5_min_summary">(5 मिनेट) मा</string>
+    <string name="adaptive_playback_timeout_10_min">10 मिनेट</string>
+    <string name="adaptive_playback_timeout_10_min_summary">(10 मिनेट) मा</string>
+
+    
+    <string name="doze_gesture_ambient_title">परिवेश देखाउनुहोस्</string>
+    <string name="doze_gesture_ambient_summary">स्क्रिन अपको सट्टा परिवेश प्रदर्शन देखाउनुहोस्</string>
+    <string name="gesture_wake_ambient">परिवेश देखाउनुहोस्</string>
+    <string name="gesture_wake">पूर्ण रूपमा उठ्छ</string>
+
+    
+    <string name="connected_device_codec_preference">ल्युकेम® Attx ™ कोडन्स प्राथमिकताहरू</string>
+
+    
+    <string name="battery_technology">शिल्पविज्ञान</string>
+    <string name="battery_health">स्वास्थ्य</string>
+    <string name="battery_health_good">असल</string>
+    <string name="battery_health_overheat">वेणी</string>
+    <string name="battery_health_dead">मरेको</string>
+    <string name="battery_health_over_voltage">भोल्टेजमा</string>
+    <string name="battery_health_unspecified_failure">अनिर्दिष्ट असफलता</string>
+    <string name="battery_health_cold">रुघा</string>
+    <string name="battery_health_unknown">नजानिएको</string>
+    <string name="battery_temperature">ताप</string>
+    <string name="battery_voltage">भोल्टेज</string>
+    <string name="battery_design_capacity">डिजाइन क्षमता</string>
+    <string name="battery_maximum_capacity">अधिकतम क्षमता</string>
+    <string name="dc_dimming_title">Dc duming</string>
+    <string name="dc_dimming_info">स्क्रिन फ्लिकर कम गरेर कम प्रकाश अवस्थामा आँखा तनाव कम गर्दछ।कम छवि गुणस्तर र कमजोर र color ्ग उत्पादन, वा उच्च ऊर्जा खपत मा परिणाम हुन सक्छ।</string>
+    <string name="dc_dimming_main_switch_title">DC DEGING प्रयोग गर्नुहोस्</string>
+    <string name="keywords_display_dc_dimming">dc duming, सांसद, फलक, आँखा, तनाव</string>
+
+    
+    <string name="doze_on_charge_title">सधैं चार्ज गर्दा</string>
+    <string name="doze_on_charge_summary">उपकरण प्लग इन हुँदा सँधै समय र जानकारी देखाउनुहोस्</string>
+
+    
+    <string name="data_category_title">तथ्याड़क</string>
+
+    
+    <string name="proximity_wake_title">दुर्घटनात्मक बकबक-अप रोक्नुहोस्</string>
+    <string name="proximity_wake_summary">क्लेक्सिमेट सेन्सर जाँच गर्नुहोस् स्क्रिन उठ्नु अघि</string>
+
+    
+    <string name="power_button_torch_title">द्रुत मशाल</string>
+    <string name="power_button_torch_summary">जब स्क्रिन बन्द हुन्छ, लामो-प्रेस गर्ने पावर बटनले टूचलाई सक्षम गर्दछ</string>
+
+    
+    <string name="refresh_rate_title">रिफ्रेस दर</string>
+    <string name="refresh_rate_summary_vrr_off">% d h hz</string>
+    <string name="refresh_rate_summary_vrr_on">% d hz (अनुकूलन)</string>
+    <string name="refresh_rate_vrr_title">अनुकूलन रिफ्रेस दर</string>
+    <string name="refresh_rate_vrr_summary">प्रदर्शन जब प्रदर्शन निष्क्रिय भएमा स्वचालित रूपमा रिफ्रेस दर कम गर्नुहोस्, शक्ति बचत गर्न।केहि प्रदर्शनमा फ्लिक्सिंग वा र color ्ग बदलाउन सक्छ</string>
+    <string name="refresh_rate_footer">एक उच्च ताजा दर प्रदर्शन चिल्लो बनाउँछ, तर शक्ति खपत बढाउँदछ</string>
+    <string name="keywords_refresh_rate">स्फूर्ति, दर, चिल्लो, चिकन, 60hz, 120hz, 144HZ, 165hz, 165HZ</string>
+
+    
+    <string name="security_settings_screen_off_unlock_udfps_title">स्क्रिन-अफ फिंगरप्रिन्ट अनलक</string>
+    <string name="security_settings_screen_off_unlock_udfps_keywords">स्क्रिन-अफ, अनलक</string>
+    <string name="security_settings_screen_off_unlock_udfps_description">स्क्रिन बन्द हुँदा फिंगरप्रिन्ट अनलक प्रयोग गर्नुहोस्</string>
+
+    
+    <string name="screenshot_shutter_sound_title">स्क्रीनशट आवाज</string>
+
+    
+    <string name="icon_manager_title">स्थिति बार आईकनहरू</string>
+    <string name="icon_manager_summary">स्थिति बार आईकनको दृश्यता नियन्त्रण</string>
+
+    
+    <string name="notification_vibration_pattern_title">सूचना कम्पन ढाँचा</string>
+    <string name="ring_vibration_pattern_title">REWENTION सार्न ढाँचा</string>
+    <string name="pattern_default">उपकरण डिफल्ट</string>
+    </resources>

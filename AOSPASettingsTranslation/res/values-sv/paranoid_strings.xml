@@ -1,0 +1,92 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+<string name="aospa_version">Paranoid Android -version</string>
+
+    
+    <string name="adaptive_playback_screen_title">Smart paus</string>
+    <string name="adaptive_playback_enabled">Använd smart paus</string>
+    <string name="adaptive_playback_disabled_summary">Av</string>
+    <string name="adaptive_playback_intro_text">Pausar automatiskt media när volymen dämpas och kommer att återupptas automatiskt när volymen återställs inom den inställda tiden.</string>
+    <string name="adaptive_playback_timeout_title">Använda en timeout av</string>
+    <string name="adaptive_playback_timeout_none">Ingen timeout</string>
+    <string name="adaptive_playback_timeout_none_summary">På (ingen timeout)</string>
+    <string name="adaptive_playback_timeout_30_secs">30 sekunder</string>
+    <string name="adaptive_playback_timeout_30_secs_summary">På (30 sekunder)</string>
+    <string name="adaptive_playback_timeout_1_min">1 minut</string>
+    <string name="adaptive_playback_timeout_1_min_summary">På (1 minut)</string>
+    <string name="adaptive_playback_timeout_2_min">2 minuter</string>
+    <string name="adaptive_playback_timeout_2_min_summary">På (2 minuter)</string>
+    <string name="adaptive_playback_timeout_5_min">5 minuter</string>
+    <string name="adaptive_playback_timeout_5_min_summary">På (5 minuter)</string>
+    <string name="adaptive_playback_timeout_10_min">10 minuter</string>
+    <string name="adaptive_playback_timeout_10_min_summary">På (10 minuter)</string>
+
+    
+    <string name="doze_gesture_ambient_title">Visa omgivning</string>
+    <string name="doze_gesture_ambient_summary">Visa omgivningsdisplay istället för att helt vakna upp skärmen</string>
+    <string name="gesture_wake_ambient">Visa omgivning</string>
+    <string name="gesture_wake">Vaken</string>
+
+    
+    <string name="connected_device_codec_preference">QualComm® APTX ™ Codec -preferenser</string>
+
+    
+    <string name="battery_technology">Teknologi</string>
+    <string name="battery_health">Hälsa</string>
+    <string name="battery_health_good">Bra</string>
+    <string name="battery_health_overheat">Överhettas</string>
+    <string name="battery_health_dead">Död</string>
+    <string name="battery_health_over_voltage">Överspänning</string>
+    <string name="battery_health_unspecified_failure">Ospecificerad misslyckande</string>
+    <string name="battery_health_cold">Kall</string>
+    <string name="battery_health_unknown">Okänd</string>
+    <string name="battery_temperature">Temperatur</string>
+    <string name="battery_voltage">Spänning</string>
+    <string name="battery_design_capacity">Konstruktionsförmåga</string>
+    <string name="battery_maximum_capacity">Maximal kapacitet</string>
+    <string name="dc_dimming_title">DC -dimning</string>
+    <string name="dc_dimming_info">Minskar ögonstammen under svagt ljus genom att minimera skärmflimmer.Kan leda till minskad bildkvalitet och dålig färgproduktion eller högre effektförbrukning.</string>
+    <string name="dc_dimming_main_switch_title">Använd DC Dimning</string>
+    <string name="keywords_display_dc_dimming">DC Dimning, Anti, Flicker, Eye, Strain</string>
+
+    
+    <string name="doze_on_charge_title">Alltid på när du laddar</string>
+    <string name="doze_on_charge_summary">Visa alltid tid och information endast när enheten är ansluten</string>
+
+    
+    <string name="data_category_title">Data</string>
+
+    
+    <string name="proximity_wake_title">Förhindra oavsiktlig väckning</string>
+    <string name="proximity_wake_summary">Kontrollera närhetssensorn innan du vaknar upp skärmen</string>
+
+    
+    <string name="power_button_torch_title">Snabb fackla</string>
+    <string name="power_button_torch_summary">När skärmen är avstängd kommer den långtryckande strömbrytaren att möjliggöra fackla</string>
+
+    
+    <string name="refresh_rate_title">Uppdateringsfrekvens</string>
+    <string name="refresh_rate_summary_vrr_off">%d HZ</string>
+    <string name="refresh_rate_summary_vrr_on">%d Hz (adaptiv)</string>
+    <string name="refresh_rate_vrr_title">Adaptiv uppdateringsfrekvens</string>
+    <string name="refresh_rate_vrr_summary">Sänk automatiskt uppdateringshastigheten när skärmen är inaktiv för att spara ström.Kan orsaka flimrande eller färgskift på vissa skärmar</string>
+    <string name="refresh_rate_footer">En högre uppdateringsfrekvens gör skärmen mjukare, men ökar strömförbrukningen</string>
+    <string name="keywords_refresh_rate">uppdatering, hastighet, slät, topp, 60Hz, 90Hz, 120Hz, 144Hz, 165Hz</string>
+
+    
+    <string name="security_settings_screen_off_unlock_udfps_title">Screen-off fingeravtryck lås upp</string>
+    <string name="security_settings_screen_off_unlock_udfps_keywords">Screen-off, lås upp</string>
+    <string name="security_settings_screen_off_unlock_udfps_description">Använd fingeravtrycklåset även när skärmen är avstängd</string>
+
+    
+    <string name="screenshot_shutter_sound_title">Skärmdump</string>
+
+    
+    <string name="icon_manager_title">Statusfältikoner</string>
+    <string name="icon_manager_summary">Kontrollens synlighet för statusfältets ikoner</string>
+
+    
+    <string name="notification_vibration_pattern_title">Meddelande vibrationsmönster</string>
+    <string name="ring_vibration_pattern_title">Ringvibrationsmönster</string>
+    <string name="pattern_default">Anordning</string>
+    </resources>

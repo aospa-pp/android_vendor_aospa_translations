@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+<string name="aospa_version">Versão paranóica Android</string>
+
+    
+    <string name="adaptive_playback_screen_title">Pausa inteligente</string>
+    <string name="adaptive_playback_enabled">Use uma pausa inteligente</string>
+    <string name="adaptive_playback_intro_text">Aparece automaticamente a mídia quando o volume for silenciado e será retomado automaticamente quando o volume for restaurado dentro do tempo definido.</string>
+    <string name="adaptive_playback_timeout_title">Use um tempo limite de</string>
+    <string name="adaptive_playback_timeout_none">Sem tempo limite</string>
+    <string name="adaptive_playback_timeout_none_summary">On (sem tempo limite)</string>
+    <string name="adaptive_playback_timeout_30_secs">30 segundos</string>
+    <string name="adaptive_playback_timeout_30_secs_summary">Em (30 segundos)</string>
+    <string name="adaptive_playback_timeout_1_min">1 minuto</string>
+    <string name="adaptive_playback_timeout_1_min_summary">Em (1 minuto)</string>
+    <string name="adaptive_playback_timeout_2_min">2 minutos</string>
+    <string name="adaptive_playback_timeout_2_min_summary">Em (2 minutos)</string>
+    <string name="adaptive_playback_timeout_5_min">5 minutos</string>
+    <string name="adaptive_playback_timeout_5_min_summary">Em (5 minutos)</string>
+    <string name="adaptive_playback_timeout_10_min">10 minutos</string>
+    <string name="adaptive_playback_timeout_10_min_summary">Em (10 minutos)</string>
+
+    
+    <string name="doze_gesture_ambient_title">Mostrar ambiente</string>
+    <string name="doze_gesture_ambient_summary">Mostre tela ambiente em vez de acordar totalmente a tela para cima</string>
+    <string name="gesture_wake_ambient">Mostrar ambiente</string>
+    <string name="gesture_wake">Acorde totalmente</string>
+
+    
+    <string name="connected_device_codec_preference">Preferências de codec de Qualcomm® Aptx ™</string>
+
+    
+    <string name="battery_technology">Tecnologia</string>
+    <string name="battery_health">Saúde</string>
+    <string name="battery_health_overheat">Superaqueça</string>
+    <string name="battery_health_over_voltage">Sobre tensão</string>
+    <string name="battery_health_unspecified_failure">Falha não especificada</string>
+    <string name="battery_temperature">Temperatura</string>
+    <string name="battery_voltage">Tensão</string>
+    <string name="battery_design_capacity">Capacidade de projeto</string>
+    <string name="battery_maximum_capacity">Capacidade máxima</string>
+    <string name="dc_dimming_title">DC escurecendo</string>
+    <string name="dc_dimming_info">Reduz a tensão ocular em condições de pouca luz, minimizando a pisca de tela.Pode resultar em qualidade de imagem reduzida e baixa produção de cores, ou maior consumo de energia.</string>
+    <string name="dc_dimming_main_switch_title">Use DC Dimning</string>
+    <string name="keywords_display_dc_dimming">DC escurecendo, anti, pisca, olho, tensão</string>
+
+    
+    <string name="doze_on_charge_title">Sempre quando cobrar</string>
+    <string name="doze_on_charge_summary">Sempre mostre tempo e informações somente quando o dispositivo estiver conectado</string>
+
+    
+    <string name="proximity_wake_title">Evite o despertar acidental</string>
+    <string name="proximity_wake_summary">Verifique o sensor de proximidade antes de acordar a tela</string>
+
+    
+    <string name="power_button_torch_title">Tocha rápida</string>
+    <string name="power_button_torch_summary">Quando a tela estiver desligada, o botão liga / desliga de pressão longa permitirá a tocha</string>
+
+    
+    <string name="refresh_rate_title">Taxa de atualização</string>
+    <string name="refresh_rate_summary_vrr_off">%d hz</string>
+    <string name="refresh_rate_summary_vrr_on">%d hz (adaptativo)</string>
+    <string name="refresh_rate_vrr_title">Taxa de atualização adaptativa</string>
+    <string name="refresh_rate_vrr_summary">Abaixe automaticamente a taxa de atualização quando a tela estiver ociosa, para economizar energia.Pode causar trêmulo ou mudança de cor em determinados displays</string>
+    <string name="refresh_rate_footer">Uma taxa de atualização mais alta torna a tela mais suave, mas aumenta o consumo de energia</string>
+    <string name="keywords_refresh_rate">Atualizar, taxa, suave, pico, 60Hz, 90Hz, 120Hz, 144Hz, 165Hz</string>
+
+    
+    <string name="security_settings_screen_off_unlock_udfps_title">Desbloqueio de impressão digital de tela-off</string>
+    <string name="security_settings_screen_off_unlock_udfps_keywords">Screen-off, desbloqueio</string>
+    <string name="security_settings_screen_off_unlock_udfps_description">Use desbloqueio de impressão digital mesmo quando a tela estiver desligada</string>
+
+    
+    <string name="screenshot_shutter_sound_title">Captura de tela Som</string>
+
+    
+    <string name="icon_manager_title">Ícones da barra de status</string>
+    <string name="icon_manager_summary">Controle visibilidade dos ícones da barra de status</string>
+
+    
+    <string name="notification_vibration_pattern_title">Padrão de vibração de notificação</string>
+    <string name="ring_vibration_pattern_title">Padrão de vibração do anel</string>
+    <string name="pattern_default">Dispositivo padrão</string>
+    </resources>

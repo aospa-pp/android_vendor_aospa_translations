@@ -1,0 +1,92 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+<string name="aospa_version">Phiên bản Android hoang tưởng</string>
+
+    
+    <string name="adaptive_playback_screen_title">Tạm dừng thông minh</string>
+    <string name="adaptive_playback_enabled">Sử dụng tạm dừng thông minh</string>
+    <string name="adaptive_playback_disabled_summary">Tắt</string>
+    <string name="adaptive_playback_intro_text">Tự động tạm dừng phương tiện khi âm lượng bị tắt và sẽ tiếp tục tự động khi âm lượng được khôi phục trong thời gian đặt.</string>
+    <string name="adaptive_playback_timeout_title">Sử dụng thời gian chờ của</string>
+    <string name="adaptive_playback_timeout_none">Không có thời gian chờ</string>
+    <string name="adaptive_playback_timeout_none_summary">Trên (không có thời gian chờ)</string>
+    <string name="adaptive_playback_timeout_30_secs">30 giây</string>
+    <string name="adaptive_playback_timeout_30_secs_summary">Trên (30 giây)</string>
+    <string name="adaptive_playback_timeout_1_min">1 phút</string>
+    <string name="adaptive_playback_timeout_1_min_summary">Trên (1 phút)</string>
+    <string name="adaptive_playback_timeout_2_min">2 phút</string>
+    <string name="adaptive_playback_timeout_2_min_summary">Trên (2 phút)</string>
+    <string name="adaptive_playback_timeout_5_min">5 phút</string>
+    <string name="adaptive_playback_timeout_5_min_summary">Trên (5 phút)</string>
+    <string name="adaptive_playback_timeout_10_min">10 phút</string>
+    <string name="adaptive_playback_timeout_10_min_summary">Trên (10 phút)</string>
+
+    
+    <string name="doze_gesture_ambient_title">Hiển thị môi trường xung quanh</string>
+    <string name="doze_gesture_ambient_summary">Hiển thị màn hình xung quanh thay vì đánh thức hoàn toàn màn hình lên</string>
+    <string name="gesture_wake_ambient">Hiển thị môi trường xung quanh</string>
+    <string name="gesture_wake">Hoàn toàn thức dậy</string>
+
+    
+    <string name="connected_device_codec_preference">Tùy chọn codec Qualcomm® APTX ™</string>
+
+    
+    <string name="battery_technology">Công nghệ</string>
+    <string name="battery_health">Sức khỏe</string>
+    <string name="battery_health_good">Tốt</string>
+    <string name="battery_health_overheat">Quá nóng</string>
+    <string name="battery_health_dead">Chết</string>
+    <string name="battery_health_over_voltage">Trên điện áp</string>
+    <string name="battery_health_unspecified_failure">Thất bại không xác định</string>
+    <string name="battery_health_cold">Lạnh lẽo</string>
+    <string name="battery_health_unknown">Không xác định</string>
+    <string name="battery_temperature">Nhiệt độ</string>
+    <string name="battery_voltage">Điện áp</string>
+    <string name="battery_design_capacity">Năng lực thiết kế</string>
+    <string name="battery_maximum_capacity">Công suất tối đa</string>
+    <string name="dc_dimming_title">DC mờ</string>
+    <string name="dc_dimming_info">Giảm căng thẳng mắt trong điều kiện ánh sáng yếu bằng cách giảm thiểu màn hình nhấp nháy.Có thể dẫn đến giảm chất lượng hình ảnh và sản xuất màu kém, hoặc mức tiêu thụ năng lượng cao hơn.</string>
+    <string name="dc_dimming_main_switch_title">Sử dụng DC Dimming</string>
+    <string name="keywords_display_dc_dimming">DC mờ, chống, nhấp nháy, mắt, căng thẳng</string>
+
+    
+    <string name="doze_on_charge_title">Luôn luôn bật khi sạc</string>
+    <string name="doze_on_charge_summary">Luôn hiển thị thời gian và thông tin chỉ khi thiết bị được cắm vào</string>
+
+    
+    <string name="data_category_title">Dữ liệu</string>
+
+    
+    <string name="proximity_wake_title">Ngăn chặn tình cờ thức dậy</string>
+    <string name="proximity_wake_summary">Kiểm tra cảm biến lân cận trước khi đánh thức màn hình lên</string>
+
+    
+    <string name="power_button_torch_title">Ngọn đuốc nhanh chóng</string>
+    <string name="power_button_torch_summary">Khi màn hình tắt, nút nguồn nhấn kéo dài sẽ bật đèn pin</string>
+
+    
+    <string name="refresh_rate_title">Tỷ lệ làm mới</string>
+    <string name="refresh_rate_summary_vrr_off">%d hz</string>
+    <string name="refresh_rate_summary_vrr_on">%d hz (thích ứng)</string>
+    <string name="refresh_rate_vrr_title">Tốc độ làm mới thích ứng</string>
+    <string name="refresh_rate_vrr_summary">Tự động giảm tốc độ làm mới khi màn hình không hoạt động, để tiết kiệm năng lượng.Có thể gây ra tiếng nhấp nháy hoặc thay đổi màu trên một số màn hình nhất định</string>
+    <string name="refresh_rate_footer">Tỷ lệ làm mới cao hơn làm cho màn hình hiển thị mượt mà hơn, nhưng tăng mức tiêu thụ điện năng</string>
+    <string name="keywords_refresh_rate">Làm mới, tốc độ, mịn, đỉnh, 60Hz, 90Hz, 120Hz, 144Hz, 165Hz</string>
+
+    
+    <string name="security_settings_screen_off_unlock_udfps_title">Mở khóa vân tay trên màn hình</string>
+    <string name="security_settings_screen_off_unlock_udfps_keywords">Màn hình, mở khóa</string>
+    <string name="security_settings_screen_off_unlock_udfps_description">Sử dụng mở khóa dấu vân tay ngay cả khi màn hình tắt</string>
+
+    
+    <string name="screenshot_shutter_sound_title">Ảnh chụp màn hình</string>
+
+    
+    <string name="icon_manager_title">Biểu tượng thanh trạng thái</string>
+    <string name="icon_manager_summary">Kiểm soát khả năng hiển thị của các biểu tượng thanh trạng thái</string>
+
+    
+    <string name="notification_vibration_pattern_title">Mô hình rung thông báo</string>
+    <string name="ring_vibration_pattern_title">Mẫu rung vòng</string>
+    <string name="pattern_default">Thiết bị mặc định</string>
+    </resources>

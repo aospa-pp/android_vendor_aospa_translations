@@ -1,0 +1,92 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+<string name="aospa_version">Versi Android Paranoid</string>
+
+    
+    <string name="adaptive_playback_screen_title">Jeda pintar</string>
+    <string name="adaptive_playback_enabled">Gunakan jeda pintar</string>
+    <string name="adaptive_playback_disabled_summary">Mati</string>
+    <string name="adaptive_playback_intro_text">Secara otomatis berhenti media ketika volume diredam dan akan dilanjutkan secara otomatis ketika volume dipulihkan dalam waktu yang ditentukan.</string>
+    <string name="adaptive_playback_timeout_title">Menggunakan waktu habis</string>
+    <string name="adaptive_playback_timeout_none">Tidak ada batas waktu</string>
+    <string name="adaptive_playback_timeout_none_summary">Di (tidak ada batas waktu)</string>
+    <string name="adaptive_playback_timeout_30_secs">30 detik</string>
+    <string name="adaptive_playback_timeout_30_secs_summary">Pada (30 detik)</string>
+    <string name="adaptive_playback_timeout_1_min">1 menit</string>
+    <string name="adaptive_playback_timeout_1_min_summary">Pada (1 menit)</string>
+    <string name="adaptive_playback_timeout_2_min">2 menit</string>
+    <string name="adaptive_playback_timeout_2_min_summary">Pada (2 menit)</string>
+    <string name="adaptive_playback_timeout_5_min">5 menit</string>
+    <string name="adaptive_playback_timeout_5_min_summary">Pada (5 menit)</string>
+    <string name="adaptive_playback_timeout_10_min">10 menit</string>
+    <string name="adaptive_playback_timeout_10_min_summary">Pada (10 menit)</string>
+
+    
+    <string name="doze_gesture_ambient_title">Tunjukkan ambient</string>
+    <string name="doze_gesture_ambient_summary">Tampilkan tampilan ambient alih -alih sepenuhnya membangunkan layar</string>
+    <string name="gesture_wake_ambient">Tunjukkan ambient</string>
+    <string name="gesture_wake">Benar -benar bangun</string>
+
+    
+    <string name="connected_device_codec_preference">Preferensi Codec Qualcomm® APTX ™</string>
+
+    
+    <string name="battery_technology">Teknologi</string>
+    <string name="battery_health">Kesehatan</string>
+    <string name="battery_health_good">Bagus</string>
+    <string name="battery_health_overheat">Menjadi terlalu panas</string>
+    <string name="battery_health_dead">Mati</string>
+    <string name="battery_health_over_voltage">Tegangan berlebihan</string>
+    <string name="battery_health_unspecified_failure">Kegagalan yang tidak ditentukan</string>
+    <string name="battery_health_cold">Dingin</string>
+    <string name="battery_health_unknown">Tidak dikenal</string>
+    <string name="battery_temperature">Suhu</string>
+    <string name="battery_voltage">Voltase</string>
+    <string name="battery_design_capacity">Kapasitas desain</string>
+    <string name="battery_maximum_capacity">Kapasitas maksimum</string>
+    <string name="dc_dimming_title">DC Peredupan</string>
+    <string name="dc_dimming_info">Mengurangi ketegangan mata dalam kondisi cahaya rendah dengan meminimalkan flicker layar.Dapat mengakibatkan berkurangnya kualitas gambar dan produksi warna yang buruk, atau konsumsi daya yang lebih tinggi.</string>
+    <string name="dc_dimming_main_switch_title">Gunakan peredupan DC</string>
+    <string name="keywords_display_dc_dimming">DC Peredupan, Anti, Flicker, Eye, Strain</string>
+
+    
+    <string name="doze_on_charge_title">Selalu menyala saat menagih</string>
+    <string name="doze_on_charge_summary">Selalu tunjukkan waktu dan info hanya saat perangkat dicolokkan</string>
+
+    
+    <string name="data_category_title">Data</string>
+
+    
+    <string name="proximity_wake_title">Mencegah bangun kebangkitan</string>
+    <string name="proximity_wake_summary">Periksa sensor kedekatan sebelum bangun layar</string>
+
+    
+    <string name="power_button_torch_title">Obor cepat</string>
+    <string name="power_button_torch_summary">Saat layar mati, tombol daya tekanan panjang akan memungkinkan obor</string>
+
+    
+    <string name="refresh_rate_title">Tingkat Refresh</string>
+    <string name="refresh_rate_summary_vrr_off">%d Hz</string>
+    <string name="refresh_rate_summary_vrr_on">%d Hz (adaptif)</string>
+    <string name="refresh_rate_vrr_title">Tingkat refresh adaptif</string>
+    <string name="refresh_rate_vrr_summary">Secara otomatis menurunkan tingkat refresh saat tampilan menganggur, untuk menghemat daya.Dapat menyebabkan pergeseran berkedip atau warna pada tampilan tertentu</string>
+    <string name="refresh_rate_footer">Tingkat refresh yang lebih tinggi membuat tampilan lebih halus, tetapi meningkatkan konsumsi daya</string>
+    <string name="keywords_refresh_rate">menyegarkan, menilai, halus, puncak, 60Hz, 90Hz, 120Hz, 144Hz, 165Hz</string>
+
+    
+    <string name="security_settings_screen_off_unlock_udfps_title">Buka Kunci Sidik Jari-Off</string>
+    <string name="security_settings_screen_off_unlock_udfps_keywords">Screen-off, buka kunci</string>
+    <string name="security_settings_screen_off_unlock_udfps_description">Gunakan buka kunci sidik jari bahkan saat layar mati</string>
+
+    
+    <string name="screenshot_shutter_sound_title">Suara tangkapan layar</string>
+
+    
+    <string name="icon_manager_title">Ikon batang status</string>
+    <string name="icon_manager_summary">Kontrol visibilitas ikon status batang</string>
+
+    
+    <string name="notification_vibration_pattern_title">Pola getaran pemberitahuan</string>
+    <string name="ring_vibration_pattern_title">Pola getaran cincin</string>
+    <string name="pattern_default">Perangkat default</string>
+    </resources>

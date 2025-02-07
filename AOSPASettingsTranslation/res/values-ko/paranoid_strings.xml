@@ -1,0 +1,92 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+<string name="aospa_version">편집증 안드로이드 버전</string>
+
+    
+    <string name="adaptive_playback_screen_title">똑똑한 일시 정지</string>
+    <string name="adaptive_playback_enabled">Smart Pause를 사용하십시오</string>
+    <string name="adaptive_playback_disabled_summary">끄다</string>
+    <string name="adaptive_playback_intro_text">볼륨이 음소거되면 자동으로 미디어를 일시 중지하고 설정 시간 내에 볼륨이 복원되면 자동으로 재개됩니다.</string>
+    <string name="adaptive_playback_timeout_title">시간 초과를 사용하십시오</string>
+    <string name="adaptive_playback_timeout_none">시간 초과가 없습니다</string>
+    <string name="adaptive_playback_timeout_none_summary">on (시간 초과 없음)</string>
+    <string name="adaptive_playback_timeout_30_secs">30 초</string>
+    <string name="adaptive_playback_timeout_30_secs_summary">(30 초)</string>
+    <string name="adaptive_playback_timeout_1_min">1 분</string>
+    <string name="adaptive_playback_timeout_1_min_summary">on (1 분)</string>
+    <string name="adaptive_playback_timeout_2_min">2 분</string>
+    <string name="adaptive_playback_timeout_2_min_summary">on (2 분)</string>
+    <string name="adaptive_playback_timeout_5_min">5 분</string>
+    <string name="adaptive_playback_timeout_5_min_summary">on (5 분)</string>
+    <string name="adaptive_playback_timeout_10_min">10 분</string>
+    <string name="adaptive_playback_timeout_10_min_summary">on (10 분)</string>
+
+    
+    <string name="doze_gesture_ambient_title">주변을 보여주십시오</string>
+    <string name="doze_gesture_ambient_summary">화면을 완전히 깨우는 대신 주변 디스플레이 표시</string>
+    <string name="gesture_wake_ambient">주변을 보여주십시오</string>
+    <string name="gesture_wake">완전히 깨워</string>
+
+    
+    <string name="connected_device_codec_preference">Qualcomm® APTX ™ 코덱 기본 설정</string>
+
+    
+    <string name="battery_technology">기술</string>
+    <string name="battery_health">건강</string>
+    <string name="battery_health_good">좋은</string>
+    <string name="battery_health_overheat">과열</string>
+    <string name="battery_health_dead">죽은</string>
+    <string name="battery_health_over_voltage">과도한 전압</string>
+    <string name="battery_health_unspecified_failure">지정되지 않은 실패</string>
+    <string name="battery_health_cold">추운</string>
+    <string name="battery_health_unknown">알려지지 않은</string>
+    <string name="battery_temperature">온도</string>
+    <string name="battery_voltage">전압</string>
+    <string name="battery_design_capacity">설계 용량</string>
+    <string name="battery_maximum_capacity">최대 용량</string>
+    <string name="dc_dimming_title">DC 디밍</string>
+    <string name="dc_dimming_info">화면 깜박임을 최소화하여 낮은 조명 조건에서 눈 변형을 줄입니다.이미지 품질이 감소하고 색상 생산이 좋지 않거나 전력 소비가 높아질 수 있습니다.</string>
+    <string name="dc_dimming_main_switch_title">DC 디밍을 사용하십시오</string>
+    <string name="keywords_display_dc_dimming">DC 디밍, 안티, 깜박임, 눈, 변형</string>
+
+    
+    <string name="doze_on_charge_title">충전 할 때 항상 켜져 있습니다</string>
+    <string name="doze_on_charge_summary">장치가 연결될 때만 항상 시간과 정보를 표시합니다.</string>
+
+    
+    <string name="data_category_title">데이터</string>
+
+    
+    <string name="proximity_wake_title">우발적 인 모닝을 방지하십시오</string>
+    <string name="proximity_wake_summary">깨우기 전에 근접 센서를 확인하십시오</string>
+
+    
+    <string name="power_button_torch_title">빠른 토치</string>
+    <string name="power_button_torch_summary">화면이 꺼져 있으면 긴 압력 파워 버튼이 횃불을 활성화합니다.</string>
+
+    
+    <string name="refresh_rate_title">새로 고침 속도</string>
+    <string name="refresh_rate_summary_vrr_off">%d Hz</string>
+    <string name="refresh_rate_summary_vrr_on">%d HZ (적응 형)</string>
+    <string name="refresh_rate_vrr_title">적응 형 새로 고침</string>
+    <string name="refresh_rate_vrr_summary">전원을 절약하기 위해 디스플레이가 유휴 상태 일 때 새로 고침 속도를 자동으로 낮 춥니 다.특정 디스플레이에서 깜박 거리는 또는 색상 이동을 일으킬 수 있습니다</string>
+    <string name="refresh_rate_footer">새로 고침 속도가 높을수록 디스플레이를 더 부드럽게 만들지 만 전력 소비가 증가합니다.</string>
+    <string name="keywords_refresh_rate">새로 고침, 속도, 부드러운, 피크, 60Hz, 90Hz, 120Hz, 144Hz, 165Hz</string>
+
+    
+    <string name="security_settings_screen_off_unlock_udfps_title">스크린 오프 지문 잠금 해제</string>
+    <string name="security_settings_screen_off_unlock_udfps_keywords">스크린 오프, 잠금 해제</string>
+    <string name="security_settings_screen_off_unlock_udfps_description">화면이 꺼져 있어도 지문 잠금 해제를 사용하십시오</string>
+
+    
+    <string name="screenshot_shutter_sound_title">스크린 샷 사운드</string>
+
+    
+    <string name="icon_manager_title">상태 표시 줄 아이콘</string>
+    <string name="icon_manager_summary">상태 표시 줄 아이콘의 제어 가시성</string>
+
+    
+    <string name="notification_vibration_pattern_title">알림 진동 패턴</string>
+    <string name="ring_vibration_pattern_title">고리 진동 패턴</string>
+    <string name="pattern_default">장치 기본값</string>
+    </resources>

@@ -1,0 +1,92 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+<string name="aospa_version">Παρανοϊκή έκδοση Android</string>
+
+    
+    <string name="adaptive_playback_screen_title">Έξυπνη παύση</string>
+    <string name="adaptive_playback_enabled">Χρησιμοποιήστε έξυπνη παύση</string>
+    <string name="adaptive_playback_disabled_summary">Μακριά από</string>
+    <string name="adaptive_playback_intro_text">Αυτόματη παύση των μέσων όταν ο όγκος είναι σιωπηλός και θα επαναληφθεί αυτόματα όταν αποκατασταθεί ο όγκος εντός της καθορισμένης ώρας.</string>
+    <string name="adaptive_playback_timeout_title">Χρησιμοποιήστε ένα χρονικό όριο του</string>
+    <string name="adaptive_playback_timeout_none">Χωρίς χρονικό όριο</string>
+    <string name="adaptive_playback_timeout_none_summary">(Χωρίς χρονικό όριο)</string>
+    <string name="adaptive_playback_timeout_30_secs">30 δευτερόλεπτα</string>
+    <string name="adaptive_playback_timeout_30_secs_summary">(30 δευτερόλεπτα)</string>
+    <string name="adaptive_playback_timeout_1_min">1 λεπτό</string>
+    <string name="adaptive_playback_timeout_1_min_summary">Στο (1 λεπτό)</string>
+    <string name="adaptive_playback_timeout_2_min">2 λεπτά</string>
+    <string name="adaptive_playback_timeout_2_min_summary">(2 λεπτά)</string>
+    <string name="adaptive_playback_timeout_5_min">5 λεπτά</string>
+    <string name="adaptive_playback_timeout_5_min_summary">(5 λεπτά)</string>
+    <string name="adaptive_playback_timeout_10_min">10 λεπτά</string>
+    <string name="adaptive_playback_timeout_10_min_summary">(10 λεπτά)</string>
+
+    
+    <string name="doze_gesture_ambient_title">Εμφάνιση περιβάλλοντος</string>
+    <string name="doze_gesture_ambient_summary">Εμφάνιση οθόνης περιβάλλοντος αντί να ξυπνάτε πλήρως την οθόνη</string>
+    <string name="gesture_wake_ambient">Εμφάνιση περιβάλλοντος</string>
+    <string name="gesture_wake">Πλήρως ξυπνήσω</string>
+
+    
+    <string name="connected_device_codec_preference">Προτιμήσεις κωδικοποίησης Qualcomm® Aptx ™</string>
+
+    
+    <string name="battery_technology">Τεχνολογία</string>
+    <string name="battery_health">Υγεία</string>
+    <string name="battery_health_good">Καλός</string>
+    <string name="battery_health_overheat">Υπερθέρμανση</string>
+    <string name="battery_health_dead">Νεκρός</string>
+    <string name="battery_health_over_voltage">Πάνω από την τάση</string>
+    <string name="battery_health_unspecified_failure">Απροσδιόριστη αποτυχία</string>
+    <string name="battery_health_cold">Κρύο</string>
+    <string name="battery_health_unknown">Αγνωστος</string>
+    <string name="battery_temperature">Θερμοκρασία</string>
+    <string name="battery_voltage">Δυναμικό</string>
+    <string name="battery_design_capacity">Χωρητικότητα σχεδιασμού</string>
+    <string name="battery_maximum_capacity">Μέγιστη χωρητικότητα</string>
+    <string name="dc_dimming_title">DC Dimming</string>
+    <string name="dc_dimming_info">Μειώνει την καταπόνηση των ματιών σε συνθήκες χαμηλού φωτισμού με την ελαχιστοποίηση του τρεμούλείου της οθόνης.Μπορεί να οδηγήσει σε μειωμένη ποιότητα εικόνας και κακή παραγωγή χρωμάτων ή υψηλότερη κατανάλωση ενέργειας.</string>
+    <string name="dc_dimming_main_switch_title">Χρησιμοποιήστε το DC Dimming</string>
+    <string name="keywords_display_dc_dimming">DC Dimming, Anti, Flicker, Eye, Strain</string>
+
+    
+    <string name="doze_on_charge_title">Πάντα μετά τη φόρτιση</string>
+    <string name="doze_on_charge_summary">Πάντα να εμφανίζετε χρόνο και πληροφορίες μόνο όταν η συσκευή είναι συνδεδεμένη</string>
+
+    
+    <string name="data_category_title">Δεδομένα</string>
+
+    
+    <string name="proximity_wake_title">Αποτρέψτε την τυχαία αφύπνιση</string>
+    <string name="proximity_wake_summary">Ελέγξτε τον αισθητήρα εγγύτητας πριν από την αφύπνιση της οθόνης</string>
+
+    
+    <string name="power_button_torch_title">Γρήγορος φακός</string>
+    <string name="power_button_torch_summary">Όταν η οθόνη είναι απενεργοποιημένη, το κουμπί λειτουργίας μακράς πίεσης θα ενεργοποιήσει το Torch</string>
+
+    
+    <string name="refresh_rate_title">Ρυθμός ανανέωσης</string>
+    <string name="refresh_rate_summary_vrr_off">%d hz</string>
+    <string name="refresh_rate_summary_vrr_on">%d Hz (προσαρμοστικό)</string>
+    <string name="refresh_rate_vrr_title">Προσαρμοστικός ρυθμός ανανέωσης</string>
+    <string name="refresh_rate_vrr_summary">Μειώστε αυτόματα τον ρυθμό ανανέωσης όταν η οθόνη είναι αδρανής, για να εξοικονομήσετε ενέργεια.Μπορεί να προκαλέσει μετατόπιση ή μετατόπιση χρώματος σε ορισμένες οθόνες</string>
+    <string name="refresh_rate_footer">Ένας υψηλότερος ρυθμός ανανέωσης κάνει την οθόνη πιο ομαλή, αλλά αυξάνει την κατανάλωση ενέργειας</string>
+    <string name="keywords_refresh_rate">Ανανέωση, τιμή, ομαλή, κορυφή, 60Hz, 90Hz, 120Hz, 144Hz, 165Hz</string>
+
+    
+    <string name="security_settings_screen_off_unlock_udfps_title">Ξεκλείδωμα δακτυλικών αποτυπωμάτων οθόνης</string>
+    <string name="security_settings_screen_off_unlock_udfps_keywords">Screen-Off, Ξεκλειδώστε</string>
+    <string name="security_settings_screen_off_unlock_udfps_description">Χρησιμοποιήστε ξεκλείδωμα δακτυλικών αποτυπωμάτων ακόμη και όταν η οθόνη είναι απενεργοποιημένη</string>
+
+    
+    <string name="screenshot_shutter_sound_title">Ήχος οθόνης</string>
+
+    
+    <string name="icon_manager_title">Εικονίδια γραμμής κατάστασης</string>
+    <string name="icon_manager_summary">Ελέγξτε την ορατότητα των εικονιδίων της γραμμής κατάστασης</string>
+
+    
+    <string name="notification_vibration_pattern_title">Πρότυπο κραδασμών ειδοποίησης</string>
+    <string name="ring_vibration_pattern_title">Μοτίβο δόνησης δακτυλίου</string>
+    <string name="pattern_default">Προεπιλογή της συσκευής</string>
+    </resources>

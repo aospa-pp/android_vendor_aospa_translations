@@ -1,0 +1,92 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+<string name="aospa_version">Параноидальная версия Android</string>
+
+    
+    <string name="adaptive_playback_screen_title">Умная пауза</string>
+    <string name="adaptive_playback_enabled">Используйте Smart Pouse</string>
+    <string name="adaptive_playback_disabled_summary">Выключенный</string>
+    <string name="adaptive_playback_intro_text">Автоматически приостанавливает носитель, когда объем приглушен, и будет автоматически возобновить, когда объем восстанавливается в установленное время.</string>
+    <string name="adaptive_playback_timeout_title">Использовать тайм -аут</string>
+    <string name="adaptive_playback_timeout_none">Нет тайм -аута</string>
+    <string name="adaptive_playback_timeout_none_summary">На (без тайм -аута)</string>
+    <string name="adaptive_playback_timeout_30_secs">30 секунд</string>
+    <string name="adaptive_playback_timeout_30_secs_summary">На (30 секунд)</string>
+    <string name="adaptive_playback_timeout_1_min">1 минута</string>
+    <string name="adaptive_playback_timeout_1_min_summary">На (1 минута)</string>
+    <string name="adaptive_playback_timeout_2_min">2 минуты</string>
+    <string name="adaptive_playback_timeout_2_min_summary">На (2 минуты)</string>
+    <string name="adaptive_playback_timeout_5_min">5 минут</string>
+    <string name="adaptive_playback_timeout_5_min_summary">На (5 минут)</string>
+    <string name="adaptive_playback_timeout_10_min">10 минут</string>
+    <string name="adaptive_playback_timeout_10_min_summary">На (10 минут)</string>
+
+    
+    <string name="doze_gesture_ambient_title">Показать окружающую среду</string>
+    <string name="doze_gesture_ambient_summary">Показать отображение окружающей среды вместо полного разбуждения экрана</string>
+    <string name="gesture_wake_ambient">Показать окружающую среду</string>
+    <string name="gesture_wake">Полностью пробудить</string>
+
+    
+    <string name="connected_device_codec_preference">Qualcomm® Aptx ™ Preferences</string>
+
+    
+    <string name="battery_technology">Технология</string>
+    <string name="battery_health">Здоровье</string>
+    <string name="battery_health_good">Хороший</string>
+    <string name="battery_health_overheat">Перегрев</string>
+    <string name="battery_health_dead">Мертвый</string>
+    <string name="battery_health_over_voltage">Над напряжением</string>
+    <string name="battery_health_unspecified_failure">Неопределенный сбой</string>
+    <string name="battery_health_cold">Холодный</string>
+    <string name="battery_health_unknown">Неизвестный</string>
+    <string name="battery_temperature">Температура</string>
+    <string name="battery_voltage">Напряжение</string>
+    <string name="battery_design_capacity">Проектная мощность</string>
+    <string name="battery_maximum_capacity">Максимальная емкость</string>
+    <string name="dc_dimming_title">DC FUMMIGE</string>
+    <string name="dc_dimming_info">Уменьшает штамм глаза в условиях низкого освещения путем минимизации мерцания экрана.Может привести к снижению качества изображения и плохому производству цвета или большему потреблению мощности.</string>
+    <string name="dc_dimming_main_switch_title">Используйте DC Dumming</string>
+    <string name="keywords_display_dc_dimming">DC Dimming, анти, мерцание, глаз, напряжение</string>
+
+    
+    <string name="doze_on_charge_title">Всегда на зарядке</string>
+    <string name="doze_on_charge_summary">Всегда покажите время и информацию только тогда, когда устройство подключено</string>
+
+    
+    <string name="data_category_title">Данные</string>
+
+    
+    <string name="proximity_wake_title">Предотвратить случайный пробуждение</string>
+    <string name="proximity_wake_summary">Проверьте датчик близости перед тем, как пробудить экран</string>
+
+    
+    <string name="power_button_torch_title">Быстрый факел</string>
+    <string name="power_button_torch_summary">Когда экран выключен, кнопка питания длительного давления включит факел</string>
+
+    
+    <string name="refresh_rate_title">Обновление частоты</string>
+    <string name="refresh_rate_summary_vrr_off">%d Гц</string>
+    <string name="refresh_rate_summary_vrr_on">%d hz (адаптивный)</string>
+    <string name="refresh_rate_vrr_title">Адаптивная частота обновления</string>
+    <string name="refresh_rate_vrr_summary">Автоматически снижает скорость обновления, когда дисплей простаивает, чтобы сохранить питание.Может вызвать мерцание или сдвиг цвета на определенных дисплеях</string>
+    <string name="refresh_rate_footer">Более высокая частота обновления делает дисплей более гладким, но увеличивает энергопотребление</string>
+    <string name="keywords_refresh_rate">Обновление, скорость, плавное, пик, 60 Гц, 90 Гц, 120 Гц, 144 Гц, 165 Гц</string>
+
+    
+    <string name="security_settings_screen_off_unlock_udfps_title">Отпечаток отпечатков пальцев</string>
+    <string name="security_settings_screen_off_unlock_udfps_keywords">Экран, разблокировать</string>
+    <string name="security_settings_screen_off_unlock_udfps_description">Используйте разблокировку отпечатков пальцев, даже когда экран выключен</string>
+
+    
+    <string name="screenshot_shutter_sound_title">Скриншот звук</string>
+
+    
+    <string name="icon_manager_title">Значки строки статуса</string>
+    <string name="icon_manager_summary">Контроль видимости значков стержней состояния</string>
+
+    
+    <string name="notification_vibration_pattern_title">Уведомление вибрации</string>
+    <string name="ring_vibration_pattern_title">Рисунок вибрации кольца</string>
+    <string name="pattern_default">Устройство по умолчанию</string>
+    </resources>
