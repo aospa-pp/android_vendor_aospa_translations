@@ -1,26 +1,17 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!--
-     Copyright (C) 2021 Paranoid Android
-
-     Licensed under the Apache License, Version 2.0 (the "License");
-     you may not use this file except in compliance with the License.
-     You may obtain a copy of the License at
-
-          http://www.apache.org/licenses/LICENSE-2.0
-
-     Unless required by applicable law or agreed to in writing, software
-     distributed under the License is distributed on an "AS IS" BASIS,
-     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-     See the License for the specific language governing permissions and
-     limitations under the License.
--->
+<?xml version='1.0' encoding='utf-8'?>
 <resources>
-    <string name="volume_dialog_ringer_guidance_normal">Сигнал для звонков и уведомлений будет активен</string>
-    <string name="charging_control_notification_channel">Контроль заряда</string>
-    <string name="charging_control_notification_title">Контроль заряда</string>
-    <string name="charging_control_notification_cancel_once">Отмена</string>
-    <string name="charging_control_notification_content_limit">Батарея будет заряжена до %1$d%%</string>
-    <string name="charging_control_notification_content_limit_reached">Батарея заряжена до %1$d%%</string>
-    <string name="charging_control_notification_content_target">Батарея будет полностью заряжена через %1$s</string>
-    <string name="charging_control_notification_content_target_reached">Батарея заряжена</string>
+    <string name="reboot_to_recovery_title">Восстановление</string>
+    <string name="reboot_to_recovery_message">Перезагрузка в выздоровление</string>
+    <string name="reboot_to_bootloader_title">Загрузчик</string>
+    <string name="reboot_to_bootloader_message">Перезагрузка в загрузчик</string>
+    <string name="reboot_title">Перезагрузить</string>
+    <string name="reboot_message">Перезагрузка системы</string>
+
+    
+    <string name="pocket_mode_title">Карманный режим активен</string>
+    <string name="pocket_mode_illustration_description">Иллюстрация телефона в кармане</string>
+    <string name="pocket_mode_instructions_header">Чтобы использовать свой телефон:</string>
+    <string name="pocket_mode_instruction_step1">1. Убедитесь, что зеленая область (датчик близости), показанная выше, является беспрепятственной и свободной от грязи или пыли.</string>
+    <string name="pocket_mode_instruction_step2">2. Нажмите и удерживайте кнопку питания, чтобы выйти из карманного режима.</string>
+
 </resources>

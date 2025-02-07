@@ -1,19 +1,17 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!--
-     Copyright (C) 2021 Paranoid Android
-
-     Licensed under the Apache License, Version 2.0 (the "License");
-     you may not use this file except in compliance with the License.
-     You may obtain a copy of the License at
-
-          http://www.apache.org/licenses/LICENSE-2.0
-
-     Unless required by applicable law or agreed to in writing, software
-     distributed under the License is distributed on an "AS IS" BASIS,
-     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-     See the License for the specific language governing permissions and
-     limitations under the License.
--->
+<?xml version='1.0' encoding='utf-8'?>
 <resources>
-    <string name="volume_dialog_ringer_guidance_normal">കോളുകളും അറിയിപ്പുകളും ലഭിക്കുമ്പോൾ റിംഗ് ചെയ്യും (%1$s)</string>
+    <string name="reboot_to_recovery_title">വീണ്ടെടുക്കല്</string>
+    <string name="reboot_to_recovery_message">വീണ്ടെടുക്കലിലേക്ക് റീബൂട്ട് ചെയ്യുന്നു</string>
+    <string name="reboot_to_bootloader_title">ബൂട്ട്ലോഡർ</string>
+    <string name="reboot_to_bootloader_message">ബൂട്ട് ലോഡറിലേക്ക് റീബൂട്ട് ചെയ്യുക</string>
+    <string name="reboot_title">റീബൂട്ട് ചെയ്യുക</string>
+    <string name="reboot_message">റീബൂട്ട് സിസ്റ്റം</string>
+
+    
+    <string name="pocket_mode_title">പോക്കറ്റ് മോഡ് സജീവമാണ്</string>
+    <string name="pocket_mode_illustration_description">പോക്കറ്റിൽ ഫോണിന്റെ ചിത്രം</string>
+    <string name="pocket_mode_instructions_header">നിങ്ങളുടെ ഫോൺ ഉപയോഗിക്കുന്നതിന്:</string>
+    <string name="pocket_mode_instruction_step1">1. മുകളിൽ കാണിച്ചിരിക്കുന്ന ഗ്രീൻ ഏരിയ (പ്രോക്സിമിറ്റി സെൻസർ) ഉറപ്പാക്കുകയും അഴുക്കുചാലിൽ നിന്നോ പൊടിയിൽ നിന്നും മുക്തനാകുകയും ചെയ്യുന്നുവെന്ന് ഉറപ്പാക്കുക.</string>
+    <string name="pocket_mode_instruction_step2">2. പോക്കറ്റ് മോഡിൽ നിന്ന് പുറത്തുകടക്കാൻ പവർ ബട്ടൺ അമർത്തിപ്പിടിക്കുക.</string>
+
 </resources>

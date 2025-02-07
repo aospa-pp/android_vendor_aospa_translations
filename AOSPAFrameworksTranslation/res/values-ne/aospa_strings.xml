@@ -1,19 +1,17 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!--
-     Copyright (C) 2021 Paranoid Android
-
-     Licensed under the Apache License, Version 2.0 (the "License");
-     you may not use this file except in compliance with the License.
-     You may obtain a copy of the License at
-
-          http://www.apache.org/licenses/LICENSE-2.0
-
-     Unless required by applicable law or agreed to in writing, software
-     distributed under the License is distributed on an "AS IS" BASIS,
-     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-     See the License for the specific language governing permissions and
-     limitations under the License.
--->
+<?xml version='1.0' encoding='utf-8'?>
 <resources>
-    <string name="volume_dialog_ringer_guidance_normal">कल र सूचनाहरु मौन हुन्छ</string>
+    <string name="reboot_to_recovery_title">स्वास्थ्यलाभ</string>
+    <string name="reboot_to_recovery_message">रिकभरीमा रिबुट गर्दै</string>
+    <string name="reboot_to_bootloader_title">बुटलोडर</string>
+    <string name="reboot_to_bootloader_message">बुटलोडरलाई रिबुट गर्दै</string>
+    <string name="reboot_title">रिबुट गर्नुहोस्</string>
+    <string name="reboot_message">रिबुटिंग प्रणाली</string>
+
+    
+    <string name="pocket_mode_title">पकेट मोड सक्रिय छ</string>
+    <string name="pocket_mode_illustration_description">पकेटमा फोन को दृष्टान्त</string>
+    <string name="pocket_mode_instructions_header">तपाईंको फोन प्रयोग गर्न:</string>
+    <string name="pocket_mode_instruction_step1">1 माथि देखाइएको हरियो क्षेत्र (प्रोसेसिम सेन्सर) माथि देखाइएको छ र फोहोर वा धूलोबाट मुक्त छ।</string>
+    <string name="pocket_mode_instruction_step2">2 थिच्नुहोस् र पकेट मोडबाट बाहिर निस्कन पावर बटन थिच्नुहोस्।</string>
+
 </resources>

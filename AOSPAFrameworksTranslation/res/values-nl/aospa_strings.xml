@@ -1,26 +1,17 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!--
-     Copyright (C) 2021 Paranoid Android
-
-     Licensed under the Apache License, Version 2.0 (the "License");
-     you may not use this file except in compliance with the License.
-     You may obtain a copy of the License at
-
-          http://www.apache.org/licenses/LICENSE-2.0
-
-     Unless required by applicable law or agreed to in writing, software
-     distributed under the License is distributed on an "AS IS" BASIS,
-     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-     See the License for the specific language governing permissions and
-     limitations under the License.
--->
+<?xml version='1.0' encoding='utf-8'?>
 <resources>
-    <string name="volume_dialog_ringer_guidance_normal">Gesprekken en meldingen zullen af gaan</string>
-    <string name="charging_control_notification_channel">Oplaad controle</string>
-    <string name="charging_control_notification_title">Oplaad controle</string>
-    <string name="charging_control_notification_cancel_once">Annuleren</string>
-    <string name="charging_control_notification_content_limit">Batterij wordt tot %1$d%% opgeladen</string>
-    <string name="charging_control_notification_content_limit_reached">Batterij is opgeladen tot %1$d%%</string>
-    <string name="charging_control_notification_content_target">De batterij zal volledig zijn opgeladen bij %1$s</string>
-    <string name="charging_control_notification_content_target_reached">Batterij is opgeladen</string>
+    <string name="reboot_to_recovery_title">Herstel</string>
+    <string name="reboot_to_recovery_message">Opnieuw opstarten naar herstel</string>
+    <string name="reboot_to_bootloader_title">Bootloader</string>
+    <string name="reboot_to_bootloader_message">Opnieuw opstarten naar bootloader</string>
+    <string name="reboot_title">Opnieuw opstarten</string>
+    <string name="reboot_message">Systeem opnieuw opstarten</string>
+
+    
+    <string name="pocket_mode_title">De zakmodus is actief</string>
+    <string name="pocket_mode_illustration_description">Illustratie van telefoon in zak</string>
+    <string name="pocket_mode_instructions_header">Om uw telefoon te gebruiken:</string>
+    <string name="pocket_mode_instruction_step1">1. Zorg ervoor dat het groene gebied (nabijheidssensor) hierboven weergegeven is onbelemmerd en vrij van vuil of stof.</string>
+    <string name="pocket_mode_instruction_step2">2. Druk op de aan / uit -knop ingedrukt om de zakmodus te verlaten.</string>
+
 </resources>

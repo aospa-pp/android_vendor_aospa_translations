@@ -1,26 +1,17 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!--
-     Copyright (C) 2021 Paranoid Android
-
-     Licensed under the Apache License, Version 2.0 (the "License");
-     you may not use this file except in compliance with the License.
-     You may obtain a copy of the License at
-
-          http://www.apache.org/licenses/LICENSE-2.0
-
-     Unless required by applicable law or agreed to in writing, software
-     distributed under the License is distributed on an "AS IS" BASIS,
-     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-     See the License for the specific language governing permissions and
-     limitations under the License.
--->
+<?xml version='1.0' encoding='utf-8'?>
 <resources>
-    <string name="volume_dialog_ringer_guidance_normal">着信音と通知を鳴らす</string>
-    <string name="charging_control_notification_channel">充電コントロール</string>
-    <string name="charging_control_notification_title">充電コントロール</string>
-    <string name="charging_control_notification_cancel_once">キャンセル</string>
-    <string name="charging_control_notification_content_limit">バッテリーは、%1$d%% まで充電されます</string>
-    <string name="charging_control_notification_content_limit_reached">バッテリーは、%1$d%% まで充電されています</string>
-    <string name="charging_control_notification_content_target">バッテリーは、%1$s で完全に充電されます</string>
-    <string name="charging_control_notification_content_target_reached">バッテリーは充電されています</string>
+    <string name="reboot_to_recovery_title">回復</string>
+    <string name="reboot_to_recovery_message">回復への再起動</string>
+    <string name="reboot_to_bootloader_title">ブートローダー</string>
+    <string name="reboot_to_bootloader_message">ブートローダーへの再起動</string>
+    <string name="reboot_title">リブート</string>
+    <string name="reboot_message">再起動システム</string>
+
+    
+    <string name="pocket_mode_title">ポケットモードはアクティブです</string>
+    <string name="pocket_mode_illustration_description">ポケットにある電話のイラスト</string>
+    <string name="pocket_mode_instructions_header">お使いの携帯電話を使用するには：</string>
+    <string name="pocket_mode_instruction_step1">1.上記の緑の領域（近接センサー）が遮るものがなく、汚れやほこりがないことを確認してください。</string>
+    <string name="pocket_mode_instruction_step2">2。電源ボタンを押し続けて、ポケットモードを終了します。</string>
+
 </resources>

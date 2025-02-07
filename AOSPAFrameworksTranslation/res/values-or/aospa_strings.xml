@@ -1,19 +1,17 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!--
-     Copyright (C) 2021 Paranoid Android
-
-     Licensed under the Apache License, Version 2.0 (the "License");
-     you may not use this file except in compliance with the License.
-     You may obtain a copy of the License at
-
-          http://www.apache.org/licenses/LICENSE-2.0
-
-     Unless required by applicable law or agreed to in writing, software
-     distributed under the License is distributed on an "AS IS" BASIS,
-     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-     See the License for the specific language governing permissions and
-     limitations under the License.
--->
+<?xml version='1.0' encoding='utf-8'?>
 <resources>
-    <string name="volume_dialog_ringer_guidance_normal">କଲ ଏବଂ ନୋଟିଫିକେସନ ବାଜିବ</string>
+    <string name="reboot_to_recovery_title">ପୁନରୁଦ୍ଧାର</string>
+    <string name="reboot_to_recovery_message">ପୁନରୁଦ୍ଧାର ପାଇଁ ପୁନ bo ବୁଟ |</string>
+    <string name="reboot_to_bootloader_title">ବୁଟଲୋଡର୍</string>
+    <string name="reboot_to_bootloader_message">ବୁଟଲୋଡର କୁ ପୁନ bo ବୁଟ କରିବା |</string>
+    <string name="reboot_title">ପୁନ bo ବୁଟ କର |</string>
+    <string name="reboot_message">ପୁନ bo ବୁଟ କରିବା</string>
+
+    
+    <string name="pocket_mode_title">ପକେଟ୍ ମୋଡ୍ ସକ୍ରିୟ ଅଛି |</string>
+    <string name="pocket_mode_illustration_description">ପକେଟରେ ଫୋନର ଦୃଷ୍ଟାନ୍ତ |</string>
+    <string name="pocket_mode_instructions_header">ଆପଣଙ୍କର ଫୋନ୍ ବ୍ୟବହାର କରିବାକୁ:</string>
+    <string name="pocket_mode_instruction_step1">1 ଉପରେ ଦେଖାଯାଇଥିବା ସବୁଜ ଅଞ୍ଚଳ (ପ୍ରକ୍ସିମାରି ସେକ୍ସର୍) ଅବରୋଧିତ ଏବଂ ମଇଳା କିମ୍ବା ଧୂଳିରୁ ମୁକ୍ତ |</string>
+    <string name="pocket_mode_instruction_step2">2 ପକେଟ୍ ମୋଡ୍ ଛାଡିବାକୁ ବିଦ୍ୟୁତ୍ ବଟନ୍ ଦବାନ୍ତୁ ଏବଂ ଧରି ରଖନ୍ତୁ |</string>
+
 </resources>

@@ -1,19 +1,17 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!--
-     Copyright (C) 2021 Paranoid Android
-
-     Licensed under the Apache License, Version 2.0 (the "License");
-     you may not use this file except in compliance with the License.
-     You may obtain a copy of the License at
-
-          http://www.apache.org/licenses/LICENSE-2.0
-
-     Unless required by applicable law or agreed to in writing, software
-     distributed under the License is distributed on an "AS IS" BASIS,
-     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-     See the License for the specific language governing permissions and
-     limitations under the License.
--->
+<?xml version='1.0' encoding='utf-8'?>
 <resources>
-    <string name="volume_dialog_ringer_guidance_normal">Las llamadas y notificaciones sonarán</string>
+    <string name="reboot_to_recovery_title">Recuperación</string>
+    <string name="reboot_to_recovery_message">Reiniciando a la recuperación</string>
+    <string name="reboot_to_bootloader_title">Cargador de arranque</string>
+    <string name="reboot_to_bootloader_message">Reiniciando al cargador de arranque</string>
+    <string name="reboot_title">Reiniciar</string>
+    <string name="reboot_message">Sistema de reinicio</string>
+
+    
+    <string name="pocket_mode_title">El modo de bolsillo está activo</string>
+    <string name="pocket_mode_illustration_description">Ilustración del teléfono en el bolsillo</string>
+    <string name="pocket_mode_instructions_header">Para usar su teléfono:</string>
+    <string name="pocket_mode_instruction_step1">1. Asegúrese de que el área verde (sensor de proximidad) que se muestra arriba no está obstruida y libre de suciedad o polvo.</string>
+    <string name="pocket_mode_instruction_step2">2. Mantenga presionado el botón de encendido para salir del modo de bolsillo.</string>
+
 </resources>

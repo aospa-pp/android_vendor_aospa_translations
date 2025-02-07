@@ -1,26 +1,17 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!--
-     Copyright (C) 2021 Paranoid Android
-
-     Licensed under the Apache License, Version 2.0 (the "License");
-     you may not use this file except in compliance with the License.
-     You may obtain a copy of the License at
-
-          http://www.apache.org/licenses/LICENSE-2.0
-
-     Unless required by applicable law or agreed to in writing, software
-     distributed under the License is distributed on an "AS IS" BASIS,
-     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-     See the License for the specific language governing permissions and
-     limitations under the License.
--->
+<?xml version='1.0' encoding='utf-8'?>
 <resources>
-    <string name="volume_dialog_ringer_guidance_normal">Hívások és értesítések rezegni fognak</string>
-    <string name="charging_control_notification_channel">Kontrollált töltés</string>
-    <string name="charging_control_notification_title">Kontrollált töltés</string>
-    <string name="charging_control_notification_cancel_once">Mégse</string>
-    <string name="charging_control_notification_content_limit">Az akkumulátor %1$d%% -ig lesz feltöltve</string>
-    <string name="charging_control_notification_content_limit_reached">Az akkumulátor feltöltődött %1$d%% -ig</string>
-    <string name="charging_control_notification_content_target">Az akkumulátor %1$d%% -ig lesz feltöltve</string>
-    <string name="charging_control_notification_content_target_reached">Az akku feltöltve</string>
+    <string name="reboot_to_recovery_title">Gyógyulás</string>
+    <string name="reboot_to_recovery_message">Újraindítás a helyreállításhoz</string>
+    <string name="reboot_to_bootloader_title">Indító</string>
+    <string name="reboot_to_bootloader_message">Újraindítás a bootloaderhez</string>
+    <string name="reboot_title">Újraindít</string>
+    <string name="reboot_message">Újraindító rendszer</string>
+
+    
+    <string name="pocket_mode_title">A zseb üzemmód aktív</string>
+    <string name="pocket_mode_illustration_description">A telefont a zsebében illusztrálja</string>
+    <string name="pocket_mode_instructions_header">A telefon használatához:</string>
+    <string name="pocket_mode_instruction_step1">1.</string>
+    <string name="pocket_mode_instruction_step2">2. Nyomja meg és tartsa be a bekapcsológombot a zseb üzemmód kilépéséhez.</string>
+
 </resources>

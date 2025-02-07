@@ -1,19 +1,17 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!--
-     Copyright (C) 2021 Paranoid Android
-
-     Licensed under the Apache License, Version 2.0 (the "License");
-     you may not use this file except in compliance with the License.
-     You may obtain a copy of the License at
-
-          http://www.apache.org/licenses/LICENSE-2.0
-
-     Unless required by applicable law or agreed to in writing, software
-     distributed under the License is distributed on an "AS IS" BASIS,
-     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-     See the License for the specific language governing permissions and
-     limitations under the License.
--->
+<?xml version='1.0' encoding='utf-8'?>
 <resources>
-    <string name="volume_dialog_ringer_guidance_normal">(%1$s) ನಲ್ಲಿ ಕರೆಗಳು ಮತ್ತು ಅಧಿಸೂಚನೆಗಳು ರಿಂಗ್ ಆಗುತ್ತವೆ</string>
+    <string name="reboot_to_recovery_title">ಮರುಕಳಿಸುವಿಕೆ</string>
+    <string name="reboot_to_recovery_message">ಚೇತರಿಕೆಗೆ ರೀಬೂಟ್ ಮಾಡಲಾಗುತ್ತಿದೆ</string>
+    <string name="reboot_to_bootloader_title">ಬೂಡ್ ಮಾಡುವವ</string>
+    <string name="reboot_to_bootloader_message">ಬೂಟ್ಲೋಡರ್ಗೆ ರೀಬೂಟ್ ಮಾಡಲಾಗುತ್ತಿದೆ</string>
+    <string name="reboot_title">ಪುನರುಜ್ಜೀವನ</string>
+    <string name="reboot_message">ರೀಬೂಟಿಂಗ್ ವ್ಯವಸ್ಥೆ</string>
+
+    
+    <string name="pocket_mode_title">ಪಾಕೆಟ್ ಮೋಡ್ ಸಕ್ರಿಯವಾಗಿದೆ</string>
+    <string name="pocket_mode_illustration_description">ಜೇಬಿನಲ್ಲಿ ಫೋನ್‌ನ ವಿವರಣೆ</string>
+    <string name="pocket_mode_instructions_header">ನಿಮ್ಮ ಫೋನ್ ಬಳಸಲು:</string>
+    <string name="pocket_mode_instruction_step1">1. ಮೇಲೆ ತೋರಿಸಿರುವ ಹಸಿರು ಪ್ರದೇಶ (ಸಾಮೀಪ್ಯ ಸಂವೇದಕ) ತಡೆಯಿಲ್ಲ ಮತ್ತು ಕೊಳಕು ಅಥವಾ ಧೂಳಿನಿಂದ ಮುಕ್ತವಾಗಿದೆ ಎಂದು ಖಚಿತಪಡಿಸಿಕೊಳ್ಳಿ.</string>
+    <string name="pocket_mode_instruction_step2">2. ಪಾಕೆಟ್ ಮೋಡ್‌ನಿಂದ ನಿರ್ಗಮಿಸಲು ಪವರ್ ಬಟನ್ ಒತ್ತಿ ಮತ್ತು ಹಿಡಿದುಕೊಳ್ಳಿ.</string>
+
 </resources>

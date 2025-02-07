@@ -1,26 +1,17 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!--
-     Copyright (C) 2021 Paranoid Android
-
-     Licensed under the Apache License, Version 2.0 (the "License");
-     you may not use this file except in compliance with the License.
-     You may obtain a copy of the License at
-
-          http://www.apache.org/licenses/LICENSE-2.0
-
-     Unless required by applicable law or agreed to in writing, software
-     distributed under the License is distributed on an "AS IS" BASIS,
-     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-     See the License for the specific language governing permissions and
-     limitations under the License.
--->
+<?xml version='1.0' encoding='utf-8'?>
 <resources>
-    <string name="volume_dialog_ringer_guidance_normal">벨소리 및 알림음이 울립니다</string>
-    <string name="charging_control_notification_channel">충전 제어</string>
-    <string name="charging_control_notification_title">충전 제어</string>
-    <string name="charging_control_notification_cancel_once">취소</string>
-    <string name="charging_control_notification_content_limit">배터리는 %1$d%% 까지 충전될 것입니다</string>
-    <string name="charging_control_notification_content_limit_reached">배터리는 %1$d%% 까지 충전되었습니다</string>
-    <string name="charging_control_notification_content_target">배터리는 %1$s에 완전히 충전될 것입니다</string>
-    <string name="charging_control_notification_content_target_reached">배터리가 충전됩니다</string>
+    <string name="reboot_to_recovery_title">회복</string>
+    <string name="reboot_to_recovery_message">복구로 재부팅</string>
+    <string name="reboot_to_bootloader_title">부트 로더</string>
+    <string name="reboot_to_bootloader_message">부트 로더로 재부팅</string>
+    <string name="reboot_title">재부팅</string>
+    <string name="reboot_message">재부팅 시스템</string>
+
+    
+    <string name="pocket_mode_title">포켓 모드가 활성화되었습니다</string>
+    <string name="pocket_mode_illustration_description">주머니에 전화의 그림</string>
+    <string name="pocket_mode_instructions_header">휴대 전화 사용 :</string>
+    <string name="pocket_mode_instruction_step1">1. 위에 표시된 녹지 (근접 센서)가 막히지 않고 먼지 나 먼지가 없도록하십시오.</string>
+    <string name="pocket_mode_instruction_step2">2. 전원 버튼을 누르고 누르면 포켓 모드를 종료합니다.</string>
+
 </resources>

@@ -1,26 +1,17 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!--
-     Copyright (C) 2021 Paranoid Android
-
-     Licensed under the Apache License, Version 2.0 (the "License");
-     you may not use this file except in compliance with the License.
-     You may obtain a copy of the License at
-
-          http://www.apache.org/licenses/LICENSE-2.0
-
-     Unless required by applicable law or agreed to in writing, software
-     distributed under the License is distributed on an "AS IS" BASIS,
-     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-     See the License for the specific language governing permissions and
-     limitations under the License.
--->
+<?xml version='1.0' encoding='utf-8'?>
 <resources>
-    <string name="volume_dialog_ringer_guidance_normal">కాల్స్‌ మరియు నోటిఫికేషన్‌లు రింగ్ అవుతాయి</string>
-    <string name="charging_control_notification_channel">ఛార్జ్ కంట్రోల్</string>
-    <string name="charging_control_notification_title">చార్జింగ్ కంట్రోల్</string>
-    <string name="charging_control_notification_cancel_once">ఆపివేయు</string>
-    <string name="charging_control_notification_content_limit">బాటరీ %1$d%% వరకు ఛార్జ్ చేయబడుతుంది</string>
-    <string name="charging_control_notification_content_limit_reached">బాటరీ %1$d%% వరకు ఛార్జ్ చేయబడింది</string>
-    <string name="charging_control_notification_content_target">బాటరీ %1$s కు ఫుల్ ఛార్జ్ చేయబడుతుంది</string>
-    <string name="charging_control_notification_content_target_reached">బాటరీ ఛార్జ్ అయ్యిపోయింది</string>
+    <string name="reboot_to_recovery_title">రికవరీ</string>
+    <string name="reboot_to_recovery_message">రికవరీకి రీబూట్</string>
+    <string name="reboot_to_bootloader_title">బూట్‌లోడర్</string>
+    <string name="reboot_to_bootloader_message">బూట్‌లోడర్‌కు రీబూట్ చేస్తోంది</string>
+    <string name="reboot_title">రీబూట్</string>
+    <string name="reboot_message">రీబూటింగ్ సిస్టమ్</string>
+
+    
+    <string name="pocket_mode_title">పాకెట్ మోడ్ సక్రియంగా ఉంది</string>
+    <string name="pocket_mode_illustration_description">జేబులో ఫోన్ యొక్క ఉదాహరణ</string>
+    <string name="pocket_mode_instructions_header">మీ ఫోన్‌ను ఉపయోగించడానికి:</string>
+    <string name="pocket_mode_instruction_step1">1. పైన చూపిన ఆకుపచ్చ ప్రాంతం (సామీప్య సెన్సార్) నిర్లక్ష్యం చేయబడిందని మరియు ధూళి లేదా ధూళి నుండి ఉచితం అని నిర్ధారించుకోండి.</string>
+    <string name="pocket_mode_instruction_step2">2. పాకెట్ మోడ్ నుండి నిష్క్రమించడానికి పవర్ బటన్‌ను నొక్కి ఉంచండి.</string>
+
 </resources>
