@@ -1,47 +1,50 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!--
-    Copyright 2022 Paranoid Android
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="face_unlock_recognizing">Yüzü tanımak…</string>
 
-    Licensed under the Apache License, Version 2.0 (the "License");
-    you may not use this file except in compliance with the License.
-    You may obtain a copy of the License at
+    
+    <string name="status_bar_icons_title">Durum çubuğu simgeleri</string>
+    <string name="status_bar_hd_calling">HD Arama (Volte/Vonr)</string>
+    <string name="status_bar_nfc">NFC</string>
+    <string name="status_bar_roaming">Dolaşım göstergesi</string>
+    <string name="status_bar_vowifi">Wi-Fi Arama (Vowifi)</string>
+    <string name="status_bar_wifi_standard">Wi-Fi Standart Numarası</string>
 
-        http://www.apache.org/licenses/LICENSE-2.0
+    
+    <string name="drag_or_tap_to_add_tiles">Fayans eklemek için tutun ve sürükleyin veya dokunun</string>
 
-    Unless required by applicable law or agreed to in writing, software
-    distributed under the License is distributed on an "AS IS" BASIS,
-    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-    See the License for the specific language governing permissions and
-    limitations under the License.
--->
-<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="quick_settings_caffeine_label">Kafein modu</string>
-    <string name="accessibility_quick_settings_caffeine_off">Kafein kapalı</string>
-    <string name="accessibility_quick_settings_caffeine_on">Kafein açık</string>
-    <string name="qs_data_switch_label">Mobil veri SIM\'ini değiştir</string>
-    <string name="qs_data_switch_toast_0">Şuan takılı SIM kart yok</string>
-    <string name="qs_data_switch_toast_1">Şuan sadece bir SIM kart takılı</string>
-    <string name="qs_data_switch_text_1">SIM 1</string>
-    <string name="qs_data_switch_text_2">SIM 2</string>
-    <string name="qs_data_switch_changed_1">Veri kartı SIM 1 olarak değiştirildi.</string>
-    <string name="qs_data_switch_changed_2">Veri kartı SIM 2 olarak değiştirildi.</string>
-    <string name="quick_settings_heads_up_label">Bildirim penceresi</string>
-    <string name="accessibility_quick_settings_heads_up_off">Bildirim penceresi kapalı.</string>
-    <string name="accessibility_quick_settings_heads_up_on">Bildirim penceresi açık.</string>
-    <string name="accessibility_quick_settings_heads_up_changed_off">Bildirim penceresi kapatıldı.</string>
-    <string name="accessibility_quick_settings_heads_up_changed_on">Bildirim penceresi açıldı.</string>
-    <string name="quick_settings_dc_dimming_label">DC Karartma</string>
-    <string name="quick_settings_aod_label">Her zaman açık ekran</string>
-    <string name="quick_settings_powershare_label">Pil Paylaşımı</string>
-    <string name="quick_settings_powershare_off_powersave_label">Pil Paylaşımı kapalı\nPil tasarrufu</string>
-    <string name="quick_settings_powershare_off_low_battery_label">Pil Paylaşımı kapalı\nPil seviyesi çok düşük</string>
-    <string name="quick_settings_powershare_enabled_label">Pil Paylaşımı aktif</string>
-    <string name="turn_on_bluetooth">Bluetooth</string>
-    <string name="bluetooth_is_off">Bluetooth kapalı</string>
-    <string name="tap_a_device_to_connect">Bağlanmak/bağlantıyı kesmek için bir cihaza dokunun</string>
-    <string name="quick_settings_usb_tether_label">USB tethering</string>
-    <string name="quick_settings_sound_label">Ses</string>
-    <string name="quick_settings_sound_ring">Zil sesi</string>
-    <string name="quick_settings_sound_vibrate">Titreşim</string>
-    <string name="quick_settings_sound_silent">Sessiz</string>
-</resources>
+    
+    <string name="drag_or_tap_to_remove_tiles">Fayansları kaldırmak için tutun ve sürükleyin veya dokunun</string>
+
+    
+    <string name="screenshot_delete_label">Silmek</string>
+    
+    <string name="screenshot_delete_description">Ekran görüntüsünü sil</string>
+
+    
+    <string name="screenrecord_delete_label">Silmek</string>
+    
+    <string name="screenrecord_delete_description">Ekran kaydı silindi</string>
+
+    
+    <string name="screenrecord_stopdot_label">Durdur Dot Göster</string>
+    <string name="screenrecord_stopdot_summary">Taşımak için Uzun Basın</string>
+    <string name="screenrecord_lowquality_label">Daha düşük kalite</string>
+    <string name="screenrecord_lowquality_summary">Daha küçük dosya boyutu için</string>
+    <string name="screenrecord_longer_timeout_switch_label">Daha büyük dosya boyutu sınırı</string>
+    <string name="screenrecord_longer_timeout_switch_summary">Kayıt boyutunu 15 GB ile sınırlayın</string>
+    <string name="screenrecord_skip_time_label">Gemi Saatleri</string>
+    <string name="screenrecord_skip_time_summary">3 saniyelik beklemeyi kaldır</string>
+    <string name="screenrecord_hevc_switch_label">HEVC kodlama</string>
+    <string name="screenrecord_hevc_switch_summary">Daha verimli HEVC kodlayıcıyı kullanın</string>
+
+    
+    <string name="network_traffic_title">Ağ Trafiği Göstergesi</string>
+
+    <string name="global_action_restart_advanced">Gelişmiş</string>
+    <string name="global_action_restart_recovery">İyileşmek</string>
+    <string name="global_action_restart_bootloader">Bootloader</string>
+    <string name="global_action_restart_ui">Sistem</string>
+
+    
+    </resources>

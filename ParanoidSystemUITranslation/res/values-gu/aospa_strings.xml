@@ -1,42 +1,50 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!--
-    Copyright 2022 Paranoid Android
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="face_unlock_recognizing">ચહેરો ઓળખવું…</string>
 
-    Licensed under the Apache License, Version 2.0 (the "License");
-    you may not use this file except in compliance with the License.
-    You may obtain a copy of the License at
+    
+    <string name="status_bar_icons_title">સ્થિતિ પટ્ટી</string>
+    <string name="status_bar_hd_calling">એચડી ક calling લિંગ (VOLTE/VONR)</string>
+    <string name="status_bar_nfc">એન.એફ.સી.</string>
+    <string name="status_bar_roaming">ફરતા સૂચક</string>
+    <string name="status_bar_vowifi">Wi-Fi ક calling લિંગ (WWIFI)</string>
+    <string name="status_bar_wifi_standard">વાઇ-ફાઇ માનક સંખ્યા</string>
 
-        http://www.apache.org/licenses/LICENSE-2.0
+    
+    <string name="drag_or_tap_to_add_tiles">ટાઇલ્સ ઉમેરવા માટે પકડો અને ખેંચો અથવા ટેપ કરો</string>
 
-    Unless required by applicable law or agreed to in writing, software
-    distributed under the License is distributed on an "AS IS" BASIS,
-    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-    See the License for the specific language governing permissions and
-    limitations under the License.
--->
-<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="quick_settings_caffeine_label">કેફીન</string>
-    <string name="accessibility_quick_settings_caffeine_off">કેફીન બંધ</string>
-    <string name="accessibility_quick_settings_caffeine_on">કેફીન ચાલુ</string>
-    <string name="qs_data_switch_label">ડેટા કાર્ડ બદલો </string>
-    <string name="qs_data_switch_toast_0">હાલ માં કોઈ સિમ્કર્ડ નાખવા માં આવ્યો નથી </string>
-    <string name="qs_data_switch_toast_1">હાલ માં એક સિમ્કર્ડ નાખેલ છે </string>
-    <string name="qs_data_switch_text_1">સિમ 1</string>
-    <string name="qs_data_switch_text_2">સિમ 2</string>
-    <string name="qs_data_switch_changed_1">ડેટા કાર્ડ સીમ 1 પર રાખ્યો છે </string>
-    <string name="qs_data_switch_changed_2">ડેટા કાર્ડ સીમ 2 પર રાખ્યો છે </string>
-    <string name="quick_settings_heads_up_label">હેડ્સ અપ</string>
-    <string name="accessibility_quick_settings_heads_up_off">હેડ્સ અપ બંધ.</string>
-    <string name="accessibility_quick_settings_heads_up_on">હેડ્સ અપ ચાલુ.</string>
-    <string name="accessibility_quick_settings_heads_up_changed_off">હેડ્સ અપ બંધ કરાયું.</string>
-    <string name="accessibility_quick_settings_heads_up_changed_on">હેડ્સ અપ ચાલુ કરાયું.</string>
-    <string name="quick_settings_dc_dimming_label">ડીસી દિમિંગ</string>
-    <string name="quick_settings_aod_label">સ્ક્રીન હંમેશા પ્રદર્શિત કરો</string>
-    <string name="quick_settings_powershare_label">શેર બેટરી </string>
-    <string name="quick_settings_powershare_off_powersave_label">બેટરી શેર બંધ\nબેટરી બચાવો</string>
-    <string name="quick_settings_powershare_off_low_battery_label">બેટરી શેર બંધ\બેટરી એકદમ ઓછી છે </string>
-    <string name="quick_settings_powershare_enabled_label">બેટરી શેર ચાલુ કરાયું </string>
-    <string name="turn_on_bluetooth">બ્લુટૂથ</string>
-    <string name="bluetooth_is_off">બ્લુટૂથ બંધ છે</string>
-    <string name="tap_a_device_to_connect">કનેક્ટ અથવા દિસ્કનેટ કરવા માટે દિવાઇસ પર ટચ કરો </string>
-</resources>
+    
+    <string name="drag_or_tap_to_remove_tiles">ટાઇલ્સને દૂર કરવા માટે પકડો અને ખેંચો અથવા ટેપ કરો</string>
+
+    
+    <string name="screenshot_delete_label">કા delી નાખવું</string>
+    
+    <string name="screenshot_delete_description">સ્ક્રીનશોટ કા Delete ી નાખો</string>
+
+    
+    <string name="screenrecord_delete_label">કા delી નાખવું</string>
+    
+    <string name="screenrecord_delete_description">સ્ક્રીન રેકોર્ડિંગ કા deleted ી નાખ્યું</string>
+
+    
+    <string name="screenrecord_stopdot_label">સ્ટોપ ડોટ બતાવો</string>
+    <string name="screenrecord_stopdot_summary">તેને ખસેડવા માટે લાંબા પ્રેસ</string>
+    <string name="screenrecord_lowquality_label">નીચી ગુણવત્તા</string>
+    <string name="screenrecord_lowquality_summary">નાના ફાઇલ કદ માટે</string>
+    <string name="screenrecord_longer_timeout_switch_label">મોટી ફાઇલ કદ મર્યાદા</string>
+    <string name="screenrecord_longer_timeout_switch_summary">રેકોર્ડિંગ કદને 15 જીબી સુધી મર્યાદિત કરો</string>
+    <string name="screenrecord_skip_time_label">જહાજનો સમય</string>
+    <string name="screenrecord_skip_time_summary">3 સેકન્ડ પ્રતીક્ષા દૂર કરો</string>
+    <string name="screenrecord_hevc_switch_label">HEVC એન્કોડિંગ</string>
+    <string name="screenrecord_hevc_switch_summary">વધુ કાર્યક્ષમ એચ.વી.વી.સી. એન્કોડરનો ઉપયોગ કરો</string>
+
+    
+    <string name="network_traffic_title">નેટવર્ક ટ્રાફિક સૂચક</string>
+
+    <string name="global_action_restart_advanced">આગળ વધેલું</string>
+    <string name="global_action_restart_recovery">વસૂલાત</string>
+    <string name="global_action_restart_bootloader">કોઇ</string>
+    <string name="global_action_restart_ui">પદ્ધતિ</string>
+
+    
+    </resources>

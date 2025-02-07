@@ -1,47 +1,50 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!--
-    Copyright 2022 Paranoid Android
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="face_unlock_recognizing">认识脸…</string>
 
-    Licensed under the Apache License, Version 2.0 (the "License");
-    you may not use this file except in compliance with the License.
-    You may obtain a copy of the License at
+    
+    <string name="status_bar_icons_title">状态栏图标</string>
+    <string name="status_bar_hd_calling">高清通话（Volte/Vonr）</string>
+    <string name="status_bar_nfc">NFC</string>
+    <string name="status_bar_roaming">漫游指示器</string>
+    <string name="status_bar_vowifi">Wi-Fi呼叫（Vowifi）</string>
+    <string name="status_bar_wifi_standard">Wi-Fi标准号码</string>
 
-        http://www.apache.org/licenses/LICENSE-2.0
+    
+    <string name="drag_or_tap_to_add_tiles">握住或拖动或点击添加瓷砖</string>
 
-    Unless required by applicable law or agreed to in writing, software
-    distributed under the License is distributed on an "AS IS" BASIS,
-    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-    See the License for the specific language governing permissions and
-    limitations under the License.
--->
-<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="quick_settings_caffeine_label">屏幕常亮</string>
-    <string name="accessibility_quick_settings_caffeine_off">关闭屏幕常亮</string>
-    <string name="accessibility_quick_settings_caffeine_on">开启亮屏常亮</string>
-    <string name="qs_data_switch_label">切换上网卡</string>
-    <string name="qs_data_switch_toast_0">当前没有插入 SIM 卡</string>
-    <string name="qs_data_switch_toast_1">当前仅插入了一张 SIM 卡</string>
-    <string name="qs_data_switch_text_1">SIM 卡 1</string>
-    <string name="qs_data_switch_text_2">SIM 卡 2</string>
-    <string name="qs_data_switch_changed_1">已将移动数据卡切换到 SIM 卡 1</string>
-    <string name="qs_data_switch_changed_2">已将移动数据卡切换到 SIM 卡 2</string>
-    <string name="quick_settings_heads_up_label">浮动通知</string>
-    <string name="accessibility_quick_settings_heads_up_off">关闭浮动通知</string>
-    <string name="accessibility_quick_settings_heads_up_on">开启浮动通知</string>
-    <string name="accessibility_quick_settings_heads_up_changed_off">浮动通知已关闭</string>
-    <string name="accessibility_quick_settings_heads_up_changed_on">浮动通知已开启</string>
-    <string name="quick_settings_dc_dimming_label">DC 调光</string>
-    <string name="quick_settings_aod_label">始终显示</string>
-    <string name="quick_settings_powershare_label">无线反向充电</string>
-    <string name="quick_settings_powershare_off_powersave_label">无线反向充电已关闭\n省电模式</string>
-    <string name="quick_settings_powershare_off_low_battery_label">无线反向充电已关闭\n电量过低</string>
-    <string name="quick_settings_powershare_enabled_label">无线反向充电已启用</string>
-    <string name="turn_on_bluetooth">蓝牙</string>
-    <string name="bluetooth_is_off">蓝牙已关闭</string>
-    <string name="tap_a_device_to_connect">轻触设备以连接/断开</string>
-    <string name="quick_settings_usb_tether_label">USB 共享网络</string>
-    <string name="quick_settings_sound_label">响铃</string>
-    <string name="quick_settings_sound_ring">铃声</string>
-    <string name="quick_settings_sound_vibrate">振动</string>
-    <string name="quick_settings_sound_silent">静音</string>
-</resources>
+    
+    <string name="drag_or_tap_to_remove_tiles">握住或拖动或点击以取出瓷砖</string>
+
+    
+    <string name="screenshot_delete_label">删除</string>
+    
+    <string name="screenshot_delete_description">删除屏幕截图</string>
+
+    
+    <string name="screenrecord_delete_label">删除</string>
+    
+    <string name="screenrecord_delete_description">屏幕记录已删除</string>
+
+    
+    <string name="screenrecord_stopdot_label">显示停止点</string>
+    <string name="screenrecord_stopdot_summary">长按以移动它</string>
+    <string name="screenrecord_lowquality_label">质量较低</string>
+    <string name="screenrecord_lowquality_summary">对于较小的文件大小</string>
+    <string name="screenrecord_longer_timeout_switch_label">较大的文件大小限制</string>
+    <string name="screenrecord_longer_timeout_switch_summary">将记录尺寸限制为15 GB</string>
+    <string name="screenrecord_skip_time_label">船小时</string>
+    <string name="screenrecord_skip_time_summary">删除3秒等待</string>
+    <string name="screenrecord_hevc_switch_label">HEVC编码</string>
+    <string name="screenrecord_hevc_switch_summary">使用更高效的HEVC编码器</string>
+
+    
+    <string name="network_traffic_title">网络流量指示器</string>
+
+    <string name="global_action_restart_advanced">先进的</string>
+    <string name="global_action_restart_recovery">恢复</string>
+    <string name="global_action_restart_bootloader">引导加载程序</string>
+    <string name="global_action_restart_ui">Systemu</string>
+
+    
+    </resources>

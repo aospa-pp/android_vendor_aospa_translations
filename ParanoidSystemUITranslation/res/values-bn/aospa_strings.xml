@@ -1,32 +1,50 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!--
-    Copyright 2022 Paranoid Android
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="face_unlock_recognizing">মুখ চিনে…</string>
 
-    Licensed under the Apache License, Version 2.0 (the "License");
-    you may not use this file except in compliance with the License.
-    You may obtain a copy of the License at
+    
+    <string name="status_bar_icons_title">স্ট্যাটাস বার আইকন</string>
+    <string name="status_bar_hd_calling">এইচডি কলিং (ভোল্ট/ভনর)</string>
+    <string name="status_bar_nfc">এনএফসি</string>
+    <string name="status_bar_roaming">রোমিং সূচক</string>
+    <string name="status_bar_vowifi">Wi-Fi কলিং (vowifi)</string>
+    <string name="status_bar_wifi_standard">ওয়াই-ফাই স্ট্যান্ডার্ড নম্বর</string>
 
-        http://www.apache.org/licenses/LICENSE-2.0
+    
+    <string name="drag_or_tap_to_add_tiles">টাইলস যুক্ত করতে ধরে রাখুন এবং টানুন বা আলতো চাপুন</string>
 
-    Unless required by applicable law or agreed to in writing, software
-    distributed under the License is distributed on an "AS IS" BASIS,
-    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-    See the License for the specific language governing permissions and
-    limitations under the License.
--->
-<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="quick_settings_caffeine_label">ক্যাফেইন</string>
-    <string name="accessibility_quick_settings_caffeine_off">ক্যাফেইন বন্ধ করুন</string>
-    <string name="accessibility_quick_settings_caffeine_on">ক্যাফিন চালু করুন</string>
-    <string name="qs_data_switch_label">ডাটা সিমকার্ড পরিবর্তন করুন</string>
-    <string name="qs_data_switch_toast_0">বর্তমানে ফোনে কোন সিম কার্ড প্রবেশ করানো নেই</string>
-    <string name="qs_data_switch_toast_1">বর্তমানে ফোনে একটি সিম কার্ড প্রবেশ করানো আছে</string>
-    <string name="qs_data_switch_text_1">সিম ১</string>
-    <string name="qs_data_switch_text_2">সিম ২</string>
-    <string name="qs_data_switch_changed_1">ডেটা সিম ১ থেকে সক্রিয় হচ্ছে</string>
-    <string name="qs_data_switch_changed_2">ডেটা সিম ২ থেকে সক্রিয় হচ্ছে</string>
-    <string name="quick_settings_heads_up_label">হেডস আপ</string>
-    <string name="accessibility_quick_settings_heads_up_off">হেডস আপ বন্ধ।</string>
-    <string name="accessibility_quick_settings_heads_up_on">হেডস আপ চালু</string>
-    <string name="accessibility_quick_settings_heads_up_changed_off">হেডস আপ বন্ধ করা হয়েছে.</string>
-</resources>
+    
+    <string name="drag_or_tap_to_remove_tiles">টাইলগুলি সরাতে ধরে রাখুন এবং টেনে আনুন বা আলতো চাপুন</string>
+
+    
+    <string name="screenshot_delete_label">মুছুন</string>
+    
+    <string name="screenshot_delete_description">স্ক্রিনশট মুছুন</string>
+
+    
+    <string name="screenrecord_delete_label">মুছুন</string>
+    
+    <string name="screenrecord_delete_description">স্ক্রিন রেকর্ডিং মুছে ফেলা হয়েছে</string>
+
+    
+    <string name="screenrecord_stopdot_label">স্টপ ডট দেখান</string>
+    <string name="screenrecord_stopdot_summary">এটি সরানোর জন্য দীর্ঘ প্রেস</string>
+    <string name="screenrecord_lowquality_label">নিম্ন মানের</string>
+    <string name="screenrecord_lowquality_summary">ছোট ফাইল আকারের জন্য</string>
+    <string name="screenrecord_longer_timeout_switch_label">বৃহত্তর ফাইল আকারের সীমা</string>
+    <string name="screenrecord_longer_timeout_switch_summary">রেকর্ডিং আকার 15 জিবি সীমাবদ্ধ করুন</string>
+    <string name="screenrecord_skip_time_label">শিপ সময়</string>
+    <string name="screenrecord_skip_time_summary">3 সেকেন্ড অপেক্ষা করুন</string>
+    <string name="screenrecord_hevc_switch_label">এইচইভিসি এনকোডিং</string>
+    <string name="screenrecord_hevc_switch_summary">আরও দক্ষ HEVC এনকোডার ব্যবহার করুন</string>
+
+    
+    <string name="network_traffic_title">নেটওয়ার্ক ট্র্যাফিক সূচক</string>
+
+    <string name="global_action_restart_advanced">উন্নত</string>
+    <string name="global_action_restart_recovery">পুনরুদ্ধার</string>
+    <string name="global_action_restart_bootloader">বুটলোডার</string>
+    <string name="global_action_restart_ui">সিস্টেমু</string>
+
+    
+    </resources>

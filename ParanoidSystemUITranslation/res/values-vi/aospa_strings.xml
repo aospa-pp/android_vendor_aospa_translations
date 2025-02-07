@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="face_unlock_recognizing">Nhận dạng khuôn mặt…</string>
+
+    
+    <string name="status_bar_icons_title">Biểu tượng thanh trạng thái</string>
+    <string name="status_bar_hd_calling">Gọi HD (VoLTE/VONR)</string>
+    <string name="status_bar_nfc">NFC</string>
+    <string name="status_bar_roaming">Chỉ báo chuyển vùng</string>
+    <string name="status_bar_vowifi">Gọi Wi-Fi (Vowifi)</string>
+    <string name="status_bar_wifi_standard">Số tiêu chuẩn Wi-Fi</string>
+
+    
+    <string name="drag_or_tap_to_add_tiles">Giữ và kéo hoặc nhấn để thêm ô</string>
+
+    
+    <string name="drag_or_tap_to_remove_tiles">Giữ và kéo hoặc nhấn để loại bỏ ô</string>
+
+    
+    <string name="screenshot_delete_label">Xóa bỏ</string>
+    
+    <string name="screenshot_delete_description">Xóa ảnh chụp màn hình</string>
+
+    
+    <string name="screenrecord_delete_label">Xóa bỏ</string>
+    
+    <string name="screenrecord_delete_description">Ghi màn hình bị xóa</string>
+
+    
+    <string name="screenrecord_stopdot_label">Hiển thị DOT DOT</string>
+    <string name="screenrecord_stopdot_summary">Báo chí dài để di chuyển nó</string>
+    <string name="screenrecord_lowquality_label">Chất lượng thấp hơn</string>
+    <string name="screenrecord_lowquality_summary">Đối với kích thước tệp nhỏ hơn</string>
+    <string name="screenrecord_longer_timeout_switch_label">Giới hạn kích thước tệp lớn hơn</string>
+    <string name="screenrecord_longer_timeout_switch_summary">Giới hạn kích thước ghi ở 15 GB</string>
+    <string name="screenrecord_skip_time_label">Giờ tàu</string>
+    <string name="screenrecord_skip_time_summary">Xóa 3 giây chờ đợi</string>
+    <string name="screenrecord_hevc_switch_label">HEVC mã hóa</string>
+    <string name="screenrecord_hevc_switch_summary">Sử dụng bộ mã hóa HEVC hiệu quả hơn</string>
+
+    
+    <string name="network_traffic_title">Chỉ báo lưu lượng mạng</string>
+
+    <string name="global_action_restart_advanced">Nâng cao</string>
+    <string name="global_action_restart_recovery">Khôi phục</string>
+    <string name="global_action_restart_bootloader">Trình nạp khởi động</string>
+    <string name="global_action_restart_ui">Hệ thống</string>
+
+    
+    </resources>

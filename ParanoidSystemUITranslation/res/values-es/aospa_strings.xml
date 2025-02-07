@@ -1,42 +1,49 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!--
-    Copyright 2022 Paranoid Android
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="face_unlock_recognizing">Reconociendo la cara…</string>
 
-    Licensed under the Apache License, Version 2.0 (the "License");
-    you may not use this file except in compliance with the License.
-    You may obtain a copy of the License at
+    
+    <string name="status_bar_icons_title">Iconos de barra de estado</string>
+    <string name="status_bar_hd_calling">HD llamadas (volte/vonr)</string>
+    <string name="status_bar_nfc">NFC</string>
+    <string name="status_bar_roaming">Indicador de roaming</string>
+    <string name="status_bar_vowifi">Wi-Fi Llamada (Vowifi)</string>
+    <string name="status_bar_wifi_standard">Número estándar de Wi-Fi</string>
 
-        http://www.apache.org/licenses/LICENSE-2.0
+    
+    <string name="drag_or_tap_to_add_tiles">Mantenga y arrastre o toque para agregar mosaicos</string>
 
-    Unless required by applicable law or agreed to in writing, software
-    distributed under the License is distributed on an "AS IS" BASIS,
-    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-    See the License for the specific language governing permissions and
-    limitations under the License.
--->
-<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="quick_settings_caffeine_label">Modo Cafeína</string>
-    <string name="accessibility_quick_settings_caffeine_off">Modo Cafeína desactivado</string>
-    <string name="accessibility_quick_settings_caffeine_on">Modo Cafeína Activado</string>
-    <string name="qs_data_switch_label">Cambiar SIM para datos</string>
-    <string name="qs_data_switch_toast_0">No se ha insertado ninguna tarjeta SIM</string>
-    <string name="qs_data_switch_toast_1">Actualmente sólo hay una tarjeta SIM insertada</string>
-    <string name="qs_data_switch_text_1">SIM 1</string>
-    <string name="qs_data_switch_text_2">SIM 2</string>
-    <string name="qs_data_switch_changed_1">Tarjeta de datos cambiada a SIM 1.</string>
-    <string name="qs_data_switch_changed_2">Tarjeta de datos cambiada a SIM 2.</string>
-    <string name="quick_settings_heads_up_label">Notificaciones emergentes</string>
-    <string name="accessibility_quick_settings_heads_up_off">Desactivar notificaciones emergentes.</string>
-    <string name="accessibility_quick_settings_heads_up_on">Notificaciones emergentes activadas.</string>
-    <string name="accessibility_quick_settings_heads_up_changed_off">Notificaciones emergentes desactivadas.</string>
-    <string name="accessibility_quick_settings_heads_up_changed_on">Notificaciones emergentes activadas.</string>
-    <string name="quick_settings_dc_dimming_label">Atenuación DC</string>
-    <string name="quick_settings_aod_label">Always-on-display</string>
-    <string name="quick_settings_powershare_label">Compartir Batería</string>
-    <string name="quick_settings_powershare_off_powersave_label">Compartir Batería apagado\n Ahorro de batería</string>
-    <string name="quick_settings_powershare_off_low_battery_label">Compartir batería apagado\nBatería muy baja</string>
-    <string name="quick_settings_powershare_enabled_label">El compartir de batería está activo </string>
-    <string name="turn_on_bluetooth">Bluetooth</string>
-    <string name="bluetooth_is_off">Bluetooth está apagado</string>
-    <string name="tap_a_device_to_connect">Toca un dispositivo para conectar/desconectar</string>
-</resources>
+    
+    <string name="drag_or_tap_to_remove_tiles">Sostenga y arrastre o toque para quitar los mosaicos</string>
+
+    
+    <string name="screenshot_delete_label">Borrar</string>
+    
+    <string name="screenshot_delete_description">Eliminar captura de pantalla</string>
+
+    
+    <string name="screenrecord_delete_label">Borrar</string>
+    
+    <string name="screenrecord_delete_description">Grabación de pantalla eliminada</string>
+
+    
+    <string name="screenrecord_stopdot_label">Show stop dot</string>
+    <string name="screenrecord_stopdot_summary">Prensa larga para moverlo</string>
+    <string name="screenrecord_lowquality_label">Menor calidad</string>
+    <string name="screenrecord_lowquality_summary">Para un tamaño de archivo más pequeño</string>
+    <string name="screenrecord_longer_timeout_switch_label">Límite de tamaño de archivo más grande</string>
+    <string name="screenrecord_longer_timeout_switch_summary">Tamaño de grabación de límite a 15 GB</string>
+    <string name="screenrecord_skip_time_label">Nave</string>
+    <string name="screenrecord_skip_time_summary">Retire la espera de 3 segundos</string>
+    <string name="screenrecord_hevc_switch_label">Codificación de HEVC</string>
+    <string name="screenrecord_hevc_switch_summary">Use el codificador HEVC más eficiente</string>
+
+    
+    <string name="network_traffic_title">Indicador de tráfico de red</string>
+
+    <string name="global_action_restart_recovery">Recuperación</string>
+    <string name="global_action_restart_bootloader">Cargador de arranque</string>
+    <string name="global_action_restart_ui">Systemu</string>
+
+    
+    </resources>

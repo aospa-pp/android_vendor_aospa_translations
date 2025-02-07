@@ -1,44 +1,50 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!--
-    Copyright 2022 Paranoid Android
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="face_unlock_recognizing">ముఖాన్ని గుర్తించడం…</string>
 
-    Licensed under the Apache License, Version 2.0 (the "License");
-    you may not use this file except in compliance with the License.
-    You may obtain a copy of the License at
+    
+    <string name="status_bar_icons_title">స్టేటస్ బార్ చిహ్నాలు</string>
+    <string name="status_bar_hd_calling">HD కాలింగ్ (వోల్టే/VONR)</string>
+    <string name="status_bar_nfc">Nfc</string>
+    <string name="status_bar_roaming">రోమింగ్ సూచిక</string>
+    <string name="status_bar_vowifi">Wi-ఫై కాలింగ్ (వోవిఫై)</string>
+    <string name="status_bar_wifi_standard">Wi-Fi ప్రామాణిక సంఖ్య</string>
 
-        http://www.apache.org/licenses/LICENSE-2.0
+    
+    <string name="drag_or_tap_to_add_tiles">పలకలను జోడించడానికి పట్టుకోండి &amp; లాగండి లేదా నొక్కండి</string>
 
-    Unless required by applicable law or agreed to in writing, software
-    distributed under the License is distributed on an "AS IS" BASIS,
-    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-    See the License for the specific language governing permissions and
-    limitations under the License.
--->
-<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="quick_settings_caffeine_label">కెఫిన్</string>
-    <string name="accessibility_quick_settings_caffeine_off">కెఫిన్ ఆఫ్</string>
-    <string name="accessibility_quick_settings_caffeine_on">కెఫిన్ ఆన్</string>
-    <string name="qs_data_switch_label">డేటా కార్డ్‌ని మార్చండి</string>
-    <string name="qs_data_switch_toast_0">ప్రస్తుతం సిమ్ కార్డ్ లేదు</string>
-    <string name="qs_data_switch_toast_1">ప్రస్తుతం ఒక సిమ్ కార్డ్ మాత్రమే ఉంది</string>
-    <string name="qs_data_switch_text_1">సిమ్ 1</string>
-    <string name="qs_data_switch_text_2">సిమ్ 2</string>
-    <string name="qs_data_switch_changed_1">డేటా కార్డ్ సిమ్ 1 కి మార్చబడింది.</string>
-    <string name="qs_data_switch_changed_2">డేటా కార్డ్ సిమ్ 2 కి మార్చబడింది.</string>
-    <string name="quick_settings_heads_up_label">హెచ్చరిక</string>
-    <string name="accessibility_quick_settings_heads_up_off">హెచ్చరిక ఆఫ్.</string>
-    <string name="accessibility_quick_settings_heads_up_on">హెచ్చరిక ఆన్.</string>
-    <string name="accessibility_quick_settings_heads_up_changed_off">హెచ్చరిక ఆపివేయబడింది.</string>
-    <string name="accessibility_quick_settings_heads_up_changed_on">హెచ్చరిక ఆన్ చేయబడింది.</string>
-    <string name="quick_settings_dc_dimming_label">DC డిమ్మింగ్</string>
-    <string name="quick_settings_aod_label">ఆల్వేస్ ఆన్ డిస్ప్లే</string>
-    <string name="quick_settings_powershare_label">బాటరీ షేర్</string>
-    <string name="quick_settings_powershare_off_powersave_label">బాటరీ షేర్ ఆఫ్
-బాటరీ సేవర్</string>
-    <string name="quick_settings_powershare_off_low_battery_label">బాటరీ షేర్ ఆఫ్
-బాటరీ బాగా తక్కువ ఉంది</string>
-    <string name="quick_settings_powershare_enabled_label">బాటరీ షేర్ ఆన్ చేయబడింది</string>
-    <string name="turn_on_bluetooth">బ్లూటూత్</string>
-    <string name="bluetooth_is_off">బ్లూటూత్ ఆఫ్‌లో ఉంది</string>
-    <string name="tap_a_device_to_connect">కనెక్ట్ చేయడానికి/డిస్‌కనెక్ట్ చేయడానికి పరికరాన్ని నొక్కండి</string>
-</resources>
+    
+    <string name="drag_or_tap_to_remove_tiles">పలకలను తొలగించడానికి పట్టుకోండి &amp; లాగండి లేదా నొక్కండి</string>
+
+    
+    <string name="screenshot_delete_label">తొలగించు</string>
+    
+    <string name="screenshot_delete_description">స్క్రీన్ షాట్ తొలగించండి</string>
+
+    
+    <string name="screenrecord_delete_label">తొలగించు</string>
+    
+    <string name="screenrecord_delete_description">స్క్రీన్ రికార్డింగ్ తొలగించబడింది</string>
+
+    
+    <string name="screenrecord_stopdot_label">స్టాప్ డాట్ చూపించు</string>
+    <string name="screenrecord_stopdot_summary">దాన్ని తరలించడానికి లాంగ్ ప్రెస్</string>
+    <string name="screenrecord_lowquality_label">తక్కువ నాణ్యత</string>
+    <string name="screenrecord_lowquality_summary">చిన్న ఫైల్ పరిమాణం కోసం</string>
+    <string name="screenrecord_longer_timeout_switch_label">పెద్ద ఫైల్ సైజు పరిమితి</string>
+    <string name="screenrecord_longer_timeout_switch_summary">రికార్డింగ్ పరిమాణాన్ని 15 GB కి పరిమితం చేయండి</string>
+    <string name="screenrecord_skip_time_label">ఓడ గంటలు</string>
+    <string name="screenrecord_skip_time_summary">3 సెకన్ల నిరీక్షణను తొలగించండి</string>
+    <string name="screenrecord_hevc_switch_label">HEVC ఎన్కోడింగ్</string>
+    <string name="screenrecord_hevc_switch_summary">మరింత సమర్థవంతమైన HEVC ఎన్‌కోడర్‌ను ఉపయోగించండి</string>
+
+    
+    <string name="network_traffic_title">నెట్‌వర్క్ ట్రాఫిక్ సూచిక</string>
+
+    <string name="global_action_restart_advanced">అధునాతన</string>
+    <string name="global_action_restart_recovery">రికవరీ</string>
+    <string name="global_action_restart_bootloader">బూట్‌లోడర్</string>
+    <string name="global_action_restart_ui">సిస్టమ్‌యు</string>
+
+    
+    </resources>

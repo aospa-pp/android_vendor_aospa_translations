@@ -1,42 +1,50 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!--
-    Copyright 2022 Paranoid Android
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="face_unlock_recognizing">Erkänner ansikte…</string>
 
-    Licensed under the Apache License, Version 2.0 (the "License");
-    you may not use this file except in compliance with the License.
-    You may obtain a copy of the License at
+    
+    <string name="status_bar_icons_title">Statusfältikoner</string>
+    <string name="status_bar_hd_calling">HD Calling (VoLTE/Vonr)</string>
+    <string name="status_bar_nfc">Nfc</string>
+    <string name="status_bar_roaming">Roamingindikator</string>
+    <string name="status_bar_vowifi">Wi-Fi Calling (Vowifi)</string>
+    <string name="status_bar_wifi_standard">Wi-Fi-standardnummer</string>
 
-        http://www.apache.org/licenses/LICENSE-2.0
+    
+    <string name="drag_or_tap_to_add_tiles">Håll och dra eller tryck för att lägga till plattor</string>
 
-    Unless required by applicable law or agreed to in writing, software
-    distributed under the License is distributed on an "AS IS" BASIS,
-    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-    See the License for the specific language governing permissions and
-    limitations under the License.
--->
-<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="quick_settings_caffeine_label">Koffein</string>
-    <string name="accessibility_quick_settings_caffeine_off">Koffein av</string>
-    <string name="accessibility_quick_settings_caffeine_on">Koffein på</string>
-    <string name="qs_data_switch_label">Byt SIM-kort för data</string>
-    <string name="qs_data_switch_toast_0">För närvarande är inget SIM-kort isatt</string>
-    <string name="qs_data_switch_toast_1">För närvarande är endast ett SIM-kort isatt</string>
-    <string name="qs_data_switch_text_1">SIM 1</string>
-    <string name="qs_data_switch_text_2">SIM 2</string>
-    <string name="qs_data_switch_changed_1">Byt datakort till SIM 1.</string>
-    <string name="qs_data_switch_changed_2">Byt datakort till SIM 2.</string>
-    <string name="quick_settings_heads_up_label">Popup</string>
-    <string name="accessibility_quick_settings_heads_up_off">Popup av.</string>
-    <string name="accessibility_quick_settings_heads_up_on">Popup på.</string>
-    <string name="accessibility_quick_settings_heads_up_changed_off">Popup är avstängd </string>
-    <string name="accessibility_quick_settings_heads_up_changed_on">Popup är påslaget.</string>
-    <string name="quick_settings_dc_dimming_label">DC ljusreglering</string>
-    <string name="quick_settings_aod_label">Skärm alltid på</string>
-    <string name="quick_settings_powershare_label">Batteridelning</string>
-    <string name="quick_settings_powershare_off_powersave_label">Batteridelning av\nBatterisparläge</string>
-    <string name="quick_settings_powershare_off_low_battery_label">Batteridelning av\nLåg batterinivå</string>
-    <string name="quick_settings_powershare_enabled_label">Batteridelning aktiverad</string>
-    <string name="turn_on_bluetooth">Bluetooth</string>
-    <string name="bluetooth_is_off">Bluetooth är inaktiverat</string>
-    <string name="tap_a_device_to_connect">Tryck på en enhet för att ansluta/koppla från</string>
-</resources>
+    
+    <string name="drag_or_tap_to_remove_tiles">Håll och dra eller tryck för att ta bort brickor</string>
+
+    
+    <string name="screenshot_delete_label">Radera</string>
+    
+    <string name="screenshot_delete_description">Ta bort skärmdump</string>
+
+    
+    <string name="screenrecord_delete_label">Radera</string>
+    
+    <string name="screenrecord_delete_description">Skärminspelning raderad</string>
+
+    
+    <string name="screenrecord_stopdot_label">SHOW STOP DOT</string>
+    <string name="screenrecord_stopdot_summary">Lång press för att flytta den</string>
+    <string name="screenrecord_lowquality_label">Lägre kvalitet</string>
+    <string name="screenrecord_lowquality_summary">För mindre filstorlek</string>
+    <string name="screenrecord_longer_timeout_switch_label">Större filstorleksgräns</string>
+    <string name="screenrecord_longer_timeout_switch_summary">Begränsa inspelningsstorleken till 15 GB</string>
+    <string name="screenrecord_skip_time_label">Skeppstimmar</string>
+    <string name="screenrecord_skip_time_summary">Ta bort den 3 sekunders väntan</string>
+    <string name="screenrecord_hevc_switch_label">HEVC -kodning</string>
+    <string name="screenrecord_hevc_switch_summary">Använd den effektivare HEVC -kodaren</string>
+
+    
+    <string name="network_traffic_title">Nätverkstrafikindikator</string>
+
+    <string name="global_action_restart_advanced">Avancerad</string>
+    <string name="global_action_restart_recovery">Återhämtning</string>
+    <string name="global_action_restart_bootloader">Startladdare</string>
+    <string name="global_action_restart_ui">Systemu</string>
+
+    
+    </resources>

@@ -1,42 +1,50 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!--
-    Copyright 2022 Paranoid Android
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="face_unlock_recognizing">Rozpoznávání tváře…</string>
 
-    Licensed under the Apache License, Version 2.0 (the "License");
-    you may not use this file except in compliance with the License.
-    You may obtain a copy of the License at
+    
+    <string name="status_bar_icons_title">Ikony stavového řádu</string>
+    <string name="status_bar_hd_calling">HD volání (VoLTE/VONR)</string>
+    <string name="status_bar_nfc">NFC</string>
+    <string name="status_bar_roaming">Indikátor roamingu</string>
+    <string name="status_bar_vowifi">Wi-Fi Calling (VoWifi)</string>
+    <string name="status_bar_wifi_standard">Standardní číslo Wi-Fi</string>
 
-        http://www.apache.org/licenses/LICENSE-2.0
+    
+    <string name="drag_or_tap_to_add_tiles">Držte a přetáhněte nebo klepnutím přidejte dlaždice</string>
 
-    Unless required by applicable law or agreed to in writing, software
-    distributed under the License is distributed on an "AS IS" BASIS,
-    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-    See the License for the specific language governing permissions and
-    limitations under the License.
--->
-<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="quick_settings_caffeine_label">Caffeine</string>
-    <string name="accessibility_quick_settings_caffeine_off">Caffeine vyp.</string>
-    <string name="accessibility_quick_settings_caffeine_on">Caffeine zap.</string>
-    <string name="qs_data_switch_label">Přepnout datovou SIM kartu</string>
-    <string name="qs_data_switch_toast_0">Momentálně není vložena žádná SIM karta</string>
-    <string name="qs_data_switch_toast_1">Momentálně je vložena pouze jedna SIM karta</string>
-    <string name="qs_data_switch_text_1">SIM 1</string>
-    <string name="qs_data_switch_text_2">SIM 2</string>
-    <string name="qs_data_switch_changed_1">Přepnuta datová karta na SIM 1.</string>
-    <string name="qs_data_switch_changed_2">Přepnuta datová karta na SIM 2.</string>
-    <string name="quick_settings_heads_up_label">Plovoucí oznámení</string>
-    <string name="accessibility_quick_settings_heads_up_off">Plovoucí oznámení vyp.</string>
-    <string name="accessibility_quick_settings_heads_up_on">Plovoucí oznámení zap.</string>
-    <string name="accessibility_quick_settings_heads_up_changed_off">Plovoucí oznámení byla vypnuta.</string>
-    <string name="accessibility_quick_settings_heads_up_changed_on">Plovoucí oznámení byla zapnuta.</string>
-    <string name="quick_settings_dc_dimming_label">DC tlumení</string>
-    <string name="quick_settings_aod_label">Vždy zapnutý displej</string>
-    <string name="quick_settings_powershare_label">Reverzní nabíjení</string>
-    <string name="quick_settings_powershare_off_powersave_label">Reverzní nabíjení\nSpořič baterie</string>
-    <string name="quick_settings_powershare_off_low_battery_label">Reverzní nabíjení\nNízký stav baterie</string>
-    <string name="quick_settings_powershare_enabled_label">Reverzní nabíjení je povoleno</string>
-    <string name="turn_on_bluetooth">Bluetooth</string>
-    <string name="bluetooth_is_off">Bluetooth je vypnuto</string>
-    <string name="tap_a_device_to_connect">Klepnutím na zařízení ho připojíte/odpojíte</string>
-</resources>
+    
+    <string name="drag_or_tap_to_remove_tiles">Držte a přetáhněte nebo klepnutím odstraníte dlaždice</string>
+
+    
+    <string name="screenshot_delete_label">Vymazat</string>
+    
+    <string name="screenshot_delete_description">Odstranit snímek obrazovky</string>
+
+    
+    <string name="screenrecord_delete_label">Vymazat</string>
+    
+    <string name="screenrecord_delete_description">Nahrávání obrazovky</string>
+
+    
+    <string name="screenrecord_stopdot_label">Zobrazit stop dot</string>
+    <string name="screenrecord_stopdot_summary">Dlouhý stisknutí jej přesune</string>
+    <string name="screenrecord_lowquality_label">Nižší kvalita</string>
+    <string name="screenrecord_lowquality_summary">Pro menší velikost souboru</string>
+    <string name="screenrecord_longer_timeout_switch_label">Větší limit velikosti souboru</string>
+    <string name="screenrecord_longer_timeout_switch_summary">Omezte velikost záznamu na 15 GB</string>
+    <string name="screenrecord_skip_time_label">Hodiny lodi</string>
+    <string name="screenrecord_skip_time_summary">Odstraňte 3 sekundové čekání</string>
+    <string name="screenrecord_hevc_switch_label">Kódování HEVC</string>
+    <string name="screenrecord_hevc_switch_summary">Použijte efektivnější kodér HEVC</string>
+
+    
+    <string name="network_traffic_title">Indikátor síťového provozu</string>
+
+    <string name="global_action_restart_advanced">Moderní</string>
+    <string name="global_action_restart_recovery">Zotavení</string>
+    <string name="global_action_restart_bootloader">Bootloader</string>
+    <string name="global_action_restart_ui">System</string>
+
+    
+    </resources>

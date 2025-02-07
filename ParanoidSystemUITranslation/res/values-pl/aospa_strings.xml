@@ -1,47 +1,50 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!--
-    Copyright 2022 Paranoid Android
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="face_unlock_recognizing">Rozpoznanie twarzy…</string>
 
-    Licensed under the Apache License, Version 2.0 (the "License");
-    you may not use this file except in compliance with the License.
-    You may obtain a copy of the License at
+    
+    <string name="status_bar_icons_title">Ikony paska stanu</string>
+    <string name="status_bar_hd_calling">HD Calling (Volte/Vonr)</string>
+    <string name="status_bar_nfc">NFC</string>
+    <string name="status_bar_roaming">Wskaźnik roamingu</string>
+    <string name="status_bar_vowifi">WI-FI Calling (Vowifi)</string>
+    <string name="status_bar_wifi_standard">Numer standardowy Wi-Fi</string>
 
-        http://www.apache.org/licenses/LICENSE-2.0
+    
+    <string name="drag_or_tap_to_add_tiles">Przytrzymaj i przeciągnij lub dotknij, aby dodać płytki</string>
 
-    Unless required by applicable law or agreed to in writing, software
-    distributed under the License is distributed on an "AS IS" BASIS,
-    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-    See the License for the specific language governing permissions and
-    limitations under the License.
--->
-<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="quick_settings_caffeine_label">Kofeina</string>
-    <string name="accessibility_quick_settings_caffeine_off">Kofeina wyłączona</string>
-    <string name="accessibility_quick_settings_caffeine_on">Kofeina włączona</string>
-    <string name="qs_data_switch_label">Przełącz kartę do obsługi danych</string>
-    <string name="qs_data_switch_toast_0">Nie wykryto żadnej karty SIM</string>
-    <string name="qs_data_switch_toast_1">Wykryto tylko jedną kartę SIM</string>
-    <string name="qs_data_switch_text_1">SIM 1</string>
-    <string name="qs_data_switch_text_2">SIM 2</string>
-    <string name="qs_data_switch_changed_1">Przełączono kartę danych mobilnych na SIM 1.</string>
-    <string name="qs_data_switch_changed_2">Przełączono kartę danych mobilnych na SIM 2.</string>
-    <string name="quick_settings_heads_up_label">Wyskakujące powiadomienia</string>
-    <string name="accessibility_quick_settings_heads_up_off">Wyłącz wyskakujące powiadomienia.</string>
-    <string name="accessibility_quick_settings_heads_up_on">Włącz wyskakujące powiadomienia.</string>
-    <string name="accessibility_quick_settings_heads_up_changed_off">Wyłączono wyskakujące powiadomienia.</string>
-    <string name="accessibility_quick_settings_heads_up_changed_on">Włączono wyskakujące powiadomienia.</string>
-    <string name="quick_settings_dc_dimming_label">Redukcja migotania</string>
-    <string name="quick_settings_aod_label">Ekran zawsze włączony</string>
-    <string name="quick_settings_powershare_label">Współdzielenie baterii</string>
-    <string name="quick_settings_powershare_off_powersave_label">Wyłączono współdzielenie baterii\nOszczędzanie baterii</string>
-    <string name="quick_settings_powershare_off_low_battery_label">Wyłączono współdzielenie baterii\nZbyt niski poziom baterii</string>
-    <string name="quick_settings_powershare_enabled_label">Współdzielenie baterii jest włączone</string>
-    <string name="turn_on_bluetooth">Bluetooth</string>
-    <string name="bluetooth_is_off">Bluetooth jest wyłączony</string>
-    <string name="tap_a_device_to_connect">Dotknij urządzenia, aby się połączyć/rozłączyć</string>
-    <string name="quick_settings_usb_tether_label">Tethering przez USB</string>
-    <string name="quick_settings_sound_label">Dźwięk</string>
-    <string name="quick_settings_sound_ring">Dzwonek</string>
-    <string name="quick_settings_sound_vibrate">Wibracje</string>
-    <string name="quick_settings_sound_silent">Tryb cichy</string>
-</resources>
+    
+    <string name="drag_or_tap_to_remove_tiles">Przytrzymaj i przeciągnij lub dotknij, aby usunąć płytki</string>
+
+    
+    <string name="screenshot_delete_label">Usuwać</string>
+    
+    <string name="screenshot_delete_description">Usuń zrzut ekranu</string>
+
+    
+    <string name="screenrecord_delete_label">Usuwać</string>
+    
+    <string name="screenrecord_delete_description">Usunięto nagrywanie ekranu</string>
+
+    
+    <string name="screenrecord_stopdot_label">Pokaż stop kropkę</string>
+    <string name="screenrecord_stopdot_summary">Długa prasa, aby to poruszyć</string>
+    <string name="screenrecord_lowquality_label">Niższa jakość</string>
+    <string name="screenrecord_lowquality_summary">Dla mniejszego rozmiaru pliku</string>
+    <string name="screenrecord_longer_timeout_switch_label">Większy limit rozmiaru pliku</string>
+    <string name="screenrecord_longer_timeout_switch_summary">Ogranicz rozmiar nagrywania do 15 GB</string>
+    <string name="screenrecord_skip_time_label">Godziny wysyłki</string>
+    <string name="screenrecord_skip_time_summary">Usuń 3 -sekundowe oczekiwanie</string>
+    <string name="screenrecord_hevc_switch_label">Kodowanie HEVC</string>
+    <string name="screenrecord_hevc_switch_summary">Użyj bardziej wydajnego enkodera HEVC</string>
+
+    
+    <string name="network_traffic_title">Wskaźnik ruchu sieciowego</string>
+
+    <string name="global_action_restart_advanced">Zaawansowany</string>
+    <string name="global_action_restart_recovery">Powrót do zdrowia</string>
+    <string name="global_action_restart_bootloader">Bootloader</string>
+    <string name="global_action_restart_ui">Systemu</string>
+
+    
+    </resources>

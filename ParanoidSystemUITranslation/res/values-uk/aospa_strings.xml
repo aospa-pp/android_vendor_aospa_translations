@@ -1,42 +1,50 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!--
-    Copyright 2022 Paranoid Android
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="face_unlock_recognizing">Розпізнавання обличчя…</string>
 
-    Licensed under the Apache License, Version 2.0 (the "License");
-    you may not use this file except in compliance with the License.
-    You may obtain a copy of the License at
+    
+    <string name="status_bar_icons_title">Піктограми статусу статусу</string>
+    <string name="status_bar_hd_calling">HD Call (Volte/Vonr)</string>
+    <string name="status_bar_nfc">NFC</string>
+    <string name="status_bar_roaming">Індикатор роумінгу</string>
+    <string name="status_bar_vowifi">Wi-Fi Call (Vowifi)</string>
+    <string name="status_bar_wifi_standard">Стандартний номер Wi-Fi</string>
 
-        http://www.apache.org/licenses/LICENSE-2.0
+    
+    <string name="drag_or_tap_to_add_tiles">Тримайте та перетягніть або торкніться, щоб додати плитки</string>
 
-    Unless required by applicable law or agreed to in writing, software
-    distributed under the License is distributed on an "AS IS" BASIS,
-    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-    See the License for the specific language governing permissions and
-    limitations under the License.
--->
-<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="quick_settings_caffeine_label">Режим \"Заборона сну\"</string>
-    <string name="accessibility_quick_settings_caffeine_off">Режим \"Заборона сну\" вимкнено </string>
-    <string name="accessibility_quick_settings_caffeine_on">Режим \"Заборона сну\" увімкнено </string>
-    <string name="qs_data_switch_label">Змінити картку для передачі даних</string>
-    <string name="qs_data_switch_toast_0">Наразі не вставлено жодної SIM-картки</string>
-    <string name="qs_data_switch_toast_1">Наразі вставлено лише одну SIM-картку</string>
-    <string name="qs_data_switch_text_1">SIM 1</string>
-    <string name="qs_data_switch_text_2">SIM 2</string>
-    <string name="qs_data_switch_changed_1">Змінено картку для передачі даних на SIM 1.</string>
-    <string name="qs_data_switch_changed_2">Змінено картку для передачі даних на SIM 2.</string>
-    <string name="quick_settings_heads_up_label">Спливаючі сповіщення</string>
-    <string name="accessibility_quick_settings_heads_up_off">Спливаючі сповіщення вимкнуті.</string>
-    <string name="accessibility_quick_settings_heads_up_on">Спливаючі сповіщення увімкнуті.</string>
-    <string name="accessibility_quick_settings_heads_up_changed_off">Спливаючі сповіщення вимкнено.</string>
-    <string name="accessibility_quick_settings_heads_up_changed_on">Спливаючі сповіщення увімкнено.</string>
-    <string name="quick_settings_dc_dimming_label">DC Dimming</string>
-    <string name="quick_settings_aod_label">Always-on display</string>
-    <string name="quick_settings_powershare_label">PowerShare</string>
-    <string name="quick_settings_powershare_off_powersave_label">PowerShare вимкнуто\nРежим енергосбереження</string>
-    <string name="quick_settings_powershare_off_low_battery_label">PowerShare вимкнуто\nБатарея розряджена</string>
-    <string name="quick_settings_powershare_enabled_label">PowerShare увімкнено</string>
-    <string name="turn_on_bluetooth">Bluetooth</string>
-    <string name="bluetooth_is_off">Bluetooth вимкнено</string>
-    <string name="tap_a_device_to_connect">Нажміть пристрій для підключення/відключення</string>
-</resources>
+    
+    <string name="drag_or_tap_to_remove_tiles">Утримуйте та перетягніть або торкніться, щоб зняти плитку</string>
+
+    
+    <string name="screenshot_delete_label">Видаляти</string>
+    
+    <string name="screenshot_delete_description">Видалити скріншот</string>
+
+    
+    <string name="screenrecord_delete_label">Видаляти</string>
+    
+    <string name="screenrecord_delete_description">Видалено запис екрану</string>
+
+    
+    <string name="screenrecord_stopdot_label">Показати зупинку крапки</string>
+    <string name="screenrecord_stopdot_summary">Довга преса, щоб перемістити його</string>
+    <string name="screenrecord_lowquality_label">Нижча якість</string>
+    <string name="screenrecord_lowquality_summary">Для меншого розміру файлу</string>
+    <string name="screenrecord_longer_timeout_switch_label">Більший обмеження розміру файлу</string>
+    <string name="screenrecord_longer_timeout_switch_summary">Обмежте розмір запису до 15 Гб</string>
+    <string name="screenrecord_skip_time_label">Частки</string>
+    <string name="screenrecord_skip_time_summary">Вийміть 3 секунду очікування</string>
+    <string name="screenrecord_hevc_switch_label">Кодування HEVC</string>
+    <string name="screenrecord_hevc_switch_summary">Використовуйте більш ефективний кодер HEVC</string>
+
+    
+    <string name="network_traffic_title">Індикатор мережевого трафіку</string>
+
+    <string name="global_action_restart_advanced">Просунутий</string>
+    <string name="global_action_restart_recovery">Відновлення</string>
+    <string name="global_action_restart_bootloader">Завантажувач</string>
+    <string name="global_action_restart_ui">Системати</string>
+
+    
+    </resources>

@@ -1,42 +1,50 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!--
-    Copyright 2022 Paranoid Android
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="face_unlock_recognizing">മുഖം തിരിച്ചറിയുന്നു…</string>
 
-    Licensed under the Apache License, Version 2.0 (the "License");
-    you may not use this file except in compliance with the License.
-    You may obtain a copy of the License at
+    
+    <string name="status_bar_icons_title">സ്റ്റാറ്റസ് ബാർ ഐക്കണുകൾ</string>
+    <string name="status_bar_hd_calling">എച്ച്ഡി കോളിംഗ് (വോൾട്ട് / വോൺ)</string>
+    <string name="status_bar_nfc">എൻഎഫ്സി</string>
+    <string name="status_bar_roaming">റോമിംഗ് ഇൻഡിക്കേറ്റർ</string>
+    <string name="status_bar_vowifi">വൈഫൈ കോളിംഗ് (നേട്ടവ്)</string>
+    <string name="status_bar_wifi_standard">വൈഫൈ സ്റ്റാൻഡേർഡ് നമ്പർ</string>
 
-        http://www.apache.org/licenses/LICENSE-2.0
+    
+    <string name="drag_or_tap_to_add_tiles">ടൈലുകൾ ചേർക്കാൻ വലിച്ചിടുക അല്ലെങ്കിൽ വലിച്ചിടുക അല്ലെങ്കിൽ ടാപ്പുചെയ്യുക</string>
 
-    Unless required by applicable law or agreed to in writing, software
-    distributed under the License is distributed on an "AS IS" BASIS,
-    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-    See the License for the specific language governing permissions and
-    limitations under the License.
--->
-<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="quick_settings_caffeine_label">ഉണർന്നിരിക്കുക</string>
-    <string name="accessibility_quick_settings_caffeine_off">കഫീൻ ഓഫ്</string>
-    <string name="accessibility_quick_settings_caffeine_on">കഫീൻ ഓൺ</string>
-    <string name="qs_data_switch_label">ഡാറ്റാ കാർഡ് മാറ്റുക</string>
-    <string name="qs_data_switch_toast_0">നിലവിൽ ഒരു സിം കാർഡും ഇട്ടിട്ടില്ല</string>
-    <string name="qs_data_switch_toast_1">നിലവിൽ ഒരു സിം കാർഡ് മാത്രമേ ഇട്ടിട്ടുള്ളു</string>
-    <string name="qs_data_switch_text_1">സിം 1</string>
-    <string name="qs_data_switch_text_2">സിം 2</string>
-    <string name="qs_data_switch_changed_1">ഡാറ്റ കാർഡ് സിം 1-ലേക്ക് മാറ്റി.</string>
-    <string name="qs_data_switch_changed_2">ഡാറ്റ കാർഡ് സിം 2-ലേക്ക് മാറ്റി.</string>
-    <string name="quick_settings_heads_up_label">മുന്നറിയിപ്പ്</string>
-    <string name="accessibility_quick_settings_heads_up_off">മുന്നറിയിപ്പ് ഓഫ്.</string>
-    <string name="accessibility_quick_settings_heads_up_on">മുന്നറിയിപ്പ് ഓൺ.</string>
-    <string name="accessibility_quick_settings_heads_up_changed_off">മുന്നറിയിപ്പ് ഓഫ് ചെയ്യപ്പെട്ടിരിക്കുന്നു</string>
-    <string name="accessibility_quick_settings_heads_up_changed_on">മുന്നറിയിപ്പ് ഓൺ ചെയ്യപ്പെട്ടിരിക്കുന്നു.</string>
-    <string name="quick_settings_dc_dimming_label">DC ഡിമ്മിങ് </string>
-    <string name="quick_settings_aod_label">എല്ലായ്‌പ്പോഴും ഓണായിരിക്കുന്ന ഡിസ്പ്ലേ</string>
-    <string name="quick_settings_powershare_label">ബാറ്ററി ഷെയർ</string>
-    <string name="quick_settings_powershare_off_powersave_label">ബാറ്ററി ഷെയർ ഓഫ്\n ബാറ്ററി സേവർ</string>
-    <string name="quick_settings_powershare_off_low_battery_label">ബാറ്ററി ഷെയർ ഓഫ്\nബാറ്ററി വളരെ കുറവാണ് </string>
-    <string name="quick_settings_powershare_enabled_label">ബാറ്ററി ഷെയർ പ്രവർത്തനക്ഷമമാക്കിയിരിക്കുന്നു</string>
-    <string name="turn_on_bluetooth">ബ്ലൂടൂത്ത്</string>
-    <string name="bluetooth_is_off">ബ്ലൂടൂത്ത് ഓഫാണ്</string>
-    <string name="tap_a_device_to_connect">കണക്റ്റുചെയ്യാൻ/വിച്ഛേദിക്കാൻ ഒരു ഉപകരണം ടാപ്പ് ചെയ്യുക</string>
-</resources>
+    
+    <string name="drag_or_tap_to_remove_tiles">ടൈലുകൾ നീക്കംചെയ്യാൻ വലിച്ചിടുക അല്ലെങ്കിൽ വലിച്ചിടുക അല്ലെങ്കിൽ ടാപ്പുചെയ്യുക</string>
+
+    
+    <string name="screenshot_delete_label">ഇല്ലാതാക്കുക</string>
+    
+    <string name="screenshot_delete_description">സ്ക്രീൻഷോട്ട് ഇല്ലാതാക്കുക</string>
+
+    
+    <string name="screenrecord_delete_label">ഇല്ലാതാക്കുക</string>
+    
+    <string name="screenrecord_delete_description">സ്ക്രീൻ റെക്കോർഡിംഗ് ഇല്ലാതാക്കി</string>
+
+    
+    <string name="screenrecord_stopdot_label">സ്റ്റോപ്പ് ഡോട്ട് കാണിക്കുക</string>
+    <string name="screenrecord_stopdot_summary">ഇത് നീക്കാൻ നീളമുള്ള അമർത്തുക</string>
+    <string name="screenrecord_lowquality_label">താഴ്ന്ന നിലവാരം</string>
+    <string name="screenrecord_lowquality_summary">ചെറിയ ഫയൽ വലുപ്പത്തിനായി</string>
+    <string name="screenrecord_longer_timeout_switch_label">വലിയ ഫയൽ വലുപ്പ പരിധി</string>
+    <string name="screenrecord_longer_timeout_switch_summary">റെക്കോർഡിംഗ് വലുപ്പം മുതൽ 15 ജിബി വരെ പരിമിതപ്പെടുത്തുക</string>
+    <string name="screenrecord_skip_time_label">കപ്പൽ സമയം</string>
+    <string name="screenrecord_skip_time_summary">3 സെക്കൻഡ് കാത്തിരിപ്പ് നീക്കംചെയ്യുക</string>
+    <string name="screenrecord_hevc_switch_label">ഹെവ് എൻകോഡിംഗ്</string>
+    <string name="screenrecord_hevc_switch_summary">കൂടുതൽ കാര്യക്ഷമമായ ഹെവ്കോം എൻകോഡർ ഉപയോഗിക്കുക</string>
+
+    
+    <string name="network_traffic_title">നെറ്റ്വർക്ക് ട്രാഫിക് ഇൻഡിക്കേറ്റർ</string>
+
+    <string name="global_action_restart_advanced">മുന്കൂറായി</string>
+    <string name="global_action_restart_recovery">വീണ്ടെടുക്കല്</string>
+    <string name="global_action_restart_bootloader">ബൂട്ട്ലോഡർ</string>
+    <string name="global_action_restart_ui">സതസനായ</string>
+
+    
+    </resources>

@@ -1,42 +1,50 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!--
-    Copyright 2022 Paranoid Android
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="face_unlock_recognizing">முகத்தை அங்கீகரித்தல்…</string>
 
-    Licensed under the Apache License, Version 2.0 (the "License");
-    you may not use this file except in compliance with the License.
-    You may obtain a copy of the License at
+    
+    <string name="status_bar_icons_title">நிலை பட்டி சின்னங்கள்</string>
+    <string name="status_bar_hd_calling">எச்டி அழைப்பு (வோல்ட்/வான்ர்)</string>
+    <string name="status_bar_nfc">NFC</string>
+    <string name="status_bar_roaming">ரோமிங் காட்டி</string>
+    <string name="status_bar_vowifi">வைஃபை அழைப்பு (வோவிஃபி)</string>
+    <string name="status_bar_wifi_standard">வைஃபை நிலையான எண்</string>
 
-        http://www.apache.org/licenses/LICENSE-2.0
+    
+    <string name="drag_or_tap_to_add_tiles">ஓடுகளைச் சேர்க்க பிடி &amp; இழுக்க அல்லது தட்டவும்</string>
 
-    Unless required by applicable law or agreed to in writing, software
-    distributed under the License is distributed on an "AS IS" BASIS,
-    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-    See the License for the specific language governing permissions and
-    limitations under the License.
--->
-<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="quick_settings_caffeine_label">காஃபின்</string>
-    <string name="accessibility_quick_settings_caffeine_off">காஃபின்னை அணை</string>
-    <string name="accessibility_quick_settings_caffeine_on">காஃபின் இயக்கு</string>
-    <string name="qs_data_switch_label">தரவு அட்டையை மாற்று</string>
-    <string name="qs_data_switch_toast_0">தற்பொழுது எந்த செறிவட்டையும் செருகப்படவில்லை</string>
-    <string name="qs_data_switch_toast_1">தற்பொழுது ஒரு செறிவட்டை செருகப்பட்டுள்ளது</string>
-    <string name="qs_data_switch_text_1">சிம் 1</string>
-    <string name="qs_data_switch_text_2">சிம் 2</string>
-    <string name="qs_data_switch_changed_1">தரவு அட்டையை SIM 1 இற்கு மாற்று.</string>
-    <string name="qs_data_switch_changed_2">தரவு அட்டையை SIM 2 இற்கு மாற்று.</string>
-    <string name="quick_settings_heads_up_label">செயலி அறிவிப்புத் தலைகள்</string>
-    <string name="accessibility_quick_settings_heads_up_off">ஹெட்ஸ் அப் அனைக்க</string>
-    <string name="accessibility_quick_settings_heads_up_on">ஹெட்ஸ் அப் இயக்க</string>
-    <string name="accessibility_quick_settings_heads_up_changed_off">தகவல் தெளிவுரை அணைக்கப்பட்டது</string>
-    <string name="accessibility_quick_settings_heads_up_changed_on">தகவல் தெளிவுரை இயக்கப்பட்டது</string>
-    <string name="quick_settings_dc_dimming_label">டிசி-டிம்மிங்</string>
-    <string name="quick_settings_aod_label">எப்போதும் இயங்கும் திரை</string>
-    <string name="quick_settings_powershare_label">பேட்டரி பகிர்</string>
-    <string name="quick_settings_powershare_off_powersave_label">பேட்டரி பகிர் அணை </string>
-    <string name="quick_settings_powershare_off_low_battery_label">பேட்டரி பகிர் அனைக்கப்பட்டுள்ளது\nபேட்டரி குறைவாக உள்ளது</string>
-    <string name="quick_settings_powershare_enabled_label">பேட்டரி பகிர்வு செயல்படுத்தபட்டுள்ளது</string>
-    <string name="turn_on_bluetooth">ப்ளூடூத்</string>
-    <string name="bluetooth_is_off">ப்ளூடூத் அணைக்கப்பட்டுள்ளது</string>
-    <string name="tap_a_device_to_connect">இணைக்க/துண்டிக்க வன்பொருள் கருவியைத் தட்டவும்</string>
-</resources>
+    
+    <string name="drag_or_tap_to_remove_tiles">ஓடுகளை அகற்ற பிடி &amp; இழுக்க அல்லது தட்டவும்</string>
+
+    
+    <string name="screenshot_delete_label">நீக்கு</string>
+    
+    <string name="screenshot_delete_description">ஸ்கிரீன்ஷாட்டை நீக்கு</string>
+
+    
+    <string name="screenrecord_delete_label">நீக்கு</string>
+    
+    <string name="screenrecord_delete_description">திரை பதிவு நீக்கப்பட்டது</string>
+
+    
+    <string name="screenrecord_stopdot_label">ஸ்டாப் டாட் காட்டு</string>
+    <string name="screenrecord_stopdot_summary">அதை நகர்த்த நீண்ட அழுத்தவும்</string>
+    <string name="screenrecord_lowquality_label">குறைந்த தரம்</string>
+    <string name="screenrecord_lowquality_summary">சிறிய கோப்பு அளவிற்கு</string>
+    <string name="screenrecord_longer_timeout_switch_label">பெரிய கோப்பு அளவு வரம்பு</string>
+    <string name="screenrecord_longer_timeout_switch_summary">பதிவு செய்யும் அளவை 15 ஜிபிக்கு மட்டுப்படுத்தவும்</string>
+    <string name="screenrecord_skip_time_label">கப்பல் நேரம்</string>
+    <string name="screenrecord_skip_time_summary">3 வினாடி காத்திருப்பை அகற்று</string>
+    <string name="screenrecord_hevc_switch_label">HEVC குறியாக்கம்</string>
+    <string name="screenrecord_hevc_switch_summary">மிகவும் திறமையான HEVC குறியாக்கியைப் பயன்படுத்தவும்</string>
+
+    
+    <string name="network_traffic_title">பிணைய போக்குவரத்து காட்டி</string>
+
+    <string name="global_action_restart_advanced">மேம்பட்டது</string>
+    <string name="global_action_restart_recovery">மீட்பு</string>
+    <string name="global_action_restart_bootloader">துவக்க ஏற்றி</string>
+    <string name="global_action_restart_ui">சிஸ்டம்</string>
+
+    
+    </resources>

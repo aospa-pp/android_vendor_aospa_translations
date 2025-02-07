@@ -1,41 +1,50 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!--
-    Copyright 2022 Paranoid Android
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="face_unlock_recognizing">ମୁହଁକୁ ଚିହ୍ନିବା…</string>
 
-    Licensed under the Apache License, Version 2.0 (the "License");
-    you may not use this file except in compliance with the License.
-    You may obtain a copy of the License at
+    
+    <string name="status_bar_icons_title">ଷ୍ଟାଟସ୍ ବାର୍ ଆଇକନ୍ |</string>
+    <string name="status_bar_hd_calling">HD କଲ୍ କରୁଛି (ଭୋଲ୍ଟ / ଭେନା)</string>
+    <string name="status_bar_nfc">Nfc</string>
+    <string name="status_bar_roaming">ରୋମିଂ ସୂଚକ |</string>
+    <string name="status_bar_vowifi">ୱାଇ-ଫାଇ ଡେକିଂ (ଭୋରି)</string>
+    <string name="status_bar_wifi_standard">ୱାଇ-ଫାଇ ଷ୍ଟାଣ୍ଡାର୍ଡ ନମ୍ବର |</string>
 
-        http://www.apache.org/licenses/LICENSE-2.0
+    
+    <string name="drag_or_tap_to_add_tiles">ଟାଇଲ୍ ଯୋଡିବାକୁ ଧରି ରଖନ୍ତୁ କିମ୍ବା ଡ୍ରାଗ୍ କରନ୍ତୁ |</string>
 
-    Unless required by applicable law or agreed to in writing, software
-    distributed under the License is distributed on an "AS IS" BASIS,
-    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-    See the License for the specific language governing permissions and
-    limitations under the License.
--->
-<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="quick_settings_caffeine_label">କେଫିନ</string>
-    <string name="accessibility_quick_settings_caffeine_off">କେଫିନ୍ ବନ୍ଦ</string>
-    <string name="accessibility_quick_settings_caffeine_on">କେଫିନ ଚାଲୁ</string>
-    <string name="qs_data_switch_label">ଡାଟା କାର୍ଡ ବଦଳାନ୍ତୁ</string>
-    <string name="qs_data_switch_toast_0">ବର୍ତ୍ତମାନ କୌଣସି ସିମ୍ କାର୍ଡ ନାହିଁ</string>
-    <string name="qs_data_switch_toast_1">ବର୍ତ୍ତମାନ କେବଳ ଗୋଟାଏ ସିମ୍ କାର୍ଡ ଅଛି</string>
-    <string name="qs_data_switch_text_1">SIM ୧</string>
-    <string name="qs_data_switch_text_2">SIM ୨</string>
-    <string name="qs_data_switch_changed_1">ଡାଟା ସିମ୍ ୧ କୁ ବଦଳାଇ ଗଲା</string>
-    <string name="qs_data_switch_changed_2">ଡାଟା ସିମ୍ ୨ କୁ ବଦଳାଇ ଗଲା</string>
-    <string name="quick_settings_heads_up_label">ହେଡ୍ସ୍‍ ଅପ୍‍</string>
-    <string name="accessibility_quick_settings_heads_up_off">ହେଡ୍ସ୍‍ ଅପ୍‍ ଅଫ୍‍ ଅଛି</string>
-    <string name="accessibility_quick_settings_heads_up_on">ହେଡ୍ସ୍‍ ଅପ୍‍ ଅନ୍‍ ଅଛି</string>
-    <string name="accessibility_quick_settings_heads_up_changed_off">ହେଡ୍ସ୍‍ ଅପ୍‍ ବନ୍ଦ୍ କରାଯାଇଛି.</string>
-    <string name="accessibility_quick_settings_heads_up_changed_on">ହେଡ୍ସ୍‍ ଅପ୍‍ ଚାଲୁ କରାଯାଇଛି.</string>
-    <string name="quick_settings_dc_dimming_label">ଡିସି ଡିମିଙ୍ଗ</string>
-    <string name="quick_settings_aod_label">ଅଲବୈଷ ଅନ୍ ଡିଷ୍ପ୍ଲେ </string>
-    <string name="quick_settings_powershare_label">ବାଟରୀ ସେବର</string>
-    <string name="quick_settings_powershare_off_powersave_label">ବ୍ୟାଟେରୀ ସେୟାର୍ ବନ୍ଦ\nବାଟରୀ ସେବର୍</string>
-    <string name="quick_settings_powershare_off_low_battery_label">ବ୍ୟାଟେରୀ ସେୟାର୍ ବନ୍ଦ୍ ଅଛି\nପାୱାର୍ ବହୁତ କମ୍ ଅଛି </string>
-    <string name="quick_settings_powershare_enabled_label">ବ୍ୟାଟେରୀ ସେଭର୍ ଅନ୍ ହୋଇଛି</string>
-    <string name="turn_on_bluetooth"> ବ୍ଲୁଟୁଥ </string>
-    <string name="bluetooth_is_off">ବ୍ଲୁଟୁଥ୍ ବନ୍ଦ ଅଛି</string>
-</resources>
+    
+    <string name="drag_or_tap_to_remove_tiles">ଟାଇଲ୍ ଅପସାରଣ କରିବାକୁ କିମ୍ବା ଡ୍ରାଗ୍ କରନ୍ତୁ କିମ୍ବା ଟ୍ୟାପ୍ କରନ୍ତୁ |</string>
+
+    
+    <string name="screenshot_delete_label">ବିଲୋପ କରନ୍ତୁ |</string>
+    
+    <string name="screenshot_delete_description">ସ୍କ୍ରିନସଟ୍ ବିଲୋପ କରନ୍ତୁ |</string>
+
+    
+    <string name="screenrecord_delete_label">ବିଲୋପ କରନ୍ତୁ |</string>
+    
+    <string name="screenrecord_delete_description">ସ୍କ୍ରିନ୍ ରେକର୍ଡିଂ ଡିଲିଟ୍ ହୋଇଛି |</string>
+
+    
+    <string name="screenrecord_stopdot_label">ଷ୍ଟପ୍ ଡଟ୍ ଦେଖାନ୍ତୁ |</string>
+    <string name="screenrecord_stopdot_summary">ଏହାକୁ ଘୁଞ୍ଚାଇବାକୁ ଲମ୍ବା ଦବାନ୍ତୁ |</string>
+    <string name="screenrecord_lowquality_label">ନିମ୍ନ ଗୁଣ</string>
+    <string name="screenrecord_lowquality_summary">ଛୋଟ ଫାଇଲ୍ ଆକାର ପାଇଁ |</string>
+    <string name="screenrecord_longer_timeout_switch_label">ବଡ଼ ଫାଇଲ୍ ଆକାର ସୀମା |</string>
+    <string name="screenrecord_longer_timeout_switch_summary">ରେକର୍ଡିଂ ଆକାରକୁ 15 GB କୁ ସୀମିତ କରନ୍ତୁ |</string>
+    <string name="screenrecord_skip_time_label">ଜାହାଜ ଘଣ୍ଟା</string>
+    <string name="screenrecord_skip_time_summary">3 ସେକେଣ୍ଡ୍ ଅପେକ୍ଷା କରନ୍ତୁ |</string>
+    <string name="screenrecord_hevc_switch_label">Hevc ଏନକୋଡିଂ |</string>
+    <string name="screenrecord_hevc_switch_summary">ଅଧିକ ଦକ୍ଷ ହେଭେକ୍ ଏନକୋଡର୍ ବ୍ୟବହାର କରନ୍ତୁ |</string>
+
+    
+    <string name="network_traffic_title">ନେଟୱର୍କ ଟ୍ରାଫିକ୍ ସୂଚକ |</string>
+
+    <string name="global_action_restart_advanced">ଉନ୍ନତ</string>
+    <string name="global_action_restart_recovery">ପୁନରୁଦ୍ଧାର</string>
+    <string name="global_action_restart_bootloader">ବୁଟଲୋଡର୍</string>
+    <string name="global_action_restart_ui">ସିଷ୍ଟମ୍ usu |</string>
+
+    
+    </resources>
