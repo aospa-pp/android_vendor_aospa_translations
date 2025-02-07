@@ -1,164 +1,55 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Copyright 2016-2023 Paranoid Android
-
-     Licensed under the Apache License, Version 2.0 (the "License");
-     you may not use this file except in compliance with the License.
-     You may obtain a copy of the License at
-
-          http://www.apache.org/licenses/LICENSE-2.0
-
-     Unless required by applicable law or agreed to in writing, software
-     distributed under the License is distributed on an "AS IS" BASIS,
-     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-     See the License for the specific language governing permissions and
-     limitations under the License.
--->
-<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="aospa_version">Paranoid Android sürümü</string>
-    <string name="dc_dimming_title">DC Karartma</string>
-    <string name="dc_dimming_info">Düşük ışık koşullarında ekran titremesini en aza indirerek göz yorgunluğunu azaltır. Görüntü kalitesinin düşmesine, düşük renk üretimine veya daha yüksek güç tüketimine neden olabilir.</string>
-    <string name="dc_dimming_main_switch_title">DC Karartma kullan</string>
-    <string name="keywords_display_dc_dimming">dc karartma, anti titreşim, göz, zorlanma</string>
-    <string name="adaptive_playback_screen_title">Akıllı duraklatma</string>
-    <string name="adaptive_playback_enabled">Akıllı duraklatmayı kullan</string>
-    <string name="adaptive_playback_disabled_summary">Kapalı</string>
-    <string name="adaptive_playback_intro_text">Ses kapatıldığında medyayı otomatik olarak duraklatır ve ayarlanan süre içinde ses geri yüklendiğinde otomatik olarak devam eder.</string>
-    <string name="adaptive_playback_timeout_title">Zaman aşımı kullanın</string>
-    <string name="adaptive_playback_timeout_none">Zaman aşımı yok</string>
-    <string name="adaptive_playback_timeout_none_summary">Açık (zaman aşımı yok)</string>
-    <string name="adaptive_playback_timeout_30_secs">30 saniye</string>
-    <string name="adaptive_playback_timeout_30_secs_summary">Açık (30 saniye)</string>
-    <string name="adaptive_playback_timeout_1_min">1 dakika</string>
-    <string name="adaptive_playback_timeout_1_min_summary">Açık (1 minute)</string>
-    <string name="adaptive_playback_timeout_2_min">2 dakika</string>
-    <string name="adaptive_playback_timeout_2_min_summary">Açık (2 dakika)</string>
-    <string name="adaptive_playback_timeout_5_min">5 dakika</string>
-    <string name="adaptive_playback_timeout_5_min_summary">Açık (5 dakika)</string>
-    <string name="adaptive_playback_timeout_10_min">10 dakika</string>
-    <string name="adaptive_playback_timeout_10_min_summary">Açık (10 dakika)</string>
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
     <string name="three_finger_gesture">Ekran görüntüsü almak için kaydırın</string>
     <string name="three_finger_gesture_summary">Ekran görüntüsü almak için üç parmağınızla aşağı kaydırın</string>
-    <string name="prevent_ringing_option_cycle">Modlar arasında geçiş yap</string>
-    <string name="prevent_ringing_option_cycle_summary">Açık (modlar arasında geçiş yap)</string>
-    <string name="ambient_display_screen_off_udfps_title">Her zaman açık parmak izi okuyucu</string>
-    <string name="ambient_display_screen_off_udfps_summary">Ekran kapalıyken kilidin açılmasına izin verir.\nEtkinleştirme, yanlışlıkla uyanmalara neden olabilir.</string>
-    <string name="category_name_refresh_rate_controls">Yenileme hızı</string>
-    <string name="volume_button_music_control_title">Oynatma kontrolü</string>
-    <string name="volume_button_music_control_summary">Ekran kapalıyken ses tuşlarına uzun basarak şarkıyı değiştir</string>
-    <string name="offscreen_gesture_title">Kapalı ekran hareketleri</string>
-    <string name="offscreen_gesture_summary">Eylemleri gerçekleştirmek için desenler çizin veya ekrana dokunun</string>
-    <string name="keywords_gestures">ekranda parmağınızı kaydırarak çizin</string>
-    <string name="gestures_master">Kapalı ekran hareketlerini etkinleştir</string>
-    <string name="gestures_disabled">Devre dışı</string>
-    <string name="gestures_wake_device">Cihazı uyandır</string>
-    <string name="gestures_pulse_ambient_display">Ortam ekranını göster</string>
-    <string name="gestures_toggle_flashlight">El fenerini aç-kapat</string>
-    <string name="gestures_toggle_airplane_mode">Uçak modunu aç-kapat</string>
-    <string name="gestures_play_pause_music">Müziği Oynat/Durdur</string>
-    <string name="gestures_next_music">Sonraki şarkı</string>
-    <string name="gestures_previous_music">Önceki şarkı</string>
-    <string name="gestures_open_camera">Kamerayı aç</string>
-    <string name="gestures_open_dialer">Telefonu aç</string>
-    <string name="gestures_double_tap">Çift dokunma</string>
-    <string name="gestures_single_tap">Tek dokunma</string>
-    <string name="gestures_draw_v">V çizin</string>
-    <string name="gestures_draw_inverse_v">Ters V çizin</string>
-    <string name="gestures_draw_o">O çizin</string>
-    <string name="gestures_draw_m">M çizin</string>
-    <string name="gestures_draw_w">W çizin</string>
-    <string name="gestures_draw_s">S harfi çizin</string>
-    <string name="gestures_draw_arrow_left">&lt; çizin</string>
-    <string name="gestures_draw_arrow_right">&gt; çizin</string>
-    <string name="gestures_one_finger_swipe_up">Bir parmağınızı yukarı kaydırın</string>
-    <string name="gestures_one_finger_swipe_right">Bir parmağınızı sağa kaydırın</string>
-    <string name="gestures_one_finger_swipe_down">Bir parmağınızı aşağı kaydırın</string>
-    <string name="gestures_one_finger_swipe_left">Bir parmağınızı sola kaydırın</string>
-    <string name="gestures_two_finger_swipe">İki parmak kaydırın</string>
-    <string name="screenshot_shutter_sound_title">Ekran görüntüsü alındı sesi</string>
-    <string name="power_button_torch_title">Hızlı el feneri</string>
-    <string name="power_button_torch_summary">Ekran kapalıyken güç tuşuna uzun süreli basıldığında el feneri etkinleştirilir</string>
-    <string name="icon_manager_title">Simge yöneticisi</string>
-    <string name="icon_manager_summary">Durum çubuğu simgelerinin görünürlüğünü kontrol edin</string>
-    <string name="navbar_category">Gezinti çubuğu</string>
-    <string name="navbar_invert_layout_title">Gezinme çubuğu düzenini tersine çevir</string>
-    <string name="navbar_invert_info">Gezinme çubuğunda \"Geri\" ve \"Son uygulamalar\" tuşlarının yerini değiştirin</string>
-    <string name="hide_navbar_gesture_bar_title">Navigasyon çubuğunu gizle</string>
-    <string name="hide_navbar_gesture_bar_summary">Ekranın alt kısmındaki navigasyon çubuğunu gizle</string>
-    <string name="system_black_theme_title">Siyah temayı kullan</string>
-    <string name="system_black_theme_summary">Siyah arka plan renklerine zorla</string>
-    <string name="charging_control_title">Şarj kontrolü</string>
-    <string name="charging_control_summary">Cihazınız için şarj programını ve sınırlarını özelleştirin</string>
-    <string name="charging_control_enable_title">Şarj kontrolünü etkinleştir</string>
-    <string name="charging_control_mode_title">Şarj modu</string>
-    <string name="charging_control_mode_auto_title">Otomatik planlama</string>
-    <string name="charging_control_mode_auto_summary">Alarm kurulmuş saatlere göre şarjın ne zaman başlayacağını otomatik belirle</string>
-    <string name="charging_control_mode_custom_title">Özel planlama</string>
-    <string name="charging_control_mode_custom_summary">Tam şarj için bir hedef zaman belirleyin</string>
-    <string name="charging_control_mode_limit_title">Şarjı kısıtla</string>
-    <string name="charging_control_mode_limit_summary">Şarjı belirli bir yüzdeye kısıtla</string>
-    <string name="charging_control_start_time_title">Başlama zamanı</string>
-    <string name="charging_control_start_time_summary">Şarj kontrolü %s saatinden sonra şarj etmeye başladığında aktive edilir</string>
-    <string name="charging_control_target_time_title">Tam şarj için hedef zaman</string>
-    <string name="charging_control_target_time_summary">Pil şu saatte tamamen şarj olmuş olacak: %s</string>
-    <string name="charging_control_limit_title">Sınır</string>
-    <string name="reset">Sıfırla</string>
-    <string name="doze_gesture_ambient_title">Ortam ekranını göster</string>
-    <string name="doze_gesture_ambient_summary">Ekranı tamamen uyandırmak yerine ortam ekranını göster</string>
-    <string name="gesture_wake_ambient">Ortam ekranını göster</string>
-    <string name="gesture_wake">Tamamen uyan</string>
-    <string name="color_mode_balance_category">Renk dengesi</string>
-    <string name="color_mode_balance_red">Kırmızı yoğunluğu</string>
-    <string name="color_mode_balance_green">Yeşil yoğunluğu</string>
-    <string name="color_mode_balance_blue">Mavi yoğunluğu</string>
-    <string name="keywords_color_balance">renk, renk dengesi, renk düzeltmesi, kırmızı, yeşil, mavi, LiveDisplay</string>
-    <string name="touch_polling_title">Yüksek dokunma örnekleme oranı</string>
-    <string name="touch_polling_summary">Gecikmeyi azaltmak için dokunmatik ekran örnekleme oranını artırın</string>
-    <string name="lock_screen_auto_pin_confirm_summary_custom">Doğru PIN\'i girerseniz kilidi otomatik olarak açılır. Bu, onaylamak için Enter tuşuna basmaktan biraz daha az güvenlidir.</string>
-    <string name="quick_settings_quick_pull_down_title">Hızlı aşağı çekme</string>
-    <string name="quick_settings_quick_pull_down_summary">Hızlı ayarları genişletmek için durum çubuğunu sağ taraftan aşağı çekin</string>
-    <string name="doze_on_charge_title">Şarj olurken her zaman açık</string>
-    <string name="doze_on_charge_summary">Zamanı ve bilgiyi her zaman sadece cihaz şarjda iken göster</string>
-    <string name="proximity_wake_title">Kazara ekranın açılmasını önle</string>
-    <string name="proximity_wake_summary">Ekranı açmadan önce yakınlık sensörünü kontrol et</string>
-    <string name="smart_5g_title">Akıllı 5G</string>
-    <string name="smart_5g_summary">Pil tüketimini azaltmak için 5G ve 4G arasında otomatik olarak geçiş yapın</string>
-    <string name="notification_sound_vib_screen_on_title">Can sıkıcı bildirimler</string>
-    <string name="notification_sound_vib_screen_on_summary">Ekran açıkken bildirimler için ses çal ve titret</string>
-    <string name="display_cutout_force_fullscreen_title">Tam ekran uygulamalar</string>
-    <string name="display_cutout_force_fullscreen_summary">Uygulamaları çentik boşluğunu yoksaymaya zorla</string>
-    <string name="display_cutout_force_fullscreen_search">Ara</string>
-    <string name="display_cutout_force_fullscreen_search_apps">Uygulamaları ara</string>
-    <string name="keywords_pulse_ambient_light_display">bildirim, bildirimler, kenar, ışık, renk, renk</string>
-    <string name="pulse_ambient_light_text">Kenar aydınlatması, bir bildirim aldığınızda ekranınızın parlamasını sağlar. Bu, telefon uyku modundayken bildirimin ne zaman geldiğini anlamanızı kolaylaştırır.</string>
-    <string name="pulse_ambient_light_title">Kenar aydınlatması</string>
-    <string name="pulse_ambient_light_summary">Bildirim geldiğinde ekranın kenarlarını aydınlat</string>
-    <string name="ambient_notification_light_accent_title">Sistem vurgu rengi</string>
-    <string name="ambient_notification_light_color_automatic_title">Bildirim rengi</string>
-    <string name="pulse_ambient_light_color">Bildirimi haber verirken kullan</string>
-    <string name="refresh_rate_title">Yenileme hızı</string>
-    <string name="refresh_rate_summary_vrr_off">%d Hz</string>
-    <string name="refresh_rate_summary_vrr_on">%d Hz (Uyarlanabilir)</string>
-    <string name="refresh_rate_vrr_title">Uyarlanabilir yenileme hızı</string>
-    <string name="refresh_rate_vrr_summary">Güç tasarrufu yapmak için, ekran boştayken yenileme hızını otomatik olarak düşür. Bazı ekranlarda titremeye veya renk kaymasına sebep olabilir</string>
-    <string name="refresh_rate_footer">Yüksek yenileme hızı ekranı daha hızlı yapar, ancak güç tüketimini artırır</string>
-    <string name="keywords_refresh_rate">yenileme, hızı, yumuşak, zirve, 60hz, 90hz, 120hz, 144hz, 165hz</string>
-    <string name="battery_technology">Teknoloji</string>
-    <string name="battery_health">Sağlık</string>
-    <string name="battery_health_good">İyi</string>
-    <string name="battery_health_overheat">Aşırı ısınma</string>
-    <string name="battery_health_dead">Ölü</string>
-    <string name="battery_health_over_voltage">Aşırı voltaj</string>
-    <string name="battery_health_unspecified_failure">Belirtilmeyen hata</string>
-    <string name="battery_health_cold">Soğuk</string>
-    <string name="battery_health_unknown">Bilinmiyor</string>
-    <string name="battery_temperature">Sıcaklık</string>
-    <string name="battery_voltage">Voltaj</string>
-    <string name="battery_design_capacity">Tasarım kapasitesi</string>
-    <string name="battery_maximum_capacity">En yüksek kapasite</string>
-    <string name="heads_up_title">Bildirim penceresi</string>
-    <string name="heads_up_summary">Seçilen bildirimleri ekranın üst kısmında banner olarak göster</string>
-    <string name="heads_up_off">Bildirim penceresi her şey için kapalı</string>
-    <string name="notification_vibration_pattern_title">Bildirim titreşim modeli</string>
-    <string name="ring_vibration_pattern_title">Zil sesi titreşim modeli</string>
-    <string name="pattern_default">Cihaz varsayılanı</string>
-</resources>
+    <string name="background_processes_settings_title">Arka plan işlemleri</string>
+
+    
+    <string name="smart_charging_title">Akıllı şarj</string>
+    <string name="smart_charging_summary">Maksimum şarj seviyesini ayarlayın</string>
+    <string name="smart_charging_switch_title">Akıllı şarj kullanın</string>
+    <string name="smart_charging_level_title">Tetikleme seviyesini durdurun</string>
+    <string name="smart_charging_resume_level_title">Tetikleme seviyesini başlatın</string>
+    <string name="smart_charging_footer">Akıllı şarj, pilinizin ömrünü uzatmak için maksimum şarj seviyesini ayarlamanızı sağlar</string>
+
+    
+    <string name="copied_to_clipboard">Panoya kopyalandı</string>
+    <string name="longpress_to_clipboard">Kopyalamak için uzun basın</string>
+
+    
+    <string name="tethering_allow_vpn_upstreams_title">Müşterilerin VPN\'leri kullanmasına izin verin</string>
+    <string name="tethering_allow_vpn_upstreams_summary">Hotspot istemcilerinin yukarı akış bağlantı için bu cihazın VPN bağlantılarını kullanmasına izin verin</string>
+
+    <string name="category_name_battery_styles">Pil stilleri</string>
+
+    
+    <string name="status_bar_battery_style_title">Akü stili</string>
+    <string name="status_bar_battery_style_icon_portrait">Simge portresi</string>
+    <string name="status_bar_battery_style_circle">Daire</string>
+    <string name="status_bar_battery_style_text">Metin</string>
+    <string name="status_bar_battery_style_landscape">Manzara</string>
+    <string name="status_bar_battery_style_landscape_reversed">Manzara tersine döndü</string>
+
+    
+    <string name="status_bar_battery_percentage_title">Pil Yüzdesi</string>
+    <string name="status_bar_battery_percentage_default">Gizlenmiş</string>
+    <string name="status_bar_battery_percentage_text_inside">Simgenin içinde</string>
+    <string name="status_bar_battery_percentage_text_next">Simgenin yanında</string>
+
+    
+    <string name="qti_boost_framework_title">QTI Boost çerçevesi</string>
+    <string name="qti_boost_framework_summary">Jank\'ı azaltmak için kullanıcı arayüzü görevlerine CPU/GPU artırma uygulayın.Yeniden başlatma gerekli</string>
+
+    
+    <string name="media_art_title">Medya Kapak Sanatı</string>
+    <string name="media_art_summary">Mevcut olduğunda medya kapak sanatını göster</string>
+
+    
+    <string name="radio_info_title">Radyo-info</string>
+
+    
+    <string name="lockscreen_secure_title">Güvenli Güç Menüsü ve Hızlı Ayarlar</string>
+    <string name="lockscreen_secure_summary">Güç menüsünü ve hızlı ayarları, kimlik doğrulama ile güvenli kilit ekranında koruyun</string>
+
+    
+    </resources>

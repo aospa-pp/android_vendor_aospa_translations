@@ -1,167 +1,55 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Copyright 2016-2023 Paranoid Android
-
-     Licensed under the Apache License, Version 2.0 (the "License");
-     you may not use this file except in compliance with the License.
-     You may obtain a copy of the License at
-
-          http://www.apache.org/licenses/LICENSE-2.0
-
-     Unless required by applicable law or agreed to in writing, software
-     distributed under the License is distributed on an "AS IS" BASIS,
-     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-     See the License for the specific language governing permissions and
-     limitations under the License.
--->
-<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="aospa_version">Wersja Paranoid Android</string>
-    <string name="dc_dimming_title">Redukcja migotania</string>
-    <string name="dc_dimming_info">Zmniejsza zmęczenie oczu w warunkach słabego oświetlenia, minimalizując migotanie ekranu. Może skutkować obniżeniem jakości obrazu i słabą reprodukcją kolorów lub zwiększonym zużyciem energii.</string>
-    <string name="dc_dimming_main_switch_title">Używaj redukcji migotania</string>
-    <string name="keywords_display_dc_dimming">redukcja migotania, redukcja, miganie, oko, zmęczenie</string>
-    <string name="adaptive_playback_screen_title">Inteligentne wstrzymywanie</string>
-    <string name="adaptive_playback_enabled">Używaj inteligentnego wstrzymywania</string>
-    <string name="adaptive_playback_disabled_summary">Wyłączono</string>
-    <string name="adaptive_playback_intro_text">Automatycznie wstrzymuje multimedia, gdy głośność zostanie wyciszona oraz wznawia, gdy głośność zostanie przywrócona w określonym czasie.</string>
-    <string name="adaptive_playback_timeout_title">Użyj limitu czasu</string>
-    <string name="adaptive_playback_timeout_none">Brak limitu czasu</string>
-    <string name="adaptive_playback_timeout_none_summary">Włączono (bez limitu czasu)</string>
-    <string name="adaptive_playback_timeout_30_secs">30 sekund</string>
-    <string name="adaptive_playback_timeout_30_secs_summary">Włączono (30 sekund)</string>
-    <string name="adaptive_playback_timeout_1_min">1 minuta</string>
-    <string name="adaptive_playback_timeout_1_min_summary">Włączono (1 minuta)</string>
-    <string name="adaptive_playback_timeout_2_min">2 minuty</string>
-    <string name="adaptive_playback_timeout_2_min_summary">Włączono (2 minuty)</string>
-    <string name="adaptive_playback_timeout_5_min">5 minut</string>
-    <string name="adaptive_playback_timeout_5_min_summary">Włączono (5 minut)</string>
-    <string name="adaptive_playback_timeout_10_min">10 minut</string>
-    <string name="adaptive_playback_timeout_10_min_summary">Włączono (10 minut)</string>
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
     <string name="three_finger_gesture">Przesuń, aby zrobić zrzut ekranu</string>
     <string name="three_finger_gesture_summary">Przesuń trzema palcami w dół, aby wykonać zrzut ekranu</string>
-    <string name="prevent_ringing_option_cycle">Przełączaj między trybami</string>
-    <string name="prevent_ringing_option_cycle_summary">Włączono (przechodzenie między trybami)</string>
-    <string name="ambient_display_screen_off_udfps_title">Zawsze podświetlaj czytnik odcisku palca</string>
-    <string name="ambient_display_screen_off_udfps_summary">Pozwala na odblokowanie przy wyłączonym ekranie.\nWłączenie może spowodować przypadkowe wybudzenia.</string>
-    <string name="category_name_refresh_rate_controls">Częstotliwość odświeżania</string>
-    <string name="volume_button_music_control_title">Sterowanie odtwarzaniem</string>
-    <string name="volume_button_music_control_summary">Przy wyłączonym ekranie, długie naciśnięcie przycisków głośności spowoduje zmianę utworu</string>
-    <string name="offscreen_gesture_title">Gesty przy wyłączonym ekranie</string>
-    <string name="offscreen_gesture_summary">Narysuj wzory lub dotknij ekranu, aby wykonać akcje</string>
-    <string name="keywords_gestures">ekran ekran dotykowy narysuj przesuń palec dotknij</string>
-    <string name="gestures_master">Używaj gestów przy wyłączonym ekranie</string>
-    <string name="gestures_disabled">Wyłączono</string>
-    <string name="gestures_wake_device">Wybudź urządzenie</string>
-    <string name="gestures_pulse_ambient_display">Puls do ekranu dostosowanego do otoczenia</string>
-    <string name="gestures_toggle_flashlight">Włącz/wyłącz latarkę</string>
-    <string name="gestures_toggle_airplane_mode">Włącz/wyłącz tryb samolotowy</string>
-    <string name="gestures_play_pause_music">Odtwórz/Zatrzymaj muzykę</string>
-    <string name="gestures_next_music">Następny utwór</string>
-    <string name="gestures_previous_music">Poprzedni utwór</string>
-    <string name="gestures_open_camera">Uruchom aparat</string>
-    <string name="gestures_open_dialer">Otwórz wybieranie numerów</string>
-    <string name="gestures_double_tap">Podwójne dotknięcie</string>
-    <string name="gestures_single_tap">Pojedyncze dotknięcie</string>
-    <string name="gestures_draw_v">Narysuj V</string>
-    <string name="gestures_draw_inverse_v">Narysuj odwrócone V</string>
-    <string name="gestures_draw_o">Narysuj O</string>
-    <string name="gestures_draw_m">Narysuj M</string>
-    <string name="gestures_draw_w">Narysuj W</string>
-    <string name="gestures_draw_s">Narysuj S</string>
-    <string name="gestures_draw_arrow_left">Narysuj &lt;</string>
-    <string name="gestures_draw_arrow_right">Narysuj &gt;</string>
-    <string name="gestures_one_finger_swipe_up">Przesunięcie jednym palcem w górę</string>
-    <string name="gestures_one_finger_swipe_right">Przesunięcie jednym palcem w prawo</string>
-    <string name="gestures_one_finger_swipe_down">Przesunięcie jednym palcem w dół</string>
-    <string name="gestures_one_finger_swipe_left">Przesunięcie jednym palcem w lewo</string>
-    <string name="gestures_two_finger_swipe">Przesunięcie dwoma palcami</string>
-    <string name="screenshot_shutter_sound_title">Dźwięk zrzutu ekranu</string>
-    <string name="power_button_torch_title">Szybkie uruchomienie latarki</string>
-    <string name="power_button_torch_summary">Gdy ekran jest wyłączony, długie naciśnięcie przycisku zasilania włączy latarkę</string>
-    <string name="icon_manager_title">Zarządzanie ikonami paska stanu</string>
-    <string name="icon_manager_summary">Kontroluj widoczność ikon paska stanu</string>
-    <string name="navbar_category">Pasek nawigacji</string>
-    <string name="navbar_invert_layout_title">Odwróć układ paska nawigacji</string>
-    <string name="navbar_invert_info">Spowoduje to zamianę przycisków \"Wstecz\" z \"Ostatnie\" na pasku nawigacji</string>
-    <string name="hide_navbar_gesture_bar_title">Ukryj pasek gestów</string>
-    <string name="hide_navbar_gesture_bar_summary">Ukryj pasek gestów w dolnej części ekranu</string>
-    <string name="system_black_theme_title">Używaj czarnego motywu</string>
-    <string name="system_black_theme_summary">Wymuś czarne kolory tła</string>
-    <string name="charging_control_title">Kontrola ładowania</string>
-    <string name="charging_control_summary">Dostosuj harmonogram ładowania i limity dla baterii</string>
-    <string name="charging_control_enable_title">Włącz kontrolę ładowania</string>
-    <string name="charging_control_mode_title">Tryb ładowania</string>
-    <string name="charging_control_mode_auto_title">Automatyczny harmonogram</string>
-    <string name="charging_control_mode_auto_summary">Automatycznie określaj, kiedy rozpocząć ładowanie na podstawie nastawionych alarmów</string>
-    <string name="charging_control_mode_custom_title">Własny harmonogram</string>
-    <string name="charging_control_mode_custom_summary">Ustaw docelowy czas naładowania</string>
-    <string name="charging_control_mode_limit_title">Ogranicz ładowanie</string>
-    <string name="charging_control_mode_limit_summary">Ogranicz ładowanie do określonej wartości procentowej</string>
-    <string name="charging_control_start_time_title">Czas rozpoczęcia</string>
-    <string name="charging_control_start_time_summary">Kontrola ładowania aktywuje się, gdy rozpoczniesz ładowanie po %s</string>
-    <string name="charging_control_target_time_title">Docelowy czas naładowania</string>
-    <string name="charging_control_target_time_summary">Bateria zostanie naładowana za %s</string>
-    <string name="charging_control_limit_title">Limit</string>
-    <string name="reset">Zresetuj</string>
-    <string name="doze_gesture_ambient_title">Pokaż aktywny wyświetlacz</string>
-    <string name="doze_gesture_ambient_summary">Pokaż aktywny wyświetlacz, zamiast wybudzać ekran</string>
-    <string name="gesture_wake_ambient">Pokaż aktywny wyświetlacz</string>
-    <string name="gesture_wake">Wybudzanie</string>
-    <string name="color_mode_balance_category">Balans kolorów</string>
-    <string name="color_mode_balance_red">Poziom czerwieni</string>
-    <string name="color_mode_balance_green">Poziom zieleni</string>
-    <string name="color_mode_balance_blue">Poziom niebieskiego</string>
-    <string name="keywords_color_balance">kolor, balans kolorów, korekta koloru, czerwony, zielony, niebieski, LiveDisplay</string>
-    <string name="touch_polling_title">Wysoka szybkość próbkowania dotykowego</string>
-    <string name="touch_polling_summary">Zwiększenie częstotliwości próbkowania ekranu dotykowego w celu zmniejszenia opóźnień</string>
-    <string name="lock_screen_auto_pin_confirm_summary_custom">Odblokuj automatycznie po wprowadzeniu poprawnego kodu PIN. Jest to nieco mniej bezpieczne niż dotknięcie przycisku Enter w celu potwierdzenia.</string>
-    <string name="quick_settings_quick_pull_down_title">Szybkie rozwijanie Szybkich ustawień</string>
-    <string name="quick_settings_quick_pull_down_summary">Przeciągnij pasek stanu w dół z prawej strony ekranu, aby rozwinąć Szybkie ustawienia</string>
-    <string name="doze_on_charge_title">Ekran zawsze włączony podczas ładowania</string>
-    <string name="doze_on_charge_summary">Wyświetlaj czas i informacje, gdy urządzenie jest podłączone do ładowania</string>
-    <string name="proximity_wake_title">Zapobiegaj przypadkowemu wybudzeniu</string>
-    <string name="proximity_wake_summary">Używaj czujnika zbliżeniowego podczas wybudzania ekranu</string>
-    <string name="smart_5g_title">Inteligentne 5G</string>
-    <string name="smart_5g_summary">Automatyczne przełączanie między 5G i 4G, aby zredukować zużycie baterii</string>
-    <string name="notification_sound_vib_screen_on_title">Denerwujące powiadomienia</string>
-    <string name="notification_sound_vib_screen_on_summary">Odtwarzaj dźwięk i wibracje dla powiadomień, gdy ekran jest włączony</string>
-    <string name="display_cutout_force_fullscreen_title">Aplikacje pełnoekranowe</string>
-    <string name="display_cutout_force_fullscreen_summary">Wymuś na aplikacjach ignorowanie przestrzeni wycięcia</string>
-    <string name="display_cutout_force_fullscreen_search">Szukaj</string>
-    <string name="display_cutout_force_fullscreen_search_apps">Szukaj aplikacji</string>
-    <string name="keywords_pulse_ambient_light_display">powiadomienie, powiadomienia, krawędź, światło, kolor, kolor</string>
-    <string name="pulse_ambient_light_text">Podświetlenie krawędzi sprawia, że ekran się zaświeci, gdy otrzymasz powiadomienie. Ułatwia to określenie, czy posiadasz jakieś powiadomienia, gdy telefon jest w uśpiony.</string>
-    <string name="pulse_ambient_light_title">Podświetlanie krawędzi</string>
-    <string name="pulse_ambient_light_summary">Podświetlanie bocznych krawędzi ekranu po otrzymaniu powiadomienia</string>
-    <string name="ambient_notification_light_accent_title">Kolor akcentu systemu</string>
-    <string name="ambient_notification_light_color_automatic_title">Kolor powiadomień</string>
-    <string name="pulse_ambient_light_color">Podczas pulsowania używaj</string>
-    <string name="refresh_rate_title">Częstotliwość odświeżania</string>
-    <string name="refresh_rate_summary_vrr_off">%d Hz</string>
-    <string name="refresh_rate_summary_vrr_on">%d Hz (Adaptacyjne)</string>
-    <string name="refresh_rate_vrr_title">Adaptacyjna częstotliwość odświeżania</string>
-    <string name="refresh_rate_vrr_summary">Automatycznie obniżaj częstotliwość odświeżania, gdy wyświetlacz jest bezczynny, aby zaoszczędzić energię. Może to powodować migotanie lub zmianę kolorów na niektórych wyświetlaczach</string>
-    <string name="refresh_rate_footer">Wyższa częstotliwość odświeżania sprawia, że wyświetlacz jest bardziej płynny, ale zwiększa to zużycie energii</string>
-    <string name="keywords_refresh_rate">odświeżanie, współczynnik, płynność, 60hz, 90hz, 120hz, 144hz, 165hz</string>
-    <string name="battery_technology">Technologia</string>
-    <string name="battery_health">Zdrowie</string>
-    <string name="battery_health_good">Dobra</string>
-    <string name="battery_health_overheat">Przegrzana</string>
-    <string name="battery_health_dead">Niesprawna</string>
-    <string name="battery_health_over_voltage">Zbyt wysokie napięcie</string>
-    <string name="battery_health_unspecified_failure">Nieokreślony błąd</string>
-    <string name="battery_health_cold">Zimna</string>
-    <string name="battery_health_unknown">Nieznana</string>
-    <string name="battery_temperature">Temperatura</string>
-    <string name="battery_voltage">Napięcie</string>
-    <string name="battery_charge_counter_summary">%1$d mAh</string>
-    <string name="battery_design_capacity">Fabryczna pojemność baterii</string>
-    <string name="battery_design_capacity_summary">%1$d mAh</string>
-    <string name="battery_maximum_capacity">Maksymalna pojemność</string>
-    <string name="battery_maximum_capacity_summary">%1$d mAh (%2$d%%)</string>
-    <string name="heads_up_title">Wyskakujące powiadomienia</string>
-    <string name="heads_up_summary">Wyświetlaj wybrane powiadomienia jako baner w górnej części ekranu</string>
-    <string name="heads_up_off">Wyskakujące powiadomienia są wyłączone globalnie</string>
-    <string name="notification_vibration_pattern_title">Wzór wibracji powiadomień</string>
-    <string name="ring_vibration_pattern_title">Wzór wibracji dzwonka</string>
-    <string name="pattern_default">Domyślnie dla urządzenia</string>
-</resources>
+    <string name="background_processes_settings_title">Procesy w tle</string>
+
+    
+    <string name="smart_charging_title">Inteligentne ładowanie</string>
+    <string name="smart_charging_summary">Ustaw maksymalny poziom ładowania</string>
+    <string name="smart_charging_switch_title">Użyj inteligentnego ładowania</string>
+    <string name="smart_charging_level_title">Zatrzymaj poziom spustu</string>
+    <string name="smart_charging_resume_level_title">Rozpocznij poziom spustu</string>
+    <string name="smart_charging_footer">Inteligentne ładowanie pozwala ustawić maksymalny poziom ładowania, aby przedłużyć żywotność baterii</string>
+
+    
+    <string name="copied_to_clipboard">Skopiowane do schowka</string>
+    <string name="longpress_to_clipboard">Długo naciśnięcie do kopiowania</string>
+
+    
+    <string name="tethering_allow_vpn_upstreams_title">Pozwól klientom korzystać z VPN</string>
+    <string name="tethering_allow_vpn_upstreams_summary">Pozwól klientom hotspot korzystać z połączeń VPN tego urządzenia do łączności w górę</string>
+
+    <string name="category_name_battery_styles">Style baterii</string>
+
+    
+    <string name="status_bar_battery_style_title">Styl baterii</string>
+    <string name="status_bar_battery_style_icon_portrait">Portret ikona</string>
+    <string name="status_bar_battery_style_circle">Koło</string>
+    <string name="status_bar_battery_style_text">Tekst</string>
+    <string name="status_bar_battery_style_landscape">Krajobraz</string>
+    <string name="status_bar_battery_style_landscape_reversed">Krajobraz odwrócony</string>
+
+    
+    <string name="status_bar_battery_percentage_title">Procent baterii</string>
+    <string name="status_bar_battery_percentage_default">Ukryty</string>
+    <string name="status_bar_battery_percentage_text_inside">Wewnątrz ikony</string>
+    <string name="status_bar_battery_percentage_text_next">Obok ikony</string>
+
+    
+    <string name="qti_boost_framework_title">QTI Boost Framework</string>
+    <string name="qti_boost_framework_summary">Zastosuj wzmocnienie procesora/GPU na zadania interfejsu użytkownika, aby zmniejszyć Jank.Potrzebny jest ponowne uruchomienie</string>
+
+    
+    <string name="media_art_title">Media Cover Art</string>
+    <string name="media_art_summary">Wyświetl sztukę multimediów, jeśli jest dostępne</string>
+
+    
+    <string name="radio_info_title">Radio-info</string>
+
+    
+    <string name="lockscreen_secure_title">Chroń menu zasilania i szybkie ustawienia</string>
+    <string name="lockscreen_secure_summary">Uwierzytelnianie menu zasilania i szybkich ustawień na ekranie blokady</string>
+
+    
+    </resources>

@@ -1,20 +1,56 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Copyright 2016-2023 Paranoid Android
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="background_processes_settings_title">പശ്ചാത്തല പ്രക്രിയകൾ</string>
 
-     Licensed under the Apache License, Version 2.0 (the "License");
-     you may not use this file except in compliance with the License.
-     You may obtain a copy of the License at
+    
+    <string name="smart_charging_title">സ്മാർട്ട് ചാർജിംഗ്</string>
+    <string name="smart_charging_summary">പരമാവധി ചാർജിംഗ് ലെവൽ സജ്ജമാക്കുക</string>
+    <string name="smart_charging_switch_title">സ്മാർട്ട് ചാർജിംഗ് ഉപയോഗിക്കുക</string>
+    <string name="smart_charging_level_title">ട്രിഗർ നില നിർത്തുക</string>
+    <string name="smart_charging_resume_level_title">ട്രിഗർ ലെവൽ ആരംഭിക്കുക</string>
+    <string name="smart_charging_footer">നിങ്ങളുടെ ബാറ്ററിയുടെ ആയുസ്സ് വർദ്ധിപ്പിക്കുന്നതിന് പരമാവധി ചാർജിംഗ് നില സജ്ജമാക്കാൻ സ്മാർട്ട് ചാർജിംഗ് നിങ്ങളെ അനുവദിക്കുന്നു</string>
 
-          http://www.apache.org/licenses/LICENSE-2.0
+    
+    <string name="copied_to_clipboard">ക്ലിപ്പ്ബോർഡിലേക്ക് പകർത്തി</string>
+    <string name="longpress_to_clipboard">പകർത്താൻ ദീർഘനേരം അമർത്തുക</string>
 
-     Unless required by applicable law or agreed to in writing, software
-     distributed under the License is distributed on an "AS IS" BASIS,
-     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-     See the License for the specific language governing permissions and
-     limitations under the License.
--->
-<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="aospa_version">പരനോയിഡ് ആൻഡ്രോയ്ഡ് വേർഷൻ </string>
-    <string name="offscreen_gesture_title">സ്ക്രീൻ ഓഫ് ആംഗ്യം</string>
-    <string name="offscreen_gesture_summary">പ്രവർത്തനങ്ങൾ നടത്താൻ പാറ്റേണുകൾ വരയ്ക്കുക അല്ലെങ്കിൽ സ്ക്രീനിൽ ടാപ്പ് ചെയ്യുക</string>
-</resources>
+    
+    <string name="tethering_allow_vpn_upstreams_title">VPN- കൾ ഉപയോഗിക്കാൻ ക്ലയന്റുകളെ അനുവദിക്കുക</string>
+    <string name="tethering_allow_vpn_upstreams_summary">അപ്സ്ട്രീം കണക്റ്റിവിറ്റിക്കായി ഈ ഉപകരണത്തിന്റെ VPN കണക്ഷനുകൾ ഉപയോഗിക്കാൻ ഹോട്ട്സ്പോട്ട് ക്ലയന്റുകളെ അനുവദിക്കുക</string>
+
+    <string name="category_name_battery_styles">ബാറ്ററി ശൈലികൾ</string>
+
+    
+    <string name="status_bar_battery_style_title">ബാറ്ററി ശൈലി</string>
+    <string name="status_bar_battery_style_icon_portrait">ഐക്കൺ ഛായാചിത്രം</string>
+    <string name="status_bar_battery_style_circle">വലയം</string>
+    <string name="status_bar_battery_style_text">മൂലഗന്ഥം</string>
+    <string name="status_bar_battery_style_landscape">ഭൂദൃശം</string>
+    <string name="status_bar_battery_style_landscape_reversed">ലാൻഡ്സ്കേപ്പ് റിവേഴ്സ് ചെയ്തു</string>
+
+    
+    <string name="status_bar_battery_percentage_title">ബാറ്ററി ശതമാനം</string>
+    <string name="status_bar_battery_percentage_default">മറഞ്ഞിരിക്കുന്നു</string>
+    <string name="status_bar_battery_percentage_text_inside">ഐക്കണിനുള്ളിൽ</string>
+    <string name="status_bar_battery_percentage_text_next">ഐക്കണിന് അടുത്തായി</string>
+
+    
+    <string name="qti_boost_framework_title">QTI ചട്ടക്കൂട് വർദ്ധിപ്പിക്കുക</string>
+    <string name="qti_boost_framework_summary">ജാക്ക് കുറയ്ക്കുന്നതിന് യുഐ ടാസ്ക്കുകളിൽ സിപിയു / ജിപിയു ബൂസ്റ്റ് പ്രയോഗിക്കുക.റീബൂട്ട് ആവശ്യമാണ്</string>
+
+    
+    <string name="media_art_title">മീഡിയ കവർ ആർട്ട്</string>
+    <string name="media_art_summary">ലഭ്യമാകുമ്പോൾ മീഡിയ കവർ ആർട്ട് പ്രദർശിപ്പിക്കുക</string>
+
+    
+    <string name="three_finger_gesture">സ്ക്രീൻഷോട്ടിലേക്ക് സ്വൈപ്പുചെയ്യുക</string>
+    <string name="three_finger_gesture_summary">ഒരു സ്ക്രീൻഷോട്ട് എടുക്കാൻ മൂന്ന് വിരലുകൾ ഉപയോഗിച്ച് സ്വൈപ്പുചെയ്യുക</string>
+
+    
+    <string name="radio_info_title">റേഡിയോ-വിവരം</string>
+    
+    <string name="lockscreen_secure_title">വൈദ്യുതി മെനുവും ദ്രുത ക്രമീകരണങ്ങളും പരിരക്ഷിക്കുക</string>
+    <string name="lockscreen_secure_summary">ലോക്ക്സ്ക്രീനിൽ വൈദ്യുതി മെനുവിനും ദ്രുത ക്രമീകരണങ്ങൾക്കായുള്ള പ്രാമാണീകരണം</string>
+
+    
+    </resources>

@@ -1,60 +1,55 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Copyright 2016-2023 Paranoid Android
-
-     Licensed under the Apache License, Version 2.0 (the "License");
-     you may not use this file except in compliance with the License.
-     You may obtain a copy of the License at
-
-          http://www.apache.org/licenses/LICENSE-2.0
-
-     Unless required by applicable law or agreed to in writing, software
-     distributed under the License is distributed on an "AS IS" BASIS,
-     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-     See the License for the specific language governing permissions and
-     limitations under the License.
--->
-<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="aospa_version">பேரணாய்ட் ஆண்ட்ராய்டு பதிப்பு</string>
-    <string name="adaptive_playback_screen_title">ஸ்மார்ட் இடைநிறுத்தம்</string>
-    <string name="adaptive_playback_enabled">ஸ்மார்ட் இடைநிறுதத்தை இயக்க</string>
-    <string name="adaptive_playback_disabled_summary">நிறுத்து</string>
-    <string name="adaptive_playback_intro_text">ஒலியடக்கம் ஒலியடக்கப்படும்போது தானாகவே மீடியாவை இடைநிறுத்துகிறது மற்றும் நிர்ணயிக்கப்பட்ட நேரத்திற்குள் ஒலியளவை மீட்டெடுக்கும்போது தானாகவே மீண்டும் தொடங்கும்.</string>
-    <string name="adaptive_playback_timeout_title">காலக்கெடு</string>
-    <string name="adaptive_playback_timeout_none">காலக்கெடு இல்லை</string>
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
     <string name="three_finger_gesture">ஸ்கிரீன்ஷாட்டுக்கு ஸ்வைப் செய்யவும்</string>
     <string name="three_finger_gesture_summary">ஸ்கிரீன்ஷாட் எடுக்க மூன்று விரல்களால் கீழே ஸ்வைப் செய்யவும்</string>
-    <string name="prevent_ringing_option_cycle"> சுழற்சியில் முறைகளை மாற்றவும்</string>
-    <string name="prevent_ringing_option_cycle_summary">இயக்க (சுழற்சியில் முறைகளை மாற்ற)</string>
-    <string name="ambient_display_screen_off_udfps_title">எப்போதும் கைரேகை இயக்கம்</string>
-    <string name="ambient_display_screen_off_udfps_summary">திரை அணைக்கப்பட்ட நிலையிலும் திறக்க அனுமதிக்கிறது.\nஇந்த அம்சம் தற்செயலான திரை விழிப்புகளை ஏற்படுத்தலாம்.</string>
-    <string name="offscreen_gesture_title">திரை ஆஃப் சைகைகள்</string>
-    <string name="offscreen_gesture_summary">செயல்களைச் செய்ய வடிவங்களை வரையவும் அல்லது திரையில் தட்டவும்</string>
-    <string name="keywords_gestures">திரை தொடுதிரை வரைய ஸ்வைப் விரல் தட்டவும்</string>
-    <string name="gestures_master">திரை ஆஃப் சைகைகளைப் பயண்படுத்து</string>
-    <string name="gestures_disabled">முடக்கப்பட்டது</string>
-    <string name="gestures_wake_device">சாதனத்தை எழுப்பு</string>
-    <string name="gestures_pulse_ambient_display">சூழல் காட்சிக்குக் காட்சி துடிப்பு</string>
-    <string name="gestures_toggle_flashlight">விளக்கு நிலை மாற்று</string>
-    <string name="gestures_toggle_airplane_mode">விமானப் பயன்முறையை நிலைமாற்று</string>
-    <string name="gestures_play_pause_music">இசையை இயக்கு / இடைநிறுத்து</string>
-    <string name="gestures_next_music">அடுத்த இசை</string>
-    <string name="gestures_previous_music">முந்தைய இசை</string>
-    <string name="gestures_open_camera">கேமராவை திறக்கவும்</string>
-    <string name="gestures_open_dialer">டயலரை திறக்கவும்</string>
-    <string name="gestures_double_tap">இருமுறை தட்டவும்</string>
-    <string name="gestures_single_tap">ஒறுமுறை தட்டவும்</string>
-    <string name="gestures_draw_v">V வரையவும் </string>
-    <string name="gestures_draw_inverse_v">\'V\'யை‌ தலைகீழாக வரையவும்</string>
-    <string name="gestures_draw_o">\'O\' வரையவும் </string>
-    <string name="gestures_draw_m">\'M\' வரையவும் </string>
-    <string name="gestures_draw_w">\'W\' வரையவும் </string>
-    <string name="gestures_draw_s">\'S\' வரையவும் </string>
-    <string name="gestures_draw_arrow_left">வரையவும் &lt;</string>
-    <string name="gestures_draw_arrow_right">வரையவும் &gt;</string>
-    <string name="gestures_one_finger_swipe_up">ஒரு விரலால் மேலே ஸ்வைப் செய்யவும்</string>
-    <string name="gestures_one_finger_swipe_right">ஒரு விரலால் வலது பக்கம் ஸ்வைப் செய்யவும்</string>
-    <string name="gestures_one_finger_swipe_down">ஒரு விரலால் கீழே ஸ்வைப் செய்யவும்</string>
-    <string name="gestures_one_finger_swipe_left">ஒரு விரலால் இடதுபுறமாக ஸ்வைப் செய்யவும்</string>
-    <string name="gestures_two_finger_swipe">இரண்டு விரல் ஸ்வைப்</string>
-    <string name="screenshot_shutter_sound_title">திரைப்பிடிப்பு ஒலி</string>
-</resources>
+    <string name="background_processes_settings_title">பின்னணி செயல்முறைகள்</string>
+
+    
+    <string name="smart_charging_title">ஸ்மார்ட் சார்ஜிங்</string>
+    <string name="smart_charging_summary">அதிகபட்ச சார்ஜிங் அளவை அமைக்கவும்</string>
+    <string name="smart_charging_switch_title">ஸ்மார்ட் சார்ஜிங் பயன்படுத்தவும்</string>
+    <string name="smart_charging_level_title">தூண்டுதல் அளவை நிறுத்துங்கள்</string>
+    <string name="smart_charging_resume_level_title">தூண்டுதல் நிலை தொடங்கவும்</string>
+    <string name="smart_charging_footer">உங்கள் பேட்டரியின் ஆயுட்காலம் நீட்டிக்க அதிகபட்ச சார்ஜிங் அளவை அமைக்க ஸ்மார்ட் சார்ஜிங் உங்களை அனுமதிக்கிறது</string>
+
+    
+    <string name="copied_to_clipboard">கிளிப்போர்டுக்கு நகலெடுக்கப்பட்டது</string>
+    <string name="longpress_to_clipboard">நகலெடுக்க நீண்ட அழுத்தம்</string>
+
+    
+    <string name="tethering_allow_vpn_upstreams_title">வாடிக்கையாளர்களை VPN களைப் பயன்படுத்த அனுமதிக்கவும்</string>
+    <string name="tethering_allow_vpn_upstreams_summary">அப்ஸ்ட்ரீம் இணைப்பிற்கு இந்த சாதனத்தின் VPN இணைப்புகளைப் பயன்படுத்த ஹாட்ஸ்பாட் வாடிக்கையாளர்களை அனுமதிக்கவும்</string>
+
+    <string name="category_name_battery_styles">பேட்டரி பாணிகள்</string>
+
+    
+    <string name="status_bar_battery_style_title">பேட்டரி ஸ்டைல்</string>
+    <string name="status_bar_battery_style_icon_portrait">ஐகான் உருவப்படம்</string>
+    <string name="status_bar_battery_style_circle">வட்டம்</string>
+    <string name="status_bar_battery_style_text">உரை</string>
+    <string name="status_bar_battery_style_landscape">நிலப்பரப்பு</string>
+    <string name="status_bar_battery_style_landscape_reversed">நிலப்பரப்பு தலைகீழானது</string>
+
+    
+    <string name="status_bar_battery_percentage_title">பேட்டரி சதவீதம்</string>
+    <string name="status_bar_battery_percentage_default">மறைக்கப்பட்ட</string>
+    <string name="status_bar_battery_percentage_text_inside">ஐகானின் உள்ளே</string>
+    <string name="status_bar_battery_percentage_text_next">ஐகானுக்கு அடுத்து</string>
+
+    
+    <string name="qti_boost_framework_title">QTI பூஸ்ட் கட்டமைப்பை</string>
+    <string name="qti_boost_framework_summary">ஜாங்கைக் குறைக்க UI பணிகளில் CPU/GPU பூஸ்டைப் பயன்படுத்துங்கள்.மறுதொடக்கம் தேவை</string>
+
+    
+    <string name="media_art_title">மீடியா கவர் கலை</string>
+    <string name="media_art_summary">கிடைக்கும்போது மீடியா கவர் கலையை காண்பி</string>
+
+    
+    <string name="radio_info_title">ரேடியோ-இன்ஃபோ</string>
+
+    
+    <string name="lockscreen_secure_title">சக்தி மெனு மற்றும் விரைவான அமைப்புகளைப் பாதுகாக்கவும்</string>
+    <string name="lockscreen_secure_summary">சக்தி மெனு மற்றும் பூட்டு திரையில் விரைவான அமைப்புகளுக்கான அங்கீகாரம்</string>
+
+    
+    </resources>

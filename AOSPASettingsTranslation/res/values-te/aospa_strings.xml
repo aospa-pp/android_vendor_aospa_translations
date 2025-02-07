@@ -1,40 +1,57 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Copyright 2016-2023 Paranoid Android
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="background_processes_settings_title">నేపథ్య ప్రక్రియలు</string>
 
-     Licensed under the Apache License, Version 2.0 (the "License");
-     you may not use this file except in compliance with the License.
-     You may obtain a copy of the License at
+    
+    <string name="smart_charging_title">స్మార్ట్ ఛార్జింగ్</string>
+    <string name="smart_charging_summary">గరిష్ట ఛార్జింగ్ స్థాయిని సెట్ చేయండి</string>
+    <string name="smart_charging_switch_title">స్మార్ట్ ఛార్జింగ్ ఉపయోగించండి</string>
+    <string name="smart_charging_level_title">ట్రిగ్గర్ స్థాయిని ఆపండి</string>
+    <string name="smart_charging_resume_level_title">ట్రిగ్గర్ స్థాయిని ప్రారంభించండి</string>
+    <string name="smart_charging_footer">స్మార్ట్ ఛార్జింగ్ మీ బ్యాటరీ యొక్క ఆయుష్షును విస్తరించడానికి గరిష్ట ఛార్జింగ్ స్థాయిని సెట్ చేయడానికి మిమ్మల్ని అనుమతిస్తుంది</string>
 
-          http://www.apache.org/licenses/LICENSE-2.0
+    
+    <string name="copied_to_clipboard">క్లిప్‌బోర్డ్‌కు కాపీ చేయబడింది</string>
+    <string name="longpress_to_clipboard">కాపీ చేయడానికి దీర్ఘ ప్రెస్</string>
 
-     Unless required by applicable law or agreed to in writing, software
-     distributed under the License is distributed on an "AS IS" BASIS,
-     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-     See the License for the specific language governing permissions and
-     limitations under the License.
--->
-<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="navbar_category">నావిగేషన్ బార్</string>
-    <string name="hide_navbar_gesture_bar_title">జెస్చర్ బారుని మాయంచేయి</string>
-    <string name="hide_navbar_gesture_bar_summary">స్క్రీన్ కింద ఉన్న జెస్చర్ బార్ ని మాయంచేయి</string>
-    <string name="charging_control_title">చార్జింగ్ కంట్రోల్</string>
-    <string name="charging_control_summary">బాటరీ చార్జింగ్ యొక్క పరిమితులు షెడ్యూల్ ని మార్చుకోండి</string>
-    <string name="charging_control_enable_title">చార్జింగ్ కంట్రోల్ ని ప్రారంభించండి</string>
-    <string name="charging_control_mode_title">చార్గంగ్ మోడ్</string>
-    <string name="charging_control_mode_auto_title">ఆటోమేటిక్ షెడ్యూల్</string>
-    <string name="charging_control_mode_auto_summary">అలార్మ్స్ ఆధారంగా చార్జింగ్ ని స్టార్ట్ చెయ్యండి</string>
-    <string name="charging_control_mode_custom_title">కస్టమ్ షెడ్యూల్</string>
-    <string name="charging_control_mode_custom_summary">మొత్తం ఛార్జ్ చెయ్యడానికి టైం సెట్ చెయ్యండి</string>
-    <string name="charging_control_mode_limit_title">చార్జింగ్ ని పరిమితి చెయ్యి</string>
-    <string name="charging_control_mode_limit_summary">కొంత శాతం వరకు చార్జింగ్ ని పరిమితి చెయ్యి</string>
-    <string name="charging_control_start_time_title">సమయాని ని మొదలపెట్టు</string>
-    <string name="charging_control_start_time_summary">చార్జింగ్ కంట్రోల్ %s ఛార్జ్ అయ్యాక మొదలు అవుతుంది</string>
-    <string name="charging_control_target_time_title">పూర్తి ఛార్జ్ కొరకు సమయని పెట్టండి</string>
-    <string name="charging_control_target_time_summary">%s కి బాటరీ పూర్తి ఛార్జ్ అవుతుంది</string>
-    <string name="charging_control_limit_title">పరిమితి</string>
-    <string name="reset">రీసెట్ చేయండి</string>
-    <string name="lock_screen_auto_pin_confirm_summary_custom">సరియిన పిన్ నొక్కినవేంటనే తెర్చుకో.
-ఈ ఆప్షన్ ఎంటర్ బటన్ నొక్కడం కన్న భద్రమైనదికాదు</string>
-    <string name="quick_settings_quick_pull_down_title">క్విక్ QS పుల్ డౌన్</string>
-    <string name="quick_settings_quick_pull_down_summary">స్టేటస్ బార్ ని కుడివైపు నుంచి లాగండి క్విక్ సెట్టింగ్స్ కొరకు</string>
-</resources>
+    
+    <string name="tethering_allow_vpn_upstreams_title">ఖాతాదారులను VPN లను ఉపయోగించడానికి అనుమతించండి</string>
+    <string name="tethering_allow_vpn_upstreams_summary">అప్‌స్ట్రీమ్ కనెక్టివిటీ కోసం ఈ పరికరం యొక్క VPN కనెక్షన్‌లను ఉపయోగించడానికి హాట్‌స్పాట్ క్లయింట్‌లను అనుమతించండి</string>
+
+    <string name="category_name_battery_styles">బ్యాటరీ శైలులు</string>
+
+    
+    <string name="status_bar_battery_style_title">బ్యాటరీ శైలి</string>
+    <string name="status_bar_battery_style_icon_portrait">ఐకాన్ పోర్ట్రెయిట్</string>
+    <string name="status_bar_battery_style_circle">సర్కిల్</string>
+    <string name="status_bar_battery_style_text">వచనం</string>
+    <string name="status_bar_battery_style_landscape">ప్రకృతి దృశ్యం</string>
+    <string name="status_bar_battery_style_landscape_reversed">ప్రకృతి దృశ్యం తిరగబడింది</string>
+
+    
+    <string name="status_bar_battery_percentage_title">బ్యాటరీ శాతం</string>
+    <string name="status_bar_battery_percentage_default">దాచబడింది</string>
+    <string name="status_bar_battery_percentage_text_inside">ఐకాన్ లోపల</string>
+    <string name="status_bar_battery_percentage_text_next">ఐకాన్ పక్కన</string>
+
+    
+    <string name="qti_boost_framework_title">QTI బూస్ట్ ఫ్రేమ్‌వర్క్</string>
+    <string name="qti_boost_framework_summary">జంక్ తగ్గించడానికి UI పనులపై CPU/GPU బూస్ట్‌ను వర్తించండి.రీబూట్ అవసరం</string>
+
+    
+    <string name="media_art_title">మీడియా కవర్ ఆర్ట్</string>
+    <string name="media_art_summary">అందుబాటులో ఉన్నప్పుడు మీడియా కవర్ ఆర్ట్‌ను ప్రదర్శించండి</string>
+
+    
+    <string name="three_finger_gesture">స్క్రీన్ షాట్ కు స్వైప్ చేయండి</string>
+    <string name="three_finger_gesture_summary">స్క్రీన్ షాట్ తీసుకోవడానికి మూడు వేళ్ళతో స్వైప్ చేయండి</string>
+
+    
+    <string name="radio_info_title">రేడియో-ఇన్ఫో</string>
+
+    
+    <string name="lockscreen_secure_title">పవర్ మెను మరియు శీఘ్ర సెట్టింగులను రక్షించండి</string>
+    <string name="lockscreen_secure_summary">లాక్‌స్క్రీన్‌లో పవర్ మెను మరియు శీఘ్ర సెట్టింగ్‌ల కోసం ప్రామాణీకరణ</string>
+
+    
+    </resources>

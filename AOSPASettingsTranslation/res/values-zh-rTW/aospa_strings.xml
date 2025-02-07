@@ -1,148 +1,55 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Copyright 2016-2023 Paranoid Android
-
-     Licensed under the Apache License, Version 2.0 (the "License");
-     you may not use this file except in compliance with the License.
-     You may obtain a copy of the License at
-
-          http://www.apache.org/licenses/LICENSE-2.0
-
-     Unless required by applicable law or agreed to in writing, software
-     distributed under the License is distributed on an "AS IS" BASIS,
-     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-     See the License for the specific language governing permissions and
-     limitations under the License.
--->
-<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="aospa_version">Paranoid Android 版本</string>
-    <string name="dc_dimming_title">DC 調光</string>
-    <string name="dc_dimming_info">在低光源環境中透過減少螢幕的閃爍次數來降低對眼睛的負擔。此功能可能導致螢幕顯示品質降低、色彩失準或耗電量增加等問題。</string>
-    <string name="dc_dimming_main_switch_title">DC 調光</string>
-    <string name="keywords_display_dc_dimming">DC 調光, 閃爍, 眼睛, 疲勞</string>
-    <string name="adaptive_playback_screen_title">智慧暫停</string>
-    <string name="adaptive_playback_enabled">啟用智慧暫停</string>
-    <string name="adaptive_playback_disabled_summary">關閉</string>
-    <string name="adaptive_playback_intro_text">靜音後自動停止播放媒體，並在取消靜音後繼續播放</string>
-    <string name="adaptive_playback_timeout_title">逾時</string>
-    <string name="adaptive_playback_timeout_none">無逾時</string>
-    <string name="adaptive_playback_timeout_none_summary">開啟 (無逾時)</string>
-    <string name="adaptive_playback_timeout_30_secs">30 秒</string>
-    <string name="adaptive_playback_timeout_30_secs_summary">開啟 (30秒)</string>
-    <string name="adaptive_playback_timeout_1_min">1 分鐘</string>
-    <string name="adaptive_playback_timeout_1_min_summary">開啟 (1 分鐘)</string>
-    <string name="adaptive_playback_timeout_2_min">2 分鐘</string>
-    <string name="adaptive_playback_timeout_2_min_summary">開啟 (2 分鐘)</string>
-    <string name="adaptive_playback_timeout_5_min">5 分鐘</string>
-    <string name="adaptive_playback_timeout_5_min_summary">開啟 (5 分鐘)</string>
-    <string name="adaptive_playback_timeout_10_min">10 分鐘</string>
-    <string name="adaptive_playback_timeout_10_min_summary">開啟 (10 分鐘)</string>
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
     <string name="three_finger_gesture">滑動以擷取螢幕畫面</string>
     <string name="three_finger_gesture_summary">用三根手指向下滑動即可擷取螢幕畫面</string>
-    <string name="prevent_ringing_option_cycle">在響鈴模式之間切換</string>
-    <string name="prevent_ringing_option_cycle_summary">開啟循環模式</string>
-    <string name="ambient_display_screen_off_udfps_title">一律啟用指紋辨識</string>
-    <string name="ambient_display_screen_off_udfps_summary">允許在螢幕關閉時使用指紋解鎖。\n啟用後可能會導致意外喚醒。</string>
-    <string name="category_name_refresh_rate_controls">螢幕更新率</string>
-    <string name="volume_button_music_control_title">播放控制</string>
-    <string name="volume_button_music_control_summary">螢幕關閉時，長按音量鍵即可切換曲目</string>
-    <string name="offscreen_gesture_title">螢幕關閉手勢</string>
-    <string name="offscreen_gesture_summary">在螢幕上輕觸或畫出圖形來執行動作</string>
-    <string name="keywords_gestures">螢幕 觸控 畫出 滑動 手指 輕觸</string>
-    <string name="gestures_master">使用螢幕關閉手勢</string>
-    <string name="gestures_disabled">關閉</string>
-    <string name="gestures_wake_device">喚醒裝置</string>
-    <string name="gestures_pulse_ambient_display">啟用環境顯示</string>
-    <string name="gestures_toggle_flashlight">開關手電筒</string>
-    <string name="gestures_toggle_airplane_mode">切換飛航模式</string>
-    <string name="gestures_play_pause_music">播放/暫停曲目</string>
-    <string name="gestures_next_music">下一曲目</string>
-    <string name="gestures_previous_music">上一曲目</string>
-    <string name="gestures_open_camera">開啟相機</string>
-    <string name="gestures_open_dialer">開啟電話應用程式</string>
-    <string name="gestures_double_tap">輕觸兩下</string>
-    <string name="gestures_single_tap">輕觸一下</string>
-    <string name="gestures_draw_v">畫出一個「V」</string>
-    <string name="gestures_draw_inverse_v">畫出一個倒「V」</string>
-    <string name="gestures_draw_o">畫出一個「O」</string>
-    <string name="gestures_draw_m">畫出一個「M」</string>
-    <string name="gestures_draw_w">畫出一個「W」</string>
-    <string name="gestures_draw_s">畫出一個「S」</string>
-    <string name="gestures_draw_arrow_left">畫出一個「&lt;」</string>
-    <string name="gestures_draw_arrow_right">畫出一個「&gt;」</string>
-    <string name="gestures_one_finger_swipe_up">單指向上滑動</string>
-    <string name="gestures_one_finger_swipe_right">單指向右滑動</string>
-    <string name="gestures_one_finger_swipe_down">單指向下滑動</string>
-    <string name="gestures_one_finger_swipe_left">單指向左滑動</string>
-    <string name="gestures_two_finger_swipe">兩指滑動</string>
-    <string name="screenshot_shutter_sound_title">擷取螢幕畫面音效</string>
-    <string name="power_button_torch_title">快速開啟手電筒</string>
-    <string name="power_button_torch_summary">當螢幕關閉時，長按電源鍵會開啟手電筒</string>
-    <string name="icon_manager_title">狀態列圖示</string>
-    <string name="icon_manager_summary">顯示或隱藏狀態列上的圖示</string>
-    <string name="navbar_category">導覽列</string>
-    <string name="navbar_invert_layout_title">反轉導覽列圖示順序</string>
-    <string name="navbar_invert_info">對換導覽列上的返回及總覽鍵</string>
-    <string name="hide_navbar_gesture_bar_title">隱藏手勢欄</string>
-    <string name="hide_navbar_gesture_bar_summary">在螢幕底部隱藏手勢欄</string>
-    <string name="system_black_theme_title">純黑背景</string>
-    <string name="system_black_theme_summary">強制使用純黑色背景</string>
-    <string name="charging_control_title">充電控制</string>
-    <string name="charging_control_summary">自訂裝置的充電時間和限制</string>
-    <string name="charging_control_enable_title">啟用充電控制</string>
-    <string name="charging_control_mode_title">充電模式</string>
-    <string name="charging_control_mode_auto_title">自動排程</string>
-    <string name="charging_control_mode_auto_summary">根據鬧鐘設定自動判斷何時開始充電</string>
-    <string name="charging_control_mode_custom_title">自訂排程</string>
-    <string name="charging_control_mode_custom_summary">設定充滿電池的目標時間</string>
-    <string name="charging_control_mode_limit_title">限制充電</string>
-    <string name="charging_control_mode_limit_summary">限制充電到特定百分比</string>
-    <string name="charging_control_start_time_title">開始時間</string>
-    <string name="charging_control_start_time_summary">當您在 %s 後開始充電時，充電控制將會啟用</string>
-    <string name="charging_control_target_time_title">充滿電池的目標時間</string>
-    <string name="charging_control_target_time_summary">電池將會在 %s 前完全充滿</string>
-    <string name="charging_control_limit_title">限制</string>
-    <string name="reset">重設</string>
-    <string name="doze_gesture_ambient_title">顯示微光螢幕</string>
-    <string name="doze_gesture_ambient_summary">僅顯示時間和部分資訊，而不是完全喚醒螢幕</string>
-    <string name="gesture_wake_ambient">環境顯示</string>
-    <string name="gesture_wake">完全喚醒</string>
-    <string name="color_mode_balance_category">色彩平衡</string>
-    <string name="color_mode_balance_red">紅色強度</string>
-    <string name="color_mode_balance_green">綠色強度</string>
-    <string name="color_mode_balance_blue">藍色強度</string>
-    <string name="keywords_color_balance">色彩, 色彩平衡, 色彩校正, 紅色, 綠色, 藍色, LiveDisplay</string>
-    <string name="touch_polling_title">高觸控採樣率</string>
-    <string name="touch_polling_summary">透過提升觸控採樣率來降低延遲</string>
-    <string name="lock_screen_auto_pin_confirm_summary_custom">當您輸入正確的 PIN 碼時自動解鎖。安全性會略低於點擊確認按鈕進行密碼確認。 </string>
-    <string name="quick_settings_quick_pull_down_title">快速下拉設定面板</string>
-    <string name="quick_settings_quick_pull_down_summary">從狀態欄右側下拉以展開快速設置面板</string>
-    <string name="doze_on_charge_title">充電時一律顯示</string>
-    <string name="doze_on_charge_summary">僅當設備插入時才顯示時間和訊息</string>
-    <string name="proximity_wake_title">防止意外喚醒</string>
-    <string name="proximity_wake_summary">喚醒螢幕前檢查鄰近感應器</string>
-    <string name="smart_5g_title">智慧 5G</string>
-    <string name="smart_5g_summary">自動在 5G 和 4G 之間切換以減少電池的消耗</string>
-    <string name="notification_sound_vib_screen_on_title">煩人的通知</string>
-    <string name="notification_sound_vib_screen_on_summary">在螢幕開啟時播放音效和震動通知</string>
-    <string name="display_cutout_force_fullscreen_title">全螢幕應用程式</string>
-    <string name="display_cutout_force_fullscreen_summary">強制應用程式使用瀏海區域</string>
-    <string name="display_cutout_force_fullscreen_search">搜尋</string>
-    <string name="display_cutout_force_fullscreen_search_apps">搜尋應用程式</string>
-    <string name="keywords_pulse_ambient_light_display">通知、通知、邊緣、燈光、顏色、顏色</string>
-    <string name="pulse_ambient_light_text">邊緣閃光可讓螢幕在收到通知時發光。 這樣，當手機處於打盹模式時，就能更容易判斷出何時收到訊息。</string>
-    <string name="pulse_ambient_light_title">側邊閃爍</string>
-    <string name="pulse_ambient_light_summary">顯示通知時使螢幕側邊閃爍</string>
-    <string name="ambient_notification_light_accent_title">系統強調色</string>
-    <string name="ambient_notification_light_color_automatic_title">通知顏色</string>
-    <string name="pulse_ambient_light_color">閃爍時使用</string>
-    <string name="refresh_rate_title">螢幕更新率</string>
-    <string name="refresh_rate_summary_vrr_off">%d Hz</string>
-    <string name="refresh_rate_summary_vrr_on">%d Hz (自適應)</string>
-    <string name="refresh_rate_vrr_title">自適應刷新率</string>
-    <string name="refresh_rate_vrr_summary">當螢幕空閒時自動降低更新率以節省電量，可能會導致某些裝置的螢幕閃爍或色偏。</string>
-    <string name="refresh_rate_footer">更高的刷新率使顯示更流暢，但會增加功耗</string>
-    <string name="keywords_refresh_rate">螢幕更新率、流暢度、60 Hz、90 Hz、120 Hz、144 Hz、165 Hz</string>
-    <string name="notification_vibration_pattern_title">通知震動樣式</string>
-    <string name="ring_vibration_pattern_title">響鈴震動樣式</string>
-    <string name="pattern_default">裝置預設設定</string>
-</resources>
+    <string name="background_processes_settings_title">背景過程</string>
+
+    
+    <string name="smart_charging_title">明智的充電</string>
+    <string name="smart_charging_summary">設置最大充電水平</string>
+    <string name="smart_charging_switch_title">使用智能充電</string>
+    <string name="smart_charging_level_title">停止觸發級別</string>
+    <string name="smart_charging_resume_level_title">啟動觸發級別</string>
+    <string name="smart_charging_footer">明智的充電使您可以設置最大充電水平以延長電池的壽命</string>
+
+    
+    <string name="copied_to_clipboard">複製到剪貼板</string>
+    <string name="longpress_to_clipboard">長壓要復制</string>
+
+    
+    <string name="tethering_allow_vpn_upstreams_title">允許客戶使用VPN</string>
+    <string name="tethering_allow_vpn_upstreams_summary">允許熱點客戶使用此設備的VPN連接進行上游連接</string>
+
+    <string name="category_name_battery_styles">電池樣式</string>
+
+    
+    <string name="status_bar_battery_style_title">電池風格</string>
+    <string name="status_bar_battery_style_icon_portrait">圖標肖像</string>
+    <string name="status_bar_battery_style_circle">圓圈</string>
+    <string name="status_bar_battery_style_text">文字</string>
+    <string name="status_bar_battery_style_landscape">景觀</string>
+    <string name="status_bar_battery_style_landscape_reversed">景觀扭轉</string>
+
+    
+    <string name="status_bar_battery_percentage_title">電池百分比</string>
+    <string name="status_bar_battery_percentage_default">隱</string>
+    <string name="status_bar_battery_percentage_text_inside">在圖標內</string>
+    <string name="status_bar_battery_percentage_text_next">圖標旁邊</string>
+
+    
+    <string name="qti_boost_framework_title">QTI提升框架</string>
+    <string name="qti_boost_framework_summary">在UI任務上應用CPU/GPU提升以減少Jank。需要重新啟動</string>
+
+    
+    <string name="media_art_title">媒體封面藝術</string>
+    <string name="media_art_summary">顯示媒體封面藝術</string>
+
+    
+    <string name="radio_info_title">無線電輸入</string>
+
+    
+    <string name="lockscreen_secure_title">安全電源菜單和快速設置</string>
+    <string name="lockscreen_secure_summary">保護電源菜單和通過身份驗證的安全鎖屏上的快速設置</string>
+
+    
+    </resources>

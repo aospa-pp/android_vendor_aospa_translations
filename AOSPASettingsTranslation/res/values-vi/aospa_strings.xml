@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+     <string name="background_processes_settings_title">Tiến trình nền</string>
+
+    
+    <string name="smart_charging_title">Sạc thông minh</string>
+    <string name="smart_charging_summary">Đặt mức sạc tối đa</string>
+    <string name="smart_charging_switch_title">Sử dụng sạc thông minh</string>
+    <string name="smart_charging_level_title">Dừng mức kích hoạt</string>
+    <string name="smart_charging_resume_level_title">Bắt đầu mức kích hoạt</string>
+    <string name="smart_charging_footer">Sạc thông minh cho phép bạn đặt mức sạc tối đa để kéo dài tuổi thọ của pin</string>
+
+    
+    <string name="copied_to_clipboard">Sao chép vào bảng tạm</string>
+    <string name="longpress_to_clipboard">Ấn lâu để sao chép</string>
+
+    
+    <string name="tethering_allow_vpn_upstreams_title">Cho phép máy khách sử dụng VPN</string>
+    <string name="tethering_allow_vpn_upstreams_summary">Cho phép máy khách sử dụng VPN của thiết bị này để kết nối ngược dòng</string>
+
+    <string name="category_name_battery_styles">Kiểu pin</string>
+
+    
+    <string name="status_bar_battery_style_title">Kiểu pin</string>
+    <string name="status_bar_battery_style_icon_portrait">Đứng</string>
+    <string name="status_bar_battery_style_circle">Tròn</string>
+    <string name="status_bar_battery_style_text">Chữ</string>
+    <string name="status_bar_battery_style_landscape">Ngang</string>
+    <string name="status_bar_battery_style_landscape_reversed">Ngang đảo ngược</string>
+
+    
+    <string name="status_bar_battery_percentage_title">Tỷ lệ pin</string>
+    <string name="status_bar_battery_percentage_default">Ẩn</string>
+    <string name="status_bar_battery_percentage_text_inside">Bên trong biểu tượng</string>
+    <string name="status_bar_battery_percentage_text_next">Bên cạnh biểu tượng</string>
+
+    
+    <string name="qti_boost_framework_title">QTI boost framework</string>
+    <string name="qti_boost_framework_summary">Tăng CPU/GPU trên các tác vụ UI để giảm lag. Khởi động lại là cần thiết</string>
+
+    
+    <string name="media_art_title">Media cover art</string>
+    <string name="media_art_summary">Hiển thị media cover art nếu được</string>
+
+    
+    <string name="three_finger_gesture">Vuốt để chụp màn hình</string>
+    <string name="three_finger_gesture_summary">Vuốt xuống với ba ngón tay để chụp ảnh màn hình</string>
+
+    
+    <string name="radio_info_title">Radio-info</string>
+
+    
+    <string name="lockscreen_secure_title">Bảo vệ menu nguồn và cài đặt nhanh</string>
+    <string name="lockscreen_secure_summary">Xác thực cho menu nguồn và cài đặt nhanh trên màn hình khóa</string>
+
+    
+    </resources>

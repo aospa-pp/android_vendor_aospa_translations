@@ -1,118 +1,55 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Copyright 2016-2023 Paranoid Android
-
-     Licensed under the Apache License, Version 2.0 (the "License");
-     you may not use this file except in compliance with the License.
-     You may obtain a copy of the License at
-
-          http://www.apache.org/licenses/LICENSE-2.0
-
-     Unless required by applicable law or agreed to in writing, software
-     distributed under the License is distributed on an "AS IS" BASIS,
-     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-     See the License for the specific language governing permissions and
-     limitations under the License.
--->
-<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="aospa_version">Paranoid Android versie</string>
-    <string name="dc_dimming_title">DC Dimmen</string>
-    <string name="dc_dimming_info">Vermindert vermoeidheid in lage lichtomstandigheden door het minimaliseren van scherm flikkering. Kan resulteren in lagere beeldkwaliteit en slechte kleurproductie, of hogere energieverbruik.</string>
-    <string name="dc_dimming_main_switch_title">Gebruik DC Dimmen</string>
-    <string name="keywords_display_dc_dimming">dc dimming, anti, flikkering, oog, belasting</string>
-    <string name="adaptive_playback_screen_title">Slimme pauze</string>
-    <string name="adaptive_playback_enabled">Gebruik slimme pauze</string>
-    <string name="adaptive_playback_disabled_summary">UIT</string>
-    <string name="adaptive_playback_intro_text">Pauzeert media automatisch wanneer het volume is gedempt en wordt automatisch hervat wanneer het volume is hersteld binnen de ingestelde tijd.</string>
-    <string name="adaptive_playback_timeout_title">Gebruik een time-out van</string>
-    <string name="adaptive_playback_timeout_none">Geen time-out</string>
-    <string name="adaptive_playback_timeout_none_summary">Aan (geen time-out)</string>
-    <string name="adaptive_playback_timeout_30_secs">30 seconden</string>
-    <string name="adaptive_playback_timeout_30_secs_summary">Aan (30 seconden)</string>
-    <string name="adaptive_playback_timeout_1_min">1 minuut</string>
-    <string name="adaptive_playback_timeout_1_min_summary">Aan (1 minuut)</string>
-    <string name="adaptive_playback_timeout_2_min">2 minuten</string>
-    <string name="adaptive_playback_timeout_2_min_summary">Aan (2 minuten)</string>
-    <string name="adaptive_playback_timeout_5_min">5 minuten</string>
-    <string name="adaptive_playback_timeout_5_min_summary">Aan (5 minuten)</string>
-    <string name="adaptive_playback_timeout_10_min">10 minuten</string>
-    <string name="adaptive_playback_timeout_10_min_summary">Aan (10 minuten)</string>
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
     <string name="three_finger_gesture">Swipe voor schermafbeelding</string>
     <string name="three_finger_gesture_summary">Veeg omlaag met drie vingers om een schermafbeelding te maken</string>
-    <string name="prevent_ringing_option_cycle">Door modi gaan</string>
-    <string name="prevent_ringing_option_cycle_summary">Aan (wissel door modi)</string>
-    <string name="ambient_display_screen_off_udfps_title">Altijd aan vingerafdruk</string>
-    <string name="ambient_display_screen_off_udfps_summary">Ontgrendelen met scherm uit toegestaan.\nInschakelen kan onbedoeld ontwaken veroorzaken.</string>
-    <string name="category_name_refresh_rate_controls">Verversingssnelheid</string>
-    <string name="volume_button_music_control_title">Afspeelbediening</string>
-    <string name="volume_button_music_control_summary">Wanneer het scherm uit is, zal het langdurig drukken op de volume knoppen muzieknummers overslaan</string>
-    <string name="offscreen_gesture_title">Scherm uit gebaren</string>
-    <string name="offscreen_gesture_summary">Teken patronen of tik op het scherm om acties uit te voeren</string>
-    <string name="keywords_gestures">scherm touchscreen tekenen vegen vinger tikken</string>
-    <string name="gestures_master">Scherm-uit gebaren gebruiken</string>
-    <string name="gestures_disabled">Uitgeschakeld</string>
-    <string name="gestures_wake_device">Apparaat ontwaken</string>
-    <string name="gestures_pulse_ambient_display">Puseren naar omgevingsweergave</string>
-    <string name="gestures_toggle_flashlight">Zaklamp aan/uit</string>
-    <string name="gestures_toggle_airplane_mode">Vliegtuigmodus aan/uit</string>
-    <string name="gestures_play_pause_music">Muziek afspelen/pauzeren</string>
-    <string name="gestures_next_music">Volgende nummer</string>
-    <string name="gestures_previous_music">Vorig nummer</string>
-    <string name="gestures_open_camera">Open camera</string>
-    <string name="gestures_open_dialer">Telefoon-app openen</string>
-    <string name="gestures_double_tap">Dubbeltikken</string>
-    <string name="gestures_single_tap">Enkele tik</string>
-    <string name="gestures_draw_v">Teken V</string>
-    <string name="gestures_draw_inverse_v">Teken omgekeerde V</string>
-    <string name="gestures_draw_o">Teken O</string>
-    <string name="gestures_draw_m">Teken M</string>
-    <string name="gestures_draw_w">Teken W</string>
-    <string name="gestures_draw_s">Teken S</string>
-    <string name="gestures_draw_arrow_left">Teken &lt;</string>
-    <string name="gestures_draw_arrow_right">Teken &gt;</string>
-    <string name="gestures_one_finger_swipe_up">Sleep omhoog met één vinger</string>
-    <string name="gestures_one_finger_swipe_right">Sleep rechts met één vinger</string>
-    <string name="gestures_one_finger_swipe_down">Sleep beneden met één vinger</string>
-    <string name="gestures_one_finger_swipe_left">Sleep links met één vinger</string>
-    <string name="gestures_two_finger_swipe">Sleep met twee vingers</string>
-    <string name="screenshot_shutter_sound_title">Screenshot geluid</string>
-    <string name="power_button_torch_title">Snelle zaklamp</string>
-    <string name="power_button_torch_summary">Wanneer het scherm uit is, zal lang drukken op de aan/uit-knop de zaklamp inschakelen</string>
-    <string name="icon_manager_title">Pictogram beheerder</string>
-    <string name="icon_manager_summary">Beheer de zichtbaarheid van de statusbalkpictogrammen</string>
-    <string name="navbar_category">Navigatiebalk</string>
-    <string name="navbar_invert_layout_title">Omkeren navigatiebalk lay-out</string>
-    <string name="navbar_invert_info">Wissel de knoppen \"Terug\" en \"Recents\" op de navigatiebalk</string>
-    <string name="hide_navbar_gesture_bar_title">Verberg gebaren balk</string>
-    <string name="hide_navbar_gesture_bar_summary">Toon gebarenbalk aan de onderkant van het scherm</string>
-    <string name="system_black_theme_title">Use black theme</string>
-    <string name="system_black_theme_summary">Zwarte achtergrondkleuren forceren</string>
-    <string name="charging_control_title">Oplaad controle</string>
-    <string name="charging_control_summary">Laadschema en limieten voor batterij aanpassen</string>
-    <string name="charging_control_enable_title">Oplaadbeheer inschakelen</string>
-    <string name="charging_control_mode_title">Oplaadmodus</string>
-    <string name="charging_control_mode_auto_title">Automatisch schema</string>
-    <string name="charging_control_mode_auto_summary">Bepaal automatisch wanneer moet worden opgeladen op basis van alarmen</string>
-    <string name="charging_control_mode_custom_title">Aangepaste planning</string>
-    <string name="charging_control_mode_custom_summary">Stel een doeltijd in voor volledige lading</string>
-    <string name="charging_control_mode_limit_title">Beperk opladen</string>
-    <string name="charging_control_mode_limit_summary">Beperk de lading tot een bepaald percentage</string>
-    <string name="charging_control_start_time_title">Starttijd</string>
-    <string name="doze_gesture_ambient_title">Toon Ambient</string>
-    <string name="doze_gesture_ambient_summary">Ambient Display weergeven in plaats van het scherm  volledig aan te zetten</string>
-    <string name="gesture_wake_ambient">Toon Ambient</string>
-    <string name="gesture_wake">Volledig ontwaken</string>
-    <string name="color_mode_balance_category">Kleurbalans</string>
-    <string name="color_mode_balance_red">Rood sterkte</string>
-    <string name="color_mode_balance_green">Groen sterkte</string>
-    <string name="color_mode_balance_blue">Blauw sterkte</string>
-    <string name="keywords_color_balance">kleur, kleurbalans, kleurcorrectie, rood, groen, blauw, LiveDisplay</string>
-    <string name="touch_polling_title">Hoge aanraak verversingsfrequentie</string>
-    <string name="touch_polling_summary">Verhoog aanraak verversingsfrequentie om latency te verminderen</string>
-    <string name="display_cutout_force_fullscreen_title">Apps in volledig scherm</string>
-    <string name="display_cutout_force_fullscreen_summary">Forceer apps om notch ruimte te negeren</string>
-    <string name="display_cutout_force_fullscreen_search">Zoeken</string>
-    <string name="display_cutout_force_fullscreen_search_apps">Apps zoeken</string>
-    <string name="notification_vibration_pattern_title">Trilpatroon voor meldingen</string>
-    <string name="ring_vibration_pattern_title">Beltoon trillingspatroon</string>
-    <string name="pattern_default">Apparaatstandaard</string>
-</resources>
+    <string name="background_processes_settings_title">Achtergrondprocessen</string>
+
+    
+    <string name="smart_charging_title">Slim opladen</string>
+    <string name="smart_charging_summary">Stel het maximale laadniveau in</string>
+    <string name="smart_charging_switch_title">Gebruik slim opladen</string>
+    <string name="smart_charging_level_title">Stop trigger -niveau</string>
+    <string name="smart_charging_resume_level_title">Start trigger -niveau</string>
+    <string name="smart_charging_footer">Met Smart Charging kunt u het maximale laadniveau instellen om de levensduur van uw batterij te verlengen</string>
+
+    
+    <string name="copied_to_clipboard">Gekopieerd naar klembord</string>
+    <string name="longpress_to_clipboard">Lange druk om te kopiëren</string>
+
+    
+    <string name="tethering_allow_vpn_upstreams_title">Sta clients toe om VPN\'s te gebruiken</string>
+    <string name="tethering_allow_vpn_upstreams_summary">Sta hotspot -clients toe om VPN -verbindingen van dit apparaat te gebruiken voor stroomopwaartse connectiviteit</string>
+
+    <string name="category_name_battery_styles">Batterijstijlen</string>
+
+    
+    <string name="status_bar_battery_style_title">Batterijstijl</string>
+    <string name="status_bar_battery_style_icon_portrait">Icoonportret</string>
+    <string name="status_bar_battery_style_circle">Cirkel</string>
+    <string name="status_bar_battery_style_text">Tekst</string>
+    <string name="status_bar_battery_style_landscape">Landschap</string>
+    <string name="status_bar_battery_style_landscape_reversed">Landschap omgekeerd</string>
+
+    
+    <string name="status_bar_battery_percentage_title">Batterijpercentage</string>
+    <string name="status_bar_battery_percentage_default">Verborgen</string>
+    <string name="status_bar_battery_percentage_text_inside">In het pictogram</string>
+    <string name="status_bar_battery_percentage_text_next">Naast het pictogram</string>
+
+    
+    <string name="qti_boost_framework_title">Qti boost framework</string>
+    <string name="qti_boost_framework_summary">Pas CPU/GPU -boost toe op UI -taken om Jank te verminderen.Reboot is nodig</string>
+
+    
+    <string name="media_art_title">Media Cover Art</string>
+    <string name="media_art_summary">Geef de media -cover art indien beschikbaar</string>
+
+    
+    <string name="radio_info_title">Radio-info</string>
+
+    
+    <string name="lockscreen_secure_title">Beveilig het power -menu en snelle instellingen</string>
+    <string name="lockscreen_secure_summary">Bescherm het stroommenu en snelle instellingen op beveiligde lockscreen met authenticatie</string>
+
+    
+    </resources>

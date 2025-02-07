@@ -1,104 +1,55 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Copyright 2016-2023 Paranoid Android
-
-     Licensed under the Apache License, Version 2.0 (the "License");
-     you may not use this file except in compliance with the License.
-     You may obtain a copy of the License at
-
-          http://www.apache.org/licenses/LICENSE-2.0
-
-     Unless required by applicable law or agreed to in writing, software
-     distributed under the License is distributed on an "AS IS" BASIS,
-     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-     See the License for the specific language governing permissions and
-     limitations under the License.
--->
-<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="aospa_version">Versi Paranoid Android</string>
-    <string name="dc_dimming_title">DC Dimming</string>
-    <string name="dc_dimming_info">Mengurangi ketegangan mata (eye strain) dalam kondisi cahaya rendah dengan meminimalkan kedipan layar (screen flicker). Dapat mengakibatkan penurunan kualitas gambar dan produksi warna yang buruk, atau konsumsi daya yang lebih tinggi.</string>
-    <string name="dc_dimming_main_switch_title">Gunakan DC Dimming</string>
-    <string name="keywords_display_dc_dimming">DC dimming, anti, flicker, eye, strain</string>
-    <string name="adaptive_playback_screen_title">Smart Pause</string>
-    <string name="adaptive_playback_enabled">Gunakan smart pause</string>
-    <string name="adaptive_playback_disabled_summary">Nonaktif</string>
-    <string name="adaptive_playback_intro_text">Pemutaran Adaptif secara otomatis menjeda media saat volume dimatikan dan akan dilanjutkan secara otomatis saat volume dihidupkan dalam waktu yang ditentukan.</string>
-    <string name="adaptive_playback_timeout_title">Gunakan batas waktu</string>
-    <string name="adaptive_playback_timeout_none">Tanpa batas waktu</string>
-    <string name="adaptive_playback_timeout_none_summary">Aktif (tidak ada batas waktu)</string>
-    <string name="adaptive_playback_timeout_30_secs">30 detik</string>
-    <string name="adaptive_playback_timeout_30_secs_summary">Aktif (30 detik)</string>
-    <string name="adaptive_playback_timeout_1_min">1 menit</string>
-    <string name="adaptive_playback_timeout_1_min_summary">Aktif (1 menit)</string>
-    <string name="adaptive_playback_timeout_2_min">2 menit</string>
-    <string name="adaptive_playback_timeout_2_min_summary">Aktif (2 menit)</string>
-    <string name="adaptive_playback_timeout_5_min">5 menit</string>
-    <string name="adaptive_playback_timeout_5_min_summary">Aktif (5 menit)</string>
-    <string name="adaptive_playback_timeout_10_min">10 menit</string>
-    <string name="adaptive_playback_timeout_10_min_summary">Aktif (10 menit)</string>
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
     <string name="three_finger_gesture">Gesek untuk menangkap layar</string>
     <string name="three_finger_gesture_summary">Geser tiga jari kebawah untuk menangkap layar</string>
-    <string name="prevent_ringing_option_cycle">Melalui mode siklus</string>
-    <string name="prevent_ringing_option_cycle_summary">Aktif (Melalui mode siklus)</string>
-    <string name="ambient_display_screen_off_udfps_title">Sidik Jari Selalu Aktif</string>
-    <string name="ambient_display_screen_off_udfps_summary">Mengizinkan membuka kunci dengan layar mati.\nMengaktifkan ini dapat menyebabkan bangun tanpa disengaja.</string>
-    <string name="category_name_refresh_rate_controls">Refresh Rate</string>
-    <string name="volume_button_music_control_title">Playback kontrol</string>
-    <string name="volume_button_music_control_summary">Saat layar mati, menekan lama tombol volume akan melewatkan trek musik</string>
-    <string name="offscreen_gesture_title">Gestur ketika layar mati</string>
-    <string name="offscreen_gesture_summary">Gambar pola atau ketuk layar untuk melakukan tindakan</string>
-    <string name="keywords_gestures">layar layarsentuh gambar geser jari ketuk</string>
-    <string name="gestures_master">Gunakan gestur layar mati</string>
-    <string name="gestures_disabled">Dinonaktifkan</string>
-    <string name="gestures_wake_device">Bangunkan perangkat</string>
-    <string name="gestures_pulse_ambient_display">Pulse pada ambient display</string>
-    <string name="gestures_toggle_flashlight">Tombol senter</string>
-    <string name="gestures_toggle_airplane_mode">Tombol mode pesawat</string>
-    <string name="gestures_play_pause_music">Putar/Jeda musik</string>
-    <string name="gestures_next_music">Musik berikutnya </string>
-    <string name="gestures_previous_music">Musik sebelumnya</string>
-    <string name="gestures_open_camera">Buka kamera</string>
-    <string name="gestures_open_dialer">Buka dialer telepon</string>
-    <string name="gestures_double_tap">Ketuk dua kali</string>
-    <string name="gestures_single_tap">Ketuk sekali</string>
-    <string name="gestures_draw_v">Gambar V</string>
-    <string name="gestures_draw_inverse_v">Gambar V terbalik</string>
-    <string name="gestures_draw_o">Gambar O</string>
-    <string name="gestures_draw_m">Gambar M</string>
-    <string name="gestures_draw_w">Gambar W</string>
-    <string name="gestures_draw_s">Gambar S</string>
-    <string name="gestures_draw_arrow_left">Gambar &lt;</string>
-    <string name="gestures_draw_arrow_right">Gambar &gt;</string>
-    <string name="gestures_one_finger_swipe_up">Geser keatas satu jari</string>
-    <string name="gestures_one_finger_swipe_right">Geser kekanan satu jari</string>
-    <string name="gestures_one_finger_swipe_down">Geser kebawah satu jari</string>
-    <string name="gestures_one_finger_swipe_left">Geser kekiri satu jari</string>
-    <string name="gestures_two_finger_swipe">Geser dua jari</string>
-    <string name="screenshot_shutter_sound_title">Suara tangkapan layar</string>
-    <string name="power_button_torch_title">Senter cepat</string>
-    <string name="power_button_torch_summary">Saat layar mati, menekan lama tombol daya akan mengaktifkan senter</string>
-    <string name="icon_manager_title">Ikon manager</string>
-    <string name="icon_manager_summary">Kontrol visibilitas ikon bilah status</string>
-    <string name="navbar_invert_layout_title">Balikkan tata letak bilah navigasi</string>
-    <string name="navbar_invert_info">Tukar posisi tombol \"Kembali\" dan tombol \"Terbaru\" di bilah navigasi</string>
-    <string name="system_black_theme_title">Gunakan tema hitam</string>
-    <string name="system_black_theme_summary">Paksa warna latar belakang hitam</string>
-    <string name="doze_gesture_ambient_title">Tampilkan Ambient</string>
-    <string name="doze_gesture_ambient_summary">Tampilkan Tampilan Ambient tanpa sepenuhnya membangunkan layar</string>
-    <string name="gesture_wake_ambient">Tampilkan Ambient</string>
-    <string name="gesture_wake">Bangun sepenuhnya</string>
-    <string name="color_mode_balance_category">Keseimbangan warna</string>
-    <string name="color_mode_balance_red">Kepekatan Merah</string>
-    <string name="color_mode_balance_green">Kepekatan Hijau</string>
-    <string name="color_mode_balance_blue">Kepekatan biru</string>
-    <string name="keywords_color_balance">warna, keseimbangan warna, koreksi warna, merah, hijau, biru, LiveDisplay</string>
-    <string name="touch_polling_title">Tingkat agresivitas sentuhan</string>
-    <string name="touch_polling_summary">Meningkatkan agresivitas sentuhan layar, untuk menurunkan latency</string>
-    <string name="display_cutout_force_fullscreen_title">Full screen apps</string>
-    <string name="display_cutout_force_fullscreen_summary">Paksa aplikasi untuk mengabaikan ruang notch</string>
-    <string name="display_cutout_force_fullscreen_search">Cari</string>
-    <string name="display_cutout_force_fullscreen_search_apps">Cari aplikasi</string>
-    <string name="notification_vibration_pattern_title">Pola getaran notifikasi</string>
-    <string name="ring_vibration_pattern_title">Pola getaran nada dering</string>
-    <string name="pattern_default">Bawaan perangkat</string>
-</resources>
+    <string name="background_processes_settings_title">Proses latar belakang</string>
+
+    
+    <string name="smart_charging_title">Pengisian Cerdas</string>
+    <string name="smart_charging_summary">Atur level pengisian maksimum</string>
+    <string name="smart_charging_switch_title">Gunakan pengisian daya pintar</string>
+    <string name="smart_charging_level_title">Hentikan level pemicu</string>
+    <string name="smart_charging_resume_level_title">Mulai level pemicu</string>
+    <string name="smart_charging_footer">Pengisian Cerdas Memungkinkan Anda Untuk Mengatur Level Pengisian Maksimum Untuk Memperluas Umur Baterai Anda</string>
+
+    
+    <string name="copied_to_clipboard">Disalin ke clipboard</string>
+    <string name="longpress_to_clipboard">Press panjang untuk disalin</string>
+
+    
+    <string name="tethering_allow_vpn_upstreams_title">Izinkan klien untuk menggunakan VPN</string>
+    <string name="tethering_allow_vpn_upstreams_summary">Izin klien hotspot untuk menggunakan koneksi VPN perangkat ini untuk konektivitas hulu</string>
+
+    <string name="category_name_battery_styles">Gaya baterai</string>
+
+    
+    <string name="status_bar_battery_style_title">Gaya baterai</string>
+    <string name="status_bar_battery_style_icon_portrait">Potret ikon</string>
+    <string name="status_bar_battery_style_circle">Lingkaran</string>
+    <string name="status_bar_battery_style_text">Teks</string>
+    <string name="status_bar_battery_style_landscape">Lanskap</string>
+    <string name="status_bar_battery_style_landscape_reversed">Lansekap terbalik</string>
+
+    
+    <string name="status_bar_battery_percentage_title">Persentase baterai</string>
+    <string name="status_bar_battery_percentage_default">Tersembunyi</string>
+    <string name="status_bar_battery_percentage_text_inside">Di dalam ikon</string>
+    <string name="status_bar_battery_percentage_text_next">Di sebelah ikon</string>
+
+    
+    <string name="qti_boost_framework_title">QTI Boost Framework</string>
+    <string name="qti_boost_framework_summary">Oleskan Boost CPU/GPU pada tugas UI untuk mengurangi jank.Diperlukan reboot</string>
+
+    
+    <string name="media_art_title">Art sampul media</string>
+    <string name="media_art_summary">Menampilkan sampul seni media bila tersedia</string>
+
+    
+    <string name="radio_info_title">Radio-Info</string>
+
+    
+    <string name="lockscreen_secure_title">Lindungi Menu Daya dan Pengaturan Cepat</string>
+    <string name="lockscreen_secure_summary">Otentikasi untuk Menu Daya dan Pengaturan Cepat di Lockscreen</string>
+
+    
+    </resources>
