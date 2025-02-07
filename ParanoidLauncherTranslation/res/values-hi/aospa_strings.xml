@@ -1,33 +1,173 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!--
-/*
-* Copyright (C) 2022 Paranoid Android
-*
-* Licensed under the Apache License, Version 2.0 (the "License");
-* you may not use this file except in compliance with the License.
-* You may obtain a copy of the License at
-*
-*      http://www.apache.org/licenses/LICENSE-2.0
-*
-* Unless required by applicable law or agreed to in writing, software
-* distributed under the License is distributed on an "AS IS" BASIS,
-* WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-* See the License for the specific language governing permissions and
-* limitations under the License.
-*/
--->
+<?xml version='1.0' encoding='utf-8'?>
 <resources>
-    <string name="title_show_google_feed">Google फ़ीड देखने के लिए स्वाइप करे </string>
     <string name="msg_minus_one_on_left">होम स्क्रीन से Google फ़ीड देखेने के लिए बाइए से स्वाइप करे </string>
     <string name="msg_minus_one_on_right">होम स्क्रीन से Google फ़ीड देखेने के लिए दाहिने ओर से स्वाइप करे </string>
-    <string name="pref_dt_gesture_title">स्लीप के लिए दो बार दबाए</string>
-    <string name="pref_dt_gesture_summary">स्क्रीन ऑफ करे ने लिए खाली जगह पर दो बार दबाए</string>
     <string name="suggestion_pref_screen_title">सुझाव</string>
     <string name="suggestion_pref_screen_desc">सभी ऐप्स और होम स्क्रीन सुझावों के लिए</string>
     <string name="settings_lock_layout_title">लेआउट लॉक करें</string>
     <string name="settings_lock_layout_summary_on">आइकंस और विजेट्स को होमस्क्रीन पर जोड़ा, हटाया और हिलाया नहीं जा सकता है</string>
     <string name="settings_lock_layout_summary_off">आइकंस और विजेट्स को होमस्क्रीन पर जोड़ा, हटाया और हिलाया जा सकता है</string>
     <string name="settings_edit_widgets_error">होमस्क्रीन पर विजेट्स जोड़ना संभव नहीं है</string>
-    <string name="desktop_show_labels">होम स्क्रीन पर आइकन के लेबल दिखाएं</string>
-    <string name="drawer_show_labels">ड्रॉअर में आइकन के लेबल दिखाएं</string>
+    <string name="settings_title">घर की सेटिंग</string>
+
+    
+    <string name="home_category_title">होम स्क्रीन</string>
+    <string name="home_category_summary">Google नाउ पैनल और बहुत कुछ सेट करें</string>
+    <string name="icons_category_title">माउस</string>
+    <string name="icons_category_summary">आइकन आकार और अधिक सेट करें</string>
+    <string name="app_drawer_category_title">एप्लिकेशन बनाने वाला</string>
+    <string name="app_drawer_category_summary">अपने ऐप दराज को अनुकूलित करें</string>
+    <string name="recents_category_title">हाल ही का</string>
+    <string name="recents_category_summary">अवलोकन स्क्रीन को फिर से तैयार करें</string>
+    <string name="misc_category_title">मिश्रित</string>
+    <string name="misc_category_summary">अन्य विकल्प</string>
+    <string name="general_category_title">सामान्य</string>
+    <string name="interface_category_title">इंटरफ़ेस</string>
+    <string name="search_bar_category_title">खोज पट्टी</string>
+    <string name="actions_category_title">त्वरित क्रियाएं</string>
+    <string name="quickspace_category_title">एक नज़र में</string>
+
+    
+    <string name="dev_options_title">डेवलपर विकल्प</string>
+    <string name="dev_options_summary">अपने जोखिम पर कुछ छिपी हुई सुविधाओं को सक्षम करें</string>
+
+    
+    <string name="title_desktop_labels">डेस्कटॉप लेबल</string>
+    <string name="summary_desktop_labels">डेस्कटॉप पर आइकन लेबल दिखाएं</string>
+    <string name="title_drawer_labels">दराज के लेबल</string>
+    <string name="summary_drawer_labels">दराज में आइकन लेबल दिखाएं</string>
+
+    
+    <string name="title_show_google_app">Google ऐप तक पहुँचने के लिए स्वाइप करें</string>
+    <string name="pref_themed_icons_title">थीम्ड आइकन</string>
+    <string name="pref_themed_icons_summary">होम स्क्रीन पर उपयोग किए गए थीम वाले आइकन का पालन करें</string>
+
+    
+    <string name="trust_apps_manager_name">छिपे हुए और संरक्षित ऐप्स</string>
+    <string name="trust_apps_auth_manager">छिपे हुए और संरक्षित ऐप्स को प्रबंधित करने के लिए अनलॉक करें</string>
+    <string name="trust_apps_auth_open_app">%1$s खोलने के लिए प्रमाणित करें</string>
+    <string name="trust_apps_loading">लोड हो रहा है \ u2026</string>
+    <string name="trust_apps_no_lock_error">कृपया ऐप एक्सेस को प्रतिबंधित करने के लिए एक सुरक्षित लॉक स्क्रीन सेट करें</string>
+    <string name="trust_apps_help">मदद</string>
+    <string name="trust_apps_info_hidden">छिपे हुए ऐप्स और उनके विजेट दराज से छिपे हुए हैं</string>
+    <string name="trust_apps_info_protected">संरक्षित ऐप्स को लॉन्चर से खोले जाने वाले प्रमाणीकरण की आवश्यकता होती है</string>
+    
+    
+    <string name="pref_restart_title">पुनः आरंभ करें</string>
+    <string name="pref_restart_summary">किसी भी लंबित सेटिंग्स को लागू करने के लिए मैन्युअल रूप से लॉन्चर को पुनरारंभ करें</string>
+    <string name="restarting_launcher">लॉन्चर को पुनरारंभ करना…</string>
+    <string name="restarting_launcher_changes">परिवर्तन लागू करने के लिए लॉन्चर को पुनरारंभ करना…</string>
+    <string name="updating_launcher_components">लॉन्चर घटकों को अपडेट करने के लिए लॉन्चर को पुनरारंभ करना…</string>
+
+    
+    <string name="icon_size_title">प्रतीक आकार</string>
+
+    
+    <string name="font_size_title">फ़ॉन्ट आकार</string>
+
+    
+    <string name="label_search">खोज</string>
+    <string name="label_lens">Google Lens</string>
+    <string name="label_voice_search">आवाज खोज</string>
+    <string name="dock_search_title">Google खोज बार</string>
+    <string name="dock_search_summary">नीचे गोदी में खोज बार</string>
+
+    
+    <string name="recent_task_option_kill_app">ज़बर्दस्ती बंद करना</string>
+    <string name="recents_app_killed">ऐप बंद</string>
+
+    
+    <string name="hotseat_bg_title">हॉटसीट पृष्ठभूमि</string>
+    <string name="hotseat_bg_summary">ऐप डॉक में पारभासी पृष्ठभूमि जोड़ें</string>
+
+    
+    <string name="allow_wallpaper_scrolling">वॉलपेपर स्क्रॉलिंग</string>
+    <string name="allow_wallpaper_scrolling_summary">कई स्क्रीन के लिए वॉलपेपर स्क्रॉलिंग प्रभाव</string>
+
+    
+    <string name="allow_wallpaper_zooming">वॉलपेपर ज़ूमिंग</string>
+    <string name="allow_wallpaper_zooming_summary">दराज या हाल के ऐप्स का उपयोग करते समय वॉलपेपर में या बाहर ज़ूम करें</string>
+
+    
+    <string name="show_statusbar_title">शो स्टेटस बार</string>
+    <string name="show_statusbar_summary">होम स्क्रीन पर स्टेटस बार दिखाएं</string>
+
+    
+    <string name="show_top_shadow_title">शीर्ष छाया दिखाओ</string>
+    <string name="show_top_shadow_summary">स्थिति पट्टी के नीचे छाया जोड़ें</string>
+    
+    
+    <string name="background_blur_title">पृष्ठभूमि धब्बा गहराई</string>
+    <string name="background_blur_summary">रिकेंट्स और ऐप ड्रॉअर के लिए ब्लर डेप्थ लेवल सेट करें</string>
+
+    
+    <string name="background_opacity_title">पृष्ठभूमि अस्पष्टता</string>
+
+    
+    <string name="pref_sleep_gesture_title">सोने के लिए डबल टैप</string>
+    <string name="pref_sleep_gesture_summary">स्क्रीन ऑफ के लिए खाली जगह पर डबल टैप करें</string>
+
+    
+    <string name="recents_chips_title">कॉम्पैक्ट एक्शन डिज़ाइन का उपयोग करें</string>
+    <string name="recents_chips_summary">प्रदर्शित करने के लिए बड़ी संख्या में कार्यों के लिए आवश्यक हो सकता है</string>
+    <string name="recents_screenshot_title">स्क्रीनशॉट</string>
+    <string name="recents_clear_all_title">सभी साफ करें</string>
+    <string name="recents_lens_title">लेंस</string>
+
+    
+    <string name="meminfo_text">%1$s उपलब्ध | %2$s</string>
+    <string name="recents_meminfo_title">स्मृति की जानकारी</string>
+
+    
+    <string name="drawer_search_title">ऐप सर्च बार</string>
+    <string name="drawer_search_summary">ऐप दराज के शीर्ष पर बार खोजें</string>
+
+    
+    <string name="short_parallax_title">लघु लंबन की अनुमति दें</string>
+    <string name="short_parallax_summary">वॉलपेपर को क्रॉप करने के बजाय पृष्ठों की छोटी संख्या पर पूर्ण वॉलपेपर स्क्रॉल प्रभाव सक्षम करें</string>
+    <string name="single_page_center_title">एकल पृष्ठ केंद्र</string>
+    <string name="single_page_center_summary">केंद्र वॉलपेपर यदि केवल एक पृष्ठ का उपयोग कर रहा है</string>
+
+    
+    <string name="perf_dark_status_bar_title">डार्क स्टेटस बार</string>
+    <string name="perf_dark_status_bar_summary">होम स्क्रीन पर डार्क स्टेटस बार का उपयोग करें</string>
+
+    
+    <string name="pref_scroll_vibration_title">स्क्रॉल कंपन</string>
+    <string name="pref_scroll_vibration_summary">यदि समर्थित है, तो हाल के ऐप्स के माध्यम से स्क्रॉल करते समय हैप्टिक प्रतिक्रिया</string>
+
+    
+    <string name="pref_force_monochrome_themed_icons_title">बल पर आधारित आइकन</string>
+    <string name="pref_force_monochrome_themed_icons_summary">उन ऐप्स के लिए थीम्ड आइकन उत्पन्न करें जिनमें एक नहीं है (थीम्ड आइकन की फिर से जुड़ने की आवश्यकता है)</string>
+
+    
+    <string name="icon_pack_title">आइकन पैक</string>
+    <string name="icon_pack_default_label">गलती करना</string>
+    <string name="icon_pack_add">अधिक स्थापित करें</string>
+    <string name="icon_pack_no_market">कोई उपलब्ध ऐप स्टोर नहीं है</string>
+
+    
+    <string name="pref_auto_keyboard_title">ऑटो कीबोर्ड</string>
+    <string name="pref_auto_keyboard_summary">दराज का विस्तार होने पर खोजना शुरू करें</string>
+
+    
+    <string name="smartspace_pref_title">एक नज़र में</string>
+    <string name="smartspace_pref_summary">होम स्क्रीन के शीर्ष पर स्मार्टस्पेस दिखाएं</string>
+
+    
+    <string name="pref_allow_cts_title">खोज करने के लिए सर्कल</string>
+    <string name="pref_allow_cts_summary">अपनी स्क्रीन पर सामग्री का उपयोग करके खोज करने के लिए होम बटन या नेविगेशन हैंडल को स्पर्श करें और दबाए रखें।</string>
+
+    
+    <string name="widget_category_battery">बैटरी</string>
+
+    
+    <string name="widget_category_weather">मौसम</string>
+
+    
+    <string name="dock_music_search_title">संगीत खोज</string>
+    <string name="dock_music_search_summary">माइक आइकन दबाने पर संगीत खोज शुरू करें</string>
+
+    
+    <string name="floating_window">चल</string>
 </resources>

@@ -1,38 +1,13 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!--
-/*
-* Copyright (C) 2022 Paranoid Android
-*
-* Licensed under the Apache License, Version 2.0 (the "License");
-* you may not use this file except in compliance with the License.
-* You may obtain a copy of the License at
-*
-*      http://www.apache.org/licenses/LICENSE-2.0
-*
-* Unless required by applicable law or agreed to in writing, software
-* distributed under the License is distributed on an "AS IS" BASIS,
-* WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-* See the License for the specific language governing permissions and
-* limitations under the License.
-*/
--->
+<?xml version='1.0' encoding='utf-8'?>
 <resources>
-    <string name="title_show_google_feed">スワイプで Google フィードにアクセス</string>
     <string name="msg_minus_one_on_left">ホーム画面から左にスワイプして Google フィードを開きます</string>
     <string name="msg_minus_one_on_right">ホーム画面から右にスワイプして Google フィードを開きます</string>
-    <string name="pref_dt_gesture_title">ダブルタップでスリープ</string>
-    <string name="pref_dt_gesture_summary">空いているスペースをダブルタップで画面を消灯します</string>
     <string name="suggestion_pref_screen_title">候補</string>
     <string name="suggestion_pref_screen_desc">すべてのアプリとホーム画面の候補</string>
     <string name="settings_lock_layout_title">レイアウトを固定</string>
     <string name="settings_lock_layout_summary_on">ホーム画面上でアイコンやウィジェットの追加、削除、移動ができません</string>
     <string name="settings_lock_layout_summary_off">ホーム画面上でアイコンやウィジェットの追加、削除、移動ができます</string>
     <string name="settings_edit_widgets_error">ウィジェットをホーム画面に追加できません</string>
-    <string name="desktop_show_labels">デスクトップでアイコンラベルを表示する</string>
-    <string name="drawer_show_labels">ドロワーでアイコンラベルを表示する</string>
-    <string name="category_google">Google</string>
-    <string name="category_icon">アイコン</string>
-    <string name="category_recents">最近</string>
     <string name="label_search">検索</string>
     <string name="label_lens">Google レンズ</string>
     <string name="label_voice_search">音声検索</string>
@@ -43,4 +18,150 @@
     <string name="recents_lens_title">レンズ</string>
     <string name="smartspace_pref_title">At A Glance</string>
     <string name="smartspace_pref_summary">ホーム画面上部にスマートスペースを表示します</string>
+    <string name="settings_title">ホーム設定</string>
+
+    
+    <string name="home_category_title">ホーム画面</string>
+    <string name="home_category_summary">Googleを今すぐ設定してパネルなどを設定します</string>
+    <string name="icons_category_title">アイコン</string>
+    <string name="icons_category_summary">アイコンサイズなどを設定します</string>
+    <string name="app_drawer_category_title">アプリドロワー</string>
+    <string name="app_drawer_category_summary">アプリの引き出しをカスタマイズします</string>
+    <string name="recents_category_title">最近の</string>
+    <string name="recents_category_summary">概要画面を刷新します</string>
+    <string name="misc_category_title">その他</string>
+    <string name="misc_category_summary">その他のオプション</string>
+    <string name="general_category_title">一般的な</string>
+    <string name="interface_category_title">インタフェース</string>
+    <string name="search_bar_category_title">検索バー</string>
+    <string name="actions_category_title">クイックアクション</string>
+    <string name="quickspace_category_title">一目で</string>
+
+    
+    <string name="dev_options_title">開発者オプション</string>
+    <string name="dev_options_summary">あなた自身の責任でいくつかの隠された機能を有効にしてください</string>
+
+    
+    <string name="title_desktop_labels">デスクトップラベル</string>
+    <string name="summary_desktop_labels">デスクトップにアイコンラベルを表示します</string>
+    <string name="title_drawer_labels">引き出しラベル</string>
+    <string name="summary_drawer_labels">引き出しにアイコンラベルを表示します</string>
+
+    
+    <string name="title_show_google_app">スワイプGoogleアプリにアクセスします</string>
+    <string name="pref_themed_icons_title">テーマアイコン</string>
+    <string name="pref_themed_icons_summary">ホーム画面で使用されるテーマアイコンに従います</string>
+
+    
+    <string name="trust_apps_manager_name">隠された保護されたアプリ</string>
+    <string name="trust_apps_auth_manager">非表示および保護されたアプリを管理するためにロックを解除します</string>
+    <string name="trust_apps_auth_open_app">オープン%1$sに認証</string>
+    <string name="trust_apps_loading">ロード\ u2026</string>
+    <string name="trust_apps_no_lock_error">アプリアクセスを制限するために、安全なロック画面を設定してください</string>
+    <string name="trust_apps_help">ヘルプ</string>
+    <string name="trust_apps_info_hidden">隠されたアプリとそのウィジェットは引き出しから隠されています</string>
+    <string name="trust_apps_info_protected">保護されたアプリは、発射装置から認証を開く必要があります</string>
+    
+    
+    <string name="pref_restart_title">再起動</string>
+    <string name="pref_restart_summary">ランチャーを手動で再起動して、保留中の設定を適用します</string>
+    <string name="restarting_launcher">ランチャーの再起動…</string>
+    <string name="restarting_launcher_changes">変更を適用するためにランチャーを再起動します…</string>
+    <string name="updating_launcher_components">ランチャーを再起動してランチャーコンポーネントを更新します…</string>
+
+    
+    <string name="icon_size_title">アイコンサイズ</string>
+
+    
+    <string name="font_size_title">フォントサイズ</string>
+
+    
+    <string name="recent_task_option_kill_app">強制的に閉じます</string>
+    <string name="recents_app_killed">アプリは閉じました</string>
+
+    
+    <string name="hotseat_bg_title">ホットシートの背景</string>
+    <string name="hotseat_bg_summary">アプリドックに半透明の背景を追加します</string>
+
+    
+    <string name="allow_wallpaper_scrolling">壁紙スクロール</string>
+    <string name="allow_wallpaper_scrolling_summary">複数の画面の壁紙スクロール効果</string>
+
+    
+    <string name="allow_wallpaper_zooming">壁紙ズーム</string>
+    <string name="allow_wallpaper_zooming_summary">引き出しまたは最近のアプリを使用するときに壁紙を拡大または外に出します</string>
+
+    
+    <string name="show_statusbar_title">ステータスバーを表示します</string>
+    <string name="show_statusbar_summary">ホーム画面にステータスバーを表示します</string>
+
+    
+    <string name="show_top_shadow_title">トップシャドウを表示します</string>
+    <string name="show_top_shadow_summary">ステータスバーの下に影を追加します</string>
+    
+    
+    <string name="background_blur_title">背景のぼかし深さ</string>
+    <string name="background_blur_summary">リコンとアプリの引き出しにぼやけの深さレベルを設定します</string>
+
+    
+    <string name="background_opacity_title">背景の不透明度</string>
+
+    
+    <string name="pref_sleep_gesture_title">ダブルタップしてスリープします</string>
+    <string name="pref_sleep_gesture_summary">画面をオフにするための空きスペースをダブルタップします</string>
+
+    
+    <string name="recents_chips_title">コンパクトアクションデザインを使用します</string>
+    <string name="recents_chips_summary">多数のアクションが表示されるために必要になる場合があります</string>
+    <string name="meminfo_text">%1$s 利用可能 | %2$s</string>
+    <string name="recents_meminfo_title">メモリ情報</string>
+
+    
+    <string name="drawer_search_title">アプリ検索バー</string>
+    <string name="drawer_search_summary">アプリの引き出しの上にある検索バー</string>
+
+    
+    <string name="short_parallax_title">短い視差を許可します</string>
+    <string name="short_parallax_summary">壁紙をトリミングする代わりに、少数のページに完全な壁紙スクロール効果を有効にする</string>
+    <string name="single_page_center_title">シングルページセンター</string>
+    <string name="single_page_center_summary">単一ページのみを使用する場合は、中央の壁紙</string>
+
+    
+    <string name="perf_dark_status_bar_title">暗いステータスバー</string>
+    <string name="perf_dark_status_bar_summary">ホーム画面でダークステータスバーを使用します</string>
+
+    
+    <string name="pref_scroll_vibration_title">振動をスクロールします</string>
+    <string name="pref_scroll_vibration_summary">サポートされている場合、最近のアプリをスクロールしながら触覚フィードバック</string>
+
+    
+    <string name="pref_force_monochrome_themed_icons_title">強制テーマアイコン</string>
+    <string name="pref_force_monochrome_themed_icons_summary">1つのないアプリのテーマアイコンを生成します（テーマアイコンの再集計が必要です）</string>
+
+    
+    <string name="icon_pack_title">アイコンパック</string>
+    <string name="icon_pack_default_label">デフォルト</string>
+    <string name="icon_pack_add">もっとインストールします</string>
+    <string name="icon_pack_no_market">利用可能なアプリストアはありません</string>
+
+    
+    <string name="pref_auto_keyboard_title">自動キーボード</string>
+    <string name="pref_auto_keyboard_summary">引き出しが拡張されたら検索を開始します</string>
+
+    
+    <string name="pref_allow_cts_title">検索するサークル</string>
+    <string name="pref_allow_cts_summary">画面上のコンテンツを使用して、ホームボタンまたはナビゲーションハンドルをタッチして保持して検索します。</string>
+
+    
+    <string name="widget_category_battery">バッテリー</string>
+
+    
+    <string name="widget_category_weather">天気</string>
+
+    
+    <string name="dock_music_search_title">音楽検索</string>
+    <string name="dock_music_search_summary">マイクアイコンを押して音楽検索を開始します</string>
+
+    
+    <string name="floating_window">フローティング</string>
 </resources>

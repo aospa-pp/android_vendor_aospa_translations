@@ -1,35 +1,11 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!--
-/*
-* Copyright (C) 2022 Paranoid Android
-*
-* Licensed under the Apache License, Version 2.0 (the "License");
-* you may not use this file except in compliance with the License.
-* You may obtain a copy of the License at
-*
-*      http://www.apache.org/licenses/LICENSE-2.0
-*
-* Unless required by applicable law or agreed to in writing, software
-* distributed under the License is distributed on an "AS IS" BASIS,
-* WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-* See the License for the specific language governing permissions and
-* limitations under the License.
-*/
--->
+<?xml version='1.0' encoding='utf-8'?>
 <resources>
-    <string name="title_show_google_feed">Svep för att komma åt Google-flöde</string>
-    <string name="pref_dt_gesture_title">Dubbeltryck för att släcka</string>
-    <string name="pref_dt_gesture_summary">Dubbeltryck på tomt utrymme för att stänga av skärmen</string>
     <string name="suggestion_pref_screen_title">Förslag</string>
     <string name="suggestion_pref_screen_desc">För alla appar &amp; Förslag på startskärmen</string>
     <string name="settings_lock_layout_title">Lås layout</string>
     <string name="settings_lock_layout_summary_on">Ikoner och widgetar kan varken läggas till, tas bort eller flyttas omkring på hemskärmen</string>
     <string name="settings_lock_layout_summary_off">Ikoner och widgetar kan läggas till, tas bort och flyttas på hemskärmen</string>
     <string name="settings_edit_widgets_error">Det går inte att lägga till widgetar på startskärmen</string>
-    <string name="desktop_show_labels">Visa ikonetiketter på skrivbordet</string>
-    <string name="drawer_show_labels">Visa ikonetiketter i applistan</string>
-    <string name="category_google">Google</string>
-    <string name="category_icon">Ikoner</string>
     <string name="label_search">Sök</string>
     <string name="label_lens">Google Lens</string>
     <string name="label_voice_search">Röstsökning</string>
@@ -37,4 +13,160 @@
     <string name="recents_lens_title">Lens</string>
     <string name="smartspace_pref_title">Överblick</string>
     <string name="smartspace_pref_summary">Visa smartspace högst upp på startskärmen</string>
+    <string name="settings_title">Heminställningar</string>
+
+    
+    <string name="home_category_title">Hemskärm</string>
+    <string name="home_category_summary">Ställ in Google Now -panelen och mer</string>
+    <string name="icons_category_title">Ikoner</string>
+    <string name="icons_category_summary">Ställ in ikonstorlek och mer</string>
+    <string name="app_drawer_category_title">Applåda</string>
+    <string name="app_drawer_category_summary">Anpassa din applåda</string>
+    <string name="recents_category_title">Ny</string>
+    <string name="recents_category_summary">Förbättra över översiktsskärmen</string>
+    <string name="misc_category_title">Diverse</string>
+    <string name="misc_category_summary">Andra alternativ</string>
+    <string name="general_category_title">Allmän</string>
+    <string name="interface_category_title">Gränssnitt</string>
+    <string name="search_bar_category_title">Sökfält</string>
+    <string name="actions_category_title">Snabbåtgärder</string>
+    <string name="quickspace_category_title">I en överblick</string>
+
+    
+    <string name="dev_options_title">Utvecklaralternativ</string>
+    <string name="dev_options_summary">Aktivera några dolda funktioner på din egen risk</string>
+
+    
+    <string name="title_desktop_labels">Skrivbordsetiketter</string>
+    <string name="summary_desktop_labels">Visa ikonetiketter på skrivbordet</string>
+    <string name="title_drawer_labels">Lådetiketter</string>
+    <string name="summary_drawer_labels">Visa ikonetiketter i låda</string>
+
+    
+    <string name="title_show_google_app">Svep för att komma åt Google -appen</string>
+    <string name="msg_minus_one_on_left">När du sveper direkt från huvudskärmen</string>
+    
+    <string name="msg_minus_one_on_right">När du sveper åt vänster från huvudskärmen</string>
+
+    
+    <string name="pref_themed_icons_title">Temasikoner</string>
+    <string name="pref_themed_icons_summary">Följ temasikoner som används på hemskärmen</string>
+
+    
+    <string name="trust_apps_manager_name">Dolda och skyddade appar</string>
+    <string name="trust_apps_auth_manager">Lås upp för att hantera de dolda och skyddade apparna</string>
+    <string name="trust_apps_auth_open_app">Autentisera för att öppna %1$s</string>
+    <string name="trust_apps_loading">Laddar \ u2026</string>
+    <string name="trust_apps_no_lock_error">Ställ in en säker låsskärm för att begränsa appåtkomst</string>
+    <string name="trust_apps_help">Hjälp</string>
+    <string name="trust_apps_info_hidden">Dolda appar och deras widgetar är dolda för lådan</string>
+    <string name="trust_apps_info_protected">Skyddade appar kräver autentisering för att öppnas från starten</string>
+    
+    
+    <string name="pref_restart_title">Starta om</string>
+    <string name="pref_restart_summary">Starta om starten manuellt för att tillämpa eventuella väntande inställningar</string>
+    <string name="restarting_launcher">Starta om lansering…</string>
+    <string name="restarting_launcher_changes">Starta om start för att tillämpa ändringar…</string>
+    <string name="updating_launcher_components">Starta om start för att uppdatera startkomponenter…</string>
+
+    
+    <string name="icon_size_title">Ikonstorlek</string>
+
+    
+    <string name="font_size_title">Fontstorlek</string>
+
+    
+    <string name="dock_search_summary">Sökfält i bottenbryggan</string>
+
+    
+    <string name="recent_task_option_kill_app">Stänga av</string>
+    <string name="recents_app_killed">App stängt</string>
+
+    
+    <string name="hotseat_bg_title">HOTSEAT BAKGRUND</string>
+    <string name="hotseat_bg_summary">Lägg till genomskinlig bakgrund till appdockan</string>
+
+    
+    <string name="allow_wallpaper_scrolling">Tapetrullning</string>
+    <string name="allow_wallpaper_scrolling_summary">Tapetrulleffekt för flera skärmar</string>
+
+    
+    <string name="allow_wallpaper_zooming">Tapetzoomning</string>
+    <string name="allow_wallpaper_zooming_summary">Zooma in eller ut tapeten när du använder låda eller senaste appar</string>
+
+    
+    <string name="show_statusbar_title">Visa statusfält</string>
+    <string name="show_statusbar_summary">Visa statusfält på hemskärmen</string>
+
+    
+    <string name="show_top_shadow_title">Visa toppskugga</string>
+    <string name="show_top_shadow_summary">Lägg till skugga under statusfältet</string>
+    
+    
+    <string name="background_blur_title">Bakgrundssuddighetsdjup</string>
+    <string name="background_blur_summary">Ställ in oskärpa djupnivå för recenter och applåda</string>
+
+    
+    <string name="background_opacity_title">Bakgrundspacitet</string>
+
+    
+    <string name="pref_sleep_gesture_title">Dubbeltryck för att sova</string>
+    <string name="pref_sleep_gesture_summary">Dubbelklicka på tomt utrymme för skärm av</string>
+
+    
+    <string name="recents_chips_title">Använd Compact Action Design</string>
+    <string name="recents_chips_summary">Kan krävas för att ett stort antal åtgärder ska visas</string>
+    <string name="recents_screenshot_title">Skärmdump</string>
+    <string name="recents_clear_all_title">Rensar alla</string>
+    <string name="meminfo_text">%1$s tillgänglig | %2$s</string>
+    <string name="recents_meminfo_title">Minnesinfo</string>
+
+    
+    <string name="drawer_search_title">Appsökningsfält</string>
+    <string name="drawer_search_summary">Sökfält ovanpå applådan</string>
+
+    
+    <string name="short_parallax_title">Tillåt kort parallax</string>
+    <string name="short_parallax_summary">Aktivera full tapetens rullningseffekt på mindre antal sidor istället för att beskära tapeten</string>
+    <string name="single_page_center_title">Enda sidcentrum</string>
+    <string name="single_page_center_summary">Center tapet om bara använder en enda sida</string>
+
+    
+    <string name="perf_dark_status_bar_title">Mörk statusfält</string>
+    <string name="perf_dark_status_bar_summary">Använd mörk statusfält på hemskärmen</string>
+
+    
+    <string name="pref_scroll_vibration_title">Rullningsvibration</string>
+    <string name="pref_scroll_vibration_summary">Haptisk feedback när du bläddrar igenom de senaste apparna, om det stöds</string>
+
+    
+    <string name="pref_force_monochrome_themed_icons_title">Tvinga temasikoner</string>
+    <string name="pref_force_monochrome_themed_icons_summary">Generera temasikon för appar som inte har en (kräver omslagning av temasikoner)</string>
+
+    
+    <string name="icon_pack_title">Ikonpaket</string>
+    <string name="icon_pack_default_label">Standard</string>
+    <string name="icon_pack_add">Installera mer</string>
+    <string name="icon_pack_no_market">Det finns ingen tillgänglig App Store</string>
+
+    
+    <string name="pref_auto_keyboard_title">Biltangentbord</string>
+    <string name="pref_auto_keyboard_summary">Börja söka när lådan utvidgas</string>
+
+    
+    <string name="pref_allow_cts_title">Cirkel till sökning</string>
+    <string name="pref_allow_cts_summary">Tryck på och håll hemknappen eller navigeringshandtaget för att söka med innehållet på skärmen.</string>
+
+    
+    <string name="widget_category_battery">Batteri</string>
+
+    
+    <string name="widget_category_weather">Väder</string>
+
+    
+    <string name="dock_music_search_title">Musiksökning</string>
+    <string name="dock_music_search_summary">Starta musiksökning på pressande mikroikon</string>
+
+    
+    <string name="floating_window">Flytande</string>
 </resources>

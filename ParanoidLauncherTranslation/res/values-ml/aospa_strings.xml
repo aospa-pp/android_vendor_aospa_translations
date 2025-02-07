@@ -1,35 +1,11 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!--
-/*
-* Copyright (C) 2022 Paranoid Android
-*
-* Licensed under the Apache License, Version 2.0 (the "License");
-* you may not use this file except in compliance with the License.
-* You may obtain a copy of the License at
-*
-*      http://www.apache.org/licenses/LICENSE-2.0
-*
-* Unless required by applicable law or agreed to in writing, software
-* distributed under the License is distributed on an "AS IS" BASIS,
-* WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-* See the License for the specific language governing permissions and
-* limitations under the License.
-*/
--->
+<?xml version='1.0' encoding='utf-8'?>
 <resources>
-    <string name="title_show_google_feed">ഗൂഗിൾ ഫീഡ് എടുക്കാൻ സ്വൈപ് ചെയ്യുക.</string>
-    <string name="pref_dt_gesture_title">നിഷ്ക്രിയമാക്കുന്നതിന് രണ്ടു വെട്ടം അമർത്തുക</string>
-    <string name="pref_dt_gesture_summary">സ്‌ക്രീൻ ഓഫിനായി ശൂന്യമായ സ്ഥലത്ത് രണ്ടു വെട്ടം ടാപ്പ് ചെയ്യുക</string>
     <string name="suggestion_pref_screen_title">നിര്‍ദ്ദേശങ്ങൾ</string>
     <string name="suggestion_pref_screen_desc">എല്ലാ ആപ്പുകൾക്കും &amp; ഹോം സ്‌ക്രീൻ നിർദ്ദേശങ്ങൾക്കും</string>
     <string name="settings_lock_layout_title">ലോക്ക് രേഖാചിത്രം</string>
     <string name="settings_lock_layout_summary_on">ഐക്കണുകളും വിഡ്ജറ്റുകളും ഹോംസ്‌ക്രീനിലേക്ക് ചേർക്കാനോ, മായ്ക്കാനോ, നീക്കാനോ പറ്റില്ല</string>
     <string name="settings_lock_layout_summary_off">ഐക്കണുകളും വിഡ്ജറ്റുകളും ഹോംസ്‌ക്രീനിലേക്ക് ചേർക്കാനോ, മായ്ക്കാനോ, നീക്കാനോ പറ്റും</string>
     <string name="settings_edit_widgets_error">ഹോംസ്‌ക്രീനിലേക്ക് വിഡ്ജറ്റുകൾ ചേർക്കാൻ സാധിക്കില്ല</string>
-    <string name="desktop_show_labels">ഡെസ്ക്ടോപ്പിൽ ഐക്കൺ പടം കാണിക്കുക</string>
-    <string name="drawer_show_labels">ഡ്രായറിൽ ഐക്കൺ പടം കാണിക്കുക</string>
-    <string name="category_google">ഗൂഗിൾ</string>
-    <string name="category_icon">ഐക്കണുകൾ</string>
     <string name="label_search">തിരയുക</string>
     <string name="label_lens">ഗൂഗിൾ ലെൻസ്</string>
     <string name="label_voice_search">ശബ്‌ദം ഉപയോഗിച്ചുള്ള തിരയൽ</string>
@@ -37,4 +13,160 @@
     <string name="recents_lens_title">ലെൻസ്</string>
     <string name="smartspace_pref_title">ഒറ്റനോട്ടത്തിൽ</string>
     <string name="smartspace_pref_summary">ഹോം സ്ക്രീനിൻ്റെ മുകളിൽ സ്മാർട്ട്സ്പേസ് കാണിക്കുക</string>
+    <string name="settings_title">ഹോം ക്രമീകരണങ്ങൾ</string>
+
+    
+    <string name="home_category_title">ഹോം സ്ക്രീൻ</string>
+    <string name="home_category_summary">Google ഇപ്പോൾ പാനൽ കൂടി സജ്ജമാക്കുക</string>
+    <string name="icons_category_title">ഐക്കണുകൾ</string>
+    <string name="icons_category_summary">ഐക്കൺ വലുപ്പവും അതിലേറെയും സജ്ജമാക്കുക</string>
+    <string name="app_drawer_category_title">അപ്ലിക്കേഷൻ ഡ്രോയർ</string>
+    <string name="app_drawer_category_summary">നിങ്ങളുടെ അപ്ലിക്കേഷൻ ഡ്രോയർ ഇച്ഛാനുസൃതമാക്കുക</string>
+    <string name="recents_category_title">പുതുതായ</string>
+    <string name="recents_category_summary">അവലോകന സ്ക്രീൻ നവീകരിക്കുക</string>
+    <string name="misc_category_title">കലര്പ്പായ</string>
+    <string name="misc_category_summary">മറ്റ് ഓപ്ഷനുകൾ</string>
+    <string name="general_category_title">പൊതുവായ</string>
+    <string name="interface_category_title">ഇന്റർഫേസ്</string>
+    <string name="search_bar_category_title">തിരയൽ ബാർ</string>
+    <string name="actions_category_title">ദ്രുത പ്രവർത്തനങ്ങൾ</string>
+    <string name="quickspace_category_title">ഒറ്റനോട്ടത്തിൽ</string>
+
+    
+    <string name="dev_options_title">ഡവലപ്പർ ഓപ്ഷനുകൾ</string>
+    <string name="dev_options_summary">നിങ്ങളുടെ സ്വന്തം ഉത്തരവാദിത്തത്തിൽ മറഞ്ഞിരിക്കുന്ന ചില സവിശേഷതകൾ പ്രാപ്തമാക്കുക</string>
+
+    
+    <string name="title_desktop_labels">ഡെസ്ക്ടോപ്പ് ലേബലുകൾ</string>
+    <string name="summary_desktop_labels">ഡെസ്ക്ടോപ്പിൽ ഐക്കൺ ലേബലുകൾ കാണിക്കുക</string>
+    <string name="title_drawer_labels">ഡ്രോയർ ലേബലുകൾ</string>
+    <string name="summary_drawer_labels">ഡ്രോയറിൽ ഐക്കൺ ലേബലുകൾ കാണിക്കുക</string>
+
+    
+    <string name="title_show_google_app">Google അപ്ലിക്കേഷൻ ആക്സസ് ചെയ്യുന്നതിന് സ്വൈപ്പ്</string>
+    <string name="msg_minus_one_on_left">പ്രധാന ഹോം സ്ക്രീനിൽ നിന്ന് നിങ്ങൾ സ്വൈപ്പുചെയ്യുമ്പോൾ</string>
+    
+    <string name="msg_minus_one_on_right">പ്രധാന ഹോം സ്ക്രീനിൽ നിന്ന് നിങ്ങൾ സ്വൈപ്പുചെയ്യുമ്പോൾ</string>
+
+    
+    <string name="pref_themed_icons_title">തീം ഐക്കണുകൾ</string>
+    <string name="pref_themed_icons_summary">ഹോം സ്ക്രീനിൽ ഉപയോഗിക്കുന്ന തീപിടുത്ത ഐക്കണുകൾ പിന്തുടരുക</string>
+
+    
+    <string name="trust_apps_manager_name">മറഞ്ഞിരിക്കുന്നതും പരിരക്ഷിതവുമായ അപ്ലിക്കേഷനുകൾ</string>
+    <string name="trust_apps_auth_manager">മറഞ്ഞിരിക്കുന്നതും പരിരക്ഷിതവുമായ അപ്ലിക്കേഷനുകൾ നിയന്ത്രിക്കാൻ അൺലോക്കുചെയ്യുക</string>
+    <string name="trust_apps_auth_open_app">%1$s തുറക്കാൻ പ്രാമാണീകരിക്കുക</string>
+    <string name="trust_apps_loading">\ U2026 ലോഡുചെയ്യുന്നു</string>
+    <string name="trust_apps_no_lock_error">അപ്ലിക്കേഷൻ ആക്സസ് നിയന്ത്രിക്കുന്നതിന് ദയവായി ഒരു സുരക്ഷിത ലോക്ക് സ്ക്രീൻ സജ്ജമാക്കുക</string>
+    <string name="trust_apps_help">സഹായം</string>
+    <string name="trust_apps_info_hidden">മറഞ്ഞിരിക്കുന്ന അപ്ലിക്കേഷനുകളും അവയുടെ വിജറ്റുകളും ഡ്രോയറിൽ നിന്ന് മറഞ്ഞിരിക്കുന്നു</string>
+    <string name="trust_apps_info_protected">പരിരക്ഷിത അപ്ലിക്കേഷനുകൾക്ക് ലോഞ്ചറിൽ നിന്ന് പ്രാമാണീകരണം തുറക്കേണ്ടതുണ്ട്</string>
+    
+    
+    <string name="pref_restart_title">പുനരാരംഭിക്കുക</string>
+    <string name="pref_restart_summary">തീർപ്പാക്കാത്ത ഏതെങ്കിലും ക്രമീകരണങ്ങൾ പ്രയോഗിക്കാൻ ലോഞ്ചർ സ്വമേധയാ പുനരാരംഭിക്കുക</string>
+    <string name="restarting_launcher">ലോഞ്ചർ പുനരാരംഭിക്കുന്നു…</string>
+    <string name="restarting_launcher_changes">മാറ്റങ്ങൾ പ്രയോഗിക്കാൻ ലോഞ്ചർ പുനരാരംഭിക്കുന്നു…</string>
+    <string name="updating_launcher_components">ലോഞ്ചർ ഘടകങ്ങൾ അപ്ഡേറ്റ് ചെയ്യുന്നതിന് ലോഞ്ചർ പുനരാരംഭിക്കുന്നു…</string>
+
+    
+    <string name="icon_size_title">ഐക്കൺ വലുപ്പം</string>
+
+    
+    <string name="font_size_title">ഫോണ്ട് വലുപ്പം</string>
+
+    
+    <string name="dock_search_summary">ചുവടെയുള്ള ഡോക്കിൽ തിരയൽ ബാർ</string>
+
+    
+    <string name="recent_task_option_kill_app">ബലം അടയ്ക്കുക</string>
+    <string name="recents_app_killed">അപ്ലിക്കേഷൻ അടച്ചു</string>
+
+    
+    <string name="hotseat_bg_title">ഹോട്ട്സെറ്റ് പശ്ചാത്തലം</string>
+    <string name="hotseat_bg_summary">അപ്ലിക്കേഷൻ ഡോക്കിലേക്ക് അർദ്ധസുതാര്യ പശ്ചാത്തലം ചേർക്കുക</string>
+
+    
+    <string name="allow_wallpaper_scrolling">വാൾപേപ്പർ സ്ക്രോളിംഗ്</string>
+    <string name="allow_wallpaper_scrolling_summary">ഒന്നിലധികം സ്ക്രീനുകളുടെ വാൾപേപ്പർ സ്ക്രോളിംഗ് ഇഫക്റ്റ്</string>
+
+    
+    <string name="allow_wallpaper_zooming">വാൾപേപ്പർ സൂമിംഗ്</string>
+    <string name="allow_wallpaper_zooming_summary">ഡ്രോയർ അല്ലെങ്കിൽ സമീപകാല അപ്ലിക്കേഷനുകൾ ഉപയോഗിക്കുമ്പോൾ വാൾപേപ്പർ അകത്തോ പുറത്തോ സൂം ചെയ്യുക</string>
+
+    
+    <string name="show_statusbar_title">സ്റ്റാറ്റസ് ബാർ കാണിക്കുക</string>
+    <string name="show_statusbar_summary">ഹോം സ്ക്രീനിൽ സ്റ്റാറ്റസ് ബാർ കാണിക്കുക</string>
+
+    
+    <string name="show_top_shadow_title">മുകളിലെ ഷാഡോ കാണിക്കുക</string>
+    <string name="show_top_shadow_summary">സ്റ്റാറ്റസ് ബാറിന് താഴെ ഷാഡോ ചേർക്കുക</string>
+    
+    
+    <string name="background_blur_title">പശ്ചാത്തലം ബ്ലർ ഡെപ്ത്</string>
+    <string name="background_blur_summary">സ്വരൂപത്തിനും അപ്ലിക്കേഷൻ ഡ്രോയറിനും ബ്ലെർ ഡെപ്ത് ലെവൽ സജ്ജമാക്കുക</string>
+
+    
+    <string name="background_opacity_title">പശ്ചാത്തല അതാര്യത</string>
+
+    
+    <string name="pref_sleep_gesture_title">ഉറങ്ങാൻ ഇരട്ട ടാപ്പ്</string>
+    <string name="pref_sleep_gesture_summary">സ്ക്രീനിനായി ശൂന്യമായ സ്ഥലത്ത് ഇരട്ട ടാപ്പുചെയ്യുക</string>
+
+    
+    <string name="recents_chips_title">കോംപാക്റ്റ് ആക്ഷൻ ഡിസൈൻ ഉപയോഗിക്കുക</string>
+    <string name="recents_chips_summary">പ്രദർശിപ്പിക്കുന്നതിന് ധാരാളം പ്രവർത്തനങ്ങൾക്കായി ആവശ്യമായി വന്നേക്കാം</string>
+    <string name="recents_screenshot_title">സ്ക്രീൻഷോട്ട്</string>
+    <string name="recents_clear_all_title">എല്ലാം മായ്ക്കുക</string>
+    <string name="meminfo_text">%1$s സുലഭം | %2$s</string>
+    <string name="recents_meminfo_title">മെമ്മറി വിവരം</string>
+
+    
+    <string name="drawer_search_title">അപ്ലിക്കേഷൻ തിരയൽ ബാർ</string>
+    <string name="drawer_search_summary">അപ്ലിക്കേഷൻ ഡ്രോയറിന്റെ മുകളിൽ തിരയൽ ബാർ</string>
+
+    
+    <string name="short_parallax_title">ചെറിയ പാരലാക്സ് അനുവദിക്കുക</string>
+    <string name="short_parallax_summary">വാൾപേപ്പർ ക്രോപ്പിംഗിന് പകരം പൂർണ്ണമായ വാൾപേപ്പർ സ്ക്രോൾ പ്രാപ്തമാക്കുക</string>
+    <string name="single_page_center_title">സിംഗിൾ പേജ് സെന്റർ</string>
+    <string name="single_page_center_summary">ഒരു പേജ് ഉപയോഗിക്കുകയാണെങ്കിൽ കേസര വാൾപേപ്പർ</string>
+
+    
+    <string name="perf_dark_status_bar_title">ഇരുണ്ട സ്റ്റാറ്റസ് ബാർ</string>
+    <string name="perf_dark_status_bar_summary">ഹോം സ്ക്രീനിൽ ഇരുണ്ട നില ബാർ ഉപയോഗിക്കുക</string>
+
+    
+    <string name="pref_scroll_vibration_title">വൈബ്രേഷൻ സ്ക്രോൾ ചെയ്യുക</string>
+    <string name="pref_scroll_vibration_summary">പിന്തുണയ്ക്കുന്നെങ്കിൽ സമീപകാല അപ്ലിക്കേഷനുകൾ ഉപയോഗിച്ച് സ്ക്രോൾ ചെയ്യുമ്പോൾ ഹപ്റ്റിക് ഫീഡ്ബാക്ക്</string>
+
+    
+    <string name="pref_force_monochrome_themed_icons_title">ഫോഴ്സ് തീം ഐക്കണുകൾ</string>
+    <string name="pref_force_monochrome_themed_icons_summary">ഒരെണ്ണം ഇല്ലാത്ത അപ്ലിക്കേഷനുകൾക്കായി തീം ഐക്കൺ സൃഷ്ടിക്കുക (തീം ​​ഐക്കണുകൾ വീണ്ടും ടോഗിൾ ചെയ്യേണ്ടതുണ്ട്)</string>
+
+    
+    <string name="icon_pack_title">ഐക്കൺ പായ്ക്ക്</string>
+    <string name="icon_pack_default_label">കുറ്റം</string>
+    <string name="icon_pack_add">കൂടുതൽ ഇൻസ്റ്റാൾ ചെയ്യുക</string>
+    <string name="icon_pack_no_market">അപ്ലിക്കേഷൻ സ്റ്റോറുകളൊന്നുമില്ല</string>
+
+    
+    <string name="pref_auto_keyboard_title">യാന്ത്രിക കീബോർഡ്</string>
+    <string name="pref_auto_keyboard_summary">ഡ്രോയർ വിപുലീകരിക്കുമ്പോൾ തിരയാൻ ആരംഭിക്കുക</string>
+
+    
+    <string name="pref_allow_cts_title">തിരയാൻ സർക്കിൾ</string>
+    <string name="pref_allow_cts_summary">നിങ്ങളുടെ സ്ക്രീനിലെ ഉള്ളടക്കം ഉപയോഗിച്ച് തിരയുന്നതിനായി ഹോം ബട്ടൺ അല്ലെങ്കിൽ നാവിഗേഷൻ ഹാൻഡിൽ സ്പർശിക്കുക.</string>
+
+    
+    <string name="widget_category_battery">ബാറ്ററി</string>
+
+    
+    <string name="widget_category_weather">കാലാവസ്ഥ</string>
+
+    
+    <string name="dock_music_search_title">സംഗീത തിരയൽ</string>
+    <string name="dock_music_search_summary">എംഐസി ഐക്കൺ അമർത്തുന്നതിൽ സംഗീത തിരയൽ ആരംഭിക്കുക</string>
+
+    
+    <string name="floating_window">പൊങ്ങിക്കിടക്കുന്ന</string>
 </resources>

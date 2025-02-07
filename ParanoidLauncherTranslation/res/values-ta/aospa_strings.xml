@@ -1,35 +1,11 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!--
-/*
-* Copyright (C) 2022 Paranoid Android
-*
-* Licensed under the Apache License, Version 2.0 (the "License");
-* you may not use this file except in compliance with the License.
-* You may obtain a copy of the License at
-*
-*      http://www.apache.org/licenses/LICENSE-2.0
-*
-* Unless required by applicable law or agreed to in writing, software
-* distributed under the License is distributed on an "AS IS" BASIS,
-* WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-* See the License for the specific language governing permissions and
-* limitations under the License.
-*/
--->
+<?xml version='1.0' encoding='utf-8'?>
 <resources>
-    <string name="title_show_google_feed">கூகுள் ஊட்டத்தை அணுக ஸ்வைப் செய்யவும்</string>
-    <string name="pref_dt_gesture_title">தூங்குவதற்கு இருமுறை தட்டவும்</string>
-    <string name="pref_dt_gesture_summary">உறங்குவதற்கு தொடுதிரையை இருமுறை தட்டவும்</string>
     <string name="suggestion_pref_screen_title">பரிந்துரைகள்</string>
     <string name="suggestion_pref_screen_desc">எல்லா செயலிகள் &amp; முகப்புத் திரை பரிந்துரைகளுக்கும்</string>
     <string name="settings_lock_layout_title">தளவமைப்பைப் பூட்டு</string>
     <string name="settings_lock_layout_summary_on">முகப்புத் திரையில் படவுருக்கள் &amp; விட்ஜெட்கள் சேர்க்க, அகற்ற &amp; நகர்த்த இயலாது</string>
     <string name="settings_lock_layout_summary_off">முகப்புத் திரையில் படவுருக்கள் &amp; விட்ஜெட்கள் சேர்க்க, அகற்ற &amp; நகர்த்த முடியும்</string>
     <string name="settings_edit_widgets_error">முகப்புத் திரையில் விட்ஜெட்களைச் சேர்த்தல் சாத்தியமில்லை</string>
-    <string name="desktop_show_labels">அலமாரியில் படவுரு லேபல்களை காண்பி</string>
-    <string name="drawer_show_labels">அலமாரியில் படவுரு முத்திரைகளை காட்டு</string>
-    <string name="category_google">கூகுள்</string>
-    <string name="category_icon">ஐகான்கள்</string>
     <string name="label_search">தேடு</string>
     <string name="label_lens">கூகுள் லென்ஸ்</string>
     <string name="label_voice_search">குரல் தேடல்</string>
@@ -37,4 +13,160 @@
     <string name="recents_lens_title">லென்ஸ் </string>
     <string name="smartspace_pref_title">முகப்புத் தகவல்</string>
     <string name="smartspace_pref_summary">ஸ்மார்ட் ஸ்பேஸ் முகப்புத் திரையில் காண்பி</string>
+    <string name="settings_title">வீட்டு அமைப்புகள்</string>
+
+    
+    <string name="home_category_title">முகப்புத் திரை</string>
+    <string name="home_category_summary">கூகிள் நவ் பேனலை அமைக்கவும்</string>
+    <string name="icons_category_title">சின்னங்கள்</string>
+    <string name="icons_category_summary">ஐகான் அளவு மற்றும் பலவற்றை அமைக்கவும்</string>
+    <string name="app_drawer_category_title">பயன்பாட்டு டிராயர்</string>
+    <string name="app_drawer_category_summary">உங்கள் பயன்பாட்டு டிராயரைத் தனிப்பயனாக்குங்கள்</string>
+    <string name="recents_category_title">சமீபத்திய</string>
+    <string name="recents_category_summary">கண்ணோட்டத் திரையை புதுப்பிக்கவும்</string>
+    <string name="misc_category_title">இதர</string>
+    <string name="misc_category_summary">பிற விருப்பங்கள்</string>
+    <string name="general_category_title">பொது</string>
+    <string name="interface_category_title">இடைமுகம்</string>
+    <string name="search_bar_category_title">தேடல் பட்டி</string>
+    <string name="actions_category_title">விரைவான செயல்கள்</string>
+    <string name="quickspace_category_title">ஒரு பார்வையில்</string>
+
+    
+    <string name="dev_options_title">டெவலப்பர் விருப்பங்கள்</string>
+    <string name="dev_options_summary">உங்கள் சொந்த ஆபத்தில் மறைக்கப்பட்ட சில அம்சங்களை இயக்கவும்</string>
+
+    
+    <string name="title_desktop_labels">டெஸ்க்டாப் லேபிள்கள்</string>
+    <string name="summary_desktop_labels">டெஸ்க்டாப்பில் ஐகான் லேபிள்களைக் காட்டு</string>
+    <string name="title_drawer_labels">டிராயர் லேபிள்கள்</string>
+    <string name="summary_drawer_labels">டிராயரில் ஐகான் லேபிள்களைக் காட்டு</string>
+
+    
+    <string name="title_show_google_app">Google பயன்பாட்டை அணுக ஸ்வைப் செய்யவும்</string>
+    <string name="msg_minus_one_on_left">பிரதான முகப்புத் திரையில் இருந்து நீங்கள் ஸ்வைப் செய்யும்போது</string>
+    
+    <string name="msg_minus_one_on_right">பிரதான முகப்புத் திரையில் இருந்து இடதுபுறமாக ஸ்வைப் செய்யும்போது</string>
+
+    
+    <string name="pref_themed_icons_title">கருப்பொருள் சின்னங்கள்</string>
+    <string name="pref_themed_icons_summary">முகப்புத் திரையில் பயன்படுத்தப்படும் கருப்பொருள் சின்னங்களைப் பின்பற்றுங்கள்</string>
+
+    
+    <string name="trust_apps_manager_name">மறைக்கப்பட்ட மற்றும் பாதுகாக்கப்பட்ட பயன்பாடுகள்</string>
+    <string name="trust_apps_auth_manager">மறைக்கப்பட்ட மற்றும் பாதுகாக்கப்பட்ட பயன்பாடுகளை நிர்வகிக்க திறக்கவும்</string>
+    <string name="trust_apps_auth_open_app">%1$s ஐ திறக்க அங்கீகாரம்</string>
+    <string name="trust_apps_loading">ஏற்றுகிறது \ u2026</string>
+    <string name="trust_apps_no_lock_error">பயன்பாட்டு அணுகலைக் கட்டுப்படுத்த பாதுகாப்பான பூட்டுத் திரையை அமைக்கவும்</string>
+    <string name="trust_apps_help">உதவி</string>
+    <string name="trust_apps_info_hidden">மறைக்கப்பட்ட பயன்பாடுகள் மற்றும் அவற்றின் விட்ஜெட்டுகள் டிராயரில் இருந்து மறைக்கப்பட்டுள்ளன</string>
+    <string name="trust_apps_info_protected">பாதுகாக்கப்பட்ட பயன்பாடுகளுக்கு துவக்கத்திலிருந்து அங்கீகாரம் திறக்கப்பட வேண்டும்</string>
+    
+    
+    <string name="pref_restart_title">மறுதொடக்கம்</string>
+    <string name="pref_restart_summary">நிலுவையில் உள்ள எந்த அமைப்புகளையும் பயன்படுத்த கைமுறையாக துவக்கியை மறுதொடக்கம் செய்யுங்கள்</string>
+    <string name="restarting_launcher">துவக்கத்தை மறுதொடக்கம்…</string>
+    <string name="restarting_launcher_changes">மாற்றங்களைப் பயன்படுத்த லாஞ்சரை மறுதொடக்கம் செய்தல்…</string>
+    <string name="updating_launcher_components">துவக்க கூறுகளை புதுப்பிக்க துவக்கியை மறுதொடக்கம் செய்தல்…</string>
+
+    
+    <string name="icon_size_title">ஐகான் அளவு</string>
+
+    
+    <string name="font_size_title">எழுத்துரு அளவு</string>
+
+    
+    <string name="dock_search_summary">கீழே உள்ள கப்பல்துறையில் தேடுங்கள்</string>
+
+    
+    <string name="recent_task_option_kill_app">மூடு</string>
+    <string name="recents_app_killed">பயன்பாடு மூடப்பட்டது</string>
+
+    
+    <string name="hotseat_bg_title">ஹாட்ஸீட் பின்னணி</string>
+    <string name="hotseat_bg_summary">பயன்பாட்டு கப்பல்துறைக்கு கசியும் பின்னணியைச் சேர்க்கவும்</string>
+
+    
+    <string name="allow_wallpaper_scrolling">வால்பேப்பர் ஸ்க்ரோலிங்</string>
+    <string name="allow_wallpaper_scrolling_summary">பல திரைகளுக்கு வால்பேப்பர் ஸ்க்ரோலிங் விளைவு</string>
+
+    
+    <string name="allow_wallpaper_zooming">வால்பேப்பர் பெரிதாக்குகிறது</string>
+    <string name="allow_wallpaper_zooming_summary">டிராயர் அல்லது சமீபத்திய பயன்பாடுகளைப் பயன்படுத்தும் போது வால்பேப்பரை பெரிதாக்கவும் அல்லது வெளியே செல்லவும்</string>
+
+    
+    <string name="show_statusbar_title">நிலை பட்டியைக் காட்டு</string>
+    <string name="show_statusbar_summary">முகப்புத் திரையில் நிலை பட்டியைக் காட்டு</string>
+
+    
+    <string name="show_top_shadow_title">மேல் நிழலைக் காட்டு</string>
+    <string name="show_top_shadow_summary">நிலை பட்டியின் அடியில் நிழலைச் சேர்க்கவும்</string>
+    
+    
+    <string name="background_blur_title">பின்னணி மங்கலான ஆழம்</string>
+    <string name="background_blur_summary">ரெசென்ட் மற்றும் பயன்பாட்டு அலமாரிக்கு மங்கலான ஆழமான அளவை அமைக்கவும்</string>
+
+    
+    <string name="background_opacity_title">பின்னணி ஒளிபுகாநிலை</string>
+
+    
+    <string name="pref_sleep_gesture_title">தூங்க இரட்டை குழாய்</string>
+    <string name="pref_sleep_gesture_summary">திரை முடக்குவதற்கு வெற்று இடத்தில் இருமுறை தட்டவும்</string>
+
+    
+    <string name="recents_chips_title">சிறிய செயல் வடிவமைப்பைப் பயன்படுத்தவும்</string>
+    <string name="recents_chips_summary">அதிக எண்ணிக்கையிலான செயல்களைக் காண்பிக்க தேவைப்படலாம்</string>
+    <string name="recents_screenshot_title">ஸ்கிரீன் ஷாட்</string>
+    <string name="recents_clear_all_title">அனைத்தையும் அழிக்கவும்</string>
+    <string name="meminfo_text">%1$s கிடைக்கிறது | %2$s</string>
+    <string name="recents_meminfo_title">நினைவக தகவல்</string>
+
+    
+    <string name="drawer_search_title">பயன்பாட்டு தேடல் பட்டி</string>
+    <string name="drawer_search_summary">பயன்பாட்டு அலமாரியின் மேல் தேடுங்கள்</string>
+
+    
+    <string name="short_parallax_title">குறுகிய இடமாறு அனுமதிக்கவும்</string>
+    <string name="short_parallax_summary">வால்பேப்பரை பயிர் செய்வதற்கு பதிலாக சிறிய எண்ணிக்கையிலான பக்கங்களில் முழு வால்பேப்பர் உருள் விளைவை இயக்கவும்</string>
+    <string name="single_page_center_title">ஒற்றை பக்க மையம்</string>
+    <string name="single_page_center_summary">ஒரு பக்கத்தைப் பயன்படுத்தினால் மட்டுமே வால்பேப்பர்</string>
+
+    
+    <string name="perf_dark_status_bar_title">இருண்ட நிலை பட்டி</string>
+    <string name="perf_dark_status_bar_summary">முகப்புத் திரையில் இருண்ட நிலை பட்டியைப் பயன்படுத்தவும்</string>
+
+    
+    <string name="pref_scroll_vibration_title">உருள் அதிர்வு</string>
+    <string name="pref_scroll_vibration_summary">ஆதரிக்கப்பட்டால், சமீபத்திய பயன்பாடுகள் மூலம் ஸ்க்ரோலிங் செய்யும் போது ஹாப்டிக் கருத்து</string>
+
+    
+    <string name="pref_force_monochrome_themed_icons_title">கருப்பொருள் சின்னங்களை கட்டாயப்படுத்துங்கள்</string>
+    <string name="pref_force_monochrome_themed_icons_summary">ஒன்று இல்லாத பயன்பாடுகளுக்கான கருப்பொருள் ஐகானை உருவாக்குங்கள் (கருப்பொருள் ஐகான்களை மீண்டும் கற்பிக்க வேண்டும்)</string>
+
+    
+    <string name="icon_pack_title">ஐகான் பேக்</string>
+    <string name="icon_pack_default_label">இயல்புநிலை</string>
+    <string name="icon_pack_add">மேலும் நிறுவவும்</string>
+    <string name="icon_pack_no_market">கிடைக்கக்கூடிய ஆப் ஸ்டோர் எதுவும் இல்லை</string>
+
+    
+    <string name="pref_auto_keyboard_title">வாகன விசைப்பலகை</string>
+    <string name="pref_auto_keyboard_summary">அலமாரியை விரிவாக்கும்போது தேடத் தொடங்குங்கள்</string>
+
+    
+    <string name="pref_allow_cts_title">தேட வட்டம்</string>
+    <string name="pref_allow_cts_summary">உங்கள் திரையில் உள்ள உள்ளடக்கத்தைப் பயன்படுத்தி தேட முகப்பு பொத்தானை அல்லது வழிசெலுத்தல் கைப்பிடியைத் தொட்டு வைத்திருங்கள்.</string>
+
+    
+    <string name="widget_category_battery">பேட்டர்</string>
+
+    
+    <string name="widget_category_weather">வானிலை</string>
+
+    
+    <string name="dock_music_search_title">இசை தேடல்</string>
+    <string name="dock_music_search_summary">மைக் ஐகானை அழுத்தும்போது இசை தேடலைத் தொடங்கவும்</string>
+
+    
+    <string name="floating_window">மிதக்கும்</string>
 </resources>

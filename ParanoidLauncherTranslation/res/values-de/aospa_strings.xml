@@ -1,38 +1,13 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!--
-/*
-* Copyright (C) 2022 Paranoid Android
-*
-* Licensed under the Apache License, Version 2.0 (the "License");
-* you may not use this file except in compliance with the License.
-* You may obtain a copy of the License at
-*
-*      http://www.apache.org/licenses/LICENSE-2.0
-*
-* Unless required by applicable law or agreed to in writing, software
-* distributed under the License is distributed on an "AS IS" BASIS,
-* WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-* See the License for the specific language governing permissions and
-* limitations under the License.
-*/
--->
+<?xml version='1.0' encoding='utf-8'?>
 <resources>
-    <string name="title_show_google_feed">Wischen, um auf Google Feed zuzugreifen</string>
     <string name="msg_minus_one_on_left">Vom Startbildschirm nach links wischen, um Google Feed zu öffnen</string>
     <string name="msg_minus_one_on_right">Vom Startbildschirm nach rechts wischen, um Google Feed zu öffnen</string>
-    <string name="pref_dt_gesture_title">Doppelt tippen zum Sperren</string>
-    <string name="pref_dt_gesture_summary">Zweimal auf leeren Bereich Tippen um Bildschirm auszuschalten</string>
     <string name="suggestion_pref_screen_title">Vorschläge</string>
     <string name="suggestion_pref_screen_desc">Für alle Apps &amp; Startbildschirm-Vorschläge</string>
     <string name="settings_lock_layout_title">Anordnung sperren</string>
     <string name="settings_lock_layout_summary_on">Symbole und Widgets können nicht auf dem Startbildschirm hinzugefügt, entfernt und verschoben werden</string>
     <string name="settings_lock_layout_summary_off">Symbole und Widgets können auf dem Startbildschirm hinzugefügt, entfernt und verschoben werden</string>
     <string name="settings_edit_widgets_error">Es ist nicht möglich, Widgets zum Startbildschirm hinzuzufügen</string>
-    <string name="desktop_show_labels">Symbolbeschriftungen auf dem Startbildschirm anzeigen</string>
-    <string name="drawer_show_labels">Symbolbeschriftungen in der App-Übersicht anzeigen</string>
-    <string name="category_google">Google</string>
-    <string name="category_icon">Symbole</string>
-    <string name="category_recents">Anwendungsverlauf</string>
     <string name="label_search">Suchen</string>
     <string name="label_lens">Google Lens</string>
     <string name="label_voice_search">Sprachsuche</string>
@@ -43,4 +18,150 @@
     <string name="recents_lens_title">Lens</string>
     <string name="smartspace_pref_title">Auf einen Blick</string>
     <string name="smartspace_pref_summary">Smartspace oben auf Startbildschirm anzeigen</string>
+    <string name="settings_title">Home -Einstellungen</string>
+
+    
+    <string name="home_category_title">Startbildschirm</string>
+    <string name="home_category_summary">Setzen Sie Google Now Panel und mehr</string>
+    <string name="icons_category_title">Ikonen</string>
+    <string name="icons_category_summary">Setzen Sie die Symbolgröße und vieles mehr</string>
+    <string name="app_drawer_category_title">App -Schublade</string>
+    <string name="app_drawer_category_summary">Passen Sie Ihre App -Schublade an</string>
+    <string name="recents_category_title">Jüngste</string>
+    <string name="recents_category_summary">Überlegen Sie den Überblickbildschirm</string>
+    <string name="misc_category_title">Verschiedenes</string>
+    <string name="misc_category_summary">Andere Optionen</string>
+    <string name="general_category_title">Allgemein</string>
+    <string name="interface_category_title">Schnittstelle</string>
+    <string name="search_bar_category_title">Suchleiste</string>
+    <string name="actions_category_title">Schnelle Aktionen</string>
+    <string name="quickspace_category_title">Auf einen Blick</string>
+
+    
+    <string name="dev_options_title">Entwickleroptionen</string>
+    <string name="dev_options_summary">Aktivieren Sie einige versteckte Funktionen auf eigenes Risiko</string>
+
+    
+    <string name="title_desktop_labels">Desktop -Etiketten</string>
+    <string name="summary_desktop_labels">Zeigen Sie Icon -Beschriftungen auf dem Desktop</string>
+    <string name="title_drawer_labels">Schubladenetiketten</string>
+    <string name="summary_drawer_labels">Zeigen Sie Icon -Beschriftungen in Schubladen</string>
+
+    
+    <string name="title_show_google_app">Wischen Sie, um auf Google App zuzugreifen</string>
+    <string name="pref_themed_icons_title">Themenikonen</string>
+    <string name="pref_themed_icons_summary">Folgen Sie Themenikonen, die auf dem Startbildschirm verwendet werden</string>
+
+    
+    <string name="trust_apps_manager_name">Versteckte und geschützte Apps</string>
+    <string name="trust_apps_auth_manager">Entsperren Sie zum Verwalten der versteckten und geschützten Apps</string>
+    <string name="trust_apps_auth_open_app">Authentifizieren, um %1$s zu öffnen</string>
+    <string name="trust_apps_loading">Laden \ u2026</string>
+    <string name="trust_apps_no_lock_error">Bitte richten Sie einen sicheren Sperrbildschirm ein, um den App -Zugriff einzuschränken</string>
+    <string name="trust_apps_help">Helfen</string>
+    <string name="trust_apps_info_hidden">Versteckte Apps und ihre Widgets sind der Schublade versteckt</string>
+    <string name="trust_apps_info_protected">Geschützte Apps erfordern eine Authentifizierung, die aus dem Launcher geöffnet werden kann</string>
+    
+    
+    <string name="pref_restart_title">Neu starten</string>
+    <string name="pref_restart_summary">Starten Sie den Launcher manuell neu, um alle ausstehenden Einstellungen anzuwenden</string>
+    <string name="restarting_launcher">Neustarten Sie den Launcher neu…</string>
+    <string name="restarting_launcher_changes">Neustarten Sie den Launcher neu, um Änderungen anzuwenden…</string>
+    <string name="updating_launcher_components">Starten Sie den Launcher neu, um Launcher -Komponenten zu aktualisieren…</string>
+
+    
+    <string name="icon_size_title">Symbolgröße</string>
+
+    
+    <string name="font_size_title">Schriftgröße</string>
+
+    
+    <string name="recent_task_option_kill_app">Zwingen schließen</string>
+    <string name="recents_app_killed">App geschlossen</string>
+
+    
+    <string name="hotseat_bg_title">Hotseat -Hintergrund</string>
+    <string name="hotseat_bg_summary">Fügen Sie dem App -Dock einen durchscheinenden Hintergrund hinzu</string>
+
+    
+    <string name="allow_wallpaper_scrolling">Tapeten -Scrollen</string>
+    <string name="allow_wallpaper_scrolling_summary">Tapeten -Scroll -Effekt für mehrere Bildschirme</string>
+
+    
+    <string name="allow_wallpaper_zooming">Tapetenzoomen</string>
+    <string name="allow_wallpaper_zooming_summary">Zoomen Sie das Tapete ein oder heraus, wenn Sie Schubladen oder aktuelle Apps verwenden</string>
+
+    
+    <string name="show_statusbar_title">Statusleiste anzeigen</string>
+    <string name="show_statusbar_summary">Statusleiste auf dem Startbildschirm anzeigen</string>
+
+    
+    <string name="show_top_shadow_title">Zeigen Sie Top Shadow</string>
+    <string name="show_top_shadow_summary">Fügen Sie Schatten unter die Statusleiste hinzu</string>
+    
+    
+    <string name="background_blur_title">Hintergrund verschwommene Tiefe</string>
+    <string name="background_blur_summary">Setzen Sie die Unschärfe -Tiefe für Recents und App -Schublade</string>
+
+    
+    <string name="background_opacity_title">Hintergrundliege</string>
+
+    
+    <string name="pref_sleep_gesture_title">Doppelte Tippen Sie in den Schlaf</string>
+    <string name="pref_sleep_gesture_summary">Tippen Sie doppelt auf den leeren Speicherplatz für den Bildschirm aus</string>
+
+    
+    <string name="recents_chips_title">Verwenden Sie kompaktes Action -Design</string>
+    <string name="recents_chips_summary">Kann für eine große Anzahl von Aktionen zur Anzeige erforderlich sein</string>
+    <string name="meminfo_text">%1$s verfügbar | %2$s</string>
+    <string name="recents_meminfo_title">Speicherinformationen</string>
+
+    
+    <string name="drawer_search_title">App -Suchleiste</string>
+    <string name="drawer_search_summary">Suchleiste über der App -Schublade</string>
+
+    
+    <string name="short_parallax_title">Erlauben Sie eine kurze Parallaxe</string>
+    <string name="short_parallax_summary">Aktivieren Sie den vollen Tapeten -Scroll -Effekt auf kleinere Seiten von Seiten, anstatt die Tapete zu koppeln</string>
+    <string name="single_page_center_title">Einseitige Zentrum</string>
+    <string name="single_page_center_summary">Mitte Wallpaper, wenn nur eine einzelne Seite verwendet</string>
+
+    
+    <string name="perf_dark_status_bar_title">Dunkle Statusleiste</string>
+    <string name="perf_dark_status_bar_summary">Verwenden Sie die dunkle Statusleiste auf dem Startbildschirm</string>
+
+    
+    <string name="pref_scroll_vibration_title">Bildlaufvibration</string>
+    <string name="pref_scroll_vibration_summary">Haptisches Feedback beim Scrollen durch die neuesten Apps, falls unterstützt</string>
+
+    
+    <string name="pref_force_monochrome_themed_icons_title">Ikonen erzwingen</string>
+    <string name="pref_force_monochrome_themed_icons_summary">Generieren Sie das thematische Symbol für Apps, die keine haben (erfordert das Wiedererlangen von Themenikonen)</string>
+
+    
+    <string name="icon_pack_title">Icon Pack</string>
+    <string name="icon_pack_default_label">Standard</string>
+    <string name="icon_pack_add">Mehr installieren</string>
+    <string name="icon_pack_no_market">Es gibt keinen verfügbaren App Store</string>
+
+    
+    <string name="pref_auto_keyboard_title">Auto -Tastatur</string>
+    <string name="pref_auto_keyboard_summary">Beginnen Sie mit der Suche, wenn die Schublade erweitert wird</string>
+
+    
+    <string name="pref_allow_cts_title">Kreis zu suchen</string>
+    <string name="pref_allow_cts_summary">Halten Sie die Home -Taste oder den Navigationsgriff gedrückt, um den Inhalt auf Ihrem Bildschirm mit dem Inhalt zu suchen.</string>
+
+    
+    <string name="widget_category_battery">Batterie</string>
+
+    
+    <string name="widget_category_weather">Wetter</string>
+
+    
+    <string name="dock_music_search_title">Musiksuche</string>
+    <string name="dock_music_search_summary">Starten Sie die Musiksuche beim Drücken von Mikrofonikonen</string>
+
+    
+    <string name="floating_window">Schwebend</string>
 </resources>

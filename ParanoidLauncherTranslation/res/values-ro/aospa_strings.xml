@@ -1,26 +1,178 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!--
-/*
-* Copyright (C) 2022 Paranoid Android
-*
-* Licensed under the Apache License, Version 2.0 (the "License");
-* you may not use this file except in compliance with the License.
-* You may obtain a copy of the License at
-*
-*      http://www.apache.org/licenses/LICENSE-2.0
-*
-* Unless required by applicable law or agreed to in writing, software
-* distributed under the License is distributed on an "AS IS" BASIS,
-* WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-* See the License for the specific language governing permissions and
-* limitations under the License.
-*/
--->
+<?xml version='1.0' encoding='utf-8'?>
 <resources>
-    <string name="title_show_google_feed">Glisați pentru a accesa Google Now</string>
-    <string name="pref_dt_gesture_title">Atingeți de două ori pentru a opri ecranul</string>
-    <string name="pref_dt_gesture_summary">Atingeți de două ori într-un spațiu gol pentru a opri ecranul</string>
     <string name="suggestion_pref_screen_title">Sugestii</string>
     <string name="suggestion_pref_screen_desc">Pentru toate aplicațiile &amp; sugestiile pentru ecranul principal</string>
     <string name="settings_lock_layout_title">Blocare aspect</string>
+    <string name="settings_title">Setări de acasă</string>
+
+    
+    <string name="home_category_title">Ecranul de pornire</string>
+    <string name="home_category_summary">Setați Google Now Panel și multe altele</string>
+    <string name="icons_category_title">Icoane</string>
+    <string name="icons_category_summary">Setați dimensiunea pictogramei și multe altele</string>
+    <string name="app_drawer_category_title">Sertarul aplicației</string>
+    <string name="app_drawer_category_summary">Personalizați sertarul aplicației</string>
+    <string name="recents_category_title">Recent</string>
+    <string name="recents_category_summary">Reînnoiți ecranul de ansamblu</string>
+    <string name="misc_category_title">Diverse</string>
+    <string name="misc_category_summary">Alte opțiuni</string>
+    <string name="general_category_title">General</string>
+    <string name="interface_category_title">Interfață</string>
+    <string name="search_bar_category_title">Bară de căutare</string>
+    <string name="actions_category_title">Acțiuni rapide</string>
+    <string name="quickspace_category_title">Dintr -o privire</string>
+
+    
+    <string name="dev_options_title">Opțiuni pentru dezvoltatori</string>
+    <string name="dev_options_summary">Activați unele caracteristici ascunse pe propriul dvs. risc</string>
+
+    
+    <string name="settings_lock_layout_summary_on">Pictogramele și widget -urile nu pot fi adăugate, eliminate și mutate pe ecranul de pornire</string>
+    <string name="settings_lock_layout_summary_off">Pictogramele și widget -urile pot fi adăugate, îndepărtate și mutate pe ecranul de pornire</string>
+    <string name="settings_edit_widgets_error">Nu este posibil să adăugați widget -uri pe ecranul de pornire</string>
+
+    
+    <string name="title_desktop_labels">Etichete desktop</string>
+    <string name="summary_desktop_labels">Afișați etichetele pictogramei pe desktop</string>
+    <string name="title_drawer_labels">Etichete de sertare</string>
+    <string name="summary_drawer_labels">Afișați etichetele pictogramei în sertar</string>
+
+    
+    <string name="title_show_google_app">Glisați pentru a accesa Google App</string>
+    <string name="msg_minus_one_on_left">Când glisați chiar de pe ecranul principal principal</string>
+    
+    <string name="msg_minus_one_on_right">Când glisați plecat de pe ecranul principal principal</string>
+
+    
+    <string name="pref_themed_icons_title">Icoane tematice</string>
+    <string name="pref_themed_icons_summary">Urmați pictogramele tematice utilizate pe ecranul de pornire</string>
+
+    
+    <string name="trust_apps_manager_name">Aplicații ascunse și protejate</string>
+    <string name="trust_apps_auth_manager">Deblocați pentru a gestiona aplicațiile ascunse și protejate</string>
+    <string name="trust_apps_auth_open_app">Autentificați pentru a deschide %1$s</string>
+    <string name="trust_apps_loading">Încărcare \ u2026</string>
+    <string name="trust_apps_no_lock_error">Vă rugăm să configurați un ecran de blocare securizat pentru a restricționa accesul la aplicație</string>
+    <string name="trust_apps_help">Ajutor</string>
+    <string name="trust_apps_info_hidden">Aplicațiile ascunse și widget -urile lor sunt ascunse de sertar</string>
+    <string name="trust_apps_info_protected">Aplicațiile protejate necesită deschiderea autentificării de la lansator</string>
+    
+    
+    <string name="pref_restart_title">Repornire</string>
+    <string name="pref_restart_summary">Reporniți manual lansatorul pentru a aplica orice setări în așteptare</string>
+    <string name="restarting_launcher">Repornirea lansatorului…</string>
+    <string name="restarting_launcher_changes">Repornirea lansatorului pentru a aplica modificări…</string>
+    <string name="updating_launcher_components">Repornirea lansatorului pentru a actualiza componentele lansatorului…</string>
+
+    
+    <string name="icon_size_title">Dimensiunea pictogramei</string>
+
+    
+    <string name="font_size_title">Dimensiunea fontului</string>
+
+    
+    <string name="label_search">Căutare</string>
+    <string name="label_lens">Lens Google</string>
+    <string name="label_voice_search">Căutare vocală</string>
+    <string name="dock_search_title">Bara de căutare Google</string>
+    <string name="dock_search_summary">Bara de căutare în docul de jos</string>
+
+    
+    <string name="recent_task_option_kill_app">Forță aproape</string>
+    <string name="recents_app_killed">Aplicație închisă</string>
+
+    
+    <string name="hotseat_bg_title">HotSeat fundal</string>
+    <string name="hotseat_bg_summary">Adăugați fundal translucid la docul de aplicație</string>
+
+    
+    <string name="allow_wallpaper_scrolling">Defilare de tapet</string>
+    <string name="allow_wallpaper_scrolling_summary">Efect de defilare pentru tapet pentru mai multe ecrane</string>
+
+    
+    <string name="allow_wallpaper_zooming">Zoom de fundal</string>
+    <string name="allow_wallpaper_zooming_summary">Măriți sau ieșiți tapetul atunci când utilizați sertar sau aplicații recente</string>
+
+    
+    <string name="show_statusbar_title">Afișați bara de stare</string>
+    <string name="show_statusbar_summary">Afișați bara de stare pe ecranul de pornire</string>
+
+    
+    <string name="show_top_shadow_title">Arată Shadow Top</string>
+    <string name="show_top_shadow_summary">Adăugați umbră sub bara de stare</string>
+    
+    
+    <string name="background_blur_title">Adâncimea de estompare a fundalului</string>
+    <string name="background_blur_summary">Setați nivelul de adâncime neclară pentru recente și sertare de aplicații</string>
+
+    
+    <string name="background_opacity_title">Opacitate de fond</string>
+
+    
+    <string name="pref_sleep_gesture_title">Tap -ul dublu pentru a dormi</string>
+    <string name="pref_sleep_gesture_summary">Apăsați dublu pe spațiul gol pentru ecranul oprit</string>
+
+    
+    <string name="recents_chips_title">Utilizați proiectarea de acțiune compactă</string>
+    <string name="recents_chips_summary">Poate fi necesar pentru un număr mare de acțiuni de afișat</string>
+    <string name="recents_screenshot_title">Captură de ecran</string>
+    <string name="recents_clear_all_title">Ștergeți toate</string>
+    <string name="recents_lens_title">Obiectiv</string>
+
+    
+    <string name="meminfo_text">%1$s disponibil | %2$s</string>
+    <string name="recents_meminfo_title">Informații despre memorie</string>
+
+    
+    <string name="drawer_search_title">Bara de căutare a aplicațiilor</string>
+    <string name="drawer_search_summary">Bara de căutare pe deasupra sertarului aplicației</string>
+
+    
+    <string name="short_parallax_title">Permiteți paralaxa scurtă</string>
+    <string name="short_parallax_summary">Activați efectul complet de defilare a tapetului pe un număr mai mic de pagini, în loc să recoltați tapetul</string>
+    <string name="single_page_center_title">Centrul de pagini cu o singură pagină</string>
+    <string name="single_page_center_summary">Tapet central dacă folosești doar o singură pagină</string>
+
+    
+    <string name="perf_dark_status_bar_title">Bara de stare întunecată</string>
+    <string name="perf_dark_status_bar_summary">Utilizați bara de stare întunecată pe ecranul de pornire</string>
+
+    
+    <string name="pref_scroll_vibration_title">Vibrații derulate</string>
+    <string name="pref_scroll_vibration_summary">Feedback haptic în timp ce derulați prin aplicații recente, dacă este acceptat</string>
+
+    
+    <string name="pref_force_monochrome_themed_icons_title">Forță icoane tematice</string>
+    <string name="pref_force_monochrome_themed_icons_summary">Generați pictogramă tematică pentru aplicații care nu au una (necesită re-togglarea pictogramelor tematice)</string>
+
+    
+    <string name="icon_pack_title">Pachet de pictograme</string>
+    <string name="icon_pack_default_label">Implicit</string>
+    <string name="icon_pack_add">Instalați mai multe</string>
+    <string name="icon_pack_no_market">Nu există niciun magazin de aplicații disponibil</string>
+
+    
+    <string name="pref_auto_keyboard_title">Tastatură automată</string>
+    <string name="pref_auto_keyboard_summary">Începeți să căutați când sertarul este extins</string>
+
+    
+    <string name="smartspace_pref_title">Dintr -o privire</string>
+    <string name="smartspace_pref_summary">Afișați Smartspace în partea de sus a ecranului de pornire</string>
+
+    
+    <string name="pref_allow_cts_title">Cerc pentru a căuta</string>
+    <string name="pref_allow_cts_summary">Atingeți și mențineți butonul de pornire sau mânerul de navigare pentru a căuta folosind conținutul de pe ecran.</string>
+
+    
+    <string name="widget_category_battery">Baterie</string>
+
+    
+    <string name="widget_category_weather">Vreme</string>
+
+    
+    <string name="dock_music_search_title">Căutare muzicală</string>
+    <string name="dock_music_search_summary">Începeți căutarea muzicii pe apăsarea pictogramei microfon</string>
+
+    
+    <string name="floating_window">Plutitor</string>
 </resources>

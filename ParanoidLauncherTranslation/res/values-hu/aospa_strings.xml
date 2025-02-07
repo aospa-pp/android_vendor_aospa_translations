@@ -1,38 +1,13 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!--
-/*
-* Copyright (C) 2022 Paranoid Android
-*
-* Licensed under the Apache License, Version 2.0 (the "License");
-* you may not use this file except in compliance with the License.
-* You may obtain a copy of the License at
-*
-*      http://www.apache.org/licenses/LICENSE-2.0
-*
-* Unless required by applicable law or agreed to in writing, software
-* distributed under the License is distributed on an "AS IS" BASIS,
-* WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-* See the License for the specific language governing permissions and
-* limitations under the License.
-*/
--->
+<?xml version='1.0' encoding='utf-8'?>
 <resources>
-    <string name="title_show_google_feed">Google alkalmazás csúsztatással</string>
     <string name="msg_minus_one_on_left">Ha a főoldalon áll, húzza balra a Google feed eléréséhez</string>
     <string name="msg_minus_one_on_right">Ha a főoldalon áll, húzza jobbra a Google feed eléréséhez</string>
-    <string name="pref_dt_gesture_title">Dupla érintésre alvómód</string>
-    <string name="pref_dt_gesture_summary">Képernyő kikapcsoláshoz dupla érintés egy üres területen</string>
     <string name="suggestion_pref_screen_title">Javaslatok</string>
     <string name="suggestion_pref_screen_desc">Minden alkalmazáshoz és kezdőképernyőre javaslatok</string>
     <string name="settings_lock_layout_title">Elrendezés zárolása</string>
     <string name="settings_lock_layout_summary_on">A kezdőképernyőn nem engedélyezett az ikon- és modulhozzáadás, eltávolítás és mozgatás</string>
     <string name="settings_lock_layout_summary_off">A kezdőképernyőn engedélyezett az ikon- és modulhozzáadás, eltávolítás és mozgatás</string>
     <string name="settings_edit_widgets_error">Nem lehetséges modulokat hozzáadni a kezdőképernyőhöz</string>
-    <string name="desktop_show_labels">Alkalmazások ikonfeliratainak megjelenítése a kezdőképernyőn</string>
-    <string name="drawer_show_labels">Ikonfeliratok megjelenítése az alkalmazásfiókban</string>
-    <string name="category_google">Google</string>
-    <string name="category_icon">Ikonok</string>
-    <string name="category_recents">Alkalmazáselőzmények</string>
     <string name="label_search">Keresés</string>
     <string name="label_lens">Google Lens</string>
     <string name="label_voice_search">Hangalapú keresés</string>
@@ -43,4 +18,150 @@
     <string name="recents_lens_title">Lens</string>
     <string name="smartspace_pref_title">Betekintés</string>
     <string name="smartspace_pref_summary">Betekintő megjelenítése a kezdőképernyő tetején</string>
+    <string name="settings_title">Otthoni beállítások</string>
+
+    
+    <string name="home_category_title">Kezdőképernyő</string>
+    <string name="home_category_summary">Állítsa be a Google Now panel és még sok más</string>
+    <string name="icons_category_title">Ikonok</string>
+    <string name="icons_category_summary">Állítsa be az ikon méretét és még sok más</string>
+    <string name="app_drawer_category_title">Alkalmazásfiók</string>
+    <string name="app_drawer_category_summary">Testreszabhatja az alkalmazás fiókját</string>
+    <string name="recents_category_title">Legújabb</string>
+    <string name="recents_category_summary">Töltse fel az áttekintő képernyőt</string>
+    <string name="misc_category_title">Különféle</string>
+    <string name="misc_category_summary">Egyéb lehetőségek</string>
+    <string name="general_category_title">Általános</string>
+    <string name="interface_category_title">Felület</string>
+    <string name="search_bar_category_title">Keresősáv</string>
+    <string name="actions_category_title">Gyors tevékenységek</string>
+    <string name="quickspace_category_title">Egy pillanat alatt</string>
+
+    
+    <string name="dev_options_title">Fejlesztői lehetőségek</string>
+    <string name="dev_options_summary">Engedélyezze néhány rejtett funkciót a saját felelősségére</string>
+
+    
+    <string name="title_desktop_labels">Asztali címkék</string>
+    <string name="summary_desktop_labels">Az ikoncímkék megjelenítése az asztalon</string>
+    <string name="title_drawer_labels">Fiókos címkék</string>
+    <string name="summary_drawer_labels">Az ikoncímkék megjelenítését a fiókban</string>
+
+    
+    <string name="title_show_google_app">Nyissa ki a Google alkalmazáshoz való hozzáférést</string>
+    <string name="pref_themed_icons_title">Témájú ikonok</string>
+    <string name="pref_themed_icons_summary">Kövesse a kezdőképernyőn használt témájú ikonokat</string>
+
+    
+    <string name="trust_apps_manager_name">Rejtett és védett alkalmazások</string>
+    <string name="trust_apps_auth_manager">Nyissa ki a rejtett és védett alkalmazások kezelését</string>
+    <string name="trust_apps_auth_open_app">Hitelesítés a %1$s megnyitásához</string>
+    <string name="trust_apps_loading">Betöltés \ u2026</string>
+    <string name="trust_apps_no_lock_error">Kérjük, állítson be egy biztonságos lezárási képernyőt az alkalmazáshoz való hozzáférés korlátozásához</string>
+    <string name="trust_apps_help">Segítség</string>
+    <string name="trust_apps_info_hidden">Rejtett alkalmazások és kütyük rejtve vannak a fióktól</string>
+    <string name="trust_apps_info_protected">A védett alkalmazásoknak a hitelesítés megnyitását igényli az indítóból</string>
+    
+    
+    <string name="pref_restart_title">Újraindít</string>
+    <string name="pref_restart_summary">Indítsa újra az indítót a függőben lévő beállítások alkalmazásához</string>
+    <string name="restarting_launcher">A Launcher újraindítása…</string>
+    <string name="restarting_launcher_changes">A Launcher újraindítása a változások alkalmazásához…</string>
+    <string name="updating_launcher_components">A Launcher újraindítása az indító összetevők frissítéséhez…</string>
+
+    
+    <string name="icon_size_title">Ikonméret</string>
+
+    
+    <string name="font_size_title">Betűkészlet</string>
+
+    
+    <string name="recent_task_option_kill_app">Bezár</string>
+    <string name="recents_app_killed">Az alkalmazás bezárt</string>
+
+    
+    <string name="hotseat_bg_title">Hotseat háttér</string>
+    <string name="hotseat_bg_summary">Adjon át áttetsző hátteret az alkalmazás dokkolójához</string>
+
+    
+    <string name="allow_wallpaper_scrolling">Háttérkép görgetés</string>
+    <string name="allow_wallpaper_scrolling_summary">Háttérkép görgetési hatás több képernyőhöz</string>
+
+    
+    <string name="allow_wallpaper_zooming">Háttérkép nagyítás</string>
+    <string name="allow_wallpaper_zooming_summary">Nagyítson be vagy ki a háttérképet, amikor fiókot vagy a legutóbbi alkalmazásokat használja</string>
+
+    
+    <string name="show_statusbar_title">Megjelenítse az állapotsorot</string>
+    <string name="show_statusbar_summary">Az állapotsor megjelenítése a kezdőképernyőn</string>
+
+    
+    <string name="show_top_shadow_title">Mutasd meg a felső árnyékot</string>
+    <string name="show_top_shadow_summary">Adjon hozzá árnyékot az állapotsor alá</string>
+    
+    
+    <string name="background_blur_title">Háttér elmosódott mélység</string>
+    <string name="background_blur_summary">Állítsa be az elmosódott mélységi szintet a reagáláshoz és az alkalmazásfiókhoz</string>
+
+    
+    <string name="background_opacity_title">Háttérképesség</string>
+
+    
+    <string name="pref_sleep_gesture_title">Duplán érintse meg az alváshoz</string>
+    <string name="pref_sleep_gesture_summary">Duplán érintse meg a képernyő kilátásának üres helyet</string>
+
+    
+    <string name="recents_chips_title">Használja a kompakt akciatervezést</string>
+    <string name="recents_chips_summary">Szükség lehet a megjelenítéshez szükséges nagyszámú művelethez</string>
+    <string name="meminfo_text">%1$s elérhető | %2$s</string>
+    <string name="recents_meminfo_title">Memóriainformáció</string>
+
+    
+    <string name="drawer_search_title">App keresősáv</string>
+    <string name="drawer_search_summary">A keresősáv az alkalmazásfiók tetején</string>
+
+    
+    <string name="short_parallax_title">Engedje meg a rövid parallaxist</string>
+    <string name="short_parallax_summary">Engedélyezze a teljes háttérkép -görgetési hatást a kisebb számú oldalra a háttérkép kivágása helyett</string>
+    <string name="single_page_center_title">Egyoldalas központ</string>
+    <string name="single_page_center_summary">Központi háttérkép, ha csak egyetlen oldalt használ</string>
+
+    
+    <string name="perf_dark_status_bar_title">Sötét állapotsor</string>
+    <string name="perf_dark_status_bar_summary">Használjon sötét állapotsárt a kezdőképernyőn</string>
+
+    
+    <string name="pref_scroll_vibration_title">Görgessen rezgést</string>
+    <string name="pref_scroll_vibration_summary">Haptikus visszajelzés, miközben a legutóbbi alkalmazásokon keresztül görgessen, ha támogatják</string>
+
+    
+    <string name="pref_force_monochrome_themed_icons_title">Erőltető témájú ikonok</string>
+    <string name="pref_force_monochrome_themed_icons_summary">Téma ikon generálása olyan alkalmazásokhoz, amelyeknek nincs ilyen (megköveteli a témájú ikonok újracsomagolását)</string>
+
+    
+    <string name="icon_pack_title">Ikoncsomag</string>
+    <string name="icon_pack_default_label">Mulasztás</string>
+    <string name="icon_pack_add">Telepítsen többet</string>
+    <string name="icon_pack_no_market">Nincs elérhető App Store</string>
+
+    
+    <string name="pref_auto_keyboard_title">Automatikus billentyűzet</string>
+    <string name="pref_auto_keyboard_summary">Kezdje el a keresést, amikor a fiók kibővül</string>
+
+    
+    <string name="pref_allow_cts_title">Kör a kereséshez</string>
+    <string name="pref_allow_cts_summary">Érintse meg és tartsa meg a Kezdőlap gombot vagy a navigációs fogantyút a képernyő tartalmának kereséséhez.</string>
+
+    
+    <string name="widget_category_battery">Akkumulátor</string>
+
+    
+    <string name="widget_category_weather">Időjárás</string>
+
+    
+    <string name="dock_music_search_title">Zenei keresés</string>
+    <string name="dock_music_search_summary">Indítsa el a zenei keresést a MIC ikon megnyomásával</string>
+
+    
+    <string name="floating_window">Úszó</string>
 </resources>

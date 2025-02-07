@@ -1,35 +1,11 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!--
-/*
-* Copyright (C) 2022 Paranoid Android
-*
-* Licensed under the Apache License, Version 2.0 (the "License");
-* you may not use this file except in compliance with the License.
-* You may obtain a copy of the License at
-*
-*      http://www.apache.org/licenses/LICENSE-2.0
-*
-* Unless required by applicable law or agreed to in writing, software
-* distributed under the License is distributed on an "AS IS" BASIS,
-* WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-* See the License for the specific language governing permissions and
-* limitations under the License.
-*/
--->
+<?xml version='1.0' encoding='utf-8'?>
 <resources>
-    <string name="title_show_google_feed">Přejetím přejít do aplikace Google</string>
-    <string name="pref_dt_gesture_title">Dvojím poklepáním uspat</string>
-    <string name="pref_dt_gesture_summary">Dvojím poklepáním do prázdného prostoru uspat zařízení</string>
     <string name="suggestion_pref_screen_title">Návrhy</string>
     <string name="suggestion_pref_screen_desc">Pro všechny aplikace &amp; návrhy na ploše</string>
     <string name="settings_lock_layout_title">Uzamknout rozložení</string>
     <string name="settings_lock_layout_summary_on">Ikony a widgety nelze přidat, odebrat a přesunout na domovské obrazovce</string>
     <string name="settings_lock_layout_summary_off">Ikony a widgety lze přidat, odebrat a přesunout na domovské obrazovce</string>
     <string name="settings_edit_widgets_error">Nelze přidat widgety na domovskou obrazovku</string>
-    <string name="desktop_show_labels">Zobrazit popisky ikon na ploše</string>
-    <string name="drawer_show_labels">Zobrazit popisky ikon v menu aplikací</string>
-    <string name="category_google">Google</string>
-    <string name="category_icon">Ikony</string>
     <string name="label_search">Vyhledat</string>
     <string name="label_lens">Google Lens</string>
     <string name="label_voice_search">Hlasové vyhledávání</string>
@@ -37,4 +13,160 @@
     <string name="recents_lens_title">Lens</string>
     <string name="smartspace_pref_title">Přehled událostí</string>
     <string name="smartspace_pref_summary">Zobrazení inteligentního prostoru v horní části domovské obrazovky</string>
+    <string name="settings_title">Domácí nastavení</string>
+
+    
+    <string name="home_category_title">Domovská obrazovka</string>
+    <string name="home_category_summary">Nastavit panel Google a další</string>
+    <string name="icons_category_title">Ikony</string>
+    <string name="icons_category_summary">Nastavit velikost ikony a další</string>
+    <string name="app_drawer_category_title">Zásuvka aplikací</string>
+    <string name="app_drawer_category_summary">Přizpůsobte zásuvku aplikace</string>
+    <string name="recents_category_title">Nedávné</string>
+    <string name="recents_category_summary">Přepracovat obrazovku přehledu</string>
+    <string name="misc_category_title">Smíšený</string>
+    <string name="misc_category_summary">Další možnosti</string>
+    <string name="general_category_title">Generál</string>
+    <string name="interface_category_title">Rozhraní</string>
+    <string name="search_bar_category_title">Vyhledávací lišta</string>
+    <string name="actions_category_title">Rychlé akce</string>
+    <string name="quickspace_category_title">Na první pohled</string>
+
+    
+    <string name="dev_options_title">Možnosti vývojáře</string>
+    <string name="dev_options_summary">Povolte některé skryté funkce na vlastní riziko</string>
+
+    
+    <string name="title_desktop_labels">Desktopové štítky</string>
+    <string name="summary_desktop_labels">Zobrazit štítky ikon na ploše</string>
+    <string name="title_drawer_labels">Štítky zásuvky</string>
+    <string name="summary_drawer_labels">Zobrazit štítky ikon v zásuvce</string>
+
+    
+    <string name="title_show_google_app">Přejetím přístupu k přístupu k aplikaci Google</string>
+    <string name="msg_minus_one_on_left">Když přejedete přímo z hlavní domovské obrazovky</string>
+    
+    <string name="msg_minus_one_on_right">Když přejedete z hlavní domovské obrazovky přejeďte doleva</string>
+
+    
+    <string name="pref_themed_icons_title">Tematické ikony</string>
+    <string name="pref_themed_icons_summary">Sledujte tematické ikony používané na domovské obrazovce</string>
+
+    
+    <string name="trust_apps_manager_name">Skryté a chráněné aplikace</string>
+    <string name="trust_apps_auth_manager">Odemkněte pro správu skrytých a chráněných aplikací</string>
+    <string name="trust_apps_auth_open_app">Autentizace k otevření %1$s</string>
+    <string name="trust_apps_loading">Načítání \ u2026</string>
+    <string name="trust_apps_no_lock_error">Nastavte prosím obrazovku zabezpečeného zámku, abyste omezili přístup k aplikaci</string>
+    <string name="trust_apps_help">Pomoc</string>
+    <string name="trust_apps_info_hidden">Skryté aplikace a jejich widgety jsou skryty před zásuvkou</string>
+    <string name="trust_apps_info_protected">Chráněné aplikace vyžadují otevření ověřování před spouštěčem</string>
+    
+    
+    <string name="pref_restart_title">Restart</string>
+    <string name="pref_restart_summary">Restartujte spouštěč ručně a použijte jakékoli probíhající nastavení</string>
+    <string name="restarting_launcher">Restartování launcher…</string>
+    <string name="restarting_launcher_changes">Restartování spouštěče pro použití změn…</string>
+    <string name="updating_launcher_components">Restartování spouštěče pro aktualizaci komponent spouštěče…</string>
+
+    
+    <string name="icon_size_title">Velikost ikon</string>
+
+    
+    <string name="font_size_title">Velikost písma</string>
+
+    
+    <string name="dock_search_summary">Vyhledávací lišta ve spodním doku</string>
+
+    
+    <string name="recent_task_option_kill_app">Force Close</string>
+    <string name="recents_app_killed">Aplikace uzavřena</string>
+
+    
+    <string name="hotseat_bg_title">Pozadí horkého masa</string>
+    <string name="hotseat_bg_summary">Přidejte průsvitné pozadí do Doku aplikace</string>
+
+    
+    <string name="allow_wallpaper_scrolling">Rolování tapety</string>
+    <string name="allow_wallpaper_scrolling_summary">Efekt rolování tapet pro více obrazovek</string>
+
+    
+    <string name="allow_wallpaper_zooming">Přiblížení tapety</string>
+    <string name="allow_wallpaper_zooming_summary">Při použití zásuvky nebo nedávných aplikací přiblížit nebo vystupujte do tapety</string>
+
+    
+    <string name="show_statusbar_title">Zobrazit stavový řádek</string>
+    <string name="show_statusbar_summary">Zobrazit stavový řádek na domovské obrazovce</string>
+
+    
+    <string name="show_top_shadow_title">Zobrazit top stín</string>
+    <string name="show_top_shadow_summary">Přidejte stín pod stavovou řádek</string>
+    
+    
+    <string name="background_blur_title">Hloubka rozostření pozadí</string>
+    <string name="background_blur_summary">Nastavte úroveň hloubky rozostření pro přílivy a zásuvku aplikací</string>
+
+    
+    <string name="background_opacity_title">Neprůhlednost pozadí</string>
+
+    
+    <string name="pref_sleep_gesture_title">Poklepejte na spánek</string>
+    <string name="pref_sleep_gesture_summary">Poklepejte na prázdný prostor pro obrazovku</string>
+
+    
+    <string name="recents_chips_title">Použijte kompaktní návrh akce</string>
+    <string name="recents_chips_summary">Může být vyžadováno pro zobrazení velkého počtu akcí</string>
+    <string name="recents_screenshot_title">Screenshot</string>
+    <string name="recents_clear_all_title">Vyčistit vše</string>
+    <string name="meminfo_text">%1$s k dispozici | %2$s</string>
+    <string name="recents_meminfo_title">Informace o paměti</string>
+
+    
+    <string name="drawer_search_title">Síť pro vyhledávání aplikací</string>
+    <string name="drawer_search_summary">Vyhledávací lišta na horní části zásuvky aplikací</string>
+
+    
+    <string name="short_parallax_title">Povolit krátkou paralaxovou</string>
+    <string name="short_parallax_summary">Povolte účinek svitu plné tapety na menší počet stránek místo oříznutí tapety</string>
+    <string name="single_page_center_title">Centrum jedné stránky</string>
+    <string name="single_page_center_summary">Centrová tapeta, pokud používáte pouze jednu stránku</string>
+
+    
+    <string name="perf_dark_status_bar_title">Tmavý stavový řádek</string>
+    <string name="perf_dark_status_bar_summary">Použijte tmavý stavový řádek na domovské obrazovce</string>
+
+    
+    <string name="pref_scroll_vibration_title">Scroll vibrace</string>
+    <string name="pref_scroll_vibration_summary">Haptická zpětná vazba při procházení nedávnými aplikacemi, pokud je podporována</string>
+
+    
+    <string name="pref_force_monochrome_themed_icons_title">Ikony s tématem</string>
+    <string name="pref_force_monochrome_themed_icons_summary">Generujte tematickou ikonu pro aplikace, které ji nemají (vyžaduje opětovné vyhledávání tématických ikon)</string>
+
+    
+    <string name="icon_pack_title">Ikona balení</string>
+    <string name="icon_pack_default_label">Výchozí</string>
+    <string name="icon_pack_add">Nainstalujte další</string>
+    <string name="icon_pack_no_market">Neexistuje žádný dostupný obchod s aplikacemi</string>
+
+    
+    <string name="pref_auto_keyboard_title">Automatická klávesnice</string>
+    <string name="pref_auto_keyboard_summary">Začněte hledat, když je zásuvka rozšířena</string>
+
+    
+    <string name="pref_allow_cts_title">Kruh k hledání</string>
+    <string name="pref_allow_cts_summary">Dotkněte se a podržte tlačítko Domů nebo navigační popisovač pro vyhledávání pomocí obsahu na obrazovce.</string>
+
+    
+    <string name="widget_category_battery">Baterie</string>
+
+    
+    <string name="widget_category_weather">Počasí</string>
+
+    
+    <string name="dock_music_search_title">Hledání hudby</string>
+    <string name="dock_music_search_summary">Začněte vyhledávání hudby na stisknutí ikony MIC</string>
+
+    
+    <string name="floating_window">Plovoucí</string>
 </resources>

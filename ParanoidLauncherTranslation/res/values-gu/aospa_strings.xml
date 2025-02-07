@@ -1,35 +1,11 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!--
-/*
-* Copyright (C) 2022 Paranoid Android
-*
-* Licensed under the Apache License, Version 2.0 (the "License");
-* you may not use this file except in compliance with the License.
-* You may obtain a copy of the License at
-*
-*      http://www.apache.org/licenses/LICENSE-2.0
-*
-* Unless required by applicable law or agreed to in writing, software
-* distributed under the License is distributed on an "AS IS" BASIS,
-* WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-* See the License for the specific language governing permissions and
-* limitations under the License.
-*/
--->
+<?xml version='1.0' encoding='utf-8'?>
 <resources>
-    <string name="title_show_google_feed">ગૂગલ ફીડ વાપરવા સ્વાઈપ કરો </string>
-    <string name="pref_dt_gesture_title">સ્લીપ માટે ડબલ-ટૅપ કરો</string>
-    <string name="pref_dt_gesture_summary">સ્ક્રીન ને બંધ કરવા માટે સ્ક્રિન નો ખાલી ભાગ દબાવો </string>
     <string name="suggestion_pref_screen_title">સૂચનો</string>
     <string name="suggestion_pref_screen_desc">તમામ એપ્લિકેશન્સ માટે &amp;  હોમ સ્ક્રીન સૂચનો</string>
     <string name="settings_lock_layout_title">લૉક લેઆઉટ</string>
     <string name="settings_lock_layout_summary_on">હોમસ્ક્રીન પર ચિહ્નો અને વિજેટ્સ ઉમેરી, દૂર તથા ખસેડી શકાતા નથી</string>
     <string name="settings_lock_layout_summary_off">હોમસ્ક્રીન પર ચિહ્નો અને વિજેટ્સ ઉમેરી, દૂર તથા ખસેડી શકાય છે</string>
     <string name="settings_edit_widgets_error">હોમ સ્ક્રીન પર વિજેટ્સ ઉમેરવાનું શક્ય નથી</string>
-    <string name="desktop_show_labels">ડેસ્કટૉપ પર આઇકન લેબલ બતાવો</string>
-    <string name="drawer_show_labels">ડ્રોઅરમાં આઇકન લેબલ બતાવો</string>
-    <string name="category_google">ગુગલ </string>
-    <string name="category_icon">આયકન્સ</string>
     <string name="label_search">શોધો</string>
     <string name="label_lens">ગૂગલ લેન્સ </string>
     <string name="label_voice_search">ધ્વનિ શોધ</string>
@@ -37,4 +13,160 @@
     <string name="recents_lens_title">લેન્સ</string>
     <string name="smartspace_pref_title">એટ અ ગ્લાન્સ </string>
     <string name="smartspace_pref_summary">હોમ સ્ક્રીનની ટોચ પર સ્માર્ટસ્પેસ બતાવો</string>
+    <string name="settings_title">હોમ સેટિંગ્સ</string>
+
+    
+    <string name="home_category_title">સ્વદેશ</string>
+    <string name="home_category_summary">ગૂગલ નાઉ પેનલ અને વધુ સેટ કરો</string>
+    <string name="icons_category_title">ચિહ્નો</string>
+    <string name="icons_category_summary">આયકનનું કદ અને વધુ સેટ કરો</string>
+    <string name="app_drawer_category_title">હાથ</string>
+    <string name="app_drawer_category_summary">તમારા એપ્લિકેશન ડ્રોઅરને કસ્ટમાઇઝ કરો</string>
+    <string name="recents_category_title">તાજેતરનું</string>
+    <string name="recents_category_summary">વિહંગાવલોકન સ્ક્રીનને સુધારવા</string>
+    <string name="misc_category_title">પરચુરણ</string>
+    <string name="misc_category_summary">અન્ય વિકલ્પો</string>
+    <string name="general_category_title">સામાન્ય</string>
+    <string name="interface_category_title">પ્રસારણ</string>
+    <string name="search_bar_category_title">શોધ પટ્ટી</string>
+    <string name="actions_category_title">ઝડપી ક્રિયાઓ</string>
+    <string name="quickspace_category_title">એક નજરમાં</string>
+
+    
+    <string name="dev_options_title">વિકાસકર્તા વિકલ્પો</string>
+    <string name="dev_options_summary">તમારા પોતાના જોખમે કેટલીક છુપાયેલી સુવિધાઓને સક્ષમ કરો</string>
+
+    
+    <string name="title_desktop_labels">ડેસ્કટ .પ લેબલ્સ</string>
+    <string name="summary_desktop_labels">ડેસ્કટ .પ પર આયકન લેબલ્સ બતાવો</string>
+    <string name="title_drawer_labels">ડ્રોઅર લેબલ્સ</string>
+    <string name="summary_drawer_labels">ડ્રોઅરમાં આયકન લેબલ્સ બતાવો</string>
+
+    
+    <string name="title_show_google_app">ગૂગલ એપ્લિકેશનને to ક્સેસ કરવા માટે સ્વાઇપ</string>
+    <string name="msg_minus_one_on_left">જ્યારે તમે મુખ્ય હોમ સ્ક્રીનથી જ સ્વાઇપ કરો છો</string>
+    
+    <string name="msg_minus_one_on_right">જ્યારે તમે મુખ્ય હોમ સ્ક્રીન પરથી ડાબી બાજુ સ્વાઇપ કરો છો</string>
+
+    
+    <string name="pref_themed_icons_title">થીમ આધારિત ચિહ્નો</string>
+    <string name="pref_themed_icons_summary">હોમ સ્ક્રીન પર વપરાયેલ થીમ આધારિત ચિહ્નોને અનુસરો</string>
+
+    
+    <string name="trust_apps_manager_name">છુપાયેલ અને સુરક્ષિત એપ્લિકેશનો</string>
+    <string name="trust_apps_auth_manager">છુપાયેલા અને સુરક્ષિત એપ્લિકેશનોનું સંચાલન કરવા માટે અનલ lock ક કરો</string>
+    <string name="trust_apps_auth_open_app">%1$s ખોલવા માટે પ્રમાણિત કરો</string>
+    <string name="trust_apps_loading">લોડ કરી રહ્યું છે \ u2026</string>
+    <string name="trust_apps_no_lock_error">કૃપા કરીને એપ્લિકેશન access ક્સેસને પ્રતિબંધિત કરવા માટે સુરક્ષિત લ screen ક સ્ક્રીન સેટ કરો</string>
+    <string name="trust_apps_help">મદદ</string>
+    <string name="trust_apps_info_hidden">છુપાયેલ એપ્લિકેશનો અને તેમના વિજેટો ડ્રોઅરથી છુપાયેલા છે</string>
+    <string name="trust_apps_info_protected">સુરક્ષિત એપ્લિકેશન્સને પ્રક્ષેપણમાંથી ખોલવા માટે પ્રમાણીકરણની જરૂર છે</string>
+    
+    
+    <string name="pref_restart_title">ફરીથી પ્રારંભ કરવો</string>
+    <string name="pref_restart_summary">કોઈપણ બાકી સેટિંગ્સ લાગુ કરવા માટે જાતે જ પ્રક્ષેપણને ફરીથી પ્રારંભ કરો</string>
+    <string name="restarting_launcher">લ laun ંચરને ફરીથી પ્રારંભ કરવું…</string>
+    <string name="restarting_launcher_changes">ફેરફારો લાગુ કરવા માટે લ laun ંચરને ફરીથી પ્રારંભ કરવું…</string>
+    <string name="updating_launcher_components">લ laun ંચર ઘટકોને અપડેટ કરવા માટે લ laun ંચરને ફરીથી પ્રારંભ કરવું…</string>
+
+    
+    <string name="icon_size_title">મૂર્તિ કદ</string>
+
+    
+    <string name="font_size_title">ફ ont ન્ટ કદ</string>
+
+    
+    <string name="dock_search_summary">તળિયે ગોદીમાં શોધ બાર</string>
+
+    
+    <string name="recent_task_option_kill_app">બળવાન</string>
+    <string name="recents_app_killed">એપ્લિકેશન બંધ</string>
+
+    
+    <string name="hotseat_bg_title">હોટસીટ બેકગ્રાઉન્ડ</string>
+    <string name="hotseat_bg_summary">એપ્લિકેશન ડોકમાં અર્ધપારદર્શક પૃષ્ઠભૂમિ ઉમેરો</string>
+
+    
+    <string name="allow_wallpaper_scrolling">વ wallp લપેપર સ્ક્રોલિંગ</string>
+    <string name="allow_wallpaper_scrolling_summary">બહુવિધ સ્ક્રીનો માટે વ wallp લપેપર સ્ક્રોલિંગ અસર</string>
+
+    
+    <string name="allow_wallpaper_zooming">વ wallpaper લપેપર ઝૂમ</string>
+    <string name="allow_wallpaper_zooming_summary">ડ્રોઅર અથવા તાજેતરની એપ્લિકેશનોનો ઉપયોગ કરતી વખતે વ wallp લપેપરમાં ઝૂમ ઇન અથવા બહાર</string>
+
+    
+    <string name="show_statusbar_title">સ્થિતિ બાર બતાવો</string>
+    <string name="show_statusbar_summary">હોમ સ્ક્રીન પર સ્ટેટસ બાર બતાવો</string>
+
+    
+    <string name="show_top_shadow_title">ટોચની છાયા બતાવો</string>
+    <string name="show_top_shadow_summary">સ્થિતિ બારની નીચે શેડો ઉમેરો</string>
+    
+    
+    <string name="background_blur_title">પૃષ્ઠભૂમિ અસ્પષ્ટ .ંડાઈ</string>
+    <string name="background_blur_summary">રીસેન્ટ્સ અને એપ્લિકેશન ડ્રોઅર માટે અસ્પષ્ટ depth ંડાઈનું સ્તર સેટ કરો</string>
+
+    
+    <string name="background_opacity_title">પૃષ્ઠભૂમિ</string>
+
+    
+    <string name="pref_sleep_gesture_title">Sleep ંઘ માટે ડબલ ટેપ</string>
+    <string name="pref_sleep_gesture_summary">સ્ક્રીન બંધ માટે ખાલી જગ્યા પર ડબલ ટેપ કરો</string>
+
+    
+    <string name="recents_chips_title">કોમ્પેક્ટ એક્શન ડિઝાઇનનો ઉપયોગ કરો</string>
+    <string name="recents_chips_summary">મોટી સંખ્યામાં ક્રિયાઓ પ્રદર્શિત કરવા માટે જરૂરી હોઈ શકે છે</string>
+    <string name="recents_screenshot_title">સ્ક્રીનશોટ</string>
+    <string name="recents_clear_all_title">બધુ સાફ કરવું</string>
+    <string name="meminfo_text">%1$s ઉપલબ્ધ | %2$s</string>
+    <string name="recents_meminfo_title">મેમરી માહિતી</string>
+
+    
+    <string name="drawer_search_title">એપ્લિકેશન શોધ બાર</string>
+    <string name="drawer_search_summary">એપ્લિકેશન ડ્રોઅરની ટોચ પર શોધ બાર</string>
+
+    
+    <string name="short_parallax_title">ટૂંકા લંબન પરવાનગી આપો</string>
+    <string name="short_parallax_summary">વ wallp લપેપરને કાપવાને બદલે નાની સંખ્યામાં પૃષ્ઠો પર સંપૂર્ણ વ wallp લપેપર સ્ક્રોલ અસરને સક્ષમ કરો</string>
+    <string name="single_page_center_title">એક જ પાના કેન્દ્ર</string>
+    <string name="single_page_center_summary">કેન્દ્ર વ wallp લપેપર જો ફક્ત એક જ પૃષ્ઠનો ઉપયોગ કરીને</string>
+
+    
+    <string name="perf_dark_status_bar_title">ડાર્ક સ્ટેટસ બાર</string>
+    <string name="perf_dark_status_bar_summary">હોમ સ્ક્રીન પર ડાર્ક સ્ટેટસ બારનો ઉપયોગ કરો</string>
+
+    
+    <string name="pref_scroll_vibration_title">સ્ક્રોલ કંપન</string>
+    <string name="pref_scroll_vibration_summary">જો સપોર્ટેડ હોય તો તાજેતરની એપ્લિકેશનો દ્વારા સ્ક્રોલ કરતી વખતે હેપ્ટિક પ્રતિસાદ</string>
+
+    
+    <string name="pref_force_monochrome_themed_icons_title">થીમ આધારિત ચિહ્નો</string>
+    <string name="pref_force_monochrome_themed_icons_summary">એપ્લિકેશનો માટે થીમ આધારિત ચિહ્ન બનાવો કે જેમાં એક ન હોય (થીમ આધારિત ચિહ્નોની ફરીથી ટોગલિંગની જરૂર છે)</string>
+
+    
+    <string name="icon_pack_title">શ્રમ પેક</string>
+    <string name="icon_pack_default_label">બાકી</string>
+    <string name="icon_pack_add">વધુ સ્થાપિત કરો</string>
+    <string name="icon_pack_no_market">ત્યાં કોઈ એપ્લિકેશન સ્ટોર ઉપલબ્ધ નથી</string>
+
+    
+    <string name="pref_auto_keyboard_title">સ્વત key કીબોર્ડ</string>
+    <string name="pref_auto_keyboard_summary">જ્યારે ડ્રોઅર વિસ્તૃત થાય છે ત્યારે શોધવાનું પ્રારંભ કરો</string>
+
+    
+    <string name="pref_allow_cts_title">શોધવા માટે વર્તુળ</string>
+    <string name="pref_allow_cts_summary">તમારી સ્ક્રીન પરની સામગ્રીનો ઉપયોગ કરીને શોધવા માટે હોમ બટન અથવા નેવિગેશન હેન્ડલને ટચ કરો અને હોલ્ડ કરો.</string>
+
+    
+    <string name="widget_category_battery">બેટરી</string>
+
+    
+    <string name="widget_category_weather">હવામાન</string>
+
+    
+    <string name="dock_music_search_title">સંગીત શોધ</string>
+    <string name="dock_music_search_summary">માઇક ચિહ્ન દબાવવા પર સંગીત શોધ શરૂ કરો</string>
+
+    
+    <string name="floating_window">તરતું</string>
 </resources>

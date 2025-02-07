@@ -1,38 +1,13 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!--
-/*
-* Copyright (C) 2022 Paranoid Android
-*
-* Licensed under the Apache License, Version 2.0 (the "License");
-* you may not use this file except in compliance with the License.
-* You may obtain a copy of the License at
-*
-*      http://www.apache.org/licenses/LICENSE-2.0
-*
-* Unless required by applicable law or agreed to in writing, software
-* distributed under the License is distributed on an "AS IS" BASIS,
-* WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-* See the License for the specific language governing permissions and
-* limitations under the License.
-*/
--->
+<?xml version='1.0' encoding='utf-8'?>
 <resources>
-    <string name="title_show_google_feed">滑動顯示 Google 即時資訊</string>
     <string name="msg_minus_one_on_left">在主畫面上向左滑動來顯示 Google 即時資訊</string>
     <string name="msg_minus_one_on_right">在主畫面上向右滑動來顯示 Google 即時資訊</string>
-    <string name="pref_dt_gesture_title">輕觸兩下休眠</string>
-    <string name="pref_dt_gesture_summary">在空白處輕觸兩下以關閉螢幕</string>
     <string name="suggestion_pref_screen_title">建議</string>
     <string name="suggestion_pref_screen_desc">在應用程式清單和主畫面上顯示建議</string>
     <string name="settings_lock_layout_title">鎖定佈局</string>
     <string name="settings_lock_layout_summary_on">禁止新增、移除或移動主畫面上的圖示及小工具</string>
     <string name="settings_lock_layout_summary_off">允許在主畫面上新增、移除或移動圖示及小工具</string>
     <string name="settings_edit_widgets_error">無法將小工具新增至主畫面</string>
-    <string name="desktop_show_labels">在桌面上顯示應用程式名稱</string>
-    <string name="drawer_show_labels">在應用程式清單中顯示應用程式名稱</string>
-    <string name="category_google">Google</string>
-    <string name="category_icon">圖示</string>
-    <string name="category_recents">最近的應用程式</string>
     <string name="label_search">搜尋</string>
     <string name="label_lens">智慧鏡頭</string>
     <string name="label_voice_search">語音搜尋</string>
@@ -43,4 +18,150 @@
     <string name="recents_lens_title">智慧鏡頭</string>
     <string name="smartspace_pref_title">快速查看</string>
     <string name="smartspace_pref_summary">在主畫面頂部顯示快速查看小工具</string>
+    <string name="settings_title">家庭設置</string>
+
+    
+    <string name="home_category_title">主屏幕</string>
+    <string name="home_category_summary">設置Google Now面板等等</string>
+    <string name="icons_category_title">圖示</string>
+    <string name="icons_category_summary">設置圖標尺寸以及更多</string>
+    <string name="app_drawer_category_title">應用抽屜</string>
+    <string name="app_drawer_category_summary">自定義您的應用抽屜</string>
+    <string name="recents_category_title">最近的</string>
+    <string name="recents_category_summary">修改概述屏幕</string>
+    <string name="misc_category_title">各種各樣的</string>
+    <string name="misc_category_summary">其他選項</string>
+    <string name="general_category_title">一般的</string>
+    <string name="interface_category_title">介面</string>
+    <string name="search_bar_category_title">搜索欄</string>
+    <string name="actions_category_title">快速動作</string>
+    <string name="quickspace_category_title">一目了然</string>
+
+    
+    <string name="dev_options_title">開發人員選項</string>
+    <string name="dev_options_summary">啟用某些隱藏功能自身的風險</string>
+
+    
+    <string name="title_desktop_labels">桌面標籤</string>
+    <string name="summary_desktop_labels">在桌面上顯示圖標標籤</string>
+    <string name="title_drawer_labels">抽屜標籤</string>
+    <string name="summary_drawer_labels">在抽屜中顯示圖標標籤</string>
+
+    
+    <string name="title_show_google_app">滑動以訪問Google應用程序</string>
+    <string name="pref_themed_icons_title">主題圖標</string>
+    <string name="pref_themed_icons_summary">遵循主屏幕上使用的主題圖標</string>
+
+    
+    <string name="trust_apps_manager_name">隱藏和受保護的應用</string>
+    <string name="trust_apps_auth_manager">解鎖以管理隱藏和受保護的應用程序</string>
+    <string name="trust_apps_auth_open_app">身份驗證以打開%1$s</string>
+    <string name="trust_apps_loading">加載\ U2026</string>
+    <string name="trust_apps_no_lock_error">請設置一個安全的鎖定屏幕以限制應用程序訪問</string>
+    <string name="trust_apps_help">幫助</string>
+    <string name="trust_apps_info_hidden">隱藏的應用程序及其小部件隱藏在抽屜中</string>
+    <string name="trust_apps_info_protected">受保護的應用需要從發射器打開身份驗證</string>
+    
+    
+    <string name="pref_restart_title">重新啟動</string>
+    <string name="pref_restart_summary">手動重新啟動發射器以應用任何待處理設置</string>
+    <string name="restarting_launcher">重新啟動發射器…</string>
+    <string name="restarting_launcher_changes">重新啟動啟動器以應用更改…</string>
+    <string name="updating_launcher_components">重新啟動啟動器以更新發射器組件…</string>
+
+    
+    <string name="icon_size_title">圖標大小</string>
+
+    
+    <string name="font_size_title">字體大小</string>
+
+    
+    <string name="recent_task_option_kill_app">力量關閉</string>
+    <string name="recents_app_killed">應用關閉</string>
+
+    
+    <string name="hotseat_bg_title">座位背景</string>
+    <string name="hotseat_bg_summary">將半透明背景添加到應用程序碼頭</string>
+
+    
+    <string name="allow_wallpaper_scrolling">牆紙滾動</string>
+    <string name="allow_wallpaper_scrolling_summary">多個屏幕的牆紙滾動效果</string>
+
+    
+    <string name="allow_wallpaper_zooming">牆紙縮放</string>
+    <string name="allow_wallpaper_zooming_summary">使用抽屜或最新應用時，放大或刪除牆紙</string>
+
+    
+    <string name="show_statusbar_title">展示狀態欄</string>
+    <string name="show_statusbar_summary">主屏幕上的表演狀態欄</string>
+
+    
+    <string name="show_top_shadow_title">顯示頂部陰影</string>
+    <string name="show_top_shadow_summary">在狀態欄下添加陰影</string>
+    
+    
+    <string name="background_blur_title">背景模糊深度</string>
+    <string name="background_blur_summary">為恢復和應用抽屜設置模糊的深度水平</string>
+
+    
+    <string name="background_opacity_title">背景不透明度</string>
+
+    
+    <string name="pref_sleep_gesture_title">雙擊入睡</string>
+    <string name="pref_sleep_gesture_summary">雙擊空空間以供屏幕關閉</string>
+
+    
+    <string name="recents_chips_title">使用緊湊的動作設計</string>
+    <string name="recents_chips_summary">可能需要大量的動作來顯示</string>
+    <string name="meminfo_text">%1$s 可用的 | %2$s</string>
+    <string name="recents_meminfo_title">內存信息</string>
+
+    
+    <string name="drawer_search_title">應用搜索欄</string>
+    <string name="drawer_search_summary">在應用抽屜頂部的搜索欄</string>
+
+    
+    <string name="short_parallax_title">允許短視</string>
+    <string name="short_parallax_summary">在較小的頁面上啟用完整的牆紙滾動效果，而不是裁剪牆紙</string>
+    <string name="single_page_center_title">單頁中心</string>
+    <string name="single_page_center_summary">中心壁紙，如果僅使用一頁</string>
+
+    
+    <string name="perf_dark_status_bar_title">深色狀態欄</string>
+    <string name="perf_dark_status_bar_summary">在主屏幕上使用深色狀態欄</string>
+
+    
+    <string name="pref_scroll_vibration_title">滾動振動</string>
+    <string name="pref_scroll_vibration_summary">如果支持</string>
+
+    
+    <string name="pref_force_monochrome_themed_icons_title">強迫主題圖標</string>
+    <string name="pref_force_monochrome_themed_icons_summary">為沒有一個的應用程序生成主題圖標（需要重新邀請主題圖標）</string>
+
+    
+    <string name="icon_pack_title">圖標包</string>
+    <string name="icon_pack_default_label">預設</string>
+    <string name="icon_pack_add">安裝更多</string>
+    <string name="icon_pack_no_market">沒有可用的應用商店</string>
+
+    
+    <string name="pref_auto_keyboard_title">自動鍵盤</string>
+    <string name="pref_auto_keyboard_summary">當抽屜擴展時開始搜索</string>
+
+    
+    <string name="pref_allow_cts_title">圈子搜索</string>
+    <string name="pref_allow_cts_summary">使用屏幕上的內容觸摸並按住主頁按鈕或導航手柄以搜索。</string>
+
+    
+    <string name="widget_category_battery">電池</string>
+
+    
+    <string name="widget_category_weather">天氣</string>
+
+    
+    <string name="dock_music_search_title">音樂搜索</string>
+    <string name="dock_music_search_summary">按下按麥克風圖標開始音樂搜索</string>
+
+    
+    <string name="floating_window">漂浮的</string>
 </resources>

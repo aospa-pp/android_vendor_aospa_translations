@@ -1,38 +1,13 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!--
-/*
-* Copyright (C) 2022 Paranoid Android
-*
-* Licensed under the Apache License, Version 2.0 (the "License");
-* you may not use this file except in compliance with the License.
-* You may obtain a copy of the License at
-*
-*      http://www.apache.org/licenses/LICENSE-2.0
-*
-* Unless required by applicable law or agreed to in writing, software
-* distributed under the License is distributed on an "AS IS" BASIS,
-* WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-* See the License for the specific language governing permissions and
-* limitations under the License.
-*/
--->
+<?xml version='1.0' encoding='utf-8'?>
 <resources>
-    <string name="title_show_google_feed">Scorri per accedere a Google Feed</string>
     <string name="msg_minus_one_on_left">Dalla schermata Home, scorri a sinistra per aprire Google Feed</string>
     <string name="msg_minus_one_on_right">Dalla schermata Home, scorri a destra per aprire Google Feed</string>
-    <string name="pref_dt_gesture_title">Tocca due volte per spegnere lo schermo</string>
-    <string name="pref_dt_gesture_summary">Tocca due volte nello spazio vuoto per spegnere lo schermo</string>
     <string name="suggestion_pref_screen_title">Suggerimenti</string>
     <string name="suggestion_pref_screen_desc">Per tutte le app &amp; suggerimenti schermata Home</string>
     <string name="settings_lock_layout_title">Blocca layout</string>
     <string name="settings_lock_layout_summary_on">Le icone e i widget non possono essere aggiunti, rimossi e spostati nella schermata Home</string>
     <string name="settings_lock_layout_summary_off">Le icone e i widget possono essere aggiunti, rimossi e spostati nella schermata Home</string>
     <string name="settings_edit_widgets_error">Non è possibile aggiungere widget alla schermata Home</string>
-    <string name="desktop_show_labels">Mostra i nomi delle icone nella schermata Home</string>
-    <string name="drawer_show_labels">Mostra i nomi delle icone nel drawer</string>
-    <string name="category_google">Google</string>
-    <string name="category_icon">Icone</string>
-    <string name="category_recents">Recenti</string>
     <string name="label_search">Cerca</string>
     <string name="label_lens">Google Lens</string>
     <string name="label_voice_search">Ricerca vocale</string>
@@ -43,4 +18,149 @@
     <string name="recents_lens_title">Lens</string>
     <string name="smartspace_pref_title">At a Glance</string>
     <string name="smartspace_pref_summary">Mostra smartspace nella parte superiore della schermata Home</string>
+    <string name="settings_title">Impostazioni domestiche</string>
+
+    
+    <string name="home_category_title">Schermata principale</string>
+    <string name="home_category_summary">Imposta il pannello Google Now e altro ancora</string>
+    <string name="icons_category_title">Icone</string>
+    <string name="icons_category_summary">Imposta le dimensioni dell\'icona e altro ancora</string>
+    <string name="app_drawer_category_title">Cassetto delle app</string>
+    <string name="app_drawer_category_summary">Personalizza il cassetto dell\'app</string>
+    <string name="recents_category_title">Recente</string>
+    <string name="recents_category_summary">Rinnova la schermata Panoramica</string>
+    <string name="misc_category_title">Varie</string>
+    <string name="misc_category_summary">Altre opzioni</string>
+    <string name="general_category_title">Generale</string>
+    <string name="interface_category_title">Interfaccia</string>
+    <string name="search_bar_category_title">Barra di ricerca</string>
+    <string name="actions_category_title">Azioni rapide</string>
+    <string name="quickspace_category_title">A colpo d\'occhio</string>
+
+    
+    <string name="dev_options_title">Opzioni per sviluppatori</string>
+    <string name="dev_options_summary">Abilita alcune funzionalità nascoste a proprio rischio</string>
+
+    
+    <string name="title_desktop_labels">Etichette desktop</string>
+    <string name="summary_desktop_labels">Mostra etichette di icona sul desktop</string>
+    <string name="title_drawer_labels">Etichette dei cassetti</string>
+    <string name="summary_drawer_labels">Mostra le etichette delle icone nel cassetto</string>
+
+    
+    <string name="title_show_google_app">Scorri per accedere all\'app Google</string>
+    <string name="pref_themed_icons_title">Icone a tema</string>
+    <string name="pref_themed_icons_summary">Segui le icone a tema utilizzate nella schermata principale</string>
+
+    
+    <string name="trust_apps_manager_name">App nascoste e protette</string>
+    <string name="trust_apps_auth_manager">Sblocca per gestire le app nascoste e protette</string>
+    <string name="trust_apps_auth_open_app">Autenticarsi per aprire %1$s</string>
+    <string name="trust_apps_loading">Caricamento \ U2026</string>
+    <string name="trust_apps_no_lock_error">Si prega di impostare una schermata di blocco sicura per limitare l\'accesso all\'app</string>
+    <string name="trust_apps_help">Aiuto</string>
+    <string name="trust_apps_info_hidden">Le app nascoste e i loro widget sono nascosti dal cassetto</string>
+    <string name="trust_apps_info_protected">Le app protette richiedono l\'apertura dell\'autenticazione dal lanciatore</string>
+    
+    
+    <string name="pref_restart_title">Ricomincia</string>
+    <string name="pref_restart_summary">Riavvia manualmente il lanciatore per applicare qualsiasi impostazione in sospeso</string>
+    <string name="restarting_launcher">Riavvio del lanciarazzi…</string>
+    <string name="restarting_launcher_changes">Riavvio del lanciatore per applicare le modifiche…</string>
+    <string name="updating_launcher_components">Riavvia il lanciatore per aggiornare i componenti del lanciatore…</string>
+
+    
+    <string name="icon_size_title">Dimensione dell\'icona</string>
+
+    
+    <string name="font_size_title">Dimensione del carattere</string>
+
+    
+    <string name="recent_task_option_kill_app">Forzare Close</string>
+    <string name="recents_app_killed">App chiusa</string>
+
+    
+    <string name="hotseat_bg_title">Sfondo di hotseat</string>
+    <string name="hotseat_bg_summary">Aggiungi background traslucido al dock dell\'app</string>
+
+    
+    <string name="allow_wallpaper_scrolling">SCHEDPAPER SCOLLING</string>
+    <string name="allow_wallpaper_scrolling_summary">Effetto di scorrimento dello sfondo per più schermi</string>
+
+    
+    <string name="allow_wallpaper_zooming">Sfondo Zooming</string>
+    <string name="allow_wallpaper_zooming_summary">Ingrandire o uscire dallo sfondo quando si utilizza un cassetto o app recenti</string>
+
+    
+    <string name="show_statusbar_title">Mostra barra di stato</string>
+    <string name="show_statusbar_summary">Mostra barra di stato nella schermata principale</string>
+
+    
+    <string name="show_top_shadow_title">Mostra l\'ombra superiore</string>
+    <string name="show_top_shadow_summary">Aggiungi l\'ombra sotto la barra di stato</string>
+    
+    
+    <string name="background_blur_title">Sfondo sfollatura profondità</string>
+    <string name="background_blur_summary">Imposta il livello di profondità della sfocatura per recenti e cassetti delle app</string>
+
+    
+    <string name="background_opacity_title">Opacità di fondo</string>
+
+    
+    <string name="pref_sleep_gesture_title">Doppio tocco per dormire</string>
+    <string name="pref_sleep_gesture_summary">Tocca doppia sullo spazio vuoto per lo schermo disattivato</string>
+
+    
+    <string name="recents_chips_title">Usa il design di azione compatta</string>
+    <string name="recents_chips_summary">Può essere richiesto per un gran numero di azioni da visualizzare</string>
+    <string name="meminfo_text">%1$s disponibile | %2$s</string>
+    <string name="recents_meminfo_title">Informazioni sulla memoria</string>
+
+    
+    <string name="drawer_search_title">Barra di ricerca delle app</string>
+    <string name="drawer_search_summary">Barra di ricerca in cima al cassetto dell\'app</string>
+
+    
+    <string name="short_parallax_title">Consentire una corta parallasse</string>
+    <string name="short_parallax_summary">Abilita l\'effetto di scorrimento completo dello sfondo su un numero minore di pagine invece di ritagliare lo sfondo</string>
+    <string name="single_page_center_title">Centro di singola pagina</string>
+    <string name="single_page_center_summary">Sfondo centrale se solo utilizzando una singola pagina</string>
+
+    
+    <string name="perf_dark_status_bar_title">Barra di stato oscuro</string>
+    <string name="perf_dark_status_bar_summary">Usa la barra dello stato scuro nella schermata principale</string>
+
+    
+    <string name="pref_scroll_vibration_title">Scorri vibrazioni</string>
+    <string name="pref_scroll_vibration_summary">Feedback tattico mentre scorre attraverso le app recenti, se supportate</string>
+
+    
+    <string name="pref_force_monochrome_themed_icons_title">Forzare le icone a tema</string>
+    <string name="pref_force_monochrome_themed_icons_summary">Genera icona a tema per app che non ne hanno una (richiede il rimborso di icone a tema)</string>
+
+    
+    <string name="icon_pack_title">Icona pacchetto</string>
+    <string name="icon_pack_add">Installa di più</string>
+    <string name="icon_pack_no_market">Non c\'è app store disponibile</string>
+
+    
+    <string name="pref_auto_keyboard_title">Tastiera automatica</string>
+    <string name="pref_auto_keyboard_summary">Inizia a cercare quando il cassetto viene ampliato</string>
+
+    
+    <string name="pref_allow_cts_title">Cerchia per cercare</string>
+    <string name="pref_allow_cts_summary">Tocca e tieni premuto il pulsante Home o la maniglia di navigazione per cercare utilizzando il contenuto sullo schermo.</string>
+
+    
+    <string name="widget_category_battery">Batteria</string>
+
+    
+    <string name="widget_category_weather">Tempo atmosferico</string>
+
+    
+    <string name="dock_music_search_title">Ricerca musicale</string>
+    <string name="dock_music_search_summary">Avvia la ricerca musicale sulla pressione dell\'icona del microfono</string>
+
+    
+    <string name="floating_window">Fluttuante</string>
 </resources>

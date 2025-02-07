@@ -1,38 +1,13 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!--
-/*
-* Copyright (C) 2022 Paranoid Android
-*
-* Licensed under the Apache License, Version 2.0 (the "License");
-* you may not use this file except in compliance with the License.
-* You may obtain a copy of the License at
-*
-*      http://www.apache.org/licenses/LICENSE-2.0
-*
-* Unless required by applicable law or agreed to in writing, software
-* distributed under the License is distributed on an "AS IS" BASIS,
-* WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-* See the License for the specific language governing permissions and
-* limitations under the License.
-*/
--->
+<?xml version='1.0' encoding='utf-8'?>
 <resources>
-    <string name="title_show_google_feed">Przesuń, aby uzyskać dostęp do aplikacji Google</string>
     <string name="msg_minus_one_on_left">Na ekranie głównym przesuń palcem w lewo, aby otworzyć kanał Google</string>
     <string name="msg_minus_one_on_right">Na ekranie głównym przesuń palcem w prawo, aby otworzyć kanał Google</string>
-    <string name="pref_dt_gesture_title">Dotknij dwukrotnie, aby uśpić</string>
-    <string name="pref_dt_gesture_summary">Dotknij dwukrotnie w puste miejsce, aby wyłączyć ekran</string>
     <string name="suggestion_pref_screen_title">Podpowiedzi</string>
     <string name="suggestion_pref_screen_desc">Podpowiedzi dla wszystkich aplikacji i ekranu głównego</string>
     <string name="settings_lock_layout_title">Zablokuj układ</string>
     <string name="settings_lock_layout_summary_on">Ikon i widżetów nie można dodawać, usuwać, ani przenosić na ekranie głównym</string>
     <string name="settings_lock_layout_summary_off">Ikony i widżety można dodawać, usuwać oraz przenosić na ekranie głównym</string>
     <string name="settings_edit_widgets_error">Nie można dodać widżetów do ekranu głównego</string>
-    <string name="desktop_show_labels">Pokaż etykiety aplikacji na pulpicie</string>
-    <string name="drawer_show_labels">Pokaż etykiety aplikacji w szufladzie aplikacji</string>
-    <string name="category_google">Google</string>
-    <string name="category_icon">Ikony</string>
-    <string name="category_recents">Ostatnio używane</string>
     <string name="label_search">Szukaj</string>
     <string name="label_lens">Obiektyw Google</string>
     <string name="label_voice_search">Wyszukiwanie głosowe</string>
@@ -43,4 +18,150 @@
     <string name="recents_lens_title">Obiektyw</string>
     <string name="smartspace_pref_title">W skrócie</string>
     <string name="smartspace_pref_summary">Pokaż inteligentną przestrzeń w górnej części ekranu</string>
+    <string name="settings_title">Ustawienia domu</string>
+
+    
+    <string name="home_category_title">Ekran główny</string>
+    <string name="home_category_summary">Ustaw panel Google Now i więcej</string>
+    <string name="icons_category_title">Ikony</string>
+    <string name="icons_category_summary">Ustaw rozmiar ikony i więcej</string>
+    <string name="app_drawer_category_title">Szuflada aplikacji</string>
+    <string name="app_drawer_category_summary">Dostosuj szufladę aplikacji</string>
+    <string name="recents_category_title">Ostatni</string>
+    <string name="recents_category_summary">Odnowić ekran przeglądu</string>
+    <string name="misc_category_title">Różnorodny</string>
+    <string name="misc_category_summary">Inne opcje</string>
+    <string name="general_category_title">Ogólny</string>
+    <string name="interface_category_title">Interfejs</string>
+    <string name="search_bar_category_title">Pasek wyszukiwania</string>
+    <string name="actions_category_title">Szybkie działania</string>
+    <string name="quickspace_category_title">Na pierwszy rzut oka</string>
+
+    
+    <string name="dev_options_title">Opcje programistów</string>
+    <string name="dev_options_summary">Włącz niektóre ukryte funkcje na własne ryzyko</string>
+
+    
+    <string name="title_desktop_labels">Etykiety stacjonarne</string>
+    <string name="summary_desktop_labels">Pokaż etykiety ikon na komputery</string>
+    <string name="title_drawer_labels">Etykiety szuflad</string>
+    <string name="summary_drawer_labels">Pokaż etykiety ikon w szufladzie</string>
+
+    
+    <string name="title_show_google_app">Przesuń, aby uzyskać dostęp do aplikacji Google</string>
+    <string name="pref_themed_icons_title">Ikony tematyczne</string>
+    <string name="pref_themed_icons_summary">Śledź ikony tematyczne używane na ekranie głównym</string>
+
+    
+    <string name="trust_apps_manager_name">Ukryte i chronione aplikacje</string>
+    <string name="trust_apps_auth_manager">Odblokuj, aby zarządzać ukrytymi i chronionymi aplikacjami</string>
+    <string name="trust_apps_auth_open_app">Uwierzytelnienie, aby otworzyć %1$s</string>
+    <string name="trust_apps_loading">Ładowanie \ u2026</string>
+    <string name="trust_apps_no_lock_error">Skonfiguruj bezpieczny ekran blokady, aby ograniczyć dostęp do aplikacji</string>
+    <string name="trust_apps_help">Pomoc</string>
+    <string name="trust_apps_info_hidden">Ukryte aplikacje i ich widżety są ukryte przed szufladą</string>
+    <string name="trust_apps_info_protected">Aplikacje chronione wymagają otwarcia uwierzytelnienia z uruchamiania</string>
+    
+    
+    <string name="pref_restart_title">Uruchom ponownie</string>
+    <string name="pref_restart_summary">Uruchom ponownie uruchamianie ręcznie, aby zastosować wszelkie oczekujące ustawienia</string>
+    <string name="restarting_launcher">Uruchamianie uruchamiającego…</string>
+    <string name="restarting_launcher_changes">Uruchomienie uruchamiającego w celu zastosowania zmian…</string>
+    <string name="updating_launcher_components">Ponowne uruchamianie uruchamiającego aktualizację komponentów wyrzutni…</string>
+
+    
+    <string name="icon_size_title">Rozmiar ikony</string>
+
+    
+    <string name="font_size_title">Rozmiar czcionki</string>
+
+    
+    <string name="recent_task_option_kill_app">Zamień</string>
+    <string name="recents_app_killed">Aplikacja zamknięta</string>
+
+    
+    <string name="hotseat_bg_title">Tło gorące</string>
+    <string name="hotseat_bg_summary">Dodaj półprzezroczyste tło do dokowania aplikacji</string>
+
+    
+    <string name="allow_wallpaper_scrolling">Przewijanie tapety</string>
+    <string name="allow_wallpaper_scrolling_summary">Efekt przewijania tapety dla wielu ekranów</string>
+
+    
+    <string name="allow_wallpaper_zooming">Powiększanie tapety</string>
+    <string name="allow_wallpaper_zooming_summary">Powiększ lub wychodzą tapetę podczas korzystania z szuflady lub najnowszych aplikacji</string>
+
+    
+    <string name="show_statusbar_title">Pokaż pasek stanu</string>
+    <string name="show_statusbar_summary">Pokaż pasek stanu na ekranie głównym</string>
+
+    
+    <string name="show_top_shadow_title">Pokaż Top Shadow</string>
+    <string name="show_top_shadow_summary">Dodaj cień pod paskiem stanu</string>
+    
+    
+    <string name="background_blur_title">Tło Rozmycie głębokość</string>
+    <string name="background_blur_summary">Ustaw poziom głębokości rozmycia dla reakcji i szuflady aplikacji</string>
+
+    
+    <string name="background_opacity_title">Krycie tła</string>
+
+    
+    <string name="pref_sleep_gesture_title">Dwukrotnie dotknij spać</string>
+    <string name="pref_sleep_gesture_summary">Dwukrotnie dotknij pustego miejsca na ekran wyłączony</string>
+
+    
+    <string name="recents_chips_title">Użyj kompaktowej projektowania akcji</string>
+    <string name="recents_chips_summary">Może być wymagane do wyświetlenia dużej liczby działań</string>
+    <string name="meminfo_text">%1$s dostępny | %2$s</string>
+    <string name="recents_meminfo_title">Informacje o pamięci</string>
+
+    
+    <string name="drawer_search_title">Pasek wyszukiwania aplikacji</string>
+    <string name="drawer_search_summary">Pasek wyszukiwania na szufladzie aplikacji</string>
+
+    
+    <string name="short_parallax_title">Pozwól krótkiej paralaksy</string>
+    <string name="short_parallax_summary">Włącz pełny efekt przewijania tapety na mniejszą liczbę stron zamiast przycinać tapetę</string>
+    <string name="single_page_center_title">Centrum pojedynczej strony</string>
+    <string name="single_page_center_summary">Tapeta środkowa, jeśli tylko używa jednej strony</string>
+
+    
+    <string name="perf_dark_status_bar_title">Ciemny pasek statusu</string>
+    <string name="perf_dark_status_bar_summary">Użyj ciemnego paska stanu na ekranie głównym</string>
+
+    
+    <string name="pref_scroll_vibration_title">Wibracja przewijania</string>
+    <string name="pref_scroll_vibration_summary">Haptic Informacje zwrotne podczas przewijania najnowszych aplikacji, jeśli są obsługiwane</string>
+
+    
+    <string name="pref_force_monochrome_themed_icons_title">Mieć ikony tematyczne</string>
+    <string name="pref_force_monochrome_themed_icons_summary">Wygeneruj ikonę tematyczną aplikacji, które nie mają (wymaga ponownego obleśności ikon tematycznych)</string>
+
+    
+    <string name="icon_pack_title">Pakiet ikon</string>
+    <string name="icon_pack_default_label">Domyślny</string>
+    <string name="icon_pack_add">Zainstaluj więcej</string>
+    <string name="icon_pack_no_market">Nie ma dostępnego sklepu z aplikacjami</string>
+
+    
+    <string name="pref_auto_keyboard_title">Klawiatura automatyczna</string>
+    <string name="pref_auto_keyboard_summary">Zacznij szukać, gdy szuflada jest rozszerzona</string>
+
+    
+    <string name="pref_allow_cts_title">Okrąg do wyszukiwania</string>
+    <string name="pref_allow_cts_summary">Dotknij i przytrzymaj przycisk Home lub uchwyt nawigacyjny, aby wyszukiwać za pomocą zawartości na ekranie.</string>
+
+    
+    <string name="widget_category_battery">Bateria</string>
+
+    
+    <string name="widget_category_weather">Pogoda</string>
+
+    
+    <string name="dock_music_search_title">Wyszukiwanie muzyki</string>
+    <string name="dock_music_search_summary">Rozpocznij wyszukiwanie muzyki na naciśnięciu ikony mikrofonu</string>
+
+    
+    <string name="floating_window">Ruchomy</string>
 </resources>

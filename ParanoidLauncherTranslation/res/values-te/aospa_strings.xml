@@ -1,38 +1,13 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!--
-/*
-* Copyright (C) 2022 Paranoid Android
-*
-* Licensed under the Apache License, Version 2.0 (the "License");
-* you may not use this file except in compliance with the License.
-* You may obtain a copy of the License at
-*
-*      http://www.apache.org/licenses/LICENSE-2.0
-*
-* Unless required by applicable law or agreed to in writing, software
-* distributed under the License is distributed on an "AS IS" BASIS,
-* WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-* See the License for the specific language governing permissions and
-* limitations under the License.
-*/
--->
+<?xml version='1.0' encoding='utf-8'?>
 <resources>
-    <string name="title_show_google_feed">గూగుల్ ఫీడ్ పొందడానికి స్వైప్ చెయ్యండి</string>
     <string name="msg_minus_one_on_left">హోమ్ స్క్రీన్ నుంచి ,ఎడమ చేతి వైపుకు వెళ్లండి గూగుల్ఫీడ్ కోసం</string>
     <string name="msg_minus_one_on_right">హోమ్ స్క్రీన్ నుంచి ,కుడి చేతి వైపుకు వెళ్లండి గూగుల్ఫీడ్ కోసం</string>
-    <string name="pref_dt_gesture_title">స్లీప్ కొరకు డబల్ టాప్ చెయ్యండి</string>
-    <string name="pref_dt_gesture_summary">కాలి ప్రదేశం లో డబల్ టాప్ చెయ్యండి స్క్రీన్ ఆఫ్ చెయ్యడానికి</string>
     <string name="suggestion_pref_screen_title">సూచన</string>
     <string name="suggestion_pref_screen_desc">అన్ని ఆప్స్ మరియు హోం స్క్రీన్ సూచనలు</string>
     <string name="settings_lock_layout_title">లాక్ లేఔట్</string>
     <string name="settings_lock_layout_summary_on">హోం స్క్రీన్ లో ఐకాన్స్ మరియు విడ్జెట్స్ , జరపడడానికి కానీ తీసివేయడానికి కాని కొత్తవి పెట్టడానికి కానీ కుదరదు</string>
     <string name="settings_lock_layout_summary_off">హోం స్క్రీన్ లో ఐకాన్స్ మరియు విడ్జెట్స్ , కొత్తవి పెట్టడానికి కానీ తీసివేయడానికి కానీ జరపడానికి కుదురుతుంది</string>
     <string name="settings_edit_widgets_error">హోం స్క్రీన్ కి విడ్జెట్స్ ని పెట్టడానికి కుదరదు</string>
-    <string name="desktop_show_labels">డెస్క్టాప్ పైన ఐకాన్ పేర్లను చూపించు</string>
-    <string name="drawer_show_labels">డ్రాయర్ లో ఐకాన్ పేర్లను చూపించు</string>
-    <string name="category_google">గూగుల్</string>
-    <string name="category_icon">ఐకాన్స్</string>
-    <string name="category_recents">ఇటీవలివి</string>
     <string name="label_search">వెతుకు</string>
     <string name="label_lens">గూగుల్ లెన్స్</string>
     <string name="label_voice_search">వాయిస్ సెర్చ్</string>
@@ -43,4 +18,150 @@
     <string name="recents_lens_title">లెన్స్</string>
     <string name="smartspace_pref_title">గ్లాన్స్ లో</string>
     <string name="smartspace_pref_summary">హోం స్క్రీన్ పైన స్మార్ట్ స్పేస్ చూపించు</string>
+    <string name="settings_title">హోమ్ సెట్టింగులు</string>
+
+    
+    <string name="home_category_title">హోమ్ స్క్రీన్</string>
+    <string name="home_category_summary">గూగుల్ నౌ ప్యానెల్ మరియు మరిన్నింటిని సెట్ చేయండి</string>
+    <string name="icons_category_title">చిహ్నాలు</string>
+    <string name="icons_category_summary">ఐకాన్ పరిమాణం మరియు మరిన్ని సెట్ చేయండి</string>
+    <string name="app_drawer_category_title">అనువర్తన డ్రాయర్</string>
+    <string name="app_drawer_category_summary">మీ అనువర్తన డ్రాయర్‌ను అనుకూలీకరించండి</string>
+    <string name="recents_category_title">ఇటీవలి</string>
+    <string name="recents_category_summary">అవలోకనం స్క్రీన్‌ను పునరుద్ధరించండి</string>
+    <string name="misc_category_title">ఇతరాలు</string>
+    <string name="misc_category_summary">ఇతర ఎంపికలు</string>
+    <string name="general_category_title">జనరల్</string>
+    <string name="interface_category_title">ఇంటర్ఫేస్</string>
+    <string name="search_bar_category_title">శోధన పట్టీ</string>
+    <string name="actions_category_title">శీఘ్ర చర్యలు</string>
+    <string name="quickspace_category_title">ఒక చూపులో</string>
+
+    
+    <string name="dev_options_title">డెవలపర్ ఎంపికలు</string>
+    <string name="dev_options_summary">మీ స్వంత పూచీతో కొన్ని దాచిన లక్షణాలను ప్రారంభించండి</string>
+
+    
+    <string name="title_desktop_labels">డెస్క్‌టాప్ లేబుల్స్</string>
+    <string name="summary_desktop_labels">డెస్క్‌టాప్‌లో ఐకాన్ లేబుళ్ళను చూపించు</string>
+    <string name="title_drawer_labels">డ్రాయర్ లేబుల్స్</string>
+    <string name="summary_drawer_labels">డ్రాయర్‌లో ఐకాన్ లేబుళ్ళను చూపించు</string>
+
+    
+    <string name="title_show_google_app">Google అనువర్తనాన్ని యాక్సెస్ చేయడానికి స్వైప్ చేయండి</string>
+    <string name="pref_themed_icons_title">నేపథ్య చిహ్నాలు</string>
+    <string name="pref_themed_icons_summary">హోమ్ స్క్రీన్‌లో ఉపయోగించే నేపథ్య చిహ్నాలను అనుసరించండి</string>
+
+    
+    <string name="trust_apps_manager_name">దాచిన మరియు రక్షిత అనువర్తనాలు</string>
+    <string name="trust_apps_auth_manager">దాచిన మరియు రక్షిత అనువర్తనాలను నిర్వహించడానికి అన్‌లాక్ చేయండి</string>
+    <string name="trust_apps_auth_open_app">%1$s తెరవడానికి ప్రామాణీకరించండి</string>
+    <string name="trust_apps_loading">\ U2026 లోడ్ అవుతోంది</string>
+    <string name="trust_apps_no_lock_error">అనువర్తన ప్రాప్యతను పరిమితం చేయడానికి దయచేసి సురక్షిత లాక్ స్క్రీన్‌ను సెటప్ చేయండి</string>
+    <string name="trust_apps_help">సహాయం</string>
+    <string name="trust_apps_info_hidden">దాచిన అనువర్తనాలు మరియు వాటి విడ్జెట్‌లు డ్రాయర్ నుండి దాచబడ్డాయి</string>
+    <string name="trust_apps_info_protected">రక్షిత అనువర్తనాలకు లాంచర్ నుండి ప్రామాణీకరణ తెరవడం అవసరం</string>
+    
+    
+    <string name="pref_restart_title">పున art ప్రారంభం</string>
+    <string name="pref_restart_summary">పెండింగ్‌లో ఉన్న సెట్టింగులను వర్తింపచేయడానికి లాంచర్‌ను మానవీయంగా పున art ప్రారంభించండి</string>
+    <string name="restarting_launcher">లాంచర్‌ను పున art ప్రారంభించడం…</string>
+    <string name="restarting_launcher_changes">మార్పులను వర్తింపజేయడానికి లాంచర్‌ను పున art ప్రారంభించడం…</string>
+    <string name="updating_launcher_components">లాంచర్‌ను పున art ప్రారంభించడం లాంచర్ భాగాలను నవీకరించడానికి…</string>
+
+    
+    <string name="icon_size_title">ఐకాన్ పరిమాణం</string>
+
+    
+    <string name="font_size_title">ఫాంట్ పరిమాణం</string>
+
+    
+    <string name="recent_task_option_kill_app">ఫోర్స్ క్లోజ్</string>
+    <string name="recents_app_killed">అనువర్తనం మూసివేయబడింది</string>
+
+    
+    <string name="hotseat_bg_title">హాట్‌సీట్ నేపథ్యం</string>
+    <string name="hotseat_bg_summary">అనువర్తన డాక్‌కు అపారదర్శక నేపథ్యాన్ని జోడించండి</string>
+
+    
+    <string name="allow_wallpaper_scrolling">వాల్పేపర్ స్క్రోలింగ్</string>
+    <string name="allow_wallpaper_scrolling_summary">బహుళ స్క్రీన్‌ల కోసం వాల్‌పేపర్ స్క్రోలింగ్ ప్రభావం</string>
+
+    
+    <string name="allow_wallpaper_zooming">వాల్పేపర్ జూమింగ్</string>
+    <string name="allow_wallpaper_zooming_summary">డ్రాయర్ లేదా ఇటీవలి అనువర్తనాలను ఉపయోగిస్తున్నప్పుడు వాల్‌పేపర్‌లో జూమ్ లేదా వెలుపల</string>
+
+    
+    <string name="show_statusbar_title">స్థితి పట్టీని చూపించు</string>
+    <string name="show_statusbar_summary">హోమ్ స్క్రీన్‌లో స్టేటస్ బార్ చూపించు</string>
+
+    
+    <string name="show_top_shadow_title">టాప్ షాడో చూపించు</string>
+    <string name="show_top_shadow_summary">స్థితి పట్టీ క్రింద నీడను జోడించండి</string>
+    
+    
+    <string name="background_blur_title">నేపథ్య బ్లర్ లోతు</string>
+    <string name="background_blur_summary">పునరావృతాలు మరియు అనువర్తన డ్రాయర్ కోసం బ్లర్ డెప్త్ స్థాయిని సెట్ చేయండి</string>
+
+    
+    <string name="background_opacity_title">నేపథ్య అస్పష్టత</string>
+
+    
+    <string name="pref_sleep_gesture_title">నిద్రకు డబుల్ ట్యాప్</string>
+    <string name="pref_sleep_gesture_summary">స్క్రీన్ ఆఫ్ కోసం ఖాళీ స్థలంలో డబుల్ ట్యాప్</string>
+
+    
+    <string name="recents_chips_title">కాంపాక్ట్ యాక్షన్ డిజైన్‌ను ఉపయోగించండి</string>
+    <string name="recents_chips_summary">పెద్ద సంఖ్యలో చర్యలు ప్రదర్శించడానికి అవసరం కావచ్చు</string>
+    <string name="meminfo_text">%1$s అందుబాటులో ఉంది | %2$s</string>
+    <string name="recents_meminfo_title">మెమరీ సమాచారం</string>
+
+    
+    <string name="drawer_search_title">అనువర్తన శోధన పట్టీ</string>
+    <string name="drawer_search_summary">అనువర్తన డ్రాయర్ పైన శోధన పట్టీ</string>
+
+    
+    <string name="short_parallax_title">చిన్న పారలాక్స్ అనుమతించండి</string>
+    <string name="short_parallax_summary">వాల్‌పేపర్‌ను పండించే బదులు చిన్న సంఖ్యలో పేజీలపై పూర్తి వాల్‌పేపర్ స్క్రోల్ ప్రభావాన్ని ప్రారంభించండి</string>
+    <string name="single_page_center_title">ఒకే పేజీ కేంద్రం</string>
+    <string name="single_page_center_summary">సెంటర్ వాల్‌పేపర్ ఒకే పేజీని ఉపయోగిస్తే</string>
+
+    
+    <string name="perf_dark_status_bar_title">డార్క్ స్టేటస్ బార్</string>
+    <string name="perf_dark_status_bar_summary">హోమ్ స్క్రీన్‌లో డార్క్ స్టేటస్ బార్‌ను ఉపయోగించండి</string>
+
+    
+    <string name="pref_scroll_vibration_title">స్క్రోల్ వైబ్రేషన్</string>
+    <string name="pref_scroll_vibration_summary">హాప్టిక్ ఫీడ్‌బ్యాక్ ఇటీవలి అనువర్తనాల ద్వారా స్క్రోలింగ్ చేస్తున్నప్పుడు, మద్దతు ఇస్తే</string>
+
+    
+    <string name="pref_force_monochrome_themed_icons_title">ఫోర్స్ నేపథ్య చిహ్నాలు</string>
+    <string name="pref_force_monochrome_themed_icons_summary">ఒకటి లేని అనువర్తనాల కోసం నేపథ్య చిహ్నాన్ని రూపొందించండి (నేపథ్య చిహ్నాలను తిరిగి ఎదుర్కోవడం అవసరం)</string>
+
+    
+    <string name="icon_pack_title">ఐకాన్ ప్యాక్</string>
+    <string name="icon_pack_default_label">డిఫాల్ట్</string>
+    <string name="icon_pack_add">మరిన్ని ఇన్‌స్టాల్ చేయండి</string>
+    <string name="icon_pack_no_market">అందుబాటులో ఉన్న యాప్ స్టోర్ లేదు</string>
+
+    
+    <string name="pref_auto_keyboard_title">ఆటో కీబోర్డ్</string>
+    <string name="pref_auto_keyboard_summary">డ్రాయర్ విస్తరించినప్పుడు శోధించడం ప్రారంభించండి</string>
+
+    
+    <string name="pref_allow_cts_title">శోధించడానికి సర్కిల్</string>
+    <string name="pref_allow_cts_summary">మీ స్క్రీన్‌లోని కంటెంట్‌ను ఉపయోగించి శోధించడానికి హోమ్ బటన్ లేదా నావిగేషన్ హ్యాండిల్‌ను తాకి పట్టుకోండి.</string>
+
+    
+    <string name="widget_category_battery">బ్యాటరీ</string>
+
+    
+    <string name="widget_category_weather">వాతావరణం</string>
+
+    
+    <string name="dock_music_search_title">సంగీత శోధన</string>
+    <string name="dock_music_search_summary">MIC చిహ్నాన్ని నొక్కడంపై సంగీత శోధనను ప్రారంభించండి</string>
+
+    
+    <string name="floating_window">ఫ్లోటింగ్</string>
 </resources>

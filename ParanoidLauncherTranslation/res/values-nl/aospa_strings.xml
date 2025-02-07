@@ -1,38 +1,13 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!--
-/*
-* Copyright (C) 2022 Paranoid Android
-*
-* Licensed under the Apache License, Version 2.0 (the "License");
-* you may not use this file except in compliance with the License.
-* You may obtain a copy of the License at
-*
-*      http://www.apache.org/licenses/LICENSE-2.0
-*
-* Unless required by applicable law or agreed to in writing, software
-* distributed under the License is distributed on an "AS IS" BASIS,
-* WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-* See the License for the specific language governing permissions and
-* limitations under the License.
-*/
--->
+<?xml version='1.0' encoding='utf-8'?>
 <resources>
-    <string name="title_show_google_feed">Veeg voor toegang tot de Google feed</string>
     <string name="msg_minus_one_on_left">Veeg vanuit het startscherm naar links om de Google feed te openen</string>
     <string name="msg_minus_one_on_right">Veeg vanuit het startscherm naar rechts om de Google feed te openen</string>
-    <string name="pref_dt_gesture_title">Dubbeltik om te slapen</string>
-    <string name="pref_dt_gesture_summary">Dubbeltik op lege ruimte om het scherm uit te schakelen</string>
     <string name="suggestion_pref_screen_title">Suggesties</string>
     <string name="suggestion_pref_screen_desc">Voor alle apps &amp; startscherm suggesties</string>
     <string name="settings_lock_layout_title">Layout vastzetten</string>
     <string name="settings_lock_layout_summary_on">Pictogrammen en widgets kunnen niet worden toegevoegd, verwijderd en verplaatst op het startscherm</string>
     <string name="settings_lock_layout_summary_off">Pictogrammen en widgets kunnen worden toegevoegd, verwijderd en verplaatst op het startscherm</string>
     <string name="settings_edit_widgets_error">Het is niet mogelijk om widgets toe te voegen aan het startscherm</string>
-    <string name="desktop_show_labels">Toon pictogram labels op het thuisscherm</string>
-    <string name="drawer_show_labels">Toon pictogram labels in app overzicht</string>
-    <string name="category_google">Google</string>
-    <string name="category_icon">Pictogrammen</string>
-    <string name="category_recents">Recente apps</string>
     <string name="label_search">Zoeken</string>
     <string name="label_lens">Google Lens</string>
     <string name="label_voice_search">Spraakgestuurd zoeken</string>
@@ -43,4 +18,150 @@
     <string name="recents_lens_title">Lens</string>
     <string name="smartspace_pref_title">In een Oogopslag</string>
     <string name="smartspace_pref_summary">Toon smartspace bovenaan het startscherm</string>
+    <string name="settings_title">Thuisinstellingen</string>
+
+    
+    <string name="home_category_title">Startscherm</string>
+    <string name="home_category_summary">Stel Google Now -paneel in en meer</string>
+    <string name="icons_category_title">Pictogrammen</string>
+    <string name="icons_category_summary">Stel de pictogramgrootte in en meer</string>
+    <string name="app_drawer_category_title">App -lade</string>
+    <string name="app_drawer_category_summary">Pas uw app -lade aan</string>
+    <string name="recents_category_title">Recentelijk</string>
+    <string name="recents_category_summary">Vernieuw het overzichtsscherm</string>
+    <string name="misc_category_title">Gemengd</string>
+    <string name="misc_category_summary">Andere opties</string>
+    <string name="general_category_title">Algemeen</string>
+    <string name="interface_category_title">Interface</string>
+    <string name="search_bar_category_title">Zoekbalk</string>
+    <string name="actions_category_title">Snelle acties</string>
+    <string name="quickspace_category_title">In één oogopslag</string>
+
+    
+    <string name="dev_options_title">Ontwikkelaarsopties</string>
+    <string name="dev_options_summary">Schakel enkele verborgen functies in op eigen risico</string>
+
+    
+    <string name="title_desktop_labels">Bureaubladlabels</string>
+    <string name="summary_desktop_labels">Toon pictogramlabels op desktop</string>
+    <string name="title_drawer_labels">Labels</string>
+    <string name="summary_drawer_labels">Toon pictogramlabels in lade</string>
+
+    
+    <string name="title_show_google_app">Veeg om toegang te krijgen tot Google -app</string>
+    <string name="pref_themed_icons_title">Thema -pictogrammen</string>
+    <string name="pref_themed_icons_summary">Volg thempictogrammen die op het startscherm worden gebruikt</string>
+
+    
+    <string name="trust_apps_manager_name">Verborgen en beschermde apps</string>
+    <string name="trust_apps_auth_manager">Ontgrendel om de verborgen en beschermde apps te beheren</string>
+    <string name="trust_apps_auth_open_app">Authenticeer om %1$s te openen</string>
+    <string name="trust_apps_loading">Laden \ u2026</string>
+    <string name="trust_apps_no_lock_error">Stel een beveiligd vergrendelingsscherm in om de app -toegang te beperken</string>
+    <string name="trust_apps_help">Hulp</string>
+    <string name="trust_apps_info_hidden">Verborgen apps en hun widgets zijn verborgen voor de lade</string>
+    <string name="trust_apps_info_protected">Beschermde apps vereisen dat authenticatie wordt geopend vanuit de launcher</string>
+    
+    
+    <string name="pref_restart_title">Opnieuw opstarten</string>
+    <string name="pref_restart_summary">Start de launcher handmatig opnieuw op om eventuele hangende instellingen toe te passen</string>
+    <string name="restarting_launcher">Launcher opnieuw opstarten…</string>
+    <string name="restarting_launcher_changes">Launcher opnieuw opstarten om wijzigingen toe te passen…</string>
+    <string name="updating_launcher_components">Launcher opnieuw opstarten om Launcher -componenten bij te werken…</string>
+
+    
+    <string name="icon_size_title">Pictogramformaat</string>
+
+    
+    <string name="font_size_title">Lettergrootte</string>
+
+    
+    <string name="recent_task_option_kill_app">Dwingen</string>
+    <string name="recents_app_killed">App gesloten</string>
+
+    
+    <string name="hotseat_bg_title">Hotseat -achtergrond</string>
+    <string name="hotseat_bg_summary">Voeg doorschijnende achtergrond toe aan het app -dok</string>
+
+    
+    <string name="allow_wallpaper_scrolling">Wallpaper scrollen</string>
+    <string name="allow_wallpaper_scrolling_summary">Wallpaper scrolling effect voor meerdere schermen</string>
+
+    
+    <string name="allow_wallpaper_zooming">Wallpaper zoomen</string>
+    <string name="allow_wallpaper_zooming_summary">Zoom in of uit de achtergrond bij het gebruik van lade of recente apps</string>
+
+    
+    <string name="show_statusbar_title">Statusbalk weergeven</string>
+    <string name="show_statusbar_summary">Statusbalk weergeven op het startscherm</string>
+
+    
+    <string name="show_top_shadow_title">Toon topschaduw</string>
+    <string name="show_top_shadow_summary">Voeg schaduw toe onder de statusbalk</string>
+    
+    
+    <string name="background_blur_title">Achtergrond vervaging diepte</string>
+    <string name="background_blur_summary">Stel het vervagingsdiepte in voor recents en app -lade</string>
+
+    
+    <string name="background_opacity_title">Achtergrond dekking</string>
+
+    
+    <string name="pref_sleep_gesture_title">Dubbele tik in slaap</string>
+    <string name="pref_sleep_gesture_summary">Tik op Lege Space voor scherm UIT</string>
+
+    
+    <string name="recents_chips_title">Gebruik compact actieontwerp</string>
+    <string name="recents_chips_summary">Kan nodig zijn om een ​​groot aantal acties weer te geven</string>
+    <string name="meminfo_text">%1$s beschikbaar | %2$s</string>
+    <string name="recents_meminfo_title">Geheugeninformatie</string>
+
+    
+    <string name="drawer_search_title">App -zoekbalk</string>
+    <string name="drawer_search_summary">Zoekbalk bovenop de app -lade</string>
+
+    
+    <string name="short_parallax_title">Sta een korte parallax toe</string>
+    <string name="short_parallax_summary">Schakel het volledige wallpaper scroll -effect in op kleinere aantallen pagina\'s in plaats van het wallpaper te bijsnijden</string>
+    <string name="single_page_center_title">Enkel pagina -centrum</string>
+    <string name="single_page_center_summary">Center Wallpaper als het maar gebruik wordt gemaakt van een enkele pagina</string>
+
+    
+    <string name="perf_dark_status_bar_title">Donkere statusbalk</string>
+    <string name="perf_dark_status_bar_summary">Gebruik een donkere statusbalk op het startscherm</string>
+
+    
+    <string name="pref_scroll_vibration_title">Scroll -trilling</string>
+    <string name="pref_scroll_vibration_summary">Haptische feedback tijdens het scrollen door recente apps, indien ondersteund</string>
+
+    
+    <string name="pref_force_monochrome_themed_icons_title">Force -thema -pictogrammen</string>
+    <string name="pref_force_monochrome_themed_icons_summary">Genereer thema-pictogram voor apps die er geen hebben (vereist opnieuw omkorrelen van themaconen)</string>
+
+    
+    <string name="icon_pack_title">Pictogrampakket</string>
+    <string name="icon_pack_default_label">Standaard</string>
+    <string name="icon_pack_add">Installeer meer</string>
+    <string name="icon_pack_no_market">Er is geen beschikbare App Store</string>
+
+    
+    <string name="pref_auto_keyboard_title">Autotoetsenbord</string>
+    <string name="pref_auto_keyboard_summary">Begin met zoeken wanneer de lade wordt uitgebreid</string>
+
+    
+    <string name="pref_allow_cts_title">Cirkel om te zoeken</string>
+    <string name="pref_allow_cts_summary">Raak de startknop of de navigatiehendel aan om te zoeken met behulp van de inhoud op uw scherm.</string>
+
+    
+    <string name="widget_category_battery">Batterij</string>
+
+    
+    <string name="widget_category_weather">Weer</string>
+
+    
+    <string name="dock_music_search_title">Muziek zoeken</string>
+    <string name="dock_music_search_summary">Start muziek zoeken op het drukken van MIC -pictogram</string>
+
+    
+    <string name="floating_window">Zwevend</string>
 </resources>

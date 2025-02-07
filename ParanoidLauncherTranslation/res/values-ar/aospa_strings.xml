@@ -1,35 +1,11 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!--
-/*
-* Copyright (C) 2022 Paranoid Android
-*
-* Licensed under the Apache License, Version 2.0 (the "License");
-* you may not use this file except in compliance with the License.
-* You may obtain a copy of the License at
-*
-*      http://www.apache.org/licenses/LICENSE-2.0
-*
-* Unless required by applicable law or agreed to in writing, software
-* distributed under the License is distributed on an "AS IS" BASIS,
-* WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-* See the License for the specific language governing permissions and
-* limitations under the License.
-*/
--->
+<?xml version='1.0' encoding='utf-8'?>
 <resources>
-    <string name="title_show_google_feed">اسحب للوصول إلى تغذية جوجل</string>
-    <string name="pref_dt_gesture_title">انقر نقراً مزدوجاً للنوم</string>
-    <string name="pref_dt_gesture_summary">اضغط مرّتين على مكانٍ فارغ لإطفاء الشاشة</string>
     <string name="suggestion_pref_screen_title">الاقتراحات</string>
     <string name="suggestion_pref_screen_desc">لجميع التطبيقات &amp; اقتراحات الشاشة الرئيسية</string>
     <string name="settings_lock_layout_title">تخطيط القفل</string>
     <string name="settings_lock_layout_summary_on">لا يمكن إضافة, حذف و نقل الأيقونات و الويدجتس على الشاشة الرئيسية</string>
     <string name="settings_lock_layout_summary_off">يمكن إضافة, حذف و نقل الأيقونات و الويدجتس على الشاشة الرئيسية</string>
     <string name="settings_edit_widgets_error">لا يمكن إضافة الويدجتس إلى الشاشة الرئيسية</string>
-    <string name="desktop_show_labels">إظهار أسماء الأيقونات على الشاشة الرئيسية</string>
-    <string name="drawer_show_labels">إظهار أسماء التطبيقات في درج التطبيقات</string>
-    <string name="category_google">جوجل</string>
-    <string name="category_icon">الأيقونات</string>
     <string name="label_search">بحث</string>
     <string name="label_lens">عدسة جوجل</string>
     <string name="label_voice_search">البحث الصوتي</string>
@@ -37,4 +13,159 @@
     <string name="recents_lens_title">العدسة</string>
     <string name="smartspace_pref_title">في لمحة</string>
     <string name="smartspace_pref_summary">إظهار المساحة الذكية في الجزء العلوي من الشاشة الرئيسية</string>
+    <string name="settings_title">إعدادات المنزل</string>
+
+    
+    <string name="home_category_title">الشاشة الرئيسية</string>
+    <string name="home_category_summary">قم بتعيين لوحة Google الآن والمزيد</string>
+    <string name="icons_category_title">أيقونات</string>
+    <string name="icons_category_summary">اضبط حجم الرمز والمزيد</string>
+    <string name="app_drawer_category_title">درج التطبيق</string>
+    <string name="app_drawer_category_summary">تخصيص درج التطبيق الخاص بك</string>
+    <string name="recents_category_title">مؤخرًا</string>
+    <string name="recents_category_summary">تجديد شاشة النظرة العامة</string>
+    <string name="misc_category_title">متنوع</string>
+    <string name="misc_category_summary">خيارات أخرى</string>
+    <string name="general_category_title">عام</string>
+    <string name="interface_category_title">واجهة</string>
+    <string name="search_bar_category_title">شريط البحث</string>
+    <string name="actions_category_title">إجراءات سريعة</string>
+    <string name="quickspace_category_title">في لمحة</string>
+
+    
+    <string name="dev_options_title">خيارات المطور</string>
+    <string name="dev_options_summary">تمكين بعض الميزات المخفية على مسؤوليتك الخاصة</string>
+
+    
+    <string name="title_desktop_labels">ملصقات سطح المكتب</string>
+    <string name="summary_desktop_labels">إظهار ملصقات الأيقونة على سطح المكتب</string>
+    <string name="title_drawer_labels">ملصقات الدرج</string>
+    <string name="summary_drawer_labels">إظهار ملصقات الرمز في الدرج</string>
+
+    
+    <string name="title_show_google_app">انتقد للوصول إلى تطبيق Google</string>
+    <string name="msg_minus_one_on_left">عندما تمرض مباشرة من الشاشة الرئيسية الرئيسية</string>
+    
+    <string name="msg_minus_one_on_right">عندما تمرض اليسار من الشاشة الرئيسية الرئيسية</string>
+
+    
+    <string name="pref_themed_icons_title">أيقونات تحت عنوان</string>
+    <string name="pref_themed_icons_summary">اتبع الرموز ذات الطابع المستخدم على الشاشة الرئيسية</string>
+
+    
+    <string name="trust_apps_manager_name">التطبيقات الخفية والمحمية</string>
+    <string name="trust_apps_auth_manager">فتح لإدارة التطبيقات المخفية والمحمية</string>
+    <string name="trust_apps_auth_open_app">المصادقة لفتح %1$s</string>
+    <string name="trust_apps_loading">تحميل \ u2026</string>
+    <string name="trust_apps_no_lock_error">يرجى إعداد شاشة قفل آمنة لتقييد الوصول إلى التطبيق</string>
+    <string name="trust_apps_help">يساعد</string>
+    <string name="trust_apps_info_hidden">يتم إخفاء التطبيقات المخفية وعناد الأدوات الخاصة بهم من الدرج</string>
+    <string name="trust_apps_info_protected">تتطلب التطبيقات المحمية فتح مصادقة من المشغل</string>
+    
+    
+    <string name="pref_restart_title">إعادة تشغيل</string>
+    <string name="pref_restart_summary">أعد تشغيل المشغل يدويًا لتطبيق أي إعدادات معلقة</string>
+    <string name="restarting_launcher">إعادة تشغيل قاذفة…</string>
+    <string name="restarting_launcher_changes">إعادة تشغيل المشغل لتطبيق التغييرات…</string>
+    <string name="updating_launcher_components">إعادة تشغيل المشغل لتحديث مكونات المشغل…</string>
+
+    
+    <string name="icon_size_title">حجم الأيقونة</string>
+
+    
+    <string name="font_size_title">حجم الخط</string>
+
+    
+    <string name="dock_search_summary">شريط البحث في قفص الاتهام السفلي</string>
+
+    
+    <string name="recent_task_option_kill_app">قوة قريبة</string>
+    <string name="recents_app_killed">التطبيق مغلق</string>
+
+    
+    <string name="hotseat_bg_title">خلفية hotseat</string>
+    <string name="hotseat_bg_summary">إضافة خلفية شفافة إلى قفص الاتهام للتطبيق</string>
+
+    
+    <string name="allow_wallpaper_scrolling">تمرير خلفية</string>
+    <string name="allow_wallpaper_scrolling_summary">خلفية تمرير تأثير شاشات متعددة</string>
+
+    
+    <string name="allow_wallpaper_zooming">خلفية التكبير</string>
+    <string name="allow_wallpaper_zooming_summary">تكبير أو الخروج من خلفية عند استخدام الدرج أو التطبيقات الحديثة</string>
+
+    
+    <string name="show_statusbar_title">عرض شريط الحالة</string>
+    <string name="show_statusbar_summary">عرض شريط الحالة على الشاشة الرئيسية</string>
+
+    
+    <string name="show_top_shadow_title">عرض أعلى الظل</string>
+    <string name="show_top_shadow_summary">أضف الظل أسفل شريط الحالة</string>
+    
+    
+    <string name="background_blur_title">عمق تطهير الخلفية</string>
+    <string name="background_blur_summary">تعيين مستوى عمق التمزق للمساءلة ودرج التطبيق</string>
+
+    
+    <string name="background_opacity_title">عتامة الخلفية</string>
+
+    
+    <string name="pref_sleep_gesture_title">اضغط مزدوجًا للنوم</string>
+    <string name="pref_sleep_gesture_summary">اضغط مزدوجًا على مساحة فارغة للشاشة</string>
+
+    
+    <string name="recents_chips_title">استخدم تصميم الإجراءات المدمجة</string>
+    <string name="recents_chips_summary">قد تكون هناك حاجة لعرض أعداد كبيرة من الإجراءات</string>
+    <string name="recents_screenshot_title">لقطة شاشة</string>
+    <string name="recents_clear_all_title">مسح كل شيء</string>
+    <string name="recents_meminfo_title">معلومات الذاكرة</string>
+
+    
+    <string name="drawer_search_title">شريط بحث التطبيق</string>
+    <string name="drawer_search_summary">شريط البحث فوق درج التطبيق</string>
+
+    
+    <string name="short_parallax_title">السماح بالماء القصير</string>
+    <string name="short_parallax_summary">تمكين تأثير تمرير خلفية كامل على أعداد أصغر من الصفحات بدلاً من اقتصاص خلفية</string>
+    <string name="single_page_center_title">مركز صفحة واحدة</string>
+    <string name="single_page_center_summary">خلفية مركزية إذا استخدمت صفحة واحدة فقط</string>
+
+    
+    <string name="perf_dark_status_bar_title">شريط الحالة المظلم</string>
+    <string name="perf_dark_status_bar_summary">استخدم شريط الحالة المظلم على الشاشة الرئيسية</string>
+
+    
+    <string name="pref_scroll_vibration_title">التمرير الاهتزاز</string>
+    <string name="pref_scroll_vibration_summary">ملاحظات Haptic أثناء التمرير عبر التطبيقات الحديثة ، إذا تم دعمها</string>
+
+    
+    <string name="pref_force_monochrome_themed_icons_title">قبر الرموز تحت عنوان</string>
+    <string name="pref_force_monochrome_themed_icons_summary">قم بإنشاء أيقونة ذات طابع تحت عنوان للتطبيقات التي لا تحتوي على واحدة (تتطلب إعادة توحيد الرموز ذات الموضوعات)</string>
+
+    
+    <string name="icon_pack_title">حزمة أيقونة</string>
+    <string name="icon_pack_default_label">تقصير</string>
+    <string name="icon_pack_add">تثبيت المزيد</string>
+    <string name="icon_pack_no_market">لا يوجد متجر تطبيقات متاح</string>
+
+    
+    <string name="pref_auto_keyboard_title">لوحة المفاتيح التلقائية</string>
+    <string name="pref_auto_keyboard_summary">ابدأ في البحث عند توسيع الدرج</string>
+
+    
+    <string name="pref_allow_cts_title">دائرة للبحث</string>
+    <string name="pref_allow_cts_summary">المس ومكملة زر الصفحة الرئيسية أو مقبض التنقل للبحث باستخدام المحتوى على شاشتك.</string>
+
+    
+    <string name="widget_category_battery">بطارية</string>
+
+    
+    <string name="widget_category_weather">طقس</string>
+
+    
+    <string name="dock_music_search_title">البحث عن الموسيقى</string>
+    <string name="dock_music_search_summary">ابدأ البحث عن الموسيقى على أيقونة MIC الضغط</string>
+
+    
+    <string name="floating_window">عائم</string>
 </resources>

@@ -1,35 +1,11 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!--
-/*
-* Copyright (C) 2022 Paranoid Android
-*
-* Licensed under the Apache License, Version 2.0 (the "License");
-* you may not use this file except in compliance with the License.
-* You may obtain a copy of the License at
-*
-*      http://www.apache.org/licenses/LICENSE-2.0
-*
-* Unless required by applicable law or agreed to in writing, software
-* distributed under the License is distributed on an "AS IS" BASIS,
-* WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-* See the License for the specific language governing permissions and
-* limitations under the License.
-*/
--->
+<?xml version='1.0' encoding='utf-8'?>
 <resources>
-    <string name="title_show_google_feed">गुगल फिड पहुँच गर्न स्वाइप गर्नुहोस्</string>
-    <string name="pref_dt_gesture_title">सुत्नको लागि डबल ट्याप गर्नुहोस्</string>
-    <string name="pref_dt_gesture_summary">स्क्रिन बन्द गर्न खाली ठाउँमा डबल ट्याप गर्नुहोस्</string>
     <string name="suggestion_pref_screen_title">सुझावहरू</string>
     <string name="suggestion_pref_screen_desc">सबै अनुप्रयोगहरूको लागि र; गृह स्क्रिन सुझावहरू</string>
     <string name="settings_lock_layout_title">लक लेआउट</string>
     <string name="settings_lock_layout_summary_on">आईकन र विजेटहरू होमस्क्रिनमा थप्न, हटाउन र सार्न सकिँदैन</string>
     <string name="settings_lock_layout_summary_off">आइकनहरू र विजेटहरू थप्न, हटाउन र होमस्क्रिनमा सार्न सकिन्छ</string>
     <string name="settings_edit_widgets_error">गृह स्क्रिनमा विजेटहरू थप्न सम्भव छैन</string>
-    <string name="desktop_show_labels">डेस्कटपमा आइकन लेबलहरू देखाउनुहोस्</string>
-    <string name="drawer_show_labels">दराजमा आइकन लेबलहरू देखाउनुहोस्</string>
-    <string name="category_google">गुगल</string>
-    <string name="category_icon">आइकनहरू</string>
     <string name="label_search">खोज्नुहोस्</string>
     <string name="label_lens">गुगल लेन्स</string>
     <string name="label_voice_search">आवाज खोज</string>
@@ -37,4 +13,160 @@
     <string name="recents_lens_title">लेन्स</string>
     <string name="smartspace_pref_title">एकै नजरमा</string>
     <string name="smartspace_pref_summary">गृह स्क्रिनको शीर्षमा स्मार्टस्पेस देखाउनुहोस्</string>
+<string name="settings_title">घर सेटिंग्स</string>
+
+    
+    <string name="home_category_title">घरको पर्दा</string>
+    <string name="home_category_summary">गुगल अब प्यानल र अधिक सेट गर्नुहोस्</string>
+    <string name="icons_category_title">चिभ्यसति</string>
+    <string name="icons_category_summary">आइकन आकार र अधिक सेट गर्नुहोस्</string>
+    <string name="app_drawer_category_title">अनुप्रयोग ड्रयर</string>
+    <string name="app_drawer_category_summary">तपाईंको अनुप्रयोग ड्रयर अनुकूलन गर्नुहोस्</string>
+    <string name="recents_category_title">भर्खरको</string>
+    <string name="recents_category_summary">ओभवर्ड स्क्रिन पुन: गणित</string>
+    <string name="misc_category_title">विविघ</string>
+    <string name="misc_category_summary">अन्य विकल्पहरू</string>
+    <string name="general_category_title">जर्नेल</string>
+    <string name="interface_category_title">इन्टरपोर्ट</string>
+    <string name="search_bar_category_title">बाजा</string>
+    <string name="actions_category_title">द्रुत कार्यहरू</string>
+    <string name="quickspace_category_title">एक झलकमा</string>
+
+    
+    <string name="dev_options_title">विकासकर्ता विकल्पहरू</string>
+    <string name="dev_options_summary">तपाईंको आफ्नै जोखिममा केहि लुकेका सुविधाहरू सक्षम गर्नुहोस्</string>
+
+    
+    <string name="title_desktop_labels">डेस्कटप लेबलहरू</string>
+    <string name="summary_desktop_labels">डेस्कटपमा पुरस्कृत लेबलहरू देखाउनुहोस्</string>
+    <string name="title_drawer_labels">ड्रवर लेबलहरू</string>
+    <string name="summary_drawer_labels">नाविकमा पुस्कन लेबलहरू देखाउनुहोस्</string>
+
+    
+    <string name="title_show_google_app">गुगल अनुप्रयोग पहुँच गर्न स्वाइप</string>
+    <string name="msg_minus_one_on_left">जब तपाईं मुख्य गृह स्क्रिनबाट स्वाइप गर्नुहुन्छ</string>
+    
+    <string name="msg_minus_one_on_right">जब तपाईं मुख्य घर स्क्रिनबाट बायाँ स्वाइप गर्नुहुन्छ</string>
+
+    
+    <string name="pref_themed_icons_title">असन्तुष्ट आइकन</string>
+    <string name="pref_themed_icons_summary">घर स्क्रिनमा प्रयोग गरिएको आइकनहरू प्रयोग गर्नुहोस्</string>
+
+    
+    <string name="trust_apps_manager_name">लुकेका र संरक्षित अनुप्रयोगहरू</string>
+    <string name="trust_apps_auth_manager">लुकेका र संरक्षित अनुप्रयोगहरू प्रबन्ध गर्न अनलक गर्नुहोस्</string>
+    <string name="trust_apps_auth_open_app">%1$s खोल्न प्रमाणीकरण गर्नुहोस्</string>
+    <string name="trust_apps_loading">लोड गर्दै \ U2026</string>
+    <string name="trust_apps_no_lock_error">कृपया अनुप्रयोग पहुँच प्रतिबन्ध गर्न एक सुरक्षित लक स्क्रिन सेट अप गर्नुहोस्</string>
+    <string name="trust_apps_help">सहायता</string>
+    <string name="trust_apps_info_hidden">लुकेका अनुप्रयोगहरू र तिनीहरूको विजेटहरू ड्रयरबाट लुकेका छन्</string>
+    <string name="trust_apps_info_protected">संरक्षित अनुप्रयोगहरूको आवश्यक पर्दछ। सुरुवातकर्ताबाट खोल्नको लागि प्रमाणीकरण आवश्यक छ</string>
+    
+    
+    <string name="pref_restart_title">फेरी सुरु</string>
+    <string name="pref_restart_summary">कुनै पनि पेन्डि mettings सेटिंग्स लागू गर्न लंध पुन: सुरू गर्नुहोस्</string>
+    <string name="restarting_launcher">सुरुकर्ता पुन: सुरू गर्दै…</string>
+    <string name="restarting_launcher_changes">परिवर्तनहरू लागू गर्न सुरूवात गर्न सुरू गर्दै…</string>
+    <string name="updating_launcher_components">सुरुवातकर्ता कम्पोनेन्टहरू अपडेट गर्न सुरूवात गर्दै…</string>
+
+    
+    <string name="icon_size_title">परिचय को आकार</string>
+
+    
+    <string name="font_size_title">फन्ट साइज</string>
+
+    
+    <string name="dock_search_summary">तल डकमा खोजी गर्नुहोस्</string>
+
+    
+    <string name="recent_task_option_kill_app">बल नजिक</string>
+    <string name="recents_app_killed">अनुप्रयोग बन्द भयो</string>
+
+    
+    <string name="hotseat_bg_title">हटेट पृष्ठभूमि</string>
+    <string name="hotseat_bg_summary">अनुप्रयोग डक को पारदर्शी पृष्ठभूमि थप्नुहोस्</string>
+
+    
+    <string name="allow_wallpaper_scrolling">वालपेपर स्क्रोल गर्दै</string>
+    <string name="allow_wallpaper_scrolling_summary">वालपेपरले बहु स्क्रिनको लागि प्रभावका लागि स्क्रोलिंगहरू</string>
+
+    
+    <string name="allow_wallpaper_zooming">वालपेपर जूम</string>
+    <string name="allow_wallpaper_zooming_summary">Zoom मा वा बाहिर वालपेपर बाहिर वा भर्खरको अनुप्रयोगहरू प्रयोग गर्दा</string>
+
+    
+    <string name="show_statusbar_title">स्थिति पट्टी देखाउनुहोस्</string>
+    <string name="show_statusbar_summary">गृह स्क्रिनमा स्थिति पट्टी देखाउनुहोस्</string>
+
+    
+    <string name="show_top_shadow_title">शीर्ष छाया देखाउनुहोस्</string>
+    <string name="show_top_shadow_summary">स्थिति पट्टी मुनि छाया थप्नुहोस्</string>
+    
+    
+    <string name="background_blur_title">पृष्ठभूमि लार गहिराई</string>
+    <string name="background_blur_summary">भर्खरको र अनुप्रयोग ड्रयरको लागि ब्लर गहिराइ स्तर सेट गर्नुहोस्</string>
+
+    
+    <string name="background_opacity_title">पृष्ठभूमि अस्पष्टता</string>
+
+    
+    <string name="pref_sleep_gesture_title">सुत्न डबल ट्याप</string>
+    <string name="pref_sleep_gesture_summary">स्क्रिन बन्दको लागि खाली ठाउँ मा डबल ट्याप</string>
+
+    
+    <string name="recents_chips_title">कम्प्याक्ट कार्य डिजाइन गर्नुहोस्</string>
+    <string name="recents_chips_summary">प्रदर्शन गर्नको लागि ठूलो संख्याको कार्यहरूको लागि आवश्यक हुन सक्छ</string>
+    <string name="recents_screenshot_title">स्क्रीनशट</string>
+    <string name="recents_clear_all_title">सबै खाली गर्नुहोस्</string>
+    <string name="meminfo_text">%1$s सुलभ | %2$s</string>
+    <string name="recents_meminfo_title">मेमोरी जानकारी</string>
+
+    
+    <string name="drawer_search_title">अनुप्रयोग खोज बार</string>
+    <string name="drawer_search_summary">अनुप्रयोग ड्रयरको शीर्षमा पट्टी खोजी गर्नुहोस्</string>
+
+    
+    <string name="short_parallax_title">छोटो प्यारालक्सलाई अनुमति दिनुहोस्</string>
+    <string name="short_parallax_summary">भित्तापेपरलाई क्रपरको सट्टामा फोटोपेपहरूमा पूर्ण उपकरणहरू स्क्रोल अपलनको प्रभाव सक्षम गर्नुहोस्</string>
+    <string name="single_page_center_title">एकल पृष्ठ केन्द्र</string>
+    <string name="single_page_center_summary">केन्द्र वालपेपर यदि केवल एकल पृष्ठ प्रयोग गर्दै</string>
+
+    
+    <string name="perf_dark_status_bar_title">गाढा स्थिति पट्टी</string>
+    <string name="perf_dark_status_bar_summary">घर स्क्रिनमा अँध्यारो स्थिति बार प्रयोग गर्नुहोस्</string>
+
+    
+    <string name="pref_scroll_vibration_title">कम्पन कम्पन</string>
+    <string name="pref_scroll_vibration_summary">हालसालैको अनुप्रयोगहरू मार्फत स्क्रोल गर्दा ह्याप्टिक प्रतिक्रिया</string>
+
+    
+    <string name="pref_force_monochrome_themed_icons_title">थपिएको आइकनहरू बल गर्नुहोस्</string>
+    <string name="pref_force_monochrome_themed_icons_summary">अनुप्रयोगहरूको लागि मारिएको आइकॉन उत्पन्न गर्नुहोस् जुनसँग छैन (मारिएको आइकनको पुन: अव्यवस्थित)</string>
+
+    
+    <string name="icon_pack_title">परिचय</string>
+    <string name="icon_pack_default_label">पुरा नगर्नु</string>
+    <string name="icon_pack_add">अरु स्थापना गर्नुहोस्</string>
+    <string name="icon_pack_no_market">त्यहाँ कुनै उपलब्ध अनुप्रयोग स्टोर छैन</string>
+
+    
+    <string name="pref_auto_keyboard_title">स्वत: किबोर्ड</string>
+    <string name="pref_auto_keyboard_summary">क्यारेन विस्तार हुँदा खोजी सुरू गर्नुहोस्</string>
+
+    
+    <string name="pref_allow_cts_title">खोजी गर्न सर्कल</string>
+    <string name="pref_allow_cts_summary">स्पर्श गर्नुहोस् र घर बटन वा नेभिगेशन ह्यान्डल तपाईंको स्क्रिनमा सामग्री प्रयोग गरेर खोजी गर्न।</string>
+
+    
+    <string name="widget_category_battery">ब्याट्री</string>
+
+    
+    <string name="widget_category_weather">मौसम</string>
+
+    
+    <string name="dock_music_search_title">Ongochops खोजी</string>
+    <string name="dock_music_search_summary">MISSTINGSING थिच्नुहोस् Mickip प्रेस गर्दै</string>
+
+    
+    <string name="floating_window">उछिन्नु</string>
 </resources>

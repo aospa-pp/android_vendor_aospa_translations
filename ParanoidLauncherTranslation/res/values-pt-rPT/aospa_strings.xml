@@ -1,38 +1,13 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!--
-/*
-* Copyright (C) 2022 Paranoid Android
-*
-* Licensed under the Apache License, Version 2.0 (the "License");
-* you may not use this file except in compliance with the License.
-* You may obtain a copy of the License at
-*
-*      http://www.apache.org/licenses/LICENSE-2.0
-*
-* Unless required by applicable law or agreed to in writing, software
-* distributed under the License is distributed on an "AS IS" BASIS,
-* WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-* See the License for the specific language governing permissions and
-* limitations under the License.
-*/
--->
+<?xml version='1.0' encoding='utf-8'?>
 <resources>
-    <string name="title_show_google_feed">Deslizar para aceder ao Google Feed</string>
     <string name="msg_minus_one_on_left">No ecrã inicial, deslize para a esquerda para abrir o Google Feed</string>
     <string name="msg_minus_one_on_right">No ecrã inicial, deslize para a direita para abrir o Google Feed</string>
-    <string name="pref_dt_gesture_title">Toque duplo para desligar o ecrã</string>
-    <string name="pref_dt_gesture_summary">Toque duas vezes num espaço vazio para desligar o ecrã</string>
     <string name="suggestion_pref_screen_title">Sugestões</string>
     <string name="suggestion_pref_screen_desc">Para todas as aplicações &amp; Sugestões no ecrã inicial</string>
     <string name="settings_lock_layout_title">Bloquear esquema</string>
     <string name="settings_lock_layout_summary_on">Ícones e widgets não podem ser adicionados, removidos e movidos no ecrã inicial</string>
     <string name="settings_lock_layout_summary_off">Ícones e widgets podem ser adicionados, removidos e movidos no ecrã inicial</string>
     <string name="settings_edit_widgets_error">Não é possível adicionar widgets ao ecrã inicial</string>
-    <string name="desktop_show_labels">Mostrar as legendas dos ícones no ecrã inicial</string>
-    <string name="drawer_show_labels">Mostrar as legendas dos ícones na gaveta de aplicações</string>
-    <string name="category_google">Google</string>
-    <string name="category_icon">Ícones</string>
-    <string name="category_recents">Aplicações recentes</string>
     <string name="label_search">Pesquisar</string>
     <string name="label_lens">Google Lens</string>
     <string name="label_voice_search">Pesquisa por voz</string>
@@ -43,4 +18,149 @@
     <string name="recents_lens_title">Lens</string>
     <string name="smartspace_pref_title">At a Glance</string>
     <string name="smartspace_pref_summary">Mostrar o smartspace no topo do ecrã inicial</string>
+    <string name="settings_title">Configurações domésticas</string>
+
+    
+    <string name="home_category_title">Tela inicial</string>
+    <string name="home_category_summary">Defina o Google Now Painel e muito mais</string>
+    <string name="icons_category_title">Ícones</string>
+    <string name="icons_category_summary">Defina o tamanho do ícone e mais</string>
+    <string name="app_drawer_category_title">Gaveta de aplicativos</string>
+    <string name="app_drawer_category_summary">Personalize sua gaveta de aplicativos</string>
+    <string name="recents_category_title">Recente</string>
+    <string name="recents_category_summary">Renove a tela de visão geral</string>
+    <string name="misc_category_summary">Outras opções</string>
+    <string name="general_category_title">Em geral</string>
+    <string name="interface_category_title">Interface</string>
+    <string name="search_bar_category_title">Barra de pesquisa</string>
+    <string name="actions_category_title">Ações rápidas</string>
+    <string name="quickspace_category_title">De relance</string>
+
+    
+    <string name="dev_options_title">Opções do desenvolvedor</string>
+    <string name="dev_options_summary">Ative alguns recursos ocultos por sua conta e risco</string>
+
+    
+    <string name="title_desktop_labels">Etiquetas de mesa</string>
+    <string name="summary_desktop_labels">Mostrar rótulos de ícones na área de trabalho</string>
+    <string name="title_drawer_labels">Rótulos da gaveta</string>
+    <string name="summary_drawer_labels">Mostrar rótulos de ícones na gaveta</string>
+
+    
+    <string name="title_show_google_app">Deslizar para acessar o app google</string>
+    <string name="pref_themed_icons_title">Ícones temáticos</string>
+    <string name="pref_themed_icons_summary">Siga os ícones temáticos usados ​​na tela inicial</string>
+
+    
+    <string name="trust_apps_manager_name">Aplicativos ocultos e protegidos</string>
+    <string name="trust_apps_auth_manager">Desbloquear para gerenciar os aplicativos ocultos e protegidos</string>
+    <string name="trust_apps_auth_open_app">Autenticar para abrir %1$s</string>
+    <string name="trust_apps_loading">Carregando \ U2026</string>
+    <string name="trust_apps_no_lock_error">Configure uma tela de bloqueio segura para restringir o acesso ao aplicativo</string>
+    <string name="trust_apps_help">Ajuda</string>
+    <string name="trust_apps_info_hidden">Aplicativos ocultos e seus widgets estão escondidos da gaveta</string>
+    <string name="trust_apps_info_protected">Os aplicativos protegidos exigem que a autenticação seja aberta do lançador</string>
+    
+    
+    <string name="pref_restart_title">Reiniciar</string>
+    <string name="pref_restart_summary">Reinicie o lançador manualmente para aplicar quaisquer configurações pendentes</string>
+    <string name="restarting_launcher">Reiniciando o lançador…</string>
+    <string name="restarting_launcher_changes">Reiniciando o lançador para aplicar alterações…</string>
+    <string name="updating_launcher_components">Reiniciando o lançador para atualizar os componentes do lançador…</string>
+
+    
+    <string name="icon_size_title">Tamanho do ícone</string>
+
+    
+    <string name="font_size_title">Tamanho da fonte</string>
+
+    
+    <string name="recent_task_option_kill_app">Força fechar</string>
+    <string name="recents_app_killed">Aplicativo fechado</string>
+
+    
+    <string name="hotseat_bg_title">Hotseat Background</string>
+    <string name="hotseat_bg_summary">Adicione fundo translúcido ao dock do aplicativo</string>
+
+    
+    <string name="allow_wallpaper_scrolling">Rolagem de papel de parede</string>
+    <string name="allow_wallpaper_scrolling_summary">Efeito de rolagem do papel de parede para várias telas</string>
+
+    
+    <string name="allow_wallpaper_zooming">Papel de parede zoom</string>
+    <string name="allow_wallpaper_zooming_summary">Zoom dentro ou fora do papel de parede ao usar a gaveta ou aplicativos recentes</string>
+
+    
+    <string name="show_statusbar_title">Mostrar barra de status</string>
+    <string name="show_statusbar_summary">Mostrar barra de status na tela inicial</string>
+
+    
+    <string name="show_top_shadow_title">Mostre a sombra superior</string>
+    <string name="show_top_shadow_summary">Adicione sombra abaixo da barra de status</string>
+    
+    
+    <string name="background_blur_title">Profundidade do borrão de fundo</string>
+    <string name="background_blur_summary">Defina o nível de profundidade do desfoque para concentros e gaveta de aplicativos</string>
+
+    
+    <string name="background_opacity_title">Opacidade de fundo</string>
+
+    
+    <string name="pref_sleep_gesture_title">Tap dupla para dormir</string>
+    <string name="pref_sleep_gesture_summary">Toque duas vezes no espaço vazio para a tela</string>
+
+    
+    <string name="recents_chips_title">Use design de ação compacta</string>
+    <string name="recents_chips_summary">Pode ser necessário para um grande número de ações exibir</string>
+    <string name="meminfo_text">%1$s disponível | %2$s</string>
+    <string name="recents_meminfo_title">Informações da memória</string>
+
+    
+    <string name="drawer_search_title">Barra de pesquisa de aplicativos</string>
+    <string name="drawer_search_summary">Barra de pesquisa em cima da gaveta de aplicativos</string>
+
+    
+    <string name="short_parallax_title">Permitir paralaxe curta</string>
+    <string name="short_parallax_summary">Habilite o efeito de rolagem de papel de parede completo em um número menor de páginas em vez de cortar o papel de parede</string>
+    <string name="single_page_center_title">Centro de página única</string>
+    <string name="single_page_center_summary">Papel de parede central se estiver usando apenas uma única página</string>
+
+    
+    <string name="perf_dark_status_bar_title">Barra de status escuro</string>
+    <string name="perf_dark_status_bar_summary">Use a barra de status escuro na tela inicial</string>
+
+    
+    <string name="pref_scroll_vibration_title">Vibração de rola</string>
+    <string name="pref_scroll_vibration_summary">Feedback háptico enquanto percorre os aplicativos recentes, se suportados</string>
+
+    
+    <string name="pref_force_monochrome_themed_icons_title">Forçar ícones temáticos</string>
+    <string name="pref_force_monochrome_themed_icons_summary">Gere um ícone temático para aplicativos que não possuem um (requer re-togglegling of temático ícones)</string>
+
+    
+    <string name="icon_pack_title">Icon Pack</string>
+    <string name="icon_pack_default_label">Padrão</string>
+    <string name="icon_pack_add">Instale mais</string>
+    <string name="icon_pack_no_market">Não há App Store disponível</string>
+
+    
+    <string name="pref_auto_keyboard_title">Teclado automático</string>
+    <string name="pref_auto_keyboard_summary">Comece a pesquisar quando a gaveta for expandida</string>
+
+    
+    <string name="pref_allow_cts_title">Círculo para pesquisar</string>
+    <string name="pref_allow_cts_summary">Toque e segure o botão doméstico ou o identificador de navegação para pesquisar usando o conteúdo na tela.</string>
+
+    
+    <string name="widget_category_battery">Bateria</string>
+
+    
+    <string name="widget_category_weather">Clima</string>
+
+    
+    <string name="dock_music_search_title">Pesquisa de música</string>
+    <string name="dock_music_search_summary">Inicie a pesquisa de música no ícone de microfone pressionado</string>
+
+    
+    <string name="floating_window">Flutuante</string>
 </resources>

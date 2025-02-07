@@ -1,38 +1,13 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!--
-/*
-* Copyright (C) 2022 Paranoid Android
-*
-* Licensed under the Apache License, Version 2.0 (the "License");
-* you may not use this file except in compliance with the License.
-* You may obtain a copy of the License at
-*
-*      http://www.apache.org/licenses/LICENSE-2.0
-*
-* Unless required by applicable law or agreed to in writing, software
-* distributed under the License is distributed on an "AS IS" BASIS,
-* WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-* See the License for the specific language governing permissions and
-* limitations under the License.
-*/
--->
+<?xml version='1.0' encoding='utf-8'?>
 <resources>
-    <string name="title_show_google_feed">Google uygulamasına erişmek için kaydırın</string>
     <string name="msg_minus_one_on_left">Google uygulamasını açmak için Ana ekrandan sola kaydırın</string>
     <string name="msg_minus_one_on_right">Google uygulamasını açmak için Ana ekrandan sağa kaydırın</string>
-    <string name="pref_dt_gesture_title">Uyutmak için çift dokunun</string>
-    <string name="pref_dt_gesture_summary">Ekranı kapatmak için boş bir yere çift dokunun</string>
     <string name="suggestion_pref_screen_title">Öneriler</string>
     <string name="suggestion_pref_screen_desc">Tüm uygulamalar &amp; Ana ekran önerileri için</string>
     <string name="settings_lock_layout_title">Düzeni kilitle</string>
     <string name="settings_lock_layout_summary_on">Simgeler ve widget\'lar ana ekrana eklenemez, kaldırılamaz ve taşınamaz</string>
     <string name="settings_lock_layout_summary_off">Simgeler ve widget\'lar ana ekrana eklenebilir, kaldırılabilir ve taşınabilir</string>
     <string name="settings_edit_widgets_error">Ana ekrana widget eklemek mümkün değildir</string>
-    <string name="desktop_show_labels">Ana ekranda simge etiketlerini göster</string>
-    <string name="drawer_show_labels">Uygulama menüsünde simge etiketlerini göster</string>
-    <string name="category_google">Google</string>
-    <string name="category_icon">Simgeler</string>
-    <string name="category_recents">Son kullanılanlar</string>
     <string name="label_search">Arama</string>
     <string name="label_lens">Google Lens</string>
     <string name="label_voice_search">Sesli arama</string>
@@ -43,4 +18,150 @@
     <string name="recents_lens_title">Lens</string>
     <string name="smartspace_pref_title">Bir bakışta</string>
     <string name="smartspace_pref_summary">Akıllı alanı ana ekranın üst kısmında göster</string>
+    <string name="settings_title">Ana Ayarlar</string>
+
+    
+    <string name="home_category_title">Ana ekran</string>
+    <string name="home_category_summary">Google NOW panelini ve daha fazlasını ayarlayın</string>
+    <string name="icons_category_title">İkonlar</string>
+    <string name="icons_category_summary">Simge boyutunu ve daha fazlasını ayarlayın</string>
+    <string name="app_drawer_category_title">Uygulama çekmecesi</string>
+    <string name="app_drawer_category_summary">Uygulama çekmecenizi özelleştirin</string>
+    <string name="recents_category_title">Son</string>
+    <string name="recents_category_summary">Genel Bakış ekranını yenileyin</string>
+    <string name="misc_category_title">Çeşitli</string>
+    <string name="misc_category_summary">Diğer Seçenekler</string>
+    <string name="general_category_title">Genel</string>
+    <string name="interface_category_title">Arayüz</string>
+    <string name="search_bar_category_title">Arama çubuğu</string>
+    <string name="actions_category_title">Hızlı eylemler</string>
+    <string name="quickspace_category_title">Bir bakışta</string>
+
+    
+    <string name="dev_options_title">Geliştirici seçenekleri</string>
+    <string name="dev_options_summary">Kendi sorumluluğunuzda bazı gizli özellikleri etkinleştirin</string>
+
+    
+    <string name="title_desktop_labels">Masaüstü etiketleri</string>
+    <string name="summary_desktop_labels">Masaüstünde simge etiketlerini göster</string>
+    <string name="title_drawer_labels">Çekmece Etiketleri</string>
+    <string name="summary_drawer_labels">Çekmecede simge etiketlerini gösterin</string>
+
+    
+    <string name="title_show_google_app">Google uygulamasına erişmek için kaydırın</string>
+    <string name="pref_themed_icons_title">Temalı simgeler</string>
+    <string name="pref_themed_icons_summary">Ana ekranda kullanılan temalı simgeleri takip edin</string>
+
+    
+    <string name="trust_apps_manager_name">Gizli ve korunan uygulamalar</string>
+    <string name="trust_apps_auth_manager">Gizli ve korunan uygulamaları yönetmek için kilidini aç</string>
+    <string name="trust_apps_auth_open_app">%1$s\'yi açmaya yönelik kimlik doğrulaması</string>
+    <string name="trust_apps_loading">Yükleme \ u2026</string>
+    <string name="trust_apps_no_lock_error">Uygulama erişimini kısıtlamak için lütfen güvenli bir kilit ekranı ayarlayın</string>
+    <string name="trust_apps_help">Yardım</string>
+    <string name="trust_apps_info_hidden">Gizli uygulamalar ve widget\'ları çekmeceden gizlenmiştir</string>
+    <string name="trust_apps_info_protected">Korumalı uygulamalar, başlatıcıdan kimlik doğrulamasının açılmasını gerektirir</string>
+    
+    
+    <string name="pref_restart_title">Tekrar başlat</string>
+    <string name="pref_restart_summary">Bekleyen ayarları uygulamak için başlatıcıyı manuel olarak yeniden başlatın</string>
+    <string name="restarting_launcher">Başlatıcı yeniden başlatın…</string>
+    <string name="restarting_launcher_changes">Değişiklikleri uygulamak için başlatıcıyı yeniden başlatma…</string>
+    <string name="updating_launcher_components">Başlatıcı bileşenlerini güncellemek için başlatıcıyı yeniden başlatın…</string>
+
+    
+    <string name="icon_size_title">Simge boyutu</string>
+
+    
+    <string name="font_size_title">Yazı tipi boyutu</string>
+
+    
+    <string name="recent_task_option_kill_app">Kapanmak</string>
+    <string name="recents_app_killed">Uygulama kapalı</string>
+
+    
+    <string name="hotseat_bg_title">Hotseat arka planı</string>
+    <string name="hotseat_bg_summary">Uygulama iskelesine yarı saydam arka plan ekleyin</string>
+
+    
+    <string name="allow_wallpaper_scrolling">Duvar kağıdı kaydırma</string>
+    <string name="allow_wallpaper_scrolling_summary">Birden çok ekran için duvar kağıdı kaydırma efekti</string>
+
+    
+    <string name="allow_wallpaper_zooming">Duvar kağıdı yakınlaştırma</string>
+    <string name="allow_wallpaper_zooming_summary">Çekmeceyi veya son uygulamaları kullanırken duvar kağıdına yakınlaştırma veya dışarı</string>
+
+    
+    <string name="show_statusbar_title">Durum çubuğunu göster</string>
+    <string name="show_statusbar_summary">Ana ekranda durum çubuğunu göster</string>
+
+    
+    <string name="show_top_shadow_title">Top Gölgeyi Göster</string>
+    <string name="show_top_shadow_summary">Durum çubuğunun altına gölge ekleyin</string>
+    
+    
+    <string name="background_blur_title">Arka plan bulanık derinliği</string>
+    <string name="background_blur_summary">Recents ve uygulama çekmecesi için bulanık derinlik seviyesini ayarlayın</string>
+
+    
+    <string name="background_opacity_title">Arka plan opaklığı</string>
+
+    
+    <string name="pref_sleep_gesture_title">Uyumak için çift dokunun</string>
+    <string name="pref_sleep_gesture_summary">Ekran kapalı için boş alana çift dokunun</string>
+
+    
+    <string name="recents_chips_title">Kompakt Eylem Tasarımını Kullanın</string>
+    <string name="recents_chips_summary">Çok sayıda eylemin sergilemesi için gerekebilir</string>
+    <string name="meminfo_text">%1$s mevcut | %2$s</string>
+    <string name="recents_meminfo_title">Hafıza Bilgisi</string>
+
+    
+    <string name="drawer_search_title">Uygulama Arama Çubuğu</string>
+    <string name="drawer_search_summary">Uygulama çekmecesinin üstünde arama çubuğu</string>
+
+    
+    <string name="short_parallax_title">Kısa Paralaklamaya İzin Ver</string>
+    <string name="short_parallax_summary">Duvar kağıdını kırpmak yerine daha az sayıda sayfada tam duvar kağıdı kaydırma efekti etkinleştirin</string>
+    <string name="single_page_center_title">Tek sayfalık merkezi</string>
+    <string name="single_page_center_summary">Sadece tek bir sayfa kullanıyorsanız merkez duvar kağıdı</string>
+
+    
+    <string name="perf_dark_status_bar_title">Karanlık Durum Çubuğu</string>
+    <string name="perf_dark_status_bar_summary">Ana ekranda Dark Durum çubuğunu kullanın</string>
+
+    
+    <string name="pref_scroll_vibration_title">Kaydırma Titreşimi</string>
+    <string name="pref_scroll_vibration_summary">Desteklenirse, son uygulamalarda gezinirken dokunsal geri bildirim</string>
+
+    
+    <string name="pref_force_monochrome_themed_icons_title">Zorla temalı simgeler</string>
+    <string name="pref_force_monochrome_themed_icons_summary">Bir tane olmayan uygulamalar için temalı bir simge oluşturun (temalı simgelerin yeniden takılmasını gerektirir)</string>
+
+    
+    <string name="icon_pack_title">Simge paketi</string>
+    <string name="icon_pack_default_label">Varsayılan</string>
+    <string name="icon_pack_add">Daha Fazla Yükle</string>
+    <string name="icon_pack_no_market">Mevcut bir App Store yok</string>
+
+    
+    <string name="pref_auto_keyboard_title">Otomatik Klavye</string>
+    <string name="pref_auto_keyboard_summary">Çekmece genişletildiğinde aramaya başlayın</string>
+
+    
+    <string name="pref_allow_cts_title">Arama Çemberi</string>
+    <string name="pref_allow_cts_summary">Ekranınızdaki içeriği kullanarak arama yapmak için Ana Sayfa düğmesine veya gezinme koluna dokunun ve basılı tutun.</string>
+
+    
+    <string name="widget_category_battery">Pil</string>
+
+    
+    <string name="widget_category_weather">Hava durumu</string>
+
+    
+    <string name="dock_music_search_title">Müzik arama</string>
+    <string name="dock_music_search_summary">Mikrofon simgesine bastığında müzik aramaya başlayın</string>
+
+    
+    <string name="floating_window">Yüzer</string>
 </resources>

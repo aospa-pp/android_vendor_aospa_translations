@@ -1,24 +1,178 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!--
-/*
-* Copyright (C) 2022 Paranoid Android
-*
-* Licensed under the Apache License, Version 2.0 (the "License");
-* you may not use this file except in compliance with the License.
-* You may obtain a copy of the License at
-*
-*      http://www.apache.org/licenses/LICENSE-2.0
-*
-* Unless required by applicable law or agreed to in writing, software
-* distributed under the License is distributed on an "AS IS" BASIS,
-* WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-* See the License for the specific language governing permissions and
-* limitations under the License.
-*/
--->
+<?xml version='1.0' encoding='utf-8'?>
 <resources>
-    <string name="pref_dt_gesture_title">Искључи екран при двоструком додиру</string>
-    <string name="pref_dt_gesture_summary">Двапут додирните празан простор за искључивање екрана</string>
     <string name="suggestion_pref_screen_title">Предлози</string>
     <string name="suggestion_pref_screen_desc">За све апликације &amp; Предлози за почетни екран</string>
+    <string name="settings_title">Почетна подешавања</string>
+
+    
+    <string name="home_category_title">Почетни екран</string>
+    <string name="home_category_summary">Подесите Гоогле Нов панел и више</string>
+    <string name="icons_category_title">Иконе</string>
+    <string name="icons_category_summary">Подесите величину иконе и још много тога</string>
+    <string name="app_drawer_category_title">Ладица</string>
+    <string name="app_drawer_category_summary">Прилагодите ладицу апликације</string>
+    <string name="recents_category_title">Недавни</string>
+    <string name="recents_category_summary">Обновите екран Преглед</string>
+    <string name="misc_category_title">Остало</string>
+    <string name="misc_category_summary">Остале опције</string>
+    <string name="general_category_title">Општи</string>
+    <string name="interface_category_title">Интерфејс</string>
+    <string name="search_bar_category_title">Бара за претрагу</string>
+    <string name="actions_category_title">Брзе акције</string>
+    <string name="quickspace_category_title">На први поглед</string>
+
+    
+    <string name="dev_options_title">Опције програмера</string>
+    <string name="dev_options_summary">Омогућите неке скривене карактеристике на свој ризик</string>
+
+    
+    <string name="settings_lock_layout_title">Изглед закључавања</string>
+    <string name="settings_lock_layout_summary_on">Иконе и виџети се не могу додавати, уклонити и премештати на хомосцреен</string>
+    <string name="settings_lock_layout_summary_off">Могу се додати иконе и виџети, уклоњени и премештени на почетном екрану</string>
+    <string name="settings_edit_widgets_error">Није могуће додати виџете на почетни екран</string>
+
+    
+    <string name="title_desktop_labels">Ознаке на радној површини</string>
+    <string name="summary_desktop_labels">Прикажи иконе налепнице на радној површини</string>
+    <string name="title_drawer_labels">Ознаке ладица</string>
+    <string name="summary_drawer_labels">Прикажи иконе налепнице у фиоци</string>
+
+    
+    <string name="title_show_google_app">Превуците прстом да приступите Гоогле апликацији</string>
+    <string name="msg_minus_one_on_left">Када прелазите право на главну почетни екран</string>
+    
+    <string name="msg_minus_one_on_right">Када прелазите прстом пре леве стране са главног почетног екрана</string>
+
+    
+    <string name="pref_themed_icons_title">Тематске иконе</string>
+    <string name="pref_themed_icons_summary">Пратите тематске иконе које се користе на почетном екрану</string>
+
+    
+    <string name="trust_apps_manager_name">Скривене и заштићене апликације</string>
+    <string name="trust_apps_auth_manager">Откључавање за управљање скривеним и заштићеним апликацијама</string>
+    <string name="trust_apps_auth_open_app">Аутентификација да отвори% 1 $ С</string>
+    <string name="trust_apps_loading">Учитавање \ у2026</string>
+    <string name="trust_apps_no_lock_error">Молимо поставите сигурносни екран за закључавање да бисте ограничили приступ апликацији</string>
+    <string name="trust_apps_help">Помоћи</string>
+    <string name="trust_apps_info_hidden">Скривене апликације и њихови видгети су скривени од ладице</string>
+    <string name="trust_apps_info_protected">Заштићене апликације захтевају да се аутентификација буде отворена из бацача</string>
+    
+    
+    <string name="pref_restart_title">Поново покренути</string>
+    <string name="pref_restart_summary">Поново покрените покретач ручно да бисте применили све поставке на чекању</string>
+    <string name="restarting_launcher">Поново покрените бацач…</string>
+    <string name="restarting_launcher_changes">Поново покрените бацач да примените промене…</string>
+    <string name="updating_launcher_components">Поново покрените бацач да бисте ажурирали компоненте бацача…</string>
+
+    
+    <string name="icon_size_title">Величина иконе</string>
+
+    
+    <string name="font_size_title">Величина фонта</string>
+
+    
+    <string name="label_search">Тражити</string>
+    <string name="label_lens">Гоогле сочиво</string>
+    <string name="label_voice_search">Гласовна претрага</string>
+    <string name="dock_search_title">Гоогле Тражилица за претрагу</string>
+    <string name="dock_search_summary">Трака за претрагу у доњој пристаништу</string>
+
+    
+    <string name="recent_task_option_kill_app">Присилити се</string>
+    <string name="recents_app_killed">Апликација је затворена</string>
+
+    
+    <string name="hotseat_bg_title">Позадина хотсеат</string>
+    <string name="hotseat_bg_summary">Додајте прозирну позадину у пристаниште апликације</string>
+
+    
+    <string name="allow_wallpaper_scrolling">Позадина Сцрилл</string>
+    <string name="allow_wallpaper_scrolling_summary">Подизање Поруке за више екрана</string>
+
+    
+    <string name="allow_wallpaper_zooming">Зомирање позадина</string>
+    <string name="allow_wallpaper_zooming_summary">Повећајте или извадите позадину када користите фиоку или недавне апликације</string>
+
+    
+    <string name="show_statusbar_title">Прикажи статусну траку</string>
+    <string name="show_statusbar_summary">Прикажи статусну траку на почетном екрану</string>
+
+    
+    <string name="show_top_shadow_title">Показати горњу сенку</string>
+    <string name="show_top_shadow_summary">Додајте сенку испод статусне траке</string>
+    
+    
+    <string name="background_blur_title">Позадина БЛУР дубина</string>
+    <string name="background_blur_summary">Подесите ниво дубине замућења за благајне и ладицу апликација</string>
+
+    
+    <string name="background_opacity_title">Опацити позадинских спорова</string>
+
+    
+    <string name="pref_sleep_gesture_title">Двострука додирните да спавате</string>
+    <string name="pref_sleep_gesture_summary">Двапут додирните празан простор за екран</string>
+
+    
+    <string name="recents_chips_title">Користите компактни дизајн акције</string>
+    <string name="recents_chips_summary">Може бити потребно за велики број акција за приказ</string>
+    <string name="recents_screenshot_title">Заслона</string>
+    <string name="recents_clear_all_title">Очистити све</string>
+    <string name="recents_lens_title">Сочива</string>
+
+    
+    <string name="meminfo_text">%1$s доступан | %2$s</string>
+    <string name="recents_meminfo_title">Информације о меморији</string>
+
+    
+    <string name="drawer_search_title">Трака за претраживање апликација</string>
+    <string name="drawer_search_summary">Тражи трака на врху ладице апликације</string>
+
+    
+    <string name="short_parallax_title">Дозволи кратак паралаксу</string>
+    <string name="short_parallax_summary">Омогућите пуне позадине Помичите ефекат на мањи број страница уместо да обрежите позадину</string>
+    <string name="single_page_center_title">Центар за једну страницу</string>
+    <string name="single_page_center_summary">Позадина центра само ако користите једну страницу</string>
+
+    
+    <string name="perf_dark_status_bar_title">Тамне статусне траке</string>
+    <string name="perf_dark_status_bar_summary">Користите бар бар статус на почетном екрану</string>
+
+    
+    <string name="pref_scroll_vibration_title">Помичите вибрације</string>
+    <string name="pref_scroll_vibration_summary">ХАПТИЦ повратне информације док се крећу кроз недавне апликације, ако је подржано</string>
+
+    
+    <string name="pref_force_monochrome_themed_icons_title">Присилно тематине иконе</string>
+    <string name="pref_force_monochrome_themed_icons_summary">Генеришете тематску икону за апликације које немају (захтева поновно прочитање тематских икона)</string>
+
+    
+    <string name="icon_pack_title">Ицон Пацк</string>
+    <string name="icon_pack_default_label">Подразумевано</string>
+    <string name="icon_pack_add">Инсталирајте више</string>
+    <string name="icon_pack_no_market">Нема доступне апликације</string>
+
+    
+    <string name="pref_auto_keyboard_title">Аутоматска тастатура</string>
+    <string name="pref_auto_keyboard_summary">Почните да претражујете када се ладица прошири</string>
+
+    
+    <string name="smartspace_pref_title">На први поглед</string>
+    <string name="smartspace_pref_summary">Прикажи СмартСпаце на врху почетног екрана</string>
+
+    
+    <string name="pref_allow_cts_title">Круг за претрагу</string>
+    <string name="pref_allow_cts_summary">Додирните и држите дугме Хоме или ручицу за навигацију да бисте претражили садржај на екрану.</string>
+
+    
+    <string name="widget_category_battery">Батерија</string>
+
+    
+    <string name="widget_category_weather">Време</string>
+
+    
+    <string name="dock_music_search_title">Музичка претрага</string>
+    <string name="dock_music_search_summary">Покрените музичку претрагу на пресовању микрофона</string>
+
+    
+    <string name="floating_window">Који плута</string>
 </resources>

@@ -1,38 +1,13 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!--
-/*
-* Copyright (C) 2022 Paranoid Android
-*
-* Licensed under the Apache License, Version 2.0 (the "License");
-* you may not use this file except in compliance with the License.
-* You may obtain a copy of the License at
-*
-*      http://www.apache.org/licenses/LICENSE-2.0
-*
-* Unless required by applicable law or agreed to in writing, software
-* distributed under the License is distributed on an "AS IS" BASIS,
-* WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-* See the License for the specific language governing permissions and
-* limitations under the License.
-*/
--->
+<?xml version='1.0' encoding='utf-8'?>
 <resources>
-    <string name="title_show_google_feed">스와이프하여 Google 피드 열기</string>
     <string name="msg_minus_one_on_left">홈 화면에서 왼쪽으로 스와이프하여 Google 피드 열기</string>
     <string name="msg_minus_one_on_right">홈 화면에서 오른쪽으로 스와이프하여 Google 피드 열기</string>
-    <string name="pref_dt_gesture_title">두 번 탭하여 화면 끄기</string>
-    <string name="pref_dt_gesture_summary">빈 공간을 두 번 탭하여 화면 끄기</string>
     <string name="suggestion_pref_screen_title">제안</string>
     <string name="suggestion_pref_screen_desc">앱 서랍 및 홈 화면 제안</string>
     <string name="settings_lock_layout_title">레이아웃 잠금</string>
     <string name="settings_lock_layout_summary_on">아이콘과 위젯을 홈 화면에 추가하거나 제거, 이동할 수 없습니다</string>
     <string name="settings_lock_layout_summary_off">아이콘 및 위젯을 홈 화면에 추가, 제거, 이동할 수 있습니다</string>
     <string name="settings_edit_widgets_error">홈 화면에 위젯을 추가할 수 없습니다</string>
-    <string name="desktop_show_labels">홈 화면 아이콘 이름 표시</string>
-    <string name="drawer_show_labels">앱 서랍 아이콘 이름 표시</string>
-    <string name="category_google">Google</string>
-    <string name="category_icon">아이콘</string>
-    <string name="category_recents">최근 앱</string>
     <string name="label_search">검색</string>
     <string name="label_lens">Google 렌즈</string>
     <string name="label_voice_search">음성 검색</string>
@@ -43,4 +18,150 @@
     <string name="recents_lens_title">렌즈</string>
     <string name="smartspace_pref_title">한 눈에 보기</string>
     <string name="smartspace_pref_summary">홈 화면 상단에 스마트스페이스 표시</string>
+    <string name="settings_title">가정 설정</string>
+
+    
+    <string name="home_category_title">홈 화면</string>
+    <string name="home_category_summary">Google Now 패널 등을 설정하십시오</string>
+    <string name="icons_category_title">아이콘</string>
+    <string name="icons_category_summary">아이콘 크기 등을 설정합니다</string>
+    <string name="app_drawer_category_title">앱 서랍</string>
+    <string name="app_drawer_category_summary">앱 서랍을 사용자 정의하십시오</string>
+    <string name="recents_category_title">최근의</string>
+    <string name="recents_category_summary">개요 화면을 개선하십시오</string>
+    <string name="misc_category_title">여러 가지 잡다한</string>
+    <string name="misc_category_summary">다른 옵션</string>
+    <string name="general_category_title">일반적인</string>
+    <string name="interface_category_title">인터페이스</string>
+    <string name="search_bar_category_title">검색 바</string>
+    <string name="actions_category_title">빠른 행동</string>
+    <string name="quickspace_category_title">한눈에</string>
+
+    
+    <string name="dev_options_title">개발자 옵션</string>
+    <string name="dev_options_summary">자신의 위험에 따라 숨겨진 기능을 활성화하십시오</string>
+
+    
+    <string name="title_desktop_labels">데스크탑 레이블</string>
+    <string name="summary_desktop_labels">데스크탑에 아이콘 레이블을 표시하십시오</string>
+    <string name="title_drawer_labels">서랍 레이블</string>
+    <string name="summary_drawer_labels">서랍에 아이콘 레이블을 표시하십시오</string>
+
+    
+    <string name="title_show_google_app">Google 앱에 액세스하려면 스 와이프합니다</string>
+    <string name="pref_themed_icons_title">테마 아이콘</string>
+    <string name="pref_themed_icons_summary">홈 화면에 사용되는 테마 아이콘을 따르십시오</string>
+
+    
+    <string name="trust_apps_manager_name">숨겨지고 보호 된 앱</string>
+    <string name="trust_apps_auth_manager">숨겨진 앱을 관리하려면 잠금 해제하십시오</string>
+    <string name="trust_apps_auth_open_app">%1$s를 열도록 인증하십시오</string>
+    <string name="trust_apps_loading">로드 \ u2026</string>
+    <string name="trust_apps_no_lock_error">앱 액세스를 제한하기 위해 보안 잠금 화면을 설정하십시오.</string>
+    <string name="trust_apps_help">돕다</string>
+    <string name="trust_apps_info_hidden">숨겨진 앱과 위젯은 서랍에서 숨겨져 있습니다.</string>
+    <string name="trust_apps_info_protected">보호 된 앱은 런처에서 인증을 열어야합니다.</string>
+    
+    
+    <string name="pref_restart_title">다시 시작하십시오</string>
+    <string name="pref_restart_summary">발사기를 수동으로 다시 시작하여 계류중인 설정을 적용하십시오</string>
+    <string name="restarting_launcher">발사기 다시 시작…</string>
+    <string name="restarting_launcher_changes">변경 사항을 적용하려면 런처를 다시 시작합니다…</string>
+    <string name="updating_launcher_components">런처 구성 요소를 업데이트하려면 런처를 다시 시작합니다…</string>
+
+    
+    <string name="icon_size_title">아이콘 크기</string>
+
+    
+    <string name="font_size_title">글꼴 크기</string>
+
+    
+    <string name="recent_task_option_kill_app">강제 닫기</string>
+    <string name="recents_app_killed">앱이 닫혔습니다</string>
+
+    
+    <string name="hotseat_bg_title">뜨거운 배경</string>
+    <string name="hotseat_bg_summary">App Dock에 반투명 배경을 추가하십시오</string>
+
+    
+    <string name="allow_wallpaper_scrolling">벽지 스크롤</string>
+    <string name="allow_wallpaper_scrolling_summary">여러 화면에 대한 벽지 스크롤 효과</string>
+
+    
+    <string name="allow_wallpaper_zooming">벽지 확대 / 축소</string>
+    <string name="allow_wallpaper_zooming_summary">서랍 또는 최근 앱을 사용할 때 벽지를 확대하거나 축소하십시오.</string>
+
+    
+    <string name="show_statusbar_title">상태 표시 줄 표시</string>
+    <string name="show_statusbar_summary">홈 화면에 상태 표시 줄을 표시하십시오</string>
+
+    
+    <string name="show_top_shadow_title">상단 그림자를 보여주세요</string>
+    <string name="show_top_shadow_summary">상태 표시 줄 아래에 그림자를 추가하십시오</string>
+    
+    
+    <string name="background_blur_title">배경 흐림 깊이</string>
+    <string name="background_blur_summary">리멘트 및 앱 서랍의 블러 깊이 레벨을 설정하십시오</string>
+
+    
+    <string name="background_opacity_title">배경 불투명도</string>
+
+    
+    <string name="pref_sleep_gesture_title">더블 탭에서 수면</string>
+    <string name="pref_sleep_gesture_summary">스크린 끄기를 위해 빈 공간을 두 번 탭합니다</string>
+
+    
+    <string name="recents_chips_title">소형 액션 디자인을 사용하십시오</string>
+    <string name="recents_chips_summary">많은 수의 조치 표시가 필요할 수 있습니다.</string>
+    <string name="meminfo_text">%1$s 사용 가능 | %2$s</string>
+    <string name="recents_meminfo_title">메모리 정보</string>
+
+    
+    <string name="drawer_search_title">앱 검색 바</string>
+    <string name="drawer_search_summary">앱 서랍 위에 검색 바</string>
+
+    
+    <string name="short_parallax_title">짧은 시차를 허용합니다</string>
+    <string name="short_parallax_summary">배경 화면을 자르지 않고 소수의 페이지에 전체 벽지 스크롤 효과 활성화</string>
+    <string name="single_page_center_title">단일 페이지 센터</string>
+    <string name="single_page_center_summary">단일 페이지 만 사용하는 경우 중앙 벽지</string>
+
+    
+    <string name="perf_dark_status_bar_title">다크 상태 바</string>
+    <string name="perf_dark_status_bar_summary">홈 화면에서 다크 상태 바를 사용하십시오</string>
+
+    
+    <string name="pref_scroll_vibration_title">스크롤 진동</string>
+    <string name="pref_scroll_vibration_summary">지원되는 경우 최근 앱을 스크롤하는 동안 햅틱 피드백</string>
+
+    
+    <string name="pref_force_monochrome_themed_icons_title">테마 아이콘을 강제하십시오</string>
+    <string name="pref_force_monochrome_themed_icons_summary">앱이없는 앱에 대한 테마 아이콘을 생성합니다 (테마 아이콘을 다시 만들어야 함)</string>
+
+    
+    <string name="icon_pack_title">아이콘 팩</string>
+    <string name="icon_pack_default_label">기본</string>
+    <string name="icon_pack_add">더 설치하십시오</string>
+    <string name="icon_pack_no_market">사용 가능한 앱 스토어가 없습니다</string>
+
+    
+    <string name="pref_auto_keyboard_title">자동 키보드</string>
+    <string name="pref_auto_keyboard_summary">서랍이 확장되면 검색을 시작하십시오</string>
+
+    
+    <string name="pref_allow_cts_title">검색 할 원입니다</string>
+    <string name="pref_allow_cts_summary">화면의 컨텐츠를 사용하여 홈 버튼 또는 내비게이션 핸들을 터치하고 누르십시오.</string>
+
+    
+    <string name="widget_category_battery">배터리</string>
+
+    
+    <string name="widget_category_weather">날씨</string>
+
+    
+    <string name="dock_music_search_title">음악 검색</string>
+    <string name="dock_music_search_summary">마이크 아이콘을 누르면 음악 검색을 시작하십시오</string>
+
+    
+    <string name="floating_window">떠 있는</string>
 </resources>
