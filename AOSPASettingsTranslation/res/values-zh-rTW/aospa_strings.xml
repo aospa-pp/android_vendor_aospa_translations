@@ -2,43 +2,43 @@
 <resources>
     <string name="three_finger_gesture">滑動以擷取螢幕畫面</string>
     <string name="three_finger_gesture_summary">用三根手指向下滑動即可擷取螢幕畫面</string>
-    <string name="background_processes_settings_title">背景過程</string>
+    <string name="background_processes_settings_title">背景程式</string>
 
     
-    <string name="smart_charging_title">明智的充電</string>
-    <string name="smart_charging_summary">設置最大充電水平</string>
-    <string name="smart_charging_switch_title">使用智能充電</string>
-    <string name="smart_charging_level_title">停止觸發級別</string>
+    <string name="smart_charging_title">智慧充電</string>
+    <string name="smart_charging_summary">設置最大充電量</string>
+    <string name="smart_charging_switch_title">使用智慧充電</string>
+    <string name="smart_charging_level_title">停止充電級別</string>
     <string name="smart_charging_resume_level_title">啟動觸發級別</string>
-    <string name="smart_charging_footer">明智的充電使您可以設置最大充電水平以延長電池的壽命</string>
+    <string name="smart_charging_footer">智慧充電讓您可以設定最大充電量以延長電池的壽命</string>
 
     
     <string name="copied_to_clipboard">複製到剪貼板</string>
     <string name="longpress_to_clipboard">長壓要復制</string>
 
     
-    <string name="tethering_allow_vpn_upstreams_title">允許客戶使用VPN</string>
-    <string name="tethering_allow_vpn_upstreams_summary">允許熱點客戶使用此設備的VPN連接進行上游連接</string>
+    <string name="tethering_allow_vpn_upstreams_title">允許使用者使用VPN</string>
+    <string name="tethering_allow_vpn_upstreams_summary">讓熱點使用者使用此裝置的VPN連接進行上網</string>
 
     <string name="category_name_battery_styles">電池樣式</string>
 
     
-    <string name="status_bar_battery_style_title">電池風格</string>
-    <string name="status_bar_battery_style_icon_portrait">圖標肖像</string>
+    <string name="status_bar_battery_style_title">電池圖示風格</string>
+    <string name="status_bar_battery_style_icon_portrait">電池圖示</string>
     <string name="status_bar_battery_style_circle">圓圈</string>
-    <string name="status_bar_battery_style_text">文字</string>
-    <string name="status_bar_battery_style_landscape">景觀</string>
-    <string name="status_bar_battery_style_landscape_reversed">景觀扭轉</string>
+    <string name="status_bar_battery_style_text">僅文字</string>
+    <string name="status_bar_battery_style_landscape">橫向</string>
+    <string name="status_bar_battery_style_landscape_reversed">橫向2</string>
 
     
     <string name="status_bar_battery_percentage_title">電池百分比</string>
-    <string name="status_bar_battery_percentage_default">隱</string>
-    <string name="status_bar_battery_percentage_text_inside">在圖標內</string>
-    <string name="status_bar_battery_percentage_text_next">圖標旁邊</string>
+    <string name="status_bar_battery_percentage_default">隱藏</string>
+    <string name="status_bar_battery_percentage_text_inside">在圖示內</string>
+    <string name="status_bar_battery_percentage_text_next">在圖示旁</string>
 
     
-    <string name="qti_boost_framework_title">QTI提升框架</string>
-    <string name="qti_boost_framework_summary">在UI任務上應用CPU/GPU提升以減少Jank。需要重新啟動</string>
+    <string name="qti_boost_framework_title">QTI Boost</string>
+    <string name="qti_boost_framework_summary">在UI應用CPU/GPU Boosting以減少卡頓。更改後需要重新啟動裝置</string>
 
     
     <string name="media_art_title">媒體封面藝術</string>
@@ -48,8 +48,8 @@
     <string name="radio_info_title">無線電輸入</string>
 
     
-    <string name="lockscreen_secure_title">安全電源菜單和快速設置</string>
-    <string name="lockscreen_secure_summary">保護電源菜單和通過身份驗證的安全鎖屏上的快速設置</string>
+    <string name="lockscreen_secure_title">保護裝置安全</string>
+    <string name="lockscreen_secure_summary">在未解鎖時不允許關機和調整部分設定</string>
 
     
     </resources>
