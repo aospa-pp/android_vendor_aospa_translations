@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources>
-<string name="aospa_version">偏執的Android版本</string>
+<string name="aospa_version">Panaroid Android版本</string>
 
     
-    <string name="adaptive_playback_screen_title">聰明的暫停</string>
-    <string name="adaptive_playback_enabled">使用智能暫停</string>
+    <string name="adaptive_playback_screen_title">智慧暫停</string>
+    <string name="adaptive_playback_enabled">使用智慧暫停</string>
     <string name="adaptive_playback_disabled_summary">離開</string>
-    <string name="adaptive_playback_intro_text">當音量靜音時會自動暫停介質，並在設定的時間內恢復體積時自動恢復。</string>
-    <string name="adaptive_playback_timeout_title">使用</string>
+    <string name="adaptive_playback_intro_text">當音量為0時會自動暫停媒體，並在超過設定的時間後恢復音量時自動播放。</string>
+    <string name="adaptive_playback_timeout_title">時間</string>
     <string name="adaptive_playback_timeout_none">沒有超時</string>
     <string name="adaptive_playback_timeout_none_summary">在（沒有超時）</string>
     <string name="adaptive_playback_timeout_30_secs">30秒</string>
@@ -22,30 +22,30 @@
     <string name="adaptive_playback_timeout_10_min_summary">在（10分鐘）</string>
 
     
-    <string name="doze_gesture_ambient_title">顯示環境</string>
-    <string name="doze_gesture_ambient_summary">顯示環境顯示，而不是完全喚醒屏幕</string>
-    <string name="gesture_wake_ambient">顯示環境</string>
+    <string name="doze_gesture_ambient_title">顯示Always On Display</string>
+    <string name="doze_gesture_ambient_summary">顯示Always On Display，而不是完全喚醒螢幕</string>
+    <string name="gesture_wake_ambient">僅Always On Display</string>
     <string name="gesture_wake">完全喚醒</string>
 
     
-    <string name="connected_device_codec_preference">QualComm®APTX™編解碼器首選項</string>
+    <string name="connected_device_codec_preference">QualComm®APTX™編解碼器偏好選項</string>
 
     
     <string name="battery_technology">技術</string>
-    <string name="battery_health">健康</string>
-    <string name="battery_health_good">好的</string>
+    <string name="battery_health">健康度</string>
+    <string name="battery_health_good">優良</string>
     <string name="battery_health_overheat">過熱</string>
-    <string name="battery_health_dead">死的</string>
-    <string name="battery_health_over_voltage">電壓超過</string>
+    <string name="battery_health_dead">已死亡</string>
+    <string name="battery_health_over_voltage">電壓超過正常值</string>
     <string name="battery_health_unspecified_failure">未指定的失敗</string>
-    <string name="battery_health_cold">寒冷的</string>
+    <string name="battery_health_cold">偏低</string>
     <string name="battery_health_unknown">未知</string>
     <string name="battery_temperature">溫度</string>
     <string name="battery_voltage">電壓</string>
-    <string name="battery_design_capacity">設計能力</string>
+    <string name="battery_design_capacity">設計容量</string>
     <string name="battery_maximum_capacity">最大容量</string>
     <string name="dc_dimming_title">DC調光</string>
-    <string name="dc_dimming_info">通過最大程度地減少屏幕閃爍，可以在低光條件下減少眼睛應變。可能導致圖像質量降低，顏色產生差或更高的功耗。</string>
+    <string name="dc_dimming_info">通過最大程度地減少螢幕閃爍，可以在低光條件下減少眼睛疲勞。可能導致顯示品質降低，顏色失真或導致更高的功耗。</string>
     <string name="dc_dimming_main_switch_title">使用DC調光</string>
     <string name="keywords_display_dc_dimming">直流昏暗，反，閃爍，眼睛，應變</string>
 
@@ -58,35 +58,35 @@
 
     
     <string name="proximity_wake_title">防止意外喚醒</string>
-    <string name="proximity_wake_summary">醒來之前檢查接近傳感器</string>
+    <string name="proximity_wake_summary">喚醒螢幕之前檢查感應器</string>
 
     
-    <string name="power_button_torch_title">快速火炬</string>
-    <string name="power_button_torch_summary">當屏幕關閉時，長壓力的電源按鈕將啟用火炬</string>
+    <string name="power_button_torch_title">快速手電筒</string>
+    <string name="power_button_torch_summary">當螢幕關閉時，常按電源鈕將啟用手電筒</string>
 
     
-    <string name="refresh_rate_title">刷新率</string>
+    <string name="refresh_rate_title">螢幕更新率</string>
     <string name="refresh_rate_summary_vrr_off">%d Hz</string>
-    <string name="refresh_rate_summary_vrr_on">%d Hz（自適應）</string>
-    <string name="refresh_rate_vrr_title">自適應刷新率</string>
-    <string name="refresh_rate_vrr_summary">顯示出空閒時會自動降低刷新率，以節省電源。可能會在某些顯示器上引起閃爍或顏色轉移</string>
-    <string name="refresh_rate_footer">更高的刷新率使顯示屏更光滑，但增加了功耗</string>
+    <string name="refresh_rate_summary_vrr_on">%d Hz（自動）</string>
+    <string name="refresh_rate_vrr_title">自動更新率</string>
+    <string name="refresh_rate_vrr_summary">空閒時會自動降低刷新率，以節省電量。可能會引起閃爍或顏色改變</string>
+    <string name="refresh_rate_footer">更高的更新率使螢幕更順暢，但會增加功耗</string>
     <string name="keywords_refresh_rate">刷新，速率，光滑，峰值，60Hz，90Hz，120Hz，144Hz，165Hz</string>
 
     
-    <string name="security_settings_screen_off_unlock_udfps_title">篩選指紋解鎖</string>
+    <string name="security_settings_screen_off_unlock_udfps_title">一律開啟指紋解鎖</string>
     <string name="security_settings_screen_off_unlock_udfps_keywords">篩選，解鎖</string>
-    <string name="security_settings_screen_off_unlock_udfps_description">即使屏幕關閉，也使用指紋解鎖</string>
+    <string name="security_settings_screen_off_unlock_udfps_description">即使螢幕關閉，也使用指紋解鎖</string>
 
     
-    <string name="screenshot_shutter_sound_title">屏幕快照</string>
+    <string name="screenshot_shutter_sound_title">截圖</string>
 
     
     <string name="icon_manager_title">狀態欄圖標</string>
-    <string name="icon_manager_summary">狀態欄圖標的控制可見性</string>
+    <string name="icon_manager_summary">開啟或關閉狀態欄圖標</string>
 
     
-    <string name="notification_vibration_pattern_title">通知振動模式</string>
-    <string name="ring_vibration_pattern_title">環振動模式</string>
-    <string name="pattern_default">設備默認</string>
+    <string name="notification_vibration_pattern_title">通知震動模式</string>
+    <string name="ring_vibration_pattern_title">響鈴時震動模式</string>
+    <string name="pattern_default">預設</string>
     </resources>
