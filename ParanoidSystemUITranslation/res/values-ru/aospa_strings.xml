@@ -1,50 +1,39 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources>
-    <string name="face_unlock_recognizing">Распознавая лицо…</string>
+    <string name="face_unlock_recognizing">Распознавание лица…</string>
 
-    
-    <string name="status_bar_icons_title">Значки строки статуса</string>
-    <string name="status_bar_hd_calling">HD Calling (Volte/Vonr)</string>
+    <string name="status_bar_icons_title">Иконки строки состояния</string>
+    <string name="status_bar_hd_calling">HD-звонки (VoLTE/VoNR)</string>
     <string name="status_bar_nfc">NFC</string>
     <string name="status_bar_roaming">Индикатор роуминга</string>
-    <string name="status_bar_vowifi">Wi-Fi Calling (Vowifi)</string>
-    <string name="status_bar_wifi_standard">Wi-Fi стандартный номер</string>
+    <string name="status_bar_vowifi">Звонки через Wi-Fi (VoWiFi)</string>
+    <string name="status_bar_wifi_standard">Номер стандарта Wi-Fi</string>
 
-    
     <string name="drag_or_tap_to_add_tiles">Удерживайте и перетаскивайте или нажмите, чтобы добавить плитки</string>
 
-    
-    <string name="drag_or_tap_to_remove_tiles">Удерживайте, перетащите или нажмите, чтобы удалить плитки</string>
+    <string name="drag_or_tap_to_remove_tiles">Удерживайте, перетаскивайте или нажмите, чтобы удалить плитки</string>
 
-    
     <string name="screenshot_delete_label">Удалить</string>
-    
     <string name="screenshot_delete_description">Удалить скриншот</string>
 
-    
     <string name="screenrecord_delete_label">Удалить</string>
-    
-    <string name="screenrecord_delete_description">Удаленная запись экрана</string>
+    <string name="screenrecord_delete_description">Удалить запись экрана</string>
 
-    
-    <string name="screenrecord_stopdot_label">Показать остановку точки</string>
-    <string name="screenrecord_stopdot_summary">Длинная нажавка, чтобы переместить его</string>
-    <string name="screenrecord_lowquality_label">Более низкое качество</string>
-    <string name="screenrecord_lowquality_summary">Для меньшего размера файла</string>
-    <string name="screenrecord_longer_timeout_switch_label">Большой предел размера файла</string>
+    <string name="screenrecord_stopdot_label">Показывать точку остановки</string>
+    <string name="screenrecord_stopdot_summary">Нажмите и удерживайте, чтобы переместить</string>
+    <string name="screenrecord_lowquality_label">Пониженное качество</string>
+    <string name="screenrecord_lowquality_summary">Для уменьшения размера файла</string>
+    <string name="screenrecord_longer_timeout_switch_label">Увеличенный лимит размера файла</string>
     <string name="screenrecord_longer_timeout_switch_summary">Ограничить размер записи до 15 ГБ</string>
-    <string name="screenrecord_skip_time_label">Управлять часами</string>
-    <string name="screenrecord_skip_time_summary">Удалить 3 -секундное ожидание</string>
-    <string name="screenrecord_hevc_switch_label">HEVC Кодирование</string>
-    <string name="screenrecord_hevc_switch_summary">Используйте более эффективный энкодер HEVC</string>
+    <string name="screenrecord_skip_time_label">Настройка таймера</string>
+    <string name="screenrecord_skip_time_summary">Пропустить 3-секундное ожидание</string>
+    <string name="screenrecord_hevc_switch_label">Кодирование HEVC</string>
+    <string name="screenrecord_hevc_switch_summary">Использовать более эффективный кодировщик HEVC</string>
 
-    
     <string name="network_traffic_title">Индикатор сетевого трафика</string>
 
-    <string name="global_action_restart_advanced">Передовой</string>
-    <string name="global_action_restart_recovery">Восстановление</string>
-    <string name="global_action_restart_bootloader">Загрузчик</string>
-    <string name="global_action_restart_ui">Система</string>
-
-    
-    </resources>
+    <string name="global_action_restart_advanced">Ещё...</string>
+    <string name="global_action_restart_recovery">Recovery</string>
+    <string name="global_action_restart_bootloader">Bootloader</string>
+    <string name="global_action_restart_ui">Перезапуск системы</string>
+</resources>

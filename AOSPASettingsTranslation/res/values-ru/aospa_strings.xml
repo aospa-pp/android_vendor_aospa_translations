@@ -1,55 +1,44 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources>
-    <string name="three_finger_gesture">Жест для сохранения снимка экрана</string>
-    <string name="three_finger_gesture_summary">Проведите вниз тремя пальцами, чтобы сделать снимок экрана</string>
+    <string name="three_finger_gesture">Снимок экрана тремя пальцами</string>
+    <string name="three_finger_gesture_summary">Сделать снимок экрана проведением вниз тремя пальцами</string>
     <string name="background_processes_settings_title">Фоновые процессы</string>
 
-    
     <string name="smart_charging_title">Умная зарядка</string>
-    <string name="smart_charging_summary">Установить максимальный уровень зарядки</string>
-    <string name="smart_charging_switch_title">Используйте умную зарядку</string>
-    <string name="smart_charging_level_title">Остановить уровень триггера</string>
-    <string name="smart_charging_resume_level_title">Начать уровень триггера</string>
-    <string name="smart_charging_footer">Умная зарядка позволяет установить максимальный уровень зарядки, чтобы продлить срок службы батареи</string>
+    <string name="smart_charging_summary">Ограничение максимального уровня заряда</string>
+    <string name="smart_charging_switch_title">Включить умную зарядку</string>
+    <string name="smart_charging_level_title">Максимальный уровень заряда</string>
+    <string name="smart_charging_resume_level_title">Уровень возобновления зарядки</string>
+    <string name="smart_charging_footer">Умная зарядка продлевает срок службы аккумулятора за счет ограничения максимального уровня заряда</string>
 
-    
     <string name="copied_to_clipboard">Скопировано в буфер обмена</string>
-    <string name="longpress_to_clipboard">Долгой пресс для копирования</string>
+    <string name="longpress_to_clipboard">Нажмите и удерживайте для копирования</string>
 
-    
-    <string name="tethering_allow_vpn_upstreams_title">Позвольте клиентам использовать VPN</string>
-    <string name="tethering_allow_vpn_upstreams_summary">Разрешить клиентам горячей точки использовать VPN -соединения этого устройства для подключения к восходящим потокам</string>
+    <string name="tethering_allow_vpn_upstreams_title">Разрешить клиентам использовать VPN</string>
+    <string name="tethering_allow_vpn_upstreams_summary">Позволяет устройствам в точке доступа использовать VPN-подключение этого устройства</string>
 
-    <string name="category_name_battery_styles">Батарея стили</string>
+    <string name="category_name_battery_styles">Стили отображения батареи</string>
 
-    
-    <string name="status_bar_battery_style_title">Стиль батареи</string>
-    <string name="status_bar_battery_style_icon_portrait">Икона портрет</string>
-    <string name="status_bar_battery_style_circle">Круг</string>
-    <string name="status_bar_battery_style_text">Текст</string>
-    <string name="status_bar_battery_style_landscape">Пейзаж</string>
-    <string name="status_bar_battery_style_landscape_reversed">Ландшафт поменялся</string>
+    <string name="status_bar_battery_style_title">Стиль индикатора батареи</string>
+    <string name="status_bar_battery_style_icon_portrait">Иконка (вертикальная)</string>
+    <string name="status_bar_battery_style_circle">Круговой</string>
+    <string name="status_bar_battery_style_text">Текстовый</string>
+    <string name="status_bar_battery_style_landscape">Горизонтальный</string>
+    <string name="status_bar_battery_style_landscape_reversed">Горизонтальный (перевёрнутый)</string>
 
-    
-    <string name="status_bar_battery_percentage_title">Процент аккумулятора</string>
-    <string name="status_bar_battery_percentage_default">Скрытый</string>
-    <string name="status_bar_battery_percentage_text_inside">Внутри значка</string>
-    <string name="status_bar_battery_percentage_text_next">Рядом со значком</string>
+    <string name="status_bar_battery_percentage_title">Отображение процента заряда</string>
+    <string name="status_bar_battery_percentage_default">Скрыто</string>
+    <string name="status_bar_battery_percentage_text_inside">Внутри иконки</string>
+    <string name="status_bar_battery_percentage_text_next">Рядом с иконкой</string>
 
-    
     <string name="qti_boost_framework_title">QTI Boost Framework</string>
-    <string name="qti_boost_framework_summary">Примените процессору/GPU повышение на задачи пользовательского интерфейса, чтобы уменьшить Jank.Перезагрузка необходима</string>
+    <string name="qti_boost_framework_summary">Оптимизация процессора/GPU для улучшения плавности интерфейса. Требуется перезагрузка</string>
 
-    
-    <string name="media_art_title">СМИ обложка</string>
-    <string name="media_art_summary">Показать обложку для медиа -обложки, когда доступно</string>
+    <string name="media_art_title">Обложка медиа</string>
+    <string name="media_art_summary">Показывать обложку при воспроизведении медиа</string>
 
-    
-    <string name="radio_info_title">Радио-инфу</string>
+    <string name="radio_info_title">Информация о радиомодуле</string>
 
-    
-    <string name="lockscreen_secure_title">Защитите меню Power и быстрые настройки</string>
-    <string name="lockscreen_secure_summary">Аутентификация для меню питания и быстрые настройки на экране блокировки</string>
-
-    
-    </resources>
+    <string name="lockscreen_secure_title">Защита меню питания и панели быстрых настроек</string>
+    <string name="lockscreen_secure_summary">Требовать аутентификацию для доступа к меню питания и быстрым настройкам на экране блокировки</string>
+</resources>

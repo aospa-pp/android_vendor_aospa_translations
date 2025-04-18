@@ -1,17 +1,15 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources>
-    <string name="reboot_to_recovery_title">Восстановление</string>
-    <string name="reboot_to_recovery_message">Перезагрузка в выздоровление</string>
-    <string name="reboot_to_bootloader_title">Загрузчик</string>
-    <string name="reboot_to_bootloader_message">Перезагрузка в загрузчик</string>
+    <string name="reboot_to_recovery_title">Recovery</string>
+    <string name="reboot_to_recovery_message">Перезагрузка в режим Recovery</string>
+    <string name="reboot_to_bootloader_title">Bootloader</string>
+    <string name="reboot_to_bootloader_message">Перезагрузка в режим Bootloader</string>
     <string name="reboot_title">Перезагрузить</string>
     <string name="reboot_message">Перезагрузка системы</string>
 
-    
-    <string name="pocket_mode_title">Карманный режим активен</string>
-    <string name="pocket_mode_illustration_description">Иллюстрация телефона в кармане</string>
-    <string name="pocket_mode_instructions_header">Чтобы использовать свой телефон:</string>
-    <string name="pocket_mode_instruction_step1">1. Убедитесь, что зеленая область (датчик близости), показанная выше, является беспрепятственной и свободной от грязи или пыли.</string>
-    <string name="pocket_mode_instruction_step2">2. Нажмите и удерживайте кнопку питания, чтобы выйти из карманного режима.</string>
-
+    <string name="pocket_mode_title">Активен карманный режим</string>
+    <string name="pocket_mode_illustration_description">Телефон в кармане</string>
+    <string name="pocket_mode_instructions_header">Как использовать телефон:</string>
+    <string name="pocket_mode_instruction_step1">1. Убедитесь, что зелёная область (датчик приближения) не закрыта и чиста от пыли и грязи.</string>
+    <string name="pocket_mode_instruction_step2">2. Для выхода из карманного режима нажмите и удерживайте кнопку питания.</string>
 </resources>
